@@ -83,6 +83,22 @@
       "acervo_geral": "desconhecido-no-acervo-geral",
       "lotes_setoriais": "consultar-contrato-do-lote"
     },
+    "fonte_orgao": {
+      "acervo_geral": "desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "serie_historica": {
+      "acervo_geral": "desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "senado_id": {
+      "acervo_geral": "desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "urn": {
+      "acervo_geral": "desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
     "poder": {
       "acervo_geral": "desconhecido-no-acervo-geral",
       "lotes_setoriais": "consultar-contrato-do-lote"

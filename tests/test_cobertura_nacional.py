@@ -27,6 +27,9 @@ class CoberturaNacionalTest(unittest.TestCase):
         self.assertIn('norma_id', text)
         self.assertIn('cobertura_transcricao', text)
         self.assertIn('BM25', text)
+        self.assertIn('fonte_orgao', text)
+        self.assertIn('órgão emissor', text.lower())
+        self.assertIn('nunca é fallback', text)
 
     def test_complemento_nao_fundir(self):
         self.assertEqual(cn.catalogue_number('1599', None), '1599')
@@ -122,6 +125,101 @@ class CoberturaNacionalTest(unittest.TestCase):
         self.assertIn('norma_id', meta)
         self.assertGreater(len(doc['markdown_integral']), 1000)
 
+    def test_export_separates_issuer_from_capture_source_and_keeps_relations(self):
+        import tempfile
+        from unittest.mock import patch
+
+        with tempfile.TemporaryDirectory(prefix='acervo-export-fields-') as tmpdir:
+            root = Path(tmpdir)
+            rel = 'federal/br-federal-rcn-fixture.md'
+            path = root / rel
+            path.parent.mkdir(parents=True)
+            body = '# Texto legal literal\n\nArt. 1º — íntegra preservada.\n'
+            path.write_text(
+                '---\n'
+                'norma_id: "rcn-fixture"\n'
+                'edicao_id: "rcn-fixture@original"\n'
+                'norma_tipo: "resolucao-congresso-nacional"\n'
+                'orgao_emissor: "Congresso Nacional"\n'
+                'fonte_orgao: "Senado Federal — publicação pagina"\n'
+                'serie_historica: "rcn-fixture-series"\n'
+                'senado_id: "12345"\n'
+                'urn: "urn:lex:br:congresso.nacional:resolucao:2020-01-02;1"\n'
+                'relacoes: [{"tipo":"citacao","origem":"rcn-fixture",'
+                '"destino":"target-id","dispositivo":"art. 1º",'
+                '"escopo_cobertura":"parcial"}]\n'
+                '---\n'
+                + body,
+                encoding='utf-8',
+            )
+            with patch.object(cn, 'ROOT', root):
+                doc = cn.export_document(rel)
+                meta, parsed_body = cn.parse_frontmatter(path.read_text(encoding='utf-8'))
+                self.assertEqual(doc['orgao_emissor'], 'Congresso Nacional')
+                self.assertEqual(doc['fonte_orgao'], 'Senado Federal — publicação pagina')
+                self.assertEqual(doc['fonte_do_campo']['orgao_emissor'], 'frontmatter')
+                self.assertEqual(doc['fonte_do_campo']['fonte_orgao'], 'frontmatter')
+                self.assertEqual(doc['serie_historica'], meta['serie_historica'])
+                self.assertEqual(doc['senado_id'], meta['senado_id'])
+                self.assertEqual(doc['urn'], meta['urn'])
+                self.assertEqual(doc['relacoes'], meta['relacoes'])
+                self.assertEqual(doc['fonte_do_campo']['relacoes'], 'frontmatter')
+                self.assertEqual(doc['markdown_integral'], parsed_body)
+                self.assertEqual(doc['sha256_markdown'], cn.sha256_bytes(body.encode('utf-8')))
+
+            # Captura identificada sozinha nunca pode virar órgão que expediu o ato.
+            source_only = root / 'federal/source-only.md'
+            source_only.write_text(
+                '---\nfonte_orgao: "Senado Federal — página de publicação"\n---\nTexto.\n',
+                encoding='utf-8',
+            )
+            with patch.object(cn, 'ROOT', root):
+                unknown = cn.export_document('federal/source-only.md')
+            self.assertEqual(unknown['orgao_emissor'], 'desconhecido')
+            self.assertEqual(unknown['fonte_do_campo']['orgao_emissor'], 'desconhecido-explicito')
+            self.assertEqual(unknown['fonte_orgao'], 'Senado Federal — página de publicação')
+
+    def test_emissor_e_especie_separam_rsf_de_rcn(self):
+        rcn_rel = 'federal/br-federal-resolucao-congresso-nacional-1983-10-20-1.md'
+        rsf_rel = 'federal/br-federal-resolucao-senado-federal-2019-11-01-29.md'
+        rcd_rel = 'federal/br-federal-resolucao-camara-deputados-1981-11-04-36.md'
+        rcn = cn.export_document(rcn_rel)
+        rsf = cn.export_document(rsf_rel)
+        rcd = cn.export_document(rcd_rel)
+        self.assertEqual(rcn['orgao_emissor'], 'Congresso Nacional')
+        self.assertEqual(rcn['fonte_orgao'], 'Senado Federal — publicação pagina')
+        self.assertEqual(rcn['especie'], 'resolucao-congresso-nacional')
+        self.assertEqual(rsf['orgao_emissor'], 'Senado Federal')
+        self.assertEqual(rsf['especie'], 'resolucao-senado-federal')
+        self.assertEqual(rcd['orgao_emissor'], 'Câmara dos Deputados')
+        self.assertEqual(rcd['fonte_orgao'], 'Senado Federal — publicação pagina')
+        self.assertEqual(rcd['especie'], 'resolucao-camara-deputados')
+        self.assertEqual(
+            cn.apply_bm25_filters([rcn, rsf], {
+                'orgao_emissor': 'Congresso Nacional',
+                'especie': 'resolucao-congresso-nacional',
+            }),
+            [rcn],
+        )
+        self.assertEqual(
+            cn.apply_bm25_filters([rcn, rsf], {
+                'orgao_emissor': 'Senado Federal',
+                'especie': 'resolucao-senado-federal',
+            }),
+            [rsf],
+        )
+        self.assertEqual(
+            cn.apply_bm25_filters([rcn, rsf, rcd], {
+                'orgao_emissor': 'Câmara dos Deputados',
+                'especie': 'resolucao-camara-deputados',
+            }),
+            [rcd],
+        )
+        for rel, doc in ((rcn_rel, rcn), (rsf_rel, rsf), (rcd_rel, rcd)):
+            _, body = cn.parse_frontmatter((ROOT / rel).read_text(encoding='utf-8'))
+            self.assertEqual(doc['markdown_integral'], body)
+            self.assertEqual(doc['sha256_markdown'], cn.sha256_bytes(body.encode('utf-8')))
+
     def test_acervo_comment_excludes_editorial_stub_from_integral_search(self):
         rel = 'estaduais/MG/br-mg-decreto-1945-06-26-2160.md'
         path = ROOT / rel
@@ -140,6 +238,16 @@ class CoberturaNacionalTest(unittest.TestCase):
         self.assertEqual(doc['bytes_arquivo_origem'], len(raw))
         self.assertEqual(doc['markdown_integral_bytes'], 0)
         self.assertEqual(cn.apply_bm25_filters([doc], {}), [])
+
+        # Os 17 registros pendentes do inventário MG seguem fora da busca integral.
+        mg_inventory = cn.load_json(
+            PROVAS.parent / 'identidade-federal-99-102-103/mg-orfaos-inventario.json'
+        )
+        self.assertEqual(len(mg_inventory['pendentes']), 17)
+        for item in mg_inventory['pendentes']:
+            pending_doc = cn.export_document(item['arquivo'])
+            self.assertTrue(pending_doc['corpo_legal_integral_pendente'])
+            self.assertEqual(cn.apply_bm25_filters([pending_doc], {}), [])
 
         # Legítimos corpos recuperados com marcadores de fac-símile continuam exportáveis.
         for recovered in (
@@ -161,6 +269,9 @@ class CoberturaNacionalTest(unittest.TestCase):
         self.assertEqual(mapping['properties']['markdown_integral']['type'], 'text')
         self.assertEqual(mapping['properties']['norma_id']['type'], 'keyword')
         self.assertEqual(mapping['properties']['cobertura_transcricao']['type'], 'keyword')
+        for field in ('orgao_emissor', 'fonte_orgao', 'serie_historica', 'senado_id', 'urn'):
+            self.assertEqual(mapping['properties'][field]['type'], 'keyword')
+        self.assertEqual(mapping['properties']['relacoes']['type'], 'nested')
 
     def test_same_number_different_entes(self):
         a = cn.path_identity_candidate('municipais/3550308/br-municipal-3550308-decreto-2022-12-27-62100.md')
@@ -274,6 +385,8 @@ class CoberturaNacionalTest(unittest.TestCase):
         self.assertIn('municipal-ibge-decreto', ids)
         self.assertIn('facsimile-nao-texto-integral', ids)
         self.assertIn('ato-sem-numero-seq-sf', ids)
+        self.assertIn('resolucao-congresso-emissor-separado-da-fonte', ids)
+        self.assertIn('resolucao-senado-permanece-especie-distinta', ids)
         for case in result['casos']:
             self.assertTrue(case['ok'], case)
 
