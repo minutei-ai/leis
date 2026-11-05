@@ -125,6 +125,39 @@ class TestColetaRetomavel(unittest.TestCase):
             self.assertEqual(json.loads(lote.cobertura_path().read_text())['itens'][old_id], old_proof)
         self.assertIn('Art. 1º Texto da resolução.', (fed / (new_id + '.md')).read_text())
 
+    def test_detail_fallback_binds_identity_and_preserves_all_raw_records(self):
+        identity = {'tipo': 'RSF', 'numero': '1', 'dataassinatura': '01/01/2025'}
+        raw = json.dumps({'DetalheDocumento': {'documentos': {'documento': [
+            {'id': '999', 'identificacao': identity},
+            {'id': '123', 'identificacao': identity},
+        ]}}}).encode()
+        access = {}
+        with patch.object(lote, 'http_get', side_effect=[
+                (503, b'unavailable', 'https://example.test/id'),
+                (200, raw, 'https://example.test/type-number-year')]) as request:
+            detail = lote.detail_json('123', tipo='RSF', registro=identity, acesso=access)
+        selected = detail['DetalheDocumento']['documentos']['documento']
+        self.assertEqual([row['id'] for row in selected], ['123'])
+        self.assertTrue(request.call_args_list[1].args[0].endswith('/RSF/1/2025.json'))
+        snapshot = self.root / access['detalhe_snapshot']
+        self.assertEqual(lzma.decompress(snapshot.read_bytes()), raw)
+        self.assertEqual(access['detalhe_consulta']['sha256_resposta'], hashlib.sha256(raw).hexdigest())
+        self.assertEqual(access['detalhe_consulta']['ids_retornados'], ['999', '123'])
+        self.assertEqual([r['http_status'] for r in access['detalhe_tentativas']], [503, 200])
+
+    def test_detail_cannot_use_equal_number_from_another_id_or_identity(self):
+        identity = {'tipo': 'RSF', 'numero': '1', 'dataassinatura': '01/01/2025'}
+        for change in [{'id': '999'}, {'tipo': 'RCN'}, {'numero': '2'},
+                       {'dataassinatura': '02/01/2025'}, {'complemento': 'A'}]:
+            with self.subTest(change=change):
+                actual = {**identity, **{k: v for k, v in change.items() if k != 'id'}}
+                raw = json.dumps({'DetalheDocumento': {'documentos': {'documento': [
+                    {'id': change.get('id', '123'), 'identificacao': actual},
+                ]}}}).encode()
+                with patch.object(lote, 'http_get', return_value=(200, raw, 'https://example.test/')):
+                    with self.assertRaises(RuntimeError):
+                        lote.detail_json('123', tipo='RSF', registro=identity, acesso={})
+
 
 class TestEspeciesLegislativasFederais(unittest.TestCase):
     @classmethod

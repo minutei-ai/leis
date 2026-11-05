@@ -447,12 +447,63 @@ def reconcile() -> dict:
     return summary
 
 
-def detail_json(senado_id: str) -> dict:
-    url = f'https://legis.senado.leg.br/dadosabertos/legislacao/{senado_id}.json'
-    status, raw, _ = http_get(url)
-    if status != 200:
-        raise RuntimeError(f'detalhe {senado_id}: HTTP {status}')
-    return json.loads(raw)
+def detail_json(senado_id: str, *, tipo: str | None = None,
+                registro: dict | None = None, acesso: dict | None = None) -> dict:
+    """Use both documented routes, binding every response to the requested ID."""
+    base = 'https://legis.senado.leg.br/dadosabertos/legislacao'
+    urls = [f'{base}/{senado_id}.json']
+    if tipo and registro and registro.get('numero') and registro.get('dataassinatura'):
+        number = urllib.parse.quote(str(registro['numero']), safe='')
+        year = date_iso(registro['dataassinatura'])[:4]
+        urls.append(f'{base}/{tipo}/{number}/{year}.json')
+    attempts = []
+    if acesso is not None:
+        acesso['detalhe_tentativas'] = attempts
+    for url in urls:
+        attempt = {'url': url}
+        attempts.append(attempt)
+        try:
+            status, raw, final = http_get(url)
+            attempt.update(http_status=status, url_final=final)
+            if status != 200:
+                continue
+            data = json.loads(raw)
+            rows = data['DetalheDocumento']['documentos']['documento']
+            rows = rows if isinstance(rows, list) else [rows]
+            if not all(isinstance(row, dict) for row in rows):
+                raise ValueError('lista de documentos inválida')
+            matching = [row for row in rows if str(row.get('id')) == str(senado_id)]
+            if len(matching) != 1:
+                raise ValueError('resposta não identifica univocamente o ID solicitado')
+            record = matching[0]
+            identity = record['identificacao']
+            if tipo and identity.get('tipo') != tipo:
+                raise ValueError('espécie divergente no detalhe')
+            if registro:
+                for key in ('numero', 'dataassinatura'):
+                    if str(identity.get(key)) != str(registro.get(key)):
+                        raise ValueError(f'{key} divergente no detalhe')
+                if (identity.get('complemento') or '').strip().casefold() != (
+                        registro.get('complemento') or '').strip().casefold():
+                    raise ValueError('complemento divergente no detalhe')
+            if acesso is not None:
+                packed = lzma.compress(raw)
+                snapshot = COLETAS_DIR / f'{senado_id}-{sha256(raw)[:16]}.detalhe-resposta.json.xz'
+                snapshot.write_bytes(packed)
+                acesso['detalhe_snapshot'] = str(snapshot.relative_to(ROOT))
+                acesso['detalhe_consulta'] = {
+                    'url': final, 'capturado_em': now_utc(),
+                    'sha256_resposta': sha256(raw), 'sha256_snapshot': sha256(packed),
+                    'ids_retornados': [str(row.get('id')) for row in rows],
+                    'id_selecionado': str(senado_id),
+                }
+            # A number/year route may return aliases or distinct documents.
+            # Preserve all raw bytes above, but inspect only the requested ID.
+            data['DetalheDocumento']['documentos']['documento'] = [record]
+            return data
+        except (RuntimeError, ValueError, KeyError, TypeError) as exc:
+            attempt['erro'] = str(exc)[:300]
+    raise RuntimeError(f'detalhe {senado_id}: nenhuma resposta vinculada à identidade: {attempts}')
 
 
 def normas_payload(urn: str) -> dict:
@@ -584,11 +635,7 @@ def collect_one(tipo: str, senado_id: str, rec: dict) -> dict:
                 )
                 # Conferir anexos no detalhe Senado antes de declarar íntegra utilizável.
                 try:
-                    detail = detail_json(senado_id)
-                    detail_raw = json.dumps(detail, ensure_ascii=False).encode('utf-8')
-                    detail_path = COLETAS_DIR / f'{slug}.detalhe.json.xz'
-                    detail_path.write_bytes(lzma.compress(detail_raw, preset=9))
-                    out['detalhe_snapshot'] = str(detail_path.relative_to(ROOT))
+                    detail = detail_json(senado_id, tipo=tipo, registro=rec, acesso=out)
                     anexos = inspect_senado_anexos(detail)
                     out['anexos_senado'] = anexos
                     if anexos['anexos_marcados_tem_texto'] > 0:
@@ -616,11 +663,7 @@ def collect_one(tipo: str, senado_id: str, rec: dict) -> dict:
 
     # 2) fallback: página de publicação do Senado (HTML)
     try:
-        detail = detail_json(senado_id)
-        detail_raw = json.dumps(detail, ensure_ascii=False).encode('utf-8')
-        detail_path = COLETAS_DIR / f'{slug}.detalhe.json.xz'
-        detail_path.write_bytes(lzma.compress(detail_raw, preset=9))
-        out['detalhe_snapshot'] = str(detail_path.relative_to(ROOT))
+        detail = detail_json(senado_id, tipo=tipo, registro=rec, acesso=out)
         anexos = inspect_senado_anexos(detail)
         out['anexos_senado'] = anexos
         candidates = pick_senado_pub_candidates(detail, senado_id)
