@@ -22,10 +22,12 @@ from __future__ import annotations
 import argparse
 import json
 import lzma
+import os
 import re
 import subprocess
 import sys
 import time
+import tempfile
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
@@ -598,6 +600,12 @@ def collect_one(tipo: str, senado_id: str, rec: dict) -> dict:
                         return out
                 except Exception as e:
                     out['anexos_inspecao_erro'] = str(e)[:200]
+                    out.update(
+                        utilizavel=False,
+                        motivo='corpo-html-ok-inspecao-anexos-inconclusiva',
+                        estado_sugerido='anexos-pendentes',
+                    )
+                    return out
                 out['utilizavel'] = True
                 return out
             out['normas_html_motivo'] = reject or f'HTTP {status} bytes={len(html)}'
@@ -699,14 +707,71 @@ def collect_one(tipo: str, senado_id: str, rec: dict) -> dict:
 
 
 def load_coleta() -> dict:
+    resultados = {'lote': LOTE, 'coletado_em': now_utc(), 'itens': {}}
     if COLETA_PROGRESS_PATH.is_file():
-        return json.loads(COLETA_PROGRESS_PATH.read_text(encoding='utf-8'))
-    return {'lote': LOTE, 'coletado_em': now_utc(), 'itens': {}}
+        resultados = json.loads(COLETA_PROGRESS_PATH.read_text(encoding='utf-8'))
+    journal = coleta_journal_path()
+    if journal.is_file():
+        raw = journal.read_bytes()
+        complete = raw[:raw.rfind(b'\n') + 1]
+        # Only an unterminated tail can be an interrupted append. A corrupt
+        # committed line fails loudly instead of silently losing a result.
+        for line in complete.splitlines():
+            item = json.loads(line)
+            resultados['itens'][item['slug']] = item
+        if complete != raw:
+            with journal.open('r+b') as stream:
+                stream.truncate(len(complete))
+                stream.flush()
+                os.fsync(stream.fileno())
+            print('coleta: descartado apenas o append final interrompido', file=sys.stderr)
+    return resultados
+
+
+def coleta_journal_path() -> Path:
+    return COLETA_PROGRESS_PATH.with_suffix('.journal.jsonl')
+
+
+def append_coleta(item: dict) -> None:
+    """Persist one completed result without rewriting the full catalog."""
+    with coleta_journal_path().open('a', encoding='utf-8') as stream:
+        stream.write(json.dumps(item, ensure_ascii=False) + '\n')
+        stream.flush()
+        os.fsync(stream.fileno())
+
+
+def reusable_coleta(item: dict | None) -> bool:
+    """A pathname alone cannot prove that a completed capture survived."""
+    if not item or not item.get('utilizavel') or not item.get('snapshot'):
+        return False
+    if item.get('anexos_inspecao_erro') or not item.get('sha256_fonte'):
+        return False
+    try:
+        raw = lzma.decompress((ROOT / item['snapshot']).read_bytes())
+    except (OSError, lzma.LZMAError, EOFError):
+        return False
+    return sha256(raw) == item['sha256_fonte']
 
 
 def save_coleta(resultados: dict) -> None:
     resultados['atualizado_em'] = now_utc()
-    write_json(COLETA_PROGRESS_PATH, resultados)
+    # Publish the complete checkpoint before removing the recovery journal.
+    path = COLETA_PROGRESS_PATH
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = None
+    try:
+        with tempfile.NamedTemporaryFile(mode='w', encoding='utf-8', dir=path.parent,
+                                         prefix=path.name + '.', delete=False) as stream:
+            temporary = Path(stream.name)
+            json.dump(resultados, stream, ensure_ascii=False, indent=2)
+            stream.write('\n')
+            stream.flush()
+            os.fsync(stream.fileno())
+        os.replace(temporary, path)
+        coleta_journal_path().unlink(missing_ok=True)
+    finally:
+        if temporary is not None:
+            temporary.unlink(missing_ok=True)
 
 
 def collect(
@@ -715,12 +780,14 @@ def collect(
     resume: bool = True,
     all_pending: bool = False,
 ) -> dict:
-    """Coleta retomável. Por padrão reusa `coleta.json` e salva a cada item."""
+    """Journal por item, checkpoint atômico a cada 25 capturas e no término."""
     COLETAS_DIR.mkdir(parents=True, exist_ok=True)
     resultados = load_coleta() if resume else {'lote': LOTE, 'coletado_em': now_utc(), 'itens': {}}
     if not resume:
         resultados['coletado_em'] = now_utc()
+        save_coleta(resultados)
     resultados.setdefault('itens', {})
+    since_checkpoint = 0
     selected = tipos or list(SPECIES)
     for tipo in selected:
         if tipo not in SPECIES:
@@ -750,15 +817,16 @@ def collect(
             date = date_iso(rec['dataassinatura'])
             slug = slug_for(tipo, date, rec.get('numero') or 'sn', rec.get('complemento'))
             prev = resultados['itens'].get(slug)
-            if resume and prev and prev.get('utilizavel') and prev.get('snapshot'):
-                snap = ROOT / prev['snapshot']
-                if snap.is_file():
-                    print(f'  resume-skip {tipo} {sid} {slug}', flush=True)
-                    continue
+            if resume and reusable_coleta(prev):
+                continue
             print(f'collect {tipo} {sid} {rec.get("normaNome")}…', flush=True)
             item = collect_one(tipo, sid, rec)
             resultados['itens'][item['slug']] = item
-            save_coleta(resultados)
+            append_coleta(item)
+            since_checkpoint += 1
+            if since_checkpoint >= 25:
+                save_coleta(resultados)
+                since_checkpoint = 0
             attempted += 1
             print(
                 f"  -> utilizavel={item.get('utilizavel')} origem={item.get('origem')} "
@@ -1229,8 +1297,13 @@ def build_markdown(item: dict, html: bytes) -> tuple[str, dict]:
     }
 
 
-def build() -> dict:
-    coleta = json.loads((PROVAS / 'coleta.json').read_text(encoding='utf-8'))
+def build(tipos: list[str] | None = None) -> dict:
+    selected = set(tipos or SPECIES)
+    if selected - set(SPECIES):
+        raise ValueError(f'espécies desconhecidas: {sorted(selected - set(SPECIES))}')
+    coleta = load_coleta()
+    if coleta_journal_path().is_file():
+        save_coleta(coleta)
     fontes = {}
     manifesto = {
         'lote': LOTE,
@@ -1239,8 +1312,29 @@ def build() -> dict:
         'documentos': [],
     }
     cobertura = {'lote': LOTE, 'itens': {}}
+    annex_owned = {slug for slug, item in coleta['itens'].items()
+                   if item['tipo'] in selected and item.get('anexo_fonte_alternativa')}
+    if annex_owned:
+        # Recovered annexes have their own source composition and verifier.
+        # A generic HTML rebuild must never replace them with the base body.
+        import rcn_anexos_fontes_alternativas as rcn_annexes
+        rcn_annexes.verify()
+    if tipos is not None or annex_owned:
+        # Publishing one species must not overwrite another owner's recovered
+        # annexes or discard its source/proof records.
+        previous_sources = json.loads(fontes_json_path().read_text(encoding='utf-8'))
+        previous_manifest = json.loads(manifesto_path().read_text(encoding='utf-8'))
+        previous_coverage = json.loads(cobertura_path().read_text(encoding='utf-8'))
+        fontes = {key: value for key, value in previous_sources.items()
+                  if value['tipo'] not in selected or key in annex_owned}
+        manifesto['documentos'] = [doc for doc in previous_manifest['documentos']
+                                   if doc['tipo'] not in selected or doc['id'] in annex_owned]
+        cobertura['itens'] = {key: value for key, value in previous_coverage['itens'].items()
+                              if key in fontes}
     publicados = []
     for slug, item in coleta['itens'].items():
+        if item['tipo'] not in selected or slug in annex_owned:
+            continue
         if not item.get('utilizavel'):
             continue
         html = lzma.decompress((ROOT / item['snapshot']).read_bytes())
@@ -1458,7 +1552,8 @@ def main(argv: list[str] | None = None) -> None:
             all_pending=args.all_pending,
         )
     elif args.cmd == 'build':
-        print(build())
+        tipos = [t.strip().upper() for t in args.tipos.split(',')] if args.tipos else None
+        print(build(tipos=tipos))
     elif args.cmd == 'verify':
         verify()
     elif args.cmd == 'discover-camara-rcd':

@@ -13,6 +13,28 @@ Lote dos issues [#65](https://github.com/minutei-ai/leis/issues/65), [#66](https
 
 Espécies distintas: número/ano sem órgão não identifica a norma. Não confundir com decreto do Executivo nem com decreto-lei (`DEL`).
 
+## Retomada e publicação por espécie
+
+```sh
+python3 scripts/especies_legislativas_federais.py collect --tipos RSF --rsf-limit 100
+python3 scripts/especies_legislativas_federais.py build --tipos RSF
+python3 scripts/especies_legislativas_federais.py verify
+```
+
+O limite conta novas tentativas. Capturas reutilizadas têm o HTML descomprimido
+conferido contra seu hash; arquivo ausente, truncado ou alterado volta à fila.
+Se a inspeção de anexos falhar, o corpo permanece retido como inspeção inconclusiva.
+
+Cada resultado concluído é sincronizado em um journal local. A cada 25 tentativas
+e no término, o checkpoint completo é substituído atomicamente antes de remover
+o journal. Após interrupção, a próxima coleta ou publicação recupera os registros
+completos; apenas um append final incompleto pode ser descartado. Linha concluída
+corrompida interrompe a recuperação, sem omitir silenciosamente seu resultado.
+
+`build --tipos` preserva textos, fontes e provas das demais espécies. Anexos RCN
+recuperados por fonte alternativa são verificados por seu gerador próprio e
+preservados também na reconstrução geral, em vez de substituídos pelo HTML do corpo.
+
 ## Artefatos
 
 | Arquivo | Função |

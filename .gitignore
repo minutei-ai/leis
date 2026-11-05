@@ -1,1 +1,3 @@
 __pycache__/
+# Runtime recovery log; completed results are checkpointed in coleta.json.
+/provas/especies-legislativas-federais/coleta.journal.jsonl

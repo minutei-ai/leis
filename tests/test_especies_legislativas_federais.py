@@ -2,10 +2,13 @@
 from __future__ import annotations
 
 import json
+import hashlib
 import lzma
 import re
 import sys
 import unittest
+import tempfile
+from unittest.mock import patch
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -15,6 +18,112 @@ import especies_legislativas_federais as lote  # noqa: E402
 import nucleo_licitacoes as nl  # noqa: E402
 
 PROVAS = ROOT / 'provas/especies-legislativas-federais'
+
+
+class TestColetaRetomavel(unittest.TestCase):
+    def setUp(self):
+        self.temporary = tempfile.TemporaryDirectory()
+        self.addCleanup(self.temporary.cleanup)
+        self.root = Path(self.temporary.name)
+        self.progress = self.root / 'coleta.json'
+        for name, value in [('ROOT', self.root), ('COLETAS_DIR', self.root),
+                            ('COLETA_PROGRESS_PATH', self.progress)]:
+            mocked = patch.object(lote, name, value)
+            mocked.start()
+            self.addCleanup(mocked.stop)
+
+    def test_completed_capture_survives_interrupted_checkpoint(self):
+        original = {'lote': 'teste', 'itens': {'old': {'slug': 'old'}}}
+        lote.save_coleta(original)
+        item = {'slug': 'new', 'sha256_fonte': 'evidence'}
+        lote.append_coleta(item)
+        before = self.progress.read_bytes()
+        with patch.object(lote.os, 'replace', side_effect=OSError('disk error')):
+            with self.assertRaises(OSError):
+                lote.save_coleta({'lote': 'teste', 'itens': {'new': item}})
+        self.assertEqual(self.progress.read_bytes(), before)
+        self.assertEqual(lote.load_coleta()['itens'], {'old': {'slug': 'old'}, 'new': item})
+        self.assertEqual({p.name for p in self.root.iterdir()},
+                         {'coleta.json', 'coleta.journal.jsonl'})
+
+    def test_recovery_discards_only_incomplete_tail_and_can_append_again(self):
+        first, second = {'slug': 'first'}, {'slug': 'second'}
+        lote.append_coleta(first)
+        with lote.coleta_journal_path().open('ab') as stream:
+            stream.write(b'{"slug":"interrupted')
+        self.assertEqual(lote.load_coleta()['itens'], {'first': first})
+        lote.append_coleta(second)
+        recovered = lote.load_coleta()
+        self.assertEqual(recovered['itens'], {'first': first, 'second': second})
+        lote.save_coleta(recovered)
+        self.assertFalse(lote.coleta_journal_path().exists())
+        self.assertEqual(lote.load_coleta()['itens'], recovered['itens'])
+
+    def test_corrupt_committed_journal_line_fails_instead_of_losing_capture(self):
+        lote.coleta_journal_path().write_bytes(b'{"broken":\n')
+        with self.assertRaises(json.JSONDecodeError):
+            lote.load_coleta()
+
+    def test_resume_requires_matching_source_bytes(self):
+        raw = b'<html>official source</html>'
+        snapshot = self.root / 'source.html.xz'
+        snapshot.write_bytes(lzma.compress(raw))
+        item = {'utilizavel': True, 'snapshot': snapshot.name,
+                'sha256_fonte': hashlib.sha256(raw).hexdigest()}
+        self.assertTrue(lote.reusable_coleta(item))
+        snapshot.write_bytes(lzma.compress(b'changed source'))
+        self.assertFalse(lote.reusable_coleta(item))
+        snapshot.write_bytes(b'interrupted compressed snapshot')
+        self.assertFalse(lote.reusable_coleta(item))
+        snapshot.unlink()
+        self.assertFalse(lote.reusable_coleta(item))
+
+    def test_failed_annex_inspection_cannot_publish_html_as_integral(self):
+        with patch.object(lote, 'normas_payload', return_value=({}, 'https://example.test/dados', b'{}')), \
+                patch.object(lote, 'pick_html_content_url', return_value='https://example.test/texto'), \
+                patch.object(lote, 'http_get', return_value=(200, b'<html>text</html>', 'https://example.test/texto')), \
+                patch.object(lote, 'html_rejection_reason', return_value=None), \
+                patch.object(lote, 'detail_json', side_effect=RuntimeError('HTTP 503')) as detail:
+            item = lote.collect_one('DLG', '123', {'dataassinatura': '01/01/2025', 'numero': '1'})
+        self.assertFalse(item['utilizavel'])
+        self.assertEqual(item['estado_sugerido'], 'anexos-pendentes')
+        self.assertIn('503', item['anexos_inspecao_erro'])
+        self.assertFalse(lote.reusable_coleta(item))
+        detail.assert_called_once()
+
+    def test_publishing_rsf_preserves_rcn_annex_and_its_provenance(self):
+        fed = self.root / 'federal'
+        fed.mkdir()
+        old_id = 'br-federal-resolucao-congresso-nacional-2025-01-01-1'
+        old_path = fed / (old_id + '.md')
+        old_text = '# Resolução com anexo recuperado\n\n| Célula | Valor |\n| A | 123 |\n'
+        old_path.write_text(old_text, encoding='utf-8')
+        old_source = {'tipo': 'RCN', 'anexo_fonte_alternativa': {'sha256': 'original-annex'}}
+        old_doc = {'tipo': 'RCN', 'id': old_id, 'arquivo': str(old_path.relative_to(self.root))}
+        old_proof = {'sha256_anexo': 'original-annex', 'tabelas': 1}
+        raw = ('<html><body><p>RESOLUÇÃO Nº 1, DE 1º DE JANEIRO DE 2025</p>'
+               '<p>Art. 1º Texto da resolução.</p></body></html>').encode()
+        snap = self.root / 'rsf.html.xz'
+        snap.write_bytes(lzma.compress(raw))
+        new_id = lote.slug_for('RSF', '2025-01-01', '1')
+        new = {'slug': new_id, 'tipo': 'RSF', 'numero': '1', 'data': '2025-01-01',
+               'senado_id': '123', 'urn': 'urn:lex:br:federal:resolucao.senado:2025-01-01;1',
+               'normaNome': 'Resolução do Senado Federal nº 1', 'ementa': 'Texto.',
+               'fonte_url': 'https://example.test/source', 'capturado_em': '2026-11-05T00:00:00Z',
+               'sha256_fonte': hashlib.sha256(raw).hexdigest(), 'bytes': len(raw),
+               'snapshot': snap.name, 'charset': 'utf-8', 'utilizavel': True}
+        lote.save_coleta({'itens': {new_id: new, old_id: {'tipo': 'RCN',
+                          'anexo_fonte_alternativa': old_source['anexo_fonte_alternativa']}}})
+        with patch.object(lote, 'PROVAS', self.root), patch.object(lote, 'FED', fed):
+            lote.write_json(lote.fontes_json_path(), {old_id: old_source})
+            lote.write_json(lote.manifesto_path(), {'documentos': [old_doc]})
+            lote.write_json(lote.cobertura_path(), {'itens': {old_id: old_proof}})
+            lote.build(tipos=['RSF'])
+            self.assertEqual(old_path.read_text(encoding='utf-8'), old_text)
+            self.assertEqual(json.loads(lote.fontes_json_path().read_text())[old_id], old_source)
+            self.assertIn(old_doc, json.loads(lote.manifesto_path().read_text())['documentos'])
+            self.assertEqual(json.loads(lote.cobertura_path().read_text())['itens'][old_id], old_proof)
+        self.assertIn('Art. 1º Texto da resolução.', (fed / (new_id + '.md')).read_text())
 
 
 class TestEspeciesLegislativasFederais(unittest.TestCase):
