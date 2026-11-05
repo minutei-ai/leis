@@ -1,0 +1,13 @@
+{
+  "norma_id": "br-municipal-2704302-lei-organica",
+  "metodo": "pdftotext -raw",
+  "sha256_fonte": "5b0de1590ef54cb68252bfcc336211815ae8401addde8b9b4e1f77b5d414b568",
+  "capturado_em": "2026-11-04T21:09:02Z",
+  "artigos_contados": 167,
+  "artigos_max_marcador": 179,
+  "fold_ok": false,
+  "colacao_oficial_status": "desconhecido",
+  "nota_fold": "Fonte PDF; fold do texto extraído não prova fidelidade além de consistência. Sem colação visual página-a-página.",
+  "adct_mencoes_texto": 2,
+  "sha256_corpo_markdown": "397bc1aee50551b5e3cd9682025e0e1260776e494016c83ed79ee6e6f60f047c"
+}
