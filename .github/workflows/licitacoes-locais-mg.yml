@@ -8,6 +8,10 @@ on:
       - 'metadados/licitacoes-locais/MG.json'
       - 'provas/licitacoes-locais/MG/**'
       - 'municipais/3106200/br-municipal-3106200-decreto-2023-03-28-18289.md'
+      - 'municipais/3106200/br-municipal-3106200-decreto-2021-12-21-17813.md'
+      - 'municipais/3106200/br-municipal-3106200-decreto-2022-09-20-18096.md'
+      - 'municipais/3106200/br-municipal-3106200-decreto-2023-01-19-18240.md'
+      - 'municipais/3106200/br-municipal-3106200-decreto-2023-01-25-18242.md'
       - 'estaduais/MG/br-mg-decreto-2023-11-24-48723.md'
 permissions:
   contents: read

@@ -1,0 +1,14 @@
+{
+  "norma_id": "br-municipal-2304400-lei-organica",
+  "metodo": "BeautifulSoup MediaWiki #mw-content-text",
+  "sha256_corpo_markdown": "83284b83d1be9bd96ee8f1e627a686cd43b952f1fb316add8e8fcf716a53733a",
+  "sha256_fonte": "bf4a1700623872db41eede3246cb49224875bde1c66f5e80b827b34a3100c819",
+  "capturado_em": "2026-11-04T21:40:00Z",
+  "artigos_contados": 327,
+  "fold_ok": false,
+  "colacao_oficial_status": "desconhecido",
+  "auditoria_pdf": {
+    "pages": null,
+    "nota": "Fold do texto extraído não prova fidelidade além de consistência. Colação visual: desconhecido."
+  }
+}

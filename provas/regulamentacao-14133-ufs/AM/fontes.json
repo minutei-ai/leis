@@ -1,0 +1,18 @@
+{
+  "capturado_em": "2026-11-04T20:15:00Z",
+  "nota": "Captura HTTP oficial Legisla.AM do Decreto AM 47.133/2023 (texto integral). Não certifica vigência. Não usa PDF DOE como fonte primária desta entrega.",
+  "fontes": [
+    {
+      "chave": "legisla-am-decreto-47133-2023",
+      "url": "https://legisla.imprensaoficial.am.gov.br/diario_am/41536/2023/3/9759",
+      "url_lista": "https://legisla.imprensaoficial.am.gov.br/diario_am/41536/2023",
+      "arquivo": "provas/regulamentacao-14133-ufs/AM/fontes/legisla-am-decreto-47133-2023.html.xz",
+      "sha256_conteudo": "dc88ed36f5799f86960eff12b904db5c929deaf7f92d9ac1a479e858c2257c45",
+      "sha256_arquivo_xz": "c234aac6fb86867f18727b2c43e3148de52a2477fae6022c765f9f94e0bb71d6",
+      "bytes_fonte": 663475,
+      "capturado_em": "2026-11-04T20:15:00Z",
+      "sha256_corpo_markdown": "022fb45ef025565037bdd532d9a9afaa4b2f6beb48da9822558655c46587374c",
+      "sha256_markdown": "5f71578515443c79361d870b046436af841930836f29e6f3d8b9c849c6a5eadc"
+    }
+  ]
+}

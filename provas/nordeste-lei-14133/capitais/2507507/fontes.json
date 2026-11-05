@@ -1,0 +1,21 @@
+{
+  "capturado_em": "2026-11-04T21:50:00Z",
+  "nota": "Captura HTTP SAPL João Pessoa — LO municipal. Não certifica vigência.",
+  "fontes": [
+    {
+      "chave": "br-municipal-2507507-lei-organica-1990",
+      "url": "http://sapl.joaopessoa.pb.leg.br/media/sapl/public/normajuridica/1990/14101/lei_organica.pdf",
+      "arquivo": "provas/nordeste-lei-14133/capitais/2507507/fontes/br-municipal-2507507-lei-organica-1990.pdf.xz",
+      "formato": "pdf",
+      "sha256_conteudo": "f859ade2226d6f03c01c2e2816990b68851354ed6d51d5ce54106bd0072ad825",
+      "sha256_arquivo_xz": "e54f6e4245331e8b404c0670beff3e94359a0019167545a9131a086088ca3cb0",
+      "bytes_fonte": 1497559,
+      "capturado_em": "2026-11-04T21:50:00Z",
+      "sha256_corpo_markdown": "cf6270ec2bfde92924738ccff94c5c3abcdbeddd605180e0b5609a77c8568802",
+      "sha256_markdown": "86ca5072ae55764b55d2c0f7b1c385b32449d44b396f178de2d5b19211ba9daa",
+      "carater": "lei-organica-municipal",
+      "artigos_contados": 241,
+      "artigos_max_marcador": 242
+    }
+  ]
+}

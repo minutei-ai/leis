@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**231.778 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**232.549 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -18,48 +18,61 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
-| Federal | [Brasil](federal/) | 99,738 |
-| Estadual | [Acre](estaduais/AC/) | 1,680 |
-| Estadual | [Alagoas](estaduais/AL/) | 5 |
-| Estadual | [Amapá](estaduais/AP/) | 24 |
-| Estadual | [Amazonas](estaduais/AM/) | 8 |
-| Estadual | [Bahia](estaduais/BA/) | 14,377 |
-| Estadual | [Ceará](estaduais/CE/) | 110 |
-| Distrital | [Distrito Federal](estaduais/DF/) | 8 |
-| Estadual | [Espírito Santo](estaduais/ES/) | 20 |
-| Estadual | [Goiás](estaduais/GO/) | 9,668 |
-| Estadual | [Maranhão](estaduais/MA/) | 6 |
-| Estadual | [Mato Grosso](estaduais/MT/) | 336 |
-| Estadual | [Mato Grosso do Sul](estaduais/MS/) | 3,285 |
-| Estadual | [Minas Gerais](estaduais/MG/) | 65,933 |
-| Estadual | [Pará](estaduais/PA/) | 85 |
-| Estadual | [Paraíba](estaduais/PB/) | 2 |
+| Federal | [Brasil](federal/) | 99.738 |
+| Estadual | [Acre](estaduais/AC/) | 1.681 |
+| Estadual | [Alagoas](estaduais/AL/) | 6 |
+| Estadual | [Amapá](estaduais/AP/) | 26 |
+| Estadual | [Amazonas](estaduais/AM/) | 10 |
+| Estadual | [Bahia](estaduais/BA/) | 14.379 |
+| Estadual | [Ceará](estaduais/CE/) | 112 |
+| Distrital | [Distrito Federal](estaduais/DF/) | 10 |
+| Estadual | [Espírito Santo](estaduais/ES/) | 23 |
+| Estadual | [Goiás](estaduais/GO/) | 9.669 |
+| Estadual | [Maranhão](estaduais/MA/) | 7 |
+| Estadual | [Mato Grosso](estaduais/MT/) | 338 |
+| Estadual | [Mato Grosso do Sul](estaduais/MS/) | 3.287 |
+| Estadual | [Minas Gerais](estaduais/MG/) | 65.933 |
+| Estadual | [Pará](estaduais/PA/) | 86 |
+| Estadual | [Paraíba](estaduais/PB/) | 3 |
 | Estadual | [Paraná](estaduais/PR/) | 61 |
-| Estadual | [Pernambuco](estaduais/PE/) | 2,346 |
-| Estadual | [Piauí](estaduais/PI/) | 1 |
-| Estadual | [Rio de Janeiro](estaduais/RJ/) | 1,661 |
-| Estadual | [Rio Grande do Norte](estaduais/RN/) | 62 |
-| Estadual | [Rio Grande do Sul](estaduais/RS/) | 16 |
-| Estadual | [Rondônia](estaduais/RO/) | 3 |
-| Estadual | [Roraima](estaduais/RR/) | 1 |
-| Estadual | [Santa Catarina](estaduais/SC/) | 266 |
-| Estadual | [São Paulo](estaduais/SP/) | 19,906 |
-| Estadual | [Sergipe](estaduais/SE/) | 21 |
-| Estadual | [Tocantins](estaduais/TO/) | 28 |
+| Estadual | [Pernambuco](estaduais/PE/) | 2.352 |
+| Estadual | [Piauí](estaduais/PI/) | 3 |
+| Estadual | [Rio de Janeiro](estaduais/RJ/) | 1.662 |
+| Estadual | [Rio Grande do Norte](estaduais/RN/) | 64 |
+| Estadual | [Rio Grande do Sul](estaduais/RS/) | 17 |
+| Estadual | [Rondônia](estaduais/RO/) | 4 |
+| Estadual | [Roraima](estaduais/RR/) | 2 |
+| Estadual | [Santa Catarina](estaduais/SC/) | 268 |
+| Estadual | [São Paulo](estaduais/SP/) | 19.906 |
+| Estadual | [Sergipe](estaduais/SE/) | 23 |
+| Estadual | [Tocantins](estaduais/TO/) | 30 |
 | Municipal | [Adamantina · SP](municipais/3500105/) | 2 |
 | Municipal | [Águas Formosas · MG](municipais/3100906/) | 1 |
 | Municipal | [Alfenas · MG](municipais/3101607/) | 1 |
-| Municipal | [Belo Horizonte · MG](municipais/3106200/) | 12 |
+| Municipal | [Belo Horizonte · MG](municipais/3106200/) | 17 |
 | Municipal | [Craíbas · AL](municipais/2702355/) | 2 |
 | Municipal | [Japaratinga · AL](municipais/2703601/) | 2 |
 | Municipal | [Marechal Deodoro · AL](municipais/2704708/) | 7 |
 | Municipal | [Parauapebas · PA](municipais/1505536/) | 4 |
 | Municipal | [Rio Largo · AL](municipais/2707701/) | 2 |
-| Municipal | [São Paulo · SP](municipais/3550308/) | 7,474 |
+| Municipal | [São Paulo · SP](municipais/3550308/) | 7.474 |
 | Municipal | [Tomé-Açu · PA](municipais/1508001/) | 1 |
-| Municipal | [Aparecida de Goiânia · GO](municipais/5201405/) | 4,229 |
+| Municipal | [Aparecida de Goiânia · GO](municipais/5201405/) | 4.229 |
 | Municipal | [Goiânia · GO](municipais/5208707/) | 1 |
-| Municipal | [Rio Verde · GO](municipais/5218805/) | 1,089 |
+| Municipal | [Rio Verde · GO](municipais/5218805/) | 1.089 |
+| Municipal | [Porto Velho · RO](municipais/1100205/) | 2 |
+| Municipal | [Manaus · AM](municipais/1302603/) | 2 |
+| Municipal | [Boa Vista · RR](municipais/1400100/) | 1 |
+| Municipal | [Fortaleza · CE](municipais/2304400/) | 2 |
+| Municipal | [Natal · RN](municipais/2408102/) | 1 |
+| Municipal | [João Pessoa · PB](municipais/2507507/) | 1 |
+| Municipal | [Recife · PE](municipais/2611606/) | 1 |
+| Municipal | [Maceió · AL](municipais/2704302/) | 1 |
+| Municipal | [Aracaju · SE](municipais/2800308/) | 2 |
+| Municipal | [Salvador · BA](municipais/2927408/) | 1 |
+| Municipal | [Vitória · ES](municipais/3205309/) | 1 |
+| Municipal | [Curitiba · PR](municipais/4106902/) | 1 |
+| Municipal | [Porto Alegre · RS](municipais/4314902/) | 1 |
 
 As pastas municipais usam o código IBGE do município. As contagens da tabela representam normas e incluem constituições, emendas, decretos e outros atos normativos. Anexos em arquivos próprios são contados separadamente.
 

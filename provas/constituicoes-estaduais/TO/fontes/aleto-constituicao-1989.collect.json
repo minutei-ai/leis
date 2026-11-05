@@ -1,0 +1,13 @@
+{
+  "uf": "TO",
+  "chave": "aleto-constituicao-1989",
+  "url": "https://www.al.to.leg.br/documento/visualizar?documento.codigo=66",
+  "url_final": "https://www.al.to.leg.br/arquivos/documento_68367.PDF",
+  "content_type": "application/pdf",
+  "bytes": 1751873,
+  "sha256_conteudo": "14d928f5a4e381facd9a6daf1f7423d29745d98db3b20d3777f83916e52dd10b",
+  "sha256_arquivo_xz": "6f6bf4954414942bcd70a2df4bbb50ae2a3c48337df6976ae6d1ae6b2186082b",
+  "capturado_em": "2026-11-04T20:18:31Z",
+  "status": "ok",
+  "arquivo": "provas/constituicoes-estaduais/TO/fontes/aleto-constituicao-1989.pdf.xz"
+}

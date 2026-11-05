@@ -133,7 +133,7 @@
       "descricao": "LC 1/1962 e LC 1/1967 são normas distintas apesar do mesmo número.",
       "entradas": [
         {
-          "norma_id": "br-federal-lei-complementar-1962-??-1",
+          "norma_id": "br-federal-lei-complementar-1962-07-17-1",
           "numero": "1",
           "complemento": null,
           "data_ato": {
@@ -141,9 +141,8 @@
             "precisao": "ano",
             "estado": "parcial"
           },
-          "arquivo": null,
-          "estado_arquivo": "ausente-no-acervo-publicado",
-          "nota": "Identidade exigida pelo contrato; publicação integral fica em lote próprio (#68)."
+          "arquivo": "federal/br-federal-lei-complementar-1962-07-17-1.md",
+          "estado_arquivo": "publicado"
         },
         {
           "norma_id": "br-federal-lei-complementar-1967-11-09-1",
