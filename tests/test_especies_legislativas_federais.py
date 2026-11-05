@@ -398,5 +398,30 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                 self.assertEqual(rec_item['estado_coleta'], 'publicado')
 
 
+class TestTextosAprovadosRemetidos(unittest.TestCase):
+    def test_remissao_explicita_bloqueia_integra_mesmo_sem_anx(self):
+        import especies_legislativas_federais as owner
+        html = ('<p>Art. 1º Fica aprovado o Acordo.</p><p>O texto do Acordo '
+                'acima citado está publicado no Diário do Senado Federal de '
+                '18 de março de 2025.</p>').encode()
+        item = {'utilizavel': True, 'anexos_senado': {'anexos': []}}
+        self.assertTrue(owner.block_external_normative_text(item, html))
+        self.assertFalse(item['utilizavel'])
+        self.assertEqual(item['estado_sugerido'], 'anexos-pendentes')
+        self.assertIn('18 de março de 2025', item['textos_remetidos'][0])
+
+    def test_aviso_de_publicacao_nao_e_texto_normativo_ausente(self):
+        import especies_legislativas_federais as owner
+        html = ('<p>Este texto não substitui o original publicado no Diário Oficial.</p>'
+                '<p>A aposentadoria foi publicada no Diário do Senado Federal.</p>').encode()
+        self.assertEqual(owner.external_normative_text_references(html), [])
+
+    def test_textos_multiplos_e_marcacao_inline(self):
+        import especies_legislativas_federais as owner
+        html = ('<p>Os textos do <b>Protocolo</b> e das Emendas estão publicados '
+                'no Diário do Senado Federal de 2 de dezembro de 2025.</p>').encode()
+        self.assertEqual(len(owner.external_normative_text_references(html)), 1)
+
+
 if __name__ == '__main__':
     unittest.main()

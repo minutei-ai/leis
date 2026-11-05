@@ -1,12 +1,12 @@
 {
   "lote": "especies-legislativas-federais",
-  "reconciliado_em": "2026-11-05T12:16:03Z",
+  "reconciliado_em": "2026-11-05T13:18:28Z",
   "especies": {
     "DLG": {
       "registros": 15944,
       "chaves_unicas": 15944,
-      "publicados": 335,
-      "identificados_nao_coletados": 15609,
+      "publicados": 520,
+      "identificados_nao_coletados": 15366,
       "ambiguidades": 0,
       "intervalo_datas": {
         "inicio": "1935-05-16",

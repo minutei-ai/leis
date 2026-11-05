@@ -587,6 +587,25 @@ def extract_senado_fragment(html: bytes) -> bytes:
     return f'<html><body>{main.decode_contents()}</body></html>'.encode('utf-8')
 
 
+def external_normative_text_references(html: bytes) -> list[str]:
+    """Notas que remetem o texto aprovado a outra publicação, mesmo sem ANX na API."""
+    from bs4 import BeautifulSoup
+    text = BeautifulSoup(html, 'lxml').get_text(' ', strip=True)
+    return [m.group(0) for m in re.finditer(
+        r'\b(?:O texto|Os textos)\s+(?:do|da|dos|das)\s+[^.]{1,500}?'
+        r'\b(?:está|estão)\s+publicad[oa]s?\s+no\s+Diário do Senado Federal'
+        r'[^.]{0,120}', text, re.I)]
+
+
+def block_external_normative_text(out: dict, html: bytes) -> bool:
+    refs = external_normative_text_references(html)
+    if not refs:
+        return False
+    out.update(utilizavel=False, motivo='texto-normativo-remetido-a-outra-publicacao',
+               estado_sugerido='anexos-pendentes', textos_remetidos=refs)
+    return True
+
+
 def collect_one(tipo: str, senado_id: str, rec: dict) -> dict:
     spec = SPECIES[tipo]
     date = date_iso(rec['dataassinatura'])
@@ -652,6 +671,8 @@ def collect_one(tipo: str, senado_id: str, rec: dict) -> dict:
                         motivo='corpo-html-ok-inspecao-anexos-inconclusiva',
                         estado_sugerido='anexos-pendentes',
                     )
+                    return out
+                if block_external_normative_text(out, frag):
                     return out
                 out['utilizavel'] = True
                 return out
@@ -737,6 +758,7 @@ def collect_one(tipo: str, senado_id: str, rec: dict) -> dict:
                 tentativas_publicacao=tentativas,
                 utilizavel=True,
             )
+            block_external_normative_text(out, frag)
             return out
         out.update(
             utilizavel=False,
@@ -793,7 +815,8 @@ def reusable_coleta(item: dict | None) -> bool:
         raw = lzma.decompress((ROOT / item['snapshot']).read_bytes())
     except (OSError, lzma.LZMAError, EOFError):
         return False
-    return sha256(raw) == item['sha256_fonte']
+    return (sha256(raw) == item['sha256_fonte']
+            and not external_normative_text_references(raw))
 
 
 def save_coleta(resultados: dict) -> None:
