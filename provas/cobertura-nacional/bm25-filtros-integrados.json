@@ -1,5 +1,5 @@
 {
-  "stream_registros_lidos": 232661,
+  "stream_registros_lidos": 232848,
   "casos": [
     {
       "id": "federal-lei-2021-historica",
@@ -18,7 +18,7 @@
       "integra": {
         "sha256_ok": true,
         "corpo_igual": true,
-        "bytes": 269213,
+        "bytes": 269212,
         "truncado": false,
         "fonte_citada": "desconhecido",
         "vigencia_certificada": false
@@ -128,7 +128,7 @@
       "integra": {
         "sha256_ok": true,
         "corpo_igual": true,
-        "bytes": 1667,
+        "bytes": 1666,
         "truncado": false,
         "fonte_citada": "https://legis.senado.leg.br/norma/561103/publicacao/15645581",
         "vigencia_certificada": false
@@ -190,6 +190,7 @@
         "federal/br-federal-resolucao-senado-federal-2018-05-28-9.md",
         "federal/br-federal-resolucao-senado-federal-2018-05-30-11.md",
         "federal/br-federal-resolucao-senado-federal-2018-06-06-12.md",
+        "federal/br-federal-resolucao-senado-federal-2018-06-25-13.md",
         "federal/br-federal-resolucao-senado-federal-2018-07-03-14.md",
         "federal/br-federal-resolucao-senado-federal-2018-07-04-15.md",
         "federal/br-federal-resolucao-senado-federal-2018-07-11-16.md",
@@ -578,14 +579,14 @@
         "federal/br-federal-resolucao-senado-federal-2026-09-04-45.md",
         "federal/br-federal-resolucao-senado-federal-2026-09-04-47.md"
       ],
-      "hit_count": 434,
+      "hit_count": 435,
       "ok": true,
       "must_include_ok": true,
       "must_exclude_ok": true,
       "integra": {
         "sha256_ok": true,
         "corpo_igual": true,
-        "bytes": 3302,
+        "bytes": 3301,
         "truncado": false,
         "fonte_citada": "https://legis.senado.leg.br/norma/31634286/publicacao/31634776",
         "vigencia_certificada": false
@@ -616,6 +617,32 @@
         "vigencia_certificada": false
       },
       "exclude_ok": true
+    },
+    {
+      "id": "lc1-1962-serie-data-distintas-da-lc1-1967",
+      "filters": {
+        "esfera": "federal",
+        "especie": "lei-complementar",
+        "serie_historica": "lei-complementar-ao-ato-adicional",
+        "numero": "1",
+        "data_ato": "1962-07-17"
+      },
+      "hits": [
+        "federal/br-federal-lei-complementar-1962-07-17-1.md",
+        "federal/edicoes/br-federal-lei-complementar-1962-07-17-1-retificacao-1962-07-24.md"
+      ],
+      "hit_count": 2,
+      "ok": true,
+      "must_include_ok": true,
+      "must_exclude_file_ok": true,
+      "integra": {
+        "sha256_ok": true,
+        "corpo_igual": true,
+        "bytes": 19834,
+        "truncado": false,
+        "fonte_citada": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp01-62.htm",
+        "vigencia_certificada": false
+      }
     },
     {
       "id": "acre-opaco-provedor-nao-e-numero",

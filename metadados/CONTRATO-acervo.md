@@ -33,6 +33,11 @@ A ausência de cabeçalho estruturado em um Markdown geral significa
 5. **Markdown integral.** A exportação de busca entrega o corpo Markdown
    publicado, verificável por hash, sem truncar tabelas, notas, riscos ou
    alertas. Metadados tipados ficam fora do campo de ranking da íntegra.
+   Um corpo com `edicao_integral=false` continua preservado e recuperável como
+   evidência, mas recebe `corpo_legal_integral_pendente=true`, fica fora do
+   denominador de íntegra e não pode ser consultado como texto legal integral.
+   Isso não apaga o corpo como ocorre com uma nota editorial sem publicação
+   integral.
 6. **Representação ≠ transcrição.** Fac-símile integral preservado não é texto
    integral pesquisável (#77). Filtros separam as duas dimensões.
 7. **Ente emissor ≠ âmbito de aplicação ≠ domicílio de fornecedor.**
@@ -76,8 +81,12 @@ em campos separados. Ano-only permanece sem dia/mês inventado.
 
 | Campo | Significado |
 | --- | --- |
-| `edicao_tipo` | `historica` \| `consolidada` \| `original` \| `desconhecida`. |
+| `edicao_tipo` | `historica` \| `consolidada` \| `original` \| `retificacao` \| `desconhecida`. |
 | `edicao_integral` | `true` \| `false` \| `"desconhecido"`. |
+| `corpo_status` / `status_publicacao` | Estado documentado da publicação/corpo; não certifica completude quando parcial. |
+| `corpo_legal_integral_pendente` | `true` quando falta parte do texto legal, mesmo que o corpo oficial disponível seja preservado. |
+| `excluir_denominador_integra` | `true` quando a edição não conta como íntegra. |
+| `texto_integral_pesquisavel` | `false` quando o corpo preservado não representa a íntegra legal. |
 | `representacao` | `texto` \| `fac-simile` \| `mista`. |
 | `cobertura_transcricao` | `integral` \| `parcial` \| `ausente` \| `desconhecida`. |
 | `cobertura_ocr` | `nao-aplicavel` \| `ausente` \| `parcial` \| `validada` \| `desconhecida`. |
@@ -103,7 +112,7 @@ Documento exportado por edição:
 1. **Ranking (text):** `titulo`, `ementa`, `markdown_integral`.
 2. **Filtros exatos (keyword/typed):** identidades, espécie, órgão emissor,
    série histórica, ente, número, complemento, edição, situação, representação,
-   cobertura de transcrição. `fonte_orgao` identifica o publisher/capturador
+   cobertura de transcrição e estado de integridade do corpo. `fonte_orgao` identifica o publisher/capturador
    separadamente e pode ser consultado sem alterar o emissor.
 3. **Intervalos:** datas tipadas; `"desconhecido"` não entra como date.
 4. **Alertas:** `alerta_cobertura_textual`, `alerta_reproducao_incompleta`,

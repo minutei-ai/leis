@@ -328,7 +328,7 @@
         "titulo",
         "vigencia_certificada"
       ],
-      "sha256_corpo_ou_arquivo": "c4ce1f2b350dab50633fe3a2e84e00f8111aa60d45562b6b23b4ffe53fdc4408",
+      "sha256_corpo_ou_arquivo": "19be3b5a4154e5b8fa058acaef895d33cffae722160fd904a22b4f0dd28f5528",
       "identidade_caminho": {
         "arquivo": "federal/br-federal-lei-1990-09-11-8078.md",
         "stem": "br-federal-lei-1990-09-11-8078",
@@ -540,7 +540,7 @@
         "titulo",
         "vigencia_certificada"
       ],
-      "sha256_corpo_ou_arquivo": "2acf58e0837f070dbf46ccfc27c27e305d5696702121650728cf6e2ced90cd60",
+      "sha256_corpo_ou_arquivo": "cab091595019ded21b90146dc3aab403ca0aa02f5a675dbe5c1f2420e2b0af34",
       "identidade_caminho": {
         "arquivo": "federal/br-federal-lei-2021-04-01-14133.md",
         "stem": "br-federal-lei-2021-04-01-14133",
@@ -602,7 +602,7 @@
         "titulo",
         "vigencia_certificada"
       ],
-      "sha256_corpo_ou_arquivo": "7a32ad9ea4ce8710afd4afd5481c256607fcc069575a79a2b59f536a93adbaa5",
+      "sha256_corpo_ou_arquivo": "dcc753cd94538ec1ba59e3881f000fcad18743f7ff2f0584ef709b7c22d1b210",
       "identidade_caminho": {
         "arquivo": "federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md",
         "stem": "br-federal-lei-2021-04-01-14133-consolidada",

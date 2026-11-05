@@ -6728,7 +6728,24 @@
         "dataassinatura": "17/07/1962",
         "anoassinatura": "1962",
         "apelido": "LCP-1-1962-07-17"
-      }
+      },
+      "edicoes_relacionadas": [
+        {
+          "edicao_id": "br-federal-lei-complementar-1962-07-17-1@planalto",
+          "tipo": "consolidada",
+          "arquivo": "federal/br-federal-lei-complementar-1962-07-17-1.md",
+          "incorpora_retificacao": true,
+          "prova": "fontes.json#br-federal-lei-complementar-1962-07-17-1.retificacao_camara e snapshot provas/lc-complementares-68/fontes/planalto-lcp01-62.htm.xz"
+        },
+        {
+          "edicao_id": "br-federal-lei-complementar-1962-07-17-1@retificacao-1962-07-24",
+          "tipo": "retificacao",
+          "arquivo": "federal/edicoes/br-federal-lei-complementar-1962-07-17-1-retificacao-1962-07-24.md",
+          "publicacao_dou": "Diário Oficial da União, Seção 1, 24/07/1962, p. 7837",
+          "sha256_fonte": "bed7e014957fdbef75c5a53157674bc5295bfbdb1d82ed018488a1b1054e9492",
+          "sha256_markdown": "3c66da14dd6fda68c6a3ac9b6dc8e15dcafc304bc665da3ea8e76b4d96c306a3"
+        }
+      ]
     }
   ],
   "regra": "LC 1/1962 e LC 1/1967 são identidades distintas (data+número+URN). Número igual com data diferente não autoriza fusão nem alteração da data já publicada.",
@@ -6737,7 +6754,8 @@
     "Estado de caminho confirma correspondência por data+número e existência do arquivo, não que a epígrafe ou o texto integral estejam corretos.",
     "Conversão de texto foi revalidada aqui somente para LC 115/2002, LC 147/2014 e LC 1/1962, com snapshots oficiais indicados em fontes.json; demais textos permanecem fora dessa prova.",
     "LC 147: HTML Senado/normas.leg.br sem peças tabulares do anexo; íntegra com Anexo Único via Planalto.",
-    "Não se certifica vigência; LC 1/1962 e LC 1/1967 permanecem identidades distintas."
+    "Não se certifica vigência; LC 1/1962 e LC 1/1967 permanecem identidades distintas.",
+    "LC 1/1962: a retificação de 24/07/1962 é edição separada; o texto Planalto atual incorpora as duas instruções comparadas às capturas originais e da retificação da Câmara."
   ],
   "regra_reconciliacao": "Correspondência por tipo LCP + número textual (inclui complemento) + data de assinatura contra o nome canônico; não é prova da epígrafe, da íntegra, da vigência nem de cobertura do universo normativo brasileiro."
 }

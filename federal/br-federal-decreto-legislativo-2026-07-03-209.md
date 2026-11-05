@@ -12,7 +12,7 @@ senado_id: "43484598"
 urn: "urn:lex:br:federal:decreto.legislativo:2026-07-03;209"
 edicao_id: "br-federal-decreto-legislativo-2026-07-03-209@original"
 edicao_tipo: "historica"
-edicao_integral: true
+edicao_integral: false
 fonte_orgao: "normas.leg.br / Congresso Nacional"
 fonte_url: "https://normas.leg.br/api/public/binario/d8487d10-c83c-46c7-886c-759298285ce0/texto"
 fonte_formato: "html"
@@ -30,6 +30,10 @@ efeitos_diferidos: "preservados-nas-notas-do-texto"
 sha256_markdown: "2a1d9b190fec880817a4adfbd33d32af14f77a6ab7ace4577e480258136959b7"
 manifesto: "provas/especies-legislativas-federais/manifesto.json"
 contrato_versao: 1
+status_publicacao: "publicado-corpo-parcial"
+corpo_status: "parcial-remissao-explicita"
+excluir_denominador_integra: true
+remissoes_literais: ["O texto do Acordo acima citado está publicado no Diário do Senado Federal de 8 de maio de 2026"]
 ---
 
 <!-- nota-edicao:inicio -->

@@ -82,6 +82,7 @@ CASOS_IDENTIDADE = [
                 'complemento': None,
                 'data_ato': {'valor': '1962', 'precisao': 'ano', 'estado': 'parcial'},
                 'arquivo': 'federal/br-federal-lei-complementar-1962-07-17-1.md',
+                'serie_historica': {'valor': 'lei-complementar-ao-ato-adicional', 'estado': 'informado'},
                 'estado_arquivo': 'publicado',
             },
             {
@@ -90,6 +91,7 @@ CASOS_IDENTIDADE = [
                 'complemento': None,
                 'data_ato': {'valor': '1967-11-09', 'precisao': 'dia', 'estado': 'informado'},
                 'arquivo': 'federal/br-federal-lei-complementar-1967-11-09-1.md',
+                'serie_historica': {'valor': 'desconhecido', 'estado': 'desconhecido'},
                 'estado_arquivo': 'publicado',
             },
         ],
@@ -170,7 +172,12 @@ def parse_frontmatter(text: str) -> tuple[dict[str, Any] | None, str]:
             meta[key] = json.loads(raw)
         except json.JSONDecodeError:
             meta[key] = raw
-    return meta, text[m.end() :]
+    body = text[m.end() :]
+    if body.startswith('\n'):
+        # Exclude the blank separator line after frontmatter, matching the
+        # owner parser and the sha256_markdown semantics used in Markdown files.
+        body = body[1:]
+    return meta, body
 
 
 ACERVO_COMMENT = re.compile(r'<!--\s*metadados-acervo\s*\n(.*?)\n\s*-->', re.S)
@@ -859,8 +866,10 @@ def build_national_matrix() -> dict[str, Any]:
             {'id': '#94', 'tema': 'resoluções do Congresso Nacional'},
             {'id': '#95', 'tema': 'MPs/reedições históricas'},
             {'id': '#96', 'tema': 'decretos-leis / identidade'},
-            {'id': '#102', 'tema': 'divergência cabeçalho 1.014-A vs 4.014-A'},
-            {'id': '#103', 'tema': 'conteúdos trocados Leis 12.985/12.988'},
+            {'id': '#102', 'tema': 'divergência cabeçalho 1.014-A vs 4.014-A',
+             'estado': 'caso-e-lote-delimitado-colacionados'},
+            {'id': '#103', 'tema': 'conteúdos trocados Leis 12.985/12.988',
+             'estado': 'duas-identidades-corrigidas-e-colacionadas'},
         ],
         'universos_abertos': [
             'demais catálogos federais e séries históricas',
@@ -908,7 +917,7 @@ def build_national_matrix() -> dict[str, Any]:
             'export sidecar JSONL streaming do acervo completo + inventário por campo (#70)',
             'registro de fontes por UF + municípios publicados (#74)',
             'colação visual estrutural do formulário CPP (#77)',
-            'contagem federal por espécie + blockers #102/#103 (#83)',
+            'contagem federal por espécie + casos #102/#103 colacionados e bloqueios remanescentes (#83)',
         ],
     }
 
@@ -1045,6 +1054,11 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
     if excluded_note:
         # Keep the source artifact hash/size, while exporting no editorial note as law.
         body = ''
+    partial_legal_body = (
+        not excluded_note
+        and meta is not None
+        and meta.get('edicao_integral') is False
+    )
     cand = path_identity_candidate(rel)
     rep = classify_representation(text)
     titulo, titulo_fonte = _extract_titulo(meta, body if meta is not None else text)
@@ -1142,13 +1156,24 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
                 doc[key] = acervo_meta[key]
         doc['sha256_arquivo_origem'] = sha256_bytes(raw)
         doc['bytes_arquivo_origem'] = len(raw)
-        doc['corpo_legal_integral_pendente'] = excluded_note
+        doc['corpo_legal_integral_pendente'] = excluded_note or partial_legal_body
+    if partial_legal_body:
+        doc['corpo_legal_integral_pendente'] = True
+        doc['edicao_integral'] = False
+        doc['excluir_denominador_integra'] = True
+        doc['corpo_status'] = (meta or {}).get('corpo_status') or 'parcial'
+        doc['status_publicacao'] = (meta or {}).get('status_publicacao') or 'publicado-corpo-parcial'
     if excluded_note:
         doc['texto_integral_pesquisavel'] = False
         doc['fonte_integral_preservada'] = False
         doc['cobertura_transcricao'] = 'ausente'
         doc['alerta_cobertura_textual'] = True
         doc['markdown_integral_bytes'] = 0
+    elif partial_legal_body:
+        doc['texto_integral_pesquisavel'] = False
+        doc['fonte_integral_preservada'] = True
+        doc['cobertura_transcricao'] = 'parcial'
+        doc['alerta_cobertura_textual'] = True
 
     campo_fontes: dict[str, Any] = {}
     if meta and isinstance(meta.get('campo_fontes'), dict):
@@ -1771,6 +1796,8 @@ def build_species_reconciliation() -> dict[str, Any]:
     }
     published_lei = counts.get('lei', 0)
     published_dl = counts.get('decreto-lei', 0)
+    mg_inventory = load_json(ROOT / 'provas/identidade-federal-99-102-103/mg-orfaos-inventario.json')
+    mg_pending = len(mg_inventory['pendentes'])
     return {
         'contrato_versao': CONTRATO_VERSAO,
         'issue': '#83',
@@ -1797,18 +1824,41 @@ def build_species_reconciliation() -> dict[str, Any]:
                 ),
             },
         ],
-        'blockers_concretos': [
+        'casos_colacionados': [
             {
                 'id': '#102',
                 'tema': 'divergência cabeçalho 1.014-A vs identidade 4.014-A/1942',
-                'estado': 'identidade-ambigua',
-                'acao': 'colação oficial da origem da divergência; sem correção editorial silenciosa',
+                'estado': 'variante-da-fonte-preservada; edicao-Camara-publicada',
+                'escopo': '4.014-A e lote delimitado dos três exemplos; demais candidatos não certificados',
+                'provas': [
+                    'provas/identidade-federal-99-102-103/NOTA-DIVERGENCIA-4014-A.md',
+                    'provas/identidade-federal-99-102-103/divergencias-cabecalho-lote.md',
+                ],
+                'pr': 111,
             },
             {
                 'id': '#103',
                 'tema': 'conteúdos reciprocamente trocados Leis 12.985 e 12.988/2014',
-                'estado': 'publicado-nao-colacionado',
-                'acao': 'corrigir associação texto/identidade com provas; presença do arquivo não certifica conteúdo',
+                'estado': 'corpos-corrigidos; conversao-integral-recalculada',
+                'escopo': 'somente as duas identidades; não certifica outras normas ou vigência',
+                'provas': ['provas/identidade-federal-99-102-103/prova-conversao-12985-12988.json'],
+                'pr': 128,
+            },
+        ],
+        'blockers_concretos': [
+            {
+                'id': '#96',
+                'tema': 'demais lacunas e divergências de identidade dos decretos-leis',
+                'estado': 'reconciliacao-incompleta',
+                'acao': 'colação por identidade, complemento, data e série; não forçar título ao caminho',
+            },
+            {
+                'id': '#99',
+                'tema': f'{mg_pending} corpos MG ainda não recuperados e duplicatas com ressalvas',
+                'corpos_mg_pendentes': mg_pending,
+                'inventario': 'provas/identidade-federal-99-102-103/mg-orfaos-inventario.json',
+                'estado': 'corpos-pendentes; notas-nao-equivalem-a-integra',
+                'acao': 'recuperar fonte oficial e conferir corpo; preservar exclusões do denominador integral',
             },
             {
                 'id': '#77',
@@ -1938,6 +1988,19 @@ def verify_bm25_filters_integrated(out_dir: Path | None = None) -> dict[str, Any
             'must_exclude_norma_id_substring': '1962',
         },
         {
+            'id': 'lc1-1962-serie-data-distintas-da-lc1-1967',
+            'filters': {
+                'esfera': 'federal',
+                'especie': 'lei-complementar',
+                'serie_historica': 'lei-complementar-ao-ato-adicional',
+                'numero': '1',
+                'data_ato': '1962-07-17',
+            },
+            'expect_min': 1,
+            'must_include_arquivo': 'federal/br-federal-lei-complementar-1962-07-17-1.md',
+            'must_exclude_arquivo': 'federal/br-federal-lei-complementar-1967-11-09-1.md',
+        },
+        {
             'id': 'acre-opaco-provedor-nao-e-numero',
             'filters': {
                 'esfera': 'estadual',
@@ -1989,6 +2052,8 @@ def verify_bm25_filters_integrated(out_dir: Path | None = None) -> dict[str, Any
             'federal/br-federal-decreto-1823-01-09-seq-sf-1.md',
             'federal/br-federal-resolucao-congresso-nacional-1983-10-20-1.md',
             'federal/br-federal-resolucao-senado-federal-2019-11-01-29.md',
+            'federal/br-federal-lei-complementar-1962-07-17-1.md',
+            'federal/br-federal-lei-complementar-1967-11-09-1.md',
         }
     )
     docs_by_arquivo = {}
@@ -2033,6 +2098,10 @@ def verify_bm25_filters_integrated(out_dir: Path | None = None) -> dict[str, Any
             if exclude:
                 entry['must_exclude_ok'] = not any(exclude in rel for rel in arquivos)
                 entry['ok'] = entry['ok'] and entry['must_exclude_ok']
+            exclude_file = case.get('must_exclude_arquivo')
+            if exclude_file:
+                entry['must_exclude_file_ok'] = exclude_file not in arquivos
+                entry['ok'] = entry['ok'] and entry['must_exclude_file_ok']
             if must in docs_by_arquivo:
                 doc = docs_by_arquivo[must]
                 meta, body, body_hash = markdown_body_hash(ROOT / must)
@@ -2180,6 +2249,13 @@ def build_bm25_demo() -> dict[str, Any]:
             'situacao': {'type': 'keyword'},
             'representacao': {'type': 'keyword'},
             'cobertura_transcricao': {'type': 'keyword'},
+            'corpo_status': {'type': 'keyword'},
+            'status_publicacao': {'type': 'keyword'},
+            'edicao_integral': {'type': 'boolean'},
+            'corpo_legal_integral_pendente': {'type': 'boolean'},
+            'excluir_denominador_integra': {'type': 'boolean'},
+            'texto_integral_pesquisavel': {'type': 'boolean'},
+            'fonte_integral_preservada': {'type': 'boolean'},
             'vigencia_certificada': {'type': 'boolean'},
             'alerta_cobertura_textual': {'type': 'boolean'},
             'data_ato': {'type': 'keyword', 'nota': 'date tipada só quando ISO; desconhecido fica fora de date'},
@@ -2190,6 +2266,11 @@ def build_bm25_demo() -> dict[str, Any]:
                 {'term': {'especie': 'lei'}},
                 {'prefix': {'data_ato': '2021'}},
                 {'term': {'edicao_tipo': 'historica'}},
+            ],
+            'must_not': [
+                {'term': {'corpo_legal_integral_pendente': True}},
+                {'term': {'excluir_denominador_integra': True}},
+                {'term': {'texto_integral_pesquisavel': False}},
             ],
             'must': {'match': {'markdown_integral': query}},
         },
@@ -2374,8 +2455,11 @@ def cmd_verify() -> None:
     # Reconciliação de espécies (#83)
     recon = load_json(PROVAS / 'reconciliacao-especies-publicadas.json')
     assert recon == build_species_reconciliation(), 'reconciliação desatualizada — rode generate'
-    assert '#102' in {b['id'] for b in recon['blockers_concretos']}
-    assert '#103' in {b['id'] for b in recon['blockers_concretos']}
+    resolved_ids = {b['id'] for b in recon['casos_colacionados']}
+    assert {'#102', '#103'} <= resolved_ids
+    assert not {'#102', '#103'} & {b['id'] for b in recon['blockers_concretos']}
+    for case in recon['casos_colacionados']:
+        assert all((ROOT / path).is_file() for path in case['provas'])
     assert 'avanco_desde_inventario_inicial' in matriz
 
     # Export sidecar / inventário do acervo completo (#70)

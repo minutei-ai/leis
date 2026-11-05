@@ -77,6 +77,7 @@
     "federal/br-federal-decreto-2024-01-09-11878.md": "71b021dbb586ad933ceadd926c006566058f463dee62d87d5c0613407f12436d",
     "federal/br-federal-decreto-2024-12-30-12343.md": "fbeca705756f6a64b81e90ff3306818d23493d9674dd25f9d8699920695cd7cc",
     "federal/br-federal-decreto-2025-12-29-12807.md": "6dc50655b2505588fee7f0fcf312d5c1c5d4ac3d06fe01b9e79fef812b184790",
+    "federal/br-federal-decreto-legislativo-2026-05-21-49.md": "396e9d01eb208b8f53b35cd1e5f319cb28d2c60d827158687c8409b7d35eff3f",
     "federal/br-federal-decreto-legislativo-2026-06-08-89.md": "3e63dfad9ebf6fb93cbd50627c645c250c3bd3b580de1a23409fd88e6ffc8cb6",
     "federal/br-federal-decreto-legislativo-2026-06-22-175.md": "b5b3635e844883bdd740656331c05f3b8a1b60f0726d94f0c456a89f865afb2d",
     "federal/br-federal-decreto-legislativo-2026-08-10-327.md": "951f516ac495d330244255a6a0e2e5c113f96a887f1883af374e594941fdf073",
@@ -131,10 +132,10 @@
     "federal/br-federal-emenda-constitucional-1995-08-15-6.md": "89498952cf3b1fbde2d49239286ce0e2bcb4944fb2d31852e66f8f8dea64b615",
     "federal/br-federal-emenda-constitucional-1995-08-15-7.md": "67faf608cccbc6b61adbe77b91d96a49fd1bd4a9e9f64c86821f30b843fa27b3",
     "federal/br-federal-emenda-constitucional-1995-08-15-8.md": "d96036d5f94ea96b7ce46cf8d452ff5f739a4db46dcb33049345bdd3a3e8c42c",
-    "federal/br-federal-emenda-constitucional-1995-11-09-9.md": "e7ad0e3e44bdc72b3901d6386a09d44e65fadbb272d797d4845116d90ead40ac",
+    "federal/br-federal-emenda-constitucional-1995-11-09-9.md": "285f33b51017962d8acdea2a0e97edeb6047cf9b5e55bed580bda98564158cfa",
     "federal/br-federal-emenda-constitucional-1996-03-04-10.md": "f9ffaa64afacd2f72dbad148321b66e3aaf4158509f628c839389738eaf45610",
     "federal/br-federal-emenda-constitucional-1996-04-30-11.md": "01065890028f51cfc0f88a4c9e374ca085d1c64c1595265b509b54a379bc4e77",
-    "federal/br-federal-emenda-constitucional-1996-08-15-12.md": "71a408fc6804db7055a1072c6b584b403e0e2421a8e71228611cfd36ccedc27c",
+    "federal/br-federal-emenda-constitucional-1996-08-15-12.md": "b7dd99b4a9eaaf0fd6f7f01a30169ab84406d02cb062fe44bb992b6393009a83",
     "federal/br-federal-emenda-constitucional-1996-08-21-13.md": "ca372cbce6e27e080408f916c3d0f7d7db2ad091ff051a094e5a1e64531e30c9",
     "federal/br-federal-emenda-constitucional-1996-09-12-14.md": "d840aafaedfd81e5e2e8b16c75e55dc808b4e98920e6000a4e65d0d91923187f",
     "federal/br-federal-emenda-constitucional-1996-09-12-15.md": "b7df5e296ddaae09a0e6b31251028859c6a87bc672b9ff2bef577ba6230d840b",
@@ -962,7 +963,7 @@
     "federal/br-federal-resolucao-congresso-nacional-2008-11-06-3.md": "8e679906098805521ef8670686e6cbf0ae4cbfaf3d9c8a9473b7d2af71148142",
     "federal/br-federal-resolucao-congresso-nacional-2012-07-27-1.md": "e5176f577c074dfb1492f9727f047ff2f527fbd19b4ef3e5e4cd387cba15f225",
     "federal/br-federal-resolucao-congresso-nacional-2013-07-11-1.md": "2b71bc3885d93a3c1c1d2732fd2141b052015568cf27bf46aaf041629bb96be8",
-    "federal/br-federal-resolucao-congresso-nacional-2013-11-22-3.md": "b6524fb92a80b1ba3e1e45c4b47b61ce22d5b517fbccd05a0e5cadc0c06c351b",
+    "federal/br-federal-resolucao-congresso-nacional-2013-11-22-3.md": "a3ce22575f3f565405038bfb3f944f380428e86cd27f530f0d574c1d654d7cd5",
     "federal/br-federal-resolucao-congresso-nacional-2014-01-16-1.md": "74abff6e0aecdfaf59021b90a7828792010849614dd28fda367950ab176d720d",
     "federal/br-federal-resolucao-congresso-nacional-2014-01-16-2.md": "f4cdc801197b4b623b2928fb70f11f1a0b087a7cd4a55cc442cfc0ff76a21da9",
     "federal/br-federal-resolucao-congresso-nacional-2015-03-11-1.md": "e59b60057bf63a4380855e470bc15b83fa2b6712c84e9596d10b5f4057a0c49a",
@@ -1021,6 +1022,7 @@
     "federal/br-federal-resolucao-senado-federal-2018-05-28-9.md": "bd5f55d326a168d403f4905a25e163a6d230adb25e619b32bc4b28280c893f5d",
     "federal/br-federal-resolucao-senado-federal-2018-05-30-11.md": "9327eaa23de5e7d592d8e521495d628a9bfc0fd14c977b52d24e5e7d9b068c86",
     "federal/br-federal-resolucao-senado-federal-2018-06-06-12.md": "fb0dbf8bc23370c96cfeeb06f8fedcaaa2a7ec74ff2e47f766f1a565d030793c",
+    "federal/br-federal-resolucao-senado-federal-2018-06-25-13.md": "cac6364c54996603ea03a32acec30ea4e3c2a563d8230cff93dc10fb0ba351fb",
     "federal/br-federal-resolucao-senado-federal-2018-07-03-14.md": "0d337c4d882b810290fa9d1c005bca2f56d126f49143c8cc37fc05672359d89e",
     "federal/br-federal-resolucao-senado-federal-2018-07-04-15.md": "f9fd4d4ec1fc873e1891ce139025c36a9bf5996409b14c3f7d10ec575c512c3b",
     "federal/br-federal-resolucao-senado-federal-2018-07-11-16.md": "afc138ec08808753483c6c57027fbc3f4a7d00c24eab4eb23d0fe44f9e939946",
@@ -1423,5 +1425,19 @@
     "municipais/4106902/br-municipal-4106902-lei-organica-1990-consolidada-cmc-2014.md": "5dccf518fe188e932888982faf5a4d50a3ac40a1bfaec541905e33ef60129e9f",
     "municipais/4314902/br-municipal-4314902-decreto-2023-05-11-21978.md": "20cfcc95d23c3cac89c5fda4d3c299ccb850d86a7b3aba0ad7f49baaf18cc567",
     "municipais/5208707/br-municipal-5208707-decreto-2024-06-25-2469.md": "9f92b54546ccef0fbf2110f8758c58eb0f4198ed9862d02a12125eb720b03419"
+  },
+  "hashes_atualizados_com_prova_de_conferencia": {
+    "federal/br-federal-emenda-constitucional-1995-11-09-9.md": {
+      "motivo": "Atualizado somente o metadado fonte_conferencia após captura oficial atual; corpo jurídico e proveniência/captura original permanecem inalterados/desconhecidos.",
+      "prova": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/fontes-conferencia.json"
+    },
+    "federal/br-federal-emenda-constitucional-1996-08-15-12.md": {
+      "motivo": "Atualizado somente o metadado fonte_conferencia após captura oficial atual; corpo jurídico e proveniência/captura original permanecem inalterados/desconhecidos.",
+      "prova": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/fontes-conferencia.json"
+    },
+    "federal/br-federal-emenda-constitucional-2004-06-30-44.md": {
+      "motivo": "Atualizado somente o metadado fonte_conferencia após captura oficial atual; corpo jurídico e proveniência/captura original permanecem inalterados/desconhecidos.",
+      "prova": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/fontes-conferencia.json"
+    }
   }
 }

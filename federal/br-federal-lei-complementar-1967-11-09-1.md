@@ -1,3 +1,20 @@
+---
+norma_id: "br-federal-lei-complementar-1967-11-09-1"
+edicao_id: "br-federal-lei-complementar-1967-11-09-1@caminho-publicado"
+norma_tipo: "lei-complementar"
+norma_numero: "1"
+norma_data: "1967-11-09"
+orgao_emissor: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+edicao_tipo: "desconhecida"
+serie_historica: "desconhecido"
+situacao: "nao-informada"
+vigencia_certificada: false
+campo_fontes: {"norma_id": "caminho-canonico", "edicao_id": "caminho-canonico", "norma_tipo": "caminho-canonico", "norma_numero": "caminho-canonico-e-epigrafe-literal", "norma_data": "caminho-canonico-e-epigrafe-literal", "orgao_emissor": "desconhecido-explicito: nenhuma captura validada nesta entrega", "fonte_orgao": "desconhecido-explicito: nenhuma captura validada nesta entrega", "fonte_url": "desconhecido-explicito: nenhuma captura validada nesta entrega", "edicao_tipo": "desconhecido-explicito: texto de edicao nao revalidado nesta entrega", "serie_historica": "desconhecido-explicito: nao derivada do ano ou do numero", "situacao": "desconhecido-explicito", "vigencia_certificada": "contrato-global-sempre-false"}
+sha256_markdown: "8a13e33a8d73f4346c1b7479d7b7835751ab92ebe7d3a89c11217fcec1a9d26c"
+---
+
 LEI COMPLEMENTAR Nº 1, DE 9 DE NOVEMBRO DE 1967
 
 Estabelece os requisitos mínimos de população e renda pública e a forma de consulta prévia às populações locais, para a criação de novos municípios. [(Ementa com redação dada pela Lei Complementar nº 46, de 21/8/1984)](http://www2.camara.leg.br/legin/fed/leicom/1980-1987/leicomplementar-46-21-agosto-1984-363940-norma-pl.html)

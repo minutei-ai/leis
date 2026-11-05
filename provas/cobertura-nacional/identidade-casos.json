@@ -14,6 +14,10 @@
             "estado": "parcial"
           },
           "arquivo": "federal/br-federal-lei-complementar-1962-07-17-1.md",
+          "serie_historica": {
+            "valor": "lei-complementar-ao-ato-adicional",
+            "estado": "informado"
+          },
           "estado_arquivo": "publicado"
         },
         {
@@ -26,6 +30,10 @@
             "estado": "informado"
           },
           "arquivo": "federal/br-federal-lei-complementar-1967-11-09-1.md",
+          "serie_historica": {
+            "valor": "desconhecido",
+            "estado": "desconhecido"
+          },
           "estado_arquivo": "publicado"
         }
       ]

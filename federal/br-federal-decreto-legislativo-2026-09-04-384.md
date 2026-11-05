@@ -12,7 +12,7 @@ senado_id: "43755216"
 urn: "urn:lex:br:federal:decreto.legislativo:2026-09-04;384"
 edicao_id: "br-federal-decreto-legislativo-2026-09-04-384@original"
 edicao_tipo: "historica"
-edicao_integral: true
+edicao_integral: false
 fonte_orgao: "normas.leg.br / Congresso Nacional"
 fonte_url: "https://normas.leg.br/api/public/binario/85eeaf1c-c829-4e92-9202-de8911744d92/texto"
 fonte_formato: "html"
@@ -30,6 +30,10 @@ efeitos_diferidos: "preservados-nas-notas-do-texto"
 sha256_markdown: "b07da9b192509cf7f6386f7c226c8d9da9530184e1adab63c2de63c520b8d58b"
 manifesto: "provas/especies-legislativas-federais/manifesto.json"
 contrato_versao: 1
+status_publicacao: "publicado-corpo-parcial"
+corpo_status: "parcial-remissao-explicita"
+excluir_denominador_integra: true
+remissoes_literais: ["O texto da Decisão acima citado está publicado no Diário do Senado Federal de 27 de fevereiro de 2025"]
 ---
 
 <!-- nota-edicao:inicio -->
