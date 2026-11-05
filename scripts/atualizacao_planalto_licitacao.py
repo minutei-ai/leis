@@ -439,7 +439,41 @@ def build():
     print('build ok', flush=True)
 
 
+def verify_mp1349_evidence():
+    """Recalcula a situação da MP a partir das duas respostas oficiais preservadas."""
+    evidence = json.loads((PROVAS / 'mp1349-evidencia-status.json').read_text(encoding='utf-8'))
+    payloads = {}
+    for kind, rec in evidence['fontes'].items():
+        compressed = (ROOT / rec['snapshot']).read_bytes()
+        assert nl.sha256(compressed) == rec['sha256_xz'], kind
+        raw = lzma.decompress(compressed)
+        assert nl.sha256(raw) == rec['sha256'] and len(raw) == rec['bytes'], kind
+        assert rec['url'] == MP1349_STATUS[f'url_{kind}'], kind
+        payloads[kind] = json.loads(raw)
+    materia = payloads['materia']['DetalheMateria']['Materia']
+    identity = materia['IdentificacaoMateria']
+    assert identity['CodigoMateria'] == MP1349_STATUS['materia_codigo']
+    assert identity['IdentificacaoProcesso'] == MP1349_STATUS['processo_id']
+    assert identity['DescricaoIdentificacaoMateria'] == MP1349_STATUS['identificacao']
+    assert identity['IndicadorTramitando'] == MP1349_STATUS['indicador_tramitando']
+    decision = materia['DecisaoEDestino']['Decisao']
+    for source, field in [('Data', 'data'), ('Sigla', 'sigla'), ('Descricao', 'descricao')]:
+        assert decision[source] == MP1349_STATUS['decisao'][field], field
+    processo = payloads['processo']
+    assert str(processo['id']) == MP1349_STATUS['processo_id']
+    assert str(processo['codigoMateria']) == MP1349_STATUS['materia_codigo']
+    assert processo['identificacao'] == MP1349_STATUS['identificacao']
+    for source, field in [('situacaoAtual', 'situacao_atual'),
+                          ('siglaSituacaoAtual', 'sigla_situacao_atual'),
+                          ('dataSituacaoAtual', 'data_situacao_atual')]:
+        assert processo[source] == MP1349_STATUS[field], field
+    assert processo['deliberacao']['siglaTipo'] == decision['Sigla']
+    assert processo['deliberacao']['data'] == decision['Data']
+    return payloads
+
+
 def verify():
+    verify_mp1349_evidence()
     fontes = load_fontes()
     sources = {k: read_snapshot(k) for k in SOURCES}
     docs_out, proofs, manifest = compute(sources, fontes)

@@ -1,0 +1,21 @@
+{
+  "fontes": {
+    "materia": {
+      "url": "https://legis.senado.leg.br/dadosabertos/materia/173530.json",
+      "snapshot": "provas/atualizacao-planalto-licitacao/fontes/senado-mp1349-materia.json.xz",
+      "sha256": "e6a6edc12531e212497c6f1724aedf892b411fd01244f3e1d8ab626dedfe2543",
+      "sha256_xz": "f736ed00b30961cc6f5c251e473bb35e2f33fa938ee7775872574d2cbb49a9a2",
+      "bytes": 6219,
+      "capturado_em": "2026-11-05T13:04:33.876309+00:00"
+    },
+    "processo": {
+      "url": "https://legis.senado.leg.br/dadosabertos/processo/9029245.json",
+      "snapshot": "provas/atualizacao-planalto-licitacao/fontes/senado-mp1349-processo.json.xz",
+      "sha256": "8f965dc3fa4eda25e4eb668a1493105db01a7f3d9f45a802adb3b381d7d7317c",
+      "sha256_xz": "2725dfdc61bcb687f61d83988ce38c9ee9f50ae3beac41c9e66b74d1b85a3b12",
+      "bytes": 25856,
+      "capturado_em": "2026-11-05T13:04:33.887075+00:00"
+    }
+  },
+  "limite": "Situação parlamentar da MP; não certifica vigência da Lei 12.462 nem efeitos residuais."
+}
