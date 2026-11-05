@@ -24,10 +24,14 @@ anexos_no_corpo: 7
 tabelas: 10
 imagens_omitidas: 1
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "2fba9970309f31f236bd0125fb70b13c8a44e7284791bce160f0e9106f965167"
+sha256_markdown: "9f953d620c07681837da1927d32908e69a5d7ba88bfc31fb5989cdae77791d73"
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
+
+CÂMARA DOS DEPUTADOS
+
+Centro de Documentação e Informação
 
 # LEI COMPLEMENTAR Nº 123, DE 14 DE DEZEMBRO DE 2006
 

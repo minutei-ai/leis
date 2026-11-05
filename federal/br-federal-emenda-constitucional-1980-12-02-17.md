@@ -1,10 +1,12 @@
-**EMENDA CONSTITUCIONAL Nº 17**
+###EMC-000017-0-000-02-12-1980@@@
 
-***Altera os artigos 23, 24 e 25 da Constituição Federal e dá outras providências.***
+<strong>EMENDA CONSTITUCIONAL Nº 17</strong>
 
-**AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL**, nos termos do art. 49 da Constituição Federal, promulgam a seguinte emenda ao texto constitucional:
+<em><strong>Altera os artigos 23, 24 e 25 da Constituição Federal e dá outras providências.</strong></em>
 
-**Art**. 1º - Os arts. 23, 24 e 25 da Constituição Federal passam a vigorar com as seguintes alterações:
+<strong>AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL</strong>, nos termos do art. 49 da Constituição Federal, promulgam a seguinte emenda ao texto constitucional:
+
+<strong>Art</strong>. 1º - Os arts. 23, 24 e 25 da Constituição Federal passam a vigorar com as seguintes alterações:
 
 “Art. 23 - .................................................................................................................................
 
@@ -42,66 +44,12 @@ III - dois por cento ao Fundo Especial que terá sua aplicação regulada em lei
 
 § 3º - A transferência dos recursos dependerá do recolhimento dos impostos federais arrecadados pelos Estados, pelo Distrito Federal e pelos Municípios e da liquidação das dívidas dessas entidades ou de seus órgãos de administração indireta, para com a União, inclusive as oriundas de prestação de garantia.”
 
-**Art**. 2º - O aumento da participação dos Estados, do Distrito Federal e dos Municípios, na distribuição prevista nos itens I e II do artigo 25 da Constituição Federal, será feito à razão de um por cento, no exercício de 1981, meio por cento, no exercício de 1982 e meio por cento, no exercício de 1984.
+<strong>Art</strong>. 2º - O aumento da participação dos Estados, do Distrito Federal e dos Municípios, na distribuição prevista nos itens I e II do artigo 25 da Constituição Federal, será feito à razão de um por cento, no exercício de 1981, meio por cento, no exercício de 1982 e meio por cento, no exercício de 1984.
 
-**Art**. 3º - Os critérios de distribuição da parcela do imposto sobre operações relativas à circulação de mercadorias devida aos Municípios, a que se refere o § 9º do art. 23 da Constituição Federal, deverão ser observados a partir de 1º de janeiro de 1982.
+<strong>Art</strong>. 3º - Os critérios de distribuição da parcela do imposto sobre operações relativas à circulação de mercadorias devida aos Municípios, a que se refere o § 9º do art. 23 da Constituição Federal, deverão ser observados a partir de 1º de janeiro de 1982.
 
 Parágrafo único - No ano de 1981 prevalecerá, para a distribuição da parcela do imposto a que se refere este artigo, o critério vigente em 1980.
 
 Brasília, em 02 de dezembro de 1980
 
-A Mesa da Câmara dos Deputados
-
-A Mesa do Senado Federal
-
-FLÁVIO MARCÍLIO
-
-Presidente
-
-LUIZ VIANA
-
-Presidente
-
-NILO COELHO
-
-1º Vice-Presidente
-
-RENATO AZEREDO
-
-2º Vice-Presidente
-
-DINARTE MARIZ
-
-2º Vice-Presidente
-
-WILSOM BRAGA
-
-1º Secretário
-
-ALEXANDRE COSTA
-
-1º Secretário
-
-EPITÁCIO CAFETEIRA
-
-2º Secretario
-
-GABRIEL HERMES
-
-2º Secretário
-
-ARI KFFURI
-
-3º Secretário
-
-LOURIVAL BAPTISTA
-
-3º Secretário
-
-WALMOR DE LUCA
-
-4º Secretário
-
-GASTÃO MÜLLER
-
-4º Secretário
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A Mesa da Câmara dos Deputados</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A Mesa do Senado Federal</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>FLÁVIO MARCÍLIO</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>LUIZ VIANA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>NILO COELHO</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>RENATO AZEREDO</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>DINARTE MARIZ</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>WILSOM BRAGA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>ALEXANDRE COSTA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>EPITÁCIO CAFETEIRA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretario</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>GABRIEL HERMES</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>ARI KFFURI</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>LOURIVAL BAPTISTA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>WALMOR DE LUCA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>GASTÃO MÜLLER</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td></tr></tbody></table>

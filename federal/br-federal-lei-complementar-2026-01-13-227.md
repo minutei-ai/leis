@@ -24,7 +24,7 @@ anexos_no_corpo: 2
 tabelas: 9
 imagens_omitidas: 1
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "d82f0f1927285af368cc6d46f9e544e6a5eb752c7f73960dd124c0412befe80d"
+sha256_markdown: "ee860b085cd3c8c86b09030984fe6687bb2ce5106b102af3457179356984b17e"
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
@@ -5656,5 +5656,7 @@ Geraldo José Rodrigues Alckmin Filho
 Arthur Cerqueira Valerio
 
 Silvio Serafim Costa Filho
+
+Este texto não substitui o publicado no DOU de 14.1.2026, [republicado no DOU de 15.1.2026](https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Ret/LCP227-26-Rep.doc) e [retificado em 23.1.2026](https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2026/Ret/LCP227-26-ret.doc).
 
 \*

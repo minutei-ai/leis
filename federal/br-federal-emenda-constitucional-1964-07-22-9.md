@@ -1,16 +1,18 @@
+###EMC-000009-0-000-22-07-1964@@@
+
 AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL promulgam, nos têrmos do art. 217, § 4º, da Constituição, a seguinte Emenda Constitucional:
 
-**EMENDA CONSTITUCIONAL Nº 9**
+<strong>EMENDA CONSTITUCIONAL Nº 9</strong>
 
-**Art**. 1º Os arts. 38 (*caput*), 39 (*caput*), 81, 82 e 83 da Constituição Federal passam a vigorar com a seguinte redação:
+<strong>Art</strong>. 1º Os arts. 38 (<em>caput</em>), 39 (<em>caput</em>), 81, 82 e 83 da Constituição Federal passam a vigorar com a seguinte redação:
 
 “Art. 38. A eleição para Deputados, Senadores, Presidente e Vice-Presidente da República far-se-á, simultâneamente, em todo o País.
 
-**Art**. 39. O Congresso Nacional reunir-se-á, na Capital da República, a 1º de março de cada ano, e funcionará até 1º de dezembro.
+<strong>Art</strong>. 39. O Congresso Nacional reunir-se-á, na Capital da República, a 1º de março de cada ano, e funcionará até 1º de dezembro.
 
 …….….….…….………….………………….….…..………………………………………………...
 
-**Art**. 81. O Presidente da República será eleito, em todo o País, cento e vinte dias antes do têrmo do período presidencial, por maioria absoluta de votos, excluídos, para a apuração desta, os em branco e os nulos.
+<strong>Art</strong>. 81. O Presidente da República será eleito, em todo o País, cento e vinte dias antes do têrmo do período presidencial, por maioria absoluta de votos, excluídos, para a apuração desta, os em branco e os nulos.
 
 § 1º Não se verificando a maioria absoluta, o Congresso Nacional, dentro de quinze dias após haver recebido a respectiva comunicação do Presidente do Tribunal Superior Eleitoral, reunir-se-á em sessão pública para se manifestar sôbre o candidato mais votado, que será considerado eleito se, em escrutínio secreto, obtiver metade mais um dos votos dos seus membros.
 
@@ -20,19 +22,19 @@ AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL promulgam, nos têrmos do 
 
 § 4º O Vice-Presidente considerar-se-á eleito em virtude da eleição do Presidente com o qual se candidatar, devendo, para isso, cada candidato a Presidente registrar-se com um candidato a Vice-Presidente.
 
-**Art**. 82. O Presidente e o Vice-Presidente da República exercerão o cargo por quatro anos.
+<strong>Art</strong>. 82. O Presidente e o Vice-Presidente da República exercerão o cargo por quatro anos.
 
-**Art**. 83. O Presidente e o Vice-Presidente da República tomarão posse a 15 de março, em sessão do Congresso Nacional.
+<strong>Art</strong>. 83. O Presidente e o Vice-Presidente da República tomarão posse a 15 de março, em sessão do Congresso Nacional.
 
 § 1º No caso do § 2º do art. 81, a posse realizar-se-á dentro de 15 dias, a contar da proclamação do resultado da segunda eleição, expirando, porém, o mandato a 15 de março do quarto ano.
 
 § 2º O Presidente da República prestará, no ato da posse, êste compromisso: “Prometo manter, defender e cumprir a Constituição da República, observar as suas leis, promover o bem geral do Brasil, sustentar-lhe a união, a integridade e a independência.”
 
-**Art**. 2º O inciso III do art. 95 da Constituição passa a vigorar com o texto seguinte:
+<strong>Art</strong>. 2º O inciso III do art. 95 da Constituição passa a vigorar com o texto seguinte:
 
 “III - irredutibilidade de vencimentos, que, todavia, ficarão sujeitos aos impostos gerais (art. 15, nº IV).”
 
-**Art**. 3º O parágrafo único do artigo 132 e os arts. 138 e 203 da Constituição passam a ter a seguinte redação:
+<strong>Art</strong>. 3º O parágrafo único do artigo 132 e os arts. 138 e 203 da Constituição passam a ter a seguinte redação:
 
 “Art. 132...................................................................................................................................
 
@@ -54,7 +56,7 @@ c) o militar não excluído e que vier a ser eleito, será, no ato da diplomaç�
 
 Art. 203. Nenhum impôsto gravará diretamente os direitos do autor, nem a remuneração de professôres e jornalistas, excetuando-se da isenção os impostos gerais (art. 15, número IV).”
 
-**Art**. 4º O art. 41 da Constituição passa a vigorar com a seguinte redação:
+<strong>Art</strong>. 4º O art. 41 da Constituição passa a vigorar com a seguinte redação:
 
 “Art. 41. A Câmara dos Deputados e o Senado Federal, sob a direção da Mesa dêste, reunir-se-ão em sessão conjunta para:
 
@@ -70,7 +72,7 @@ V - deliberar sôbre o veto.
 
 Parágrafo único. Cada uma das Câmaras reunir-se-á, em sessões preparatórias, a partir de 1º de fevereiro do primeiro ano da legislatura, para a posse de seus membros e eleição das respectivas Mesas.”
 
-**Art**. 5º É incluído, no art. 45 da Constituição, o seguinte parágrafo:
+<strong>Art</strong>. 5º É incluído, no art. 45 da Constituição, o seguinte parágrafo:
 
 “Art. 45. .............................................................................................................................................
 
@@ -78,7 +80,7 @@ Parágrafo único. Cada uma das Câmaras reunir-se-á, em sessões preparatória
 
 § 3º Em se tratando de crime comum, se a licença para o processo criminal não estiver resolvida em 120 (cento e vinte) dias, contados da apresentação do pedido, êste será incluído em ordem do dia, para ser discutido e votado, independentemente de parecer.”
 
-**Art**. 6º A próxima eleição para Presidente e Vice-Presidente da República far-se-á em 1966, juntamente com a eleição para Deputados e Senadores, na forma do art. 38 da Constituição.
+<strong>Art</strong>. 6º A próxima eleição para Presidente e Vice-Presidente da República far-se-á em 1966, juntamente com a eleição para Deputados e Senadores, na forma do art. 38 da Constituição.
 
 Parágrafo único. Os mandatos dos atuais Presidente e Vice-Presidente da República estender-se-á até 15 de março de 1967.
 

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-04-25-8718",
+  "fonte_principal": "camara-D8718",
+  "sha256_fonte_principal": "d097428fce26cba72164955b2ecd4b0e6b628b7c70abfd14246cadd82a15eba1",
+  "sha256_conteudo": "d097428fce26cba72164955b2ecd4b0e6b628b7c70abfd14246cadd82a15eba1",
+  "capturado_em": "2026-11-04T20:27:45Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8718-25-abril-2016-782928-publicacaooriginal-150154-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8718.htm.xz",
+  "sha256_snapshot_armazenado": "705b65142fa0cefd97d2814b604b8690910df2e82acd29bcd6a9b6f2107eea8b",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 131,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-04-25-8718",
+    "numero": "8718",
+    "data": "2016-04-25",
+    "titulo_fonte": "DECRETO Nº 8718, DE 25 DE ABRIL DE 2016",
+    "ementa": "PROMULGA O TRATADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E O JAPÃO SOBRE A TRANSFERÊNCIA DE PESSOAS CONDENADAS, FIRMADO EM TÓQUIO, EM 24 DE JANEIRO DE 2014.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590298"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

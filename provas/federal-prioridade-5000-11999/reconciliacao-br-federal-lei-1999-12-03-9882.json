@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1999-12-03-9882",
+  "fonte_principal": "planalto-L9882",
+  "sha256_fonte_principal": "772befe0d607a61eb4b93f4fbbd3aee6761c49f273122dd40d9c05b28145183b",
+  "sha256_conteudo": "e4fbe656e90e29d1c15c58e78203ad33fb59bdd34006f4de142cb6a57202de64",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L9882.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9882.htm.xz",
+  "sha256_snapshot_armazenado": "cfd3bbc8218826eb505c706c6ff210d80c08c890d1032752aaddcffefbb8a0be",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 4860,
+    "caracteres_normalizados_markdown": 4860,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 11,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 51,
+    "artigos": 14,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1999-12-03-9882",
+    "numero": "9882",
+    "data": "1999-12-03",
+    "titulo_fonte": "LEI Nº 9882, DE 3 DE DEZEMBRO DE 1999",
+    "ementa": "Dispõe sobre o processo e julgamento da argüição de descumprimento de preceito fundamental, nos termos do § 1º do art. 102 da Constituição Federal.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "551758"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

@@ -27,6 +27,7 @@ sha256_markdown: "327c954439e9bed708fcb9b3cf67bc7c77daf8fb7bec28f1429dcc604e87cd
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 63, DE 4 DE FEVEREIRO DE 2010
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 5.2.2010
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2010-02-04-63.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -78,4 +80,8 @@ Brasília, em 4 de fevereiro de 2010.
 | Deputado RAFAEL GUERRA 1º Secretário | Senador HERÁCLITO FORTES 1º Secretário |
 | Deputado INOCÊNCIO OLIVEIRA 2º Secretário | Senador JOÃO VICENTE CLAUDINO 2º Secretário |
 | Deputado Odair Cunha 3º Secretário | Senador MÃO SANTA 3º Secretário |
-| Deputado NELSON MARQUEZELLI 4º Secretário | Senadora PATRÍCIA SABOYA 4ª Secretária |\*
+| Deputado NELSON MARQUEZELLI 4º Secretário | Senadora PATRÍCIA SABOYA 4ª Secretária |
+
+Este texto não substitui o publicado no DOU 5.2.2010
+
+\*

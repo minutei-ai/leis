@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1992-07-16-8443",
+  "fonte_principal": "planalto-L8443",
+  "sha256_fonte_principal": "8bfc817d859f2b05bed4c2ff263ee0dcb223f4560a50022be2649c26e14e85d3",
+  "sha256_conteudo": "bf720ed2f11422ca207837ee6ab2fb24d6475549c6a8700405bc1839d2e080fc",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L8443.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8443.htm.xz",
+  "sha256_snapshot_armazenado": "3feea3518018c46f93817ae36fe21a32df415854ab7310e6c01b5f03ac2b3495",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 51530,
+    "caracteres_normalizados_markdown": 51530,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 5,
+    "links": 56,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/decreto/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 452,
+    "artigos": 113,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "109",
+      "110",
+      "111",
+      "112",
+      "113"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1992-07-16-8443",
+    "numero": "8443",
+    "data": "1992-07-16",
+    "titulo_fonte": "LEI Nº 8443, DE 16 DE JULHO DE 1992",
+    "ementa": "Dispõe sobre a Lei Orgânica do Tribunal de Contas da União e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "550319"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

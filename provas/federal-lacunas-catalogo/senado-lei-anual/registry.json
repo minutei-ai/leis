@@ -1,0 +1,2591 @@
+{
+  "gerado_em": "2026-11-04T20:29:10Z",
+  "periodos": [
+    "1822-1965",
+    "2010-2026"
+  ],
+  "anos": {
+    "1822": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1822",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:11:59.571243+00:00",
+      "sha256": "9fe4e5de32f35641d26371290b6b91bf5b3b801b87d5b40c6efb009dba32da22",
+      "records": 2,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1822.json.xz",
+      "sha256_snapshot_armazenado": "991e60f3dc509bc53f7620b8ace13a03e7f65f87b56960a3ec9aeaea9ac3520b",
+      "metadados": {
+        "Versao": "04/11/2026 09:11:59",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1823": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1823",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:00.427539+00:00",
+      "sha256": "e3993c894687214553d1266a25279432b6220f900ec0799fbd5dd9d2c1fe1e76",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1823.json.xz",
+      "sha256_snapshot_armazenado": "95d03f14720a4dead509bc180071e8b6ead6b7fd77f0cae80087ad79b7c91686",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:00",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1824": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1824",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:01.431777+00:00",
+      "sha256": "27eed1589c1bd77fbc4b8551fa39da1c5d6b05439f3901a1ac066ef0dd951153",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1824.json.xz",
+      "sha256_snapshot_armazenado": "d71b0aee7a81974fcc7d3a58d88ff487ffad02769bd640aff65ba5062711abce",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:01",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1825": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1825",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:02.436750+00:00",
+      "sha256": "6bd343b222602487573da69629c321eb832c052a59b9d404effda0a7670407b0",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1825.json.xz",
+      "sha256_snapshot_armazenado": "a64b75bfbed9b168b60eb3b161d93916f73a322e9f10a71592cd6ff1f579ba16",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:02",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1826": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1826",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:03.456283+00:00",
+      "sha256": "6d06cb56fdb892ff1f3857ceb2f009cde47886e8449d2c7c82360062f5bf58c9",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1826.json.xz",
+      "sha256_snapshot_armazenado": "d2639773dedcfbaff4dcfb2369337af106cc83c8c29cb21e810ac2b6368fce03",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:03",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1827": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1827",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:04.440329+00:00",
+      "sha256": "63a381377c293ec2ad3c5a083a7cdfe561a55a9c03b3f15a4429e3855d50ef89",
+      "records": 28,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1827.json.xz",
+      "sha256_snapshot_armazenado": "9055125168ec1154153515cd333936ca97f5b89455aba60e82b9eab018a72db8",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:04",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1828": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1828",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:05.458907+00:00",
+      "sha256": "d00726213c5dcc68506a553f835a94dc6b3e5aa0524dd6585800ca5c4112ef1f",
+      "records": 20,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1828.json.xz",
+      "sha256_snapshot_armazenado": "d8337110aa15445040c0b7fca166d8503f56f3b45189b47dfcf14792fe9eacf3",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:05",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1829": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1829",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:06.447776+00:00",
+      "sha256": "3fdade84102ad3b457112a4bf506569fd7e897de4513b3e4df077d0c5d41aea8",
+      "records": 8,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1829.json.xz",
+      "sha256_snapshot_armazenado": "ba539b65b1e84cc5b844755715a50cc0e44acab5878e4b2d3d0049d505cafecf",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:06",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1830": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1830",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:07.431042+00:00",
+      "sha256": "32922bee25534a931a372c68318968b3d1cc46b75b9f4dcd86721cdf4a702b25",
+      "records": 22,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1830.json.xz",
+      "sha256_snapshot_armazenado": "e949dcc0f964a7e687abf015ca53b9d47548aefd8ba9125dba40668e96700288",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:07",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1831": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1831",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:08.436062+00:00",
+      "sha256": "0e099c050f2cfda5f19aad36a7a2ae216a57d149b28dea8d956246f36835c11e",
+      "records": 23,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1831.json.xz",
+      "sha256_snapshot_armazenado": "5f943b63e78f11a650e66572b5af7b9ebfbf932243037ad4c9a9210bcf9cdce4",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:08",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1832": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1832",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:09.443387+00:00",
+      "sha256": "18d01ba01ddc9b46b153130c174c31a4bda3c71eb0019ec111d3f48c47cb7258",
+      "records": 9,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1832.json.xz",
+      "sha256_snapshot_armazenado": "8133ff54aa8a2f6a90c905ed59932855e981bd83279585b2f6358ece2a29d424",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:09",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1833": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1833",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:10.434711+00:00",
+      "sha256": "1bfb53be4ffce24157e7423680549e8673ad0f5ee73b020bb7b65356dd2951dc",
+      "records": 12,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1833.json.xz",
+      "sha256_snapshot_armazenado": "520c5c0380947b2258c0ffb74d7e6e3c32afd1a5c9100ba8a2b4a60ce5449e73",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:10",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1834": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1834",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:11.437202+00:00",
+      "sha256": "801e77f7df89225180256b474f7d4cbbd60520da50b970a468fcd550009e3f2f",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1834.json.xz",
+      "sha256_snapshot_armazenado": "559e3396fe7b4e145611f231d13707b1010dc64c9e7f7487b80b94324d8c342b",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:11",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1835": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1835",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:12.445135+00:00",
+      "sha256": "ebf8e7609add1ff3d0937c53046f5785b9c5a8690a9d3464f6736aa95ac83814",
+      "records": 9,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1835.json.xz",
+      "sha256_snapshot_armazenado": "dade5d9fd25a892660710d02980cbd44f48974cc01630aa620abddf358739faa",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:12",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1836": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1836",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:13.432461+00:00",
+      "sha256": "662f589e120a5ad0d23490b43a8ae208eb6014bf3868971657912c6db5b2432a",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1836.json.xz",
+      "sha256_snapshot_armazenado": "155cf1c5aa4ad045fecae5b4af7a7ef9588ca4a6e974e3ac47d162f0e6b102ba",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:13",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1837": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1837",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:14.433855+00:00",
+      "sha256": "1e43d24eed643057a1da82a6dcaee0dc612a7cd138dbc63b2135648f5e5b94f0",
+      "records": 9,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1837.json.xz",
+      "sha256_snapshot_armazenado": "d7005962a3ca3e802acbf77dd7216d4c8ade5dec4f793045aaa3f55fc3631aca",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:14",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1838": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1838",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:15.451128+00:00",
+      "sha256": "336143e90377a09561cd640bbb4c68f4395d8c89cc751ac1b79c66ae35839375",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1838.json.xz",
+      "sha256_snapshot_armazenado": "a134225e33294b823f73c5db5fb9baa02798c8186dbd22614e8400959856eb19",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:15",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1839": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1839",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:16.426820+00:00",
+      "sha256": "29b3cc2f6af54a040b925ee01768c4dd3b2935dd82269b75d6c923b03545de01",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1839.json.xz",
+      "sha256_snapshot_armazenado": "ad4e1f37de90d45cd923a7aa0f831c96d4131eae3b41ca3fb2027ae605aacbc5",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:16",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1840": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1840",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:17.428407+00:00",
+      "sha256": "02b42ada8666f283a76834cc187fef4fe06abe124e0aea1dc64bb447cf0c5aa0",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1840.json.xz",
+      "sha256_snapshot_armazenado": "4ae7ae0bac47ca9fe8db7cc487eb7e9f8f1d44f5d2b9c9d6f731af4f93750bbf",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:17",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1841": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1841",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:18.445485+00:00",
+      "sha256": "798c9e0888b398204a662e5254ad7d5341a2a0cc630412f83b84e9dacdaded4b",
+      "records": 8,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1841.json.xz",
+      "sha256_snapshot_armazenado": "1bd72946f7f07f42f594aefece388c4613a760fa210ff7708bff5db1bb641b23",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:18",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1842": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1842",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:19.420845+00:00",
+      "sha256": "47264343fe052fe77eda9faff08a70f39e54060131d57044a4dbe19f8b8c3049",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1842.json.xz",
+      "sha256_snapshot_armazenado": "c1482af2f95b1c6a2fbff8a0af92cfd7175ab07f10baa51de884a7ac737e8297",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:19",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1843": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1843",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:20.431053+00:00",
+      "sha256": "ab62ac7b3c7a8faca13bb116db91ef1f487b20a21a29f5fb9482ecd71df6b85c",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1843.json.xz",
+      "sha256_snapshot_armazenado": "46bc1a033cca948bc38c23cf4423fd4caa9aea89ae5ba99764cc8b078caf7306",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:20",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1844": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1844",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:21.432813+00:00",
+      "sha256": "c0c1a9e98ccc1e7f38cd51445d5663eb0c03be8ff4cd1866a5518a567019f7a4",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1844.json.xz",
+      "sha256_snapshot_armazenado": "19d74c84a763c12fd4e9c400dfaccc61d7fb4a7663c426adaf8fd2d248ce1796",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:21",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1845": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1845",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:22.443067+00:00",
+      "sha256": "e0443212c3a10e17c0764f7d10d9c58016c14da5256c1e30fbef1b7eb9bb4e01",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1845.json.xz",
+      "sha256_snapshot_armazenado": "be90901f47dcdd1953472fb97a9f55490e475042c03cbfc9a9c7a39e09bbe0be",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:22",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1846": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1846",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:23.453854+00:00",
+      "sha256": "33c2e1730ec9b09c1ed443852eaa2df33db5fe77e5c876ef926fdae9025c8487",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1846.json.xz",
+      "sha256_snapshot_armazenado": "3402753797c5c1db7a09dbb55c276da4fc89b7c0e31b307624db77a8b04963e3",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:23",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1847": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1847",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:24.428413+00:00",
+      "sha256": "1d67758f3864cf19e5778287a4d2607ba94734b770f2d2163bd235f339a12df1",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1847.json.xz",
+      "sha256_snapshot_armazenado": "df45ec5ca0a63eae3dcecabb6cb49248814783c8eb1bf430c9743b4afe6d35f5",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:24",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1848": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1848",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:25.444906+00:00",
+      "sha256": "13c94ba8d982c177f17cff3b92b5e3f4b25ecf69d0ae71e87a45fd08fdd40026",
+      "records": 1,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1848.json.xz",
+      "sha256_snapshot_armazenado": "82797957cea45a40eed61aae5509fe67333ea9ef2187d8a6fc97b86f3f6ce87a",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:25",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1849": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1849",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:26.444696+00:00",
+      "sha256": "7a85c003455addc8b364143ad1fa543f39845504950345c331b1bcb1b80eda4a",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1849.json.xz",
+      "sha256_snapshot_armazenado": "8876dc27db3bb74849a91303070799972507a14d0266a80471170e9f677d9d71",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:26",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1850": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1850",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:27.462529+00:00",
+      "sha256": "3f63cf59d3c17f51b870a17e8d554bc5da36290bc4a5702fabb395812745671b",
+      "records": 13,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1850.json.xz",
+      "sha256_snapshot_armazenado": "2a793839c750df694e8e36066055205bcc1ee226cbd9e5ce98221803f4f3cfaf",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:27",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1851": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1851",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:28.456346+00:00",
+      "sha256": "f213a805b7bf04800deb9a4de1f943864c971e8576cebf06f4d5566817f71041",
+      "records": 8,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1851.json.xz",
+      "sha256_snapshot_armazenado": "3a08f58642f3492d7edabea3284c2b6ed93ffe2930c9aabfa0c76afb4bce0727",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:28",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1852": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1852",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:29.462619+00:00",
+      "sha256": "70a2e6089b9ea5d4f06385335472baf5593e60af8d8e55b2df55d818dc9af713",
+      "records": 5,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1852.json.xz",
+      "sha256_snapshot_armazenado": "083a93bf9b0b4534fbcd49f892b7bb60dee42e0b2b567af0eec1037e1892bc67",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:29",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1853": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1853",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:30.452374+00:00",
+      "sha256": "416b140520a03f809f104b94d2f57b8a3acd31c9d325370268ee2dd3ba4b0c2f",
+      "records": 8,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1853.json.xz",
+      "sha256_snapshot_armazenado": "91d81c5ba2a071e0efd2d630e3e67a302c8d10d4acefe84a083c65ac3b631d61",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:30",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1854": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1854",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:31.464389+00:00",
+      "sha256": "5ad2783c5bcfeaaafb742a4eb41c74807b29489ec41cdb4fe2638d13b43a601a",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1854.json.xz",
+      "sha256_snapshot_armazenado": "cc4d2a2a9b448893b4501259d04c9bbdf659e39315548689bfd20b85d428b146",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:31",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1855": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1855",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:32.430444+00:00",
+      "sha256": "85610b83b5f89e75cd3882da9f81c1335259756fd32b4f28c77684b1589a86ea",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1855.json.xz",
+      "sha256_snapshot_armazenado": "c1923ec5140f1685f82ee7b49500cb27d895862a5e983f6a168bb05e712f4bdf",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:32",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1856": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1856",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:33.440498+00:00",
+      "sha256": "f19655e5541774b10a2c2854559d0a0026344a59cc7f6b39c448c804b88c70cd",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1856.json.xz",
+      "sha256_snapshot_armazenado": "0697a9bc60dc6eb29d458d72da3106259c6306cd1825b13ef0f6eac487bc448a",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:33",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1857": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1857",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:34.452908+00:00",
+      "sha256": "4536f322e12b56cc0e696cdfb1b310429e8423f62d77636c1cfdaf704d440869",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1857.json.xz",
+      "sha256_snapshot_armazenado": "8aa8ea7b36331d6a51220cdc5aa16fef787a1640f5fb7ff24b64c6d6a042a530",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:34",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1858": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1858",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:35.442701+00:00",
+      "sha256": "c0264183347f15a9d49a8524d8bcb9c1ea737cf6210f53f3c339b3b92cac6409",
+      "records": 2,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1858.json.xz",
+      "sha256_snapshot_armazenado": "4dec18f8930c7ed1a94d388dbb1373eb45d525d9c30a3aceebe700b5122d7dda",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:35",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1859": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1859",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:36.455237+00:00",
+      "sha256": "5c9ea43e20c0918379813ca6c1a667726c8bfd2d03b0db5e3ed029a5bf972d8c",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1859.json.xz",
+      "sha256_snapshot_armazenado": "b4d0d9a0e092f52c686160a29ed74b26a2ff26fdf67a82f1fde2494eb8f9c423",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:36",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1860": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1860",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:37.442081+00:00",
+      "sha256": "72e74980364a493b36c4458d07c7ef0351be84e09fa06af755791a647089ce53",
+      "records": 5,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1860.json.xz",
+      "sha256_snapshot_armazenado": "2ce9f235985bbc4c4b7f97bd74254843f77b8c1a1e20941fffabfd08a8fb64e9",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:37",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1861": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1861",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:38.455284+00:00",
+      "sha256": "4063bfc01d2a2b8cc5e962be3be0cd6aa6397651dd0c5392f9d4fafc154e55cc",
+      "records": 2,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1861.json.xz",
+      "sha256_snapshot_armazenado": "8a878dcfc5c1a65067ada24a1abb7b4658ca39dab676108f93135a5430c09a9e",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:38",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1862": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1862",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:39.453293+00:00",
+      "sha256": "edea5e1393cdf6dd4cdd143cfa0dc6ad7784cffc9aeafca43cca4476fc37ee77",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1862.json.xz",
+      "sha256_snapshot_armazenado": "b4cc946c92e50df513495e9bb937baf892bbc9f44255292b8637ec2011844284",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:39",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1863": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1863",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:40.447248+00:00",
+      "sha256": "6a28a129aa5e3237e4d98b0f47c414c3d83c9115e38403c75ac7879f27d49d5b",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1863.json.xz",
+      "sha256_snapshot_armazenado": "c6a902617a53c890ea4cd722ce1a85904b7e59806d6db78514c51cee86f3d2c0",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:40",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1864": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1864",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:41.452649+00:00",
+      "sha256": "af4c66f79e1530721f826c3abf506be670fdbde28c6ab1ab301a01106edb6c3b",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1864.json.xz",
+      "sha256_snapshot_armazenado": "e54c8f67ca97de9e4dcc483bd9ade7bb7bf8b619d462bedbb6b8cf606d8309f8",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:41",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1865": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1865",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:42.433924+00:00",
+      "sha256": "96706083797e288522d33df6af00bed4031a31097a9c842ce608a8357aece4af",
+      "records": 7,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1865.json.xz",
+      "sha256_snapshot_armazenado": "ff236a9ca9d4bdf46dc132ae1309ad42111566718cb056b1a88f3d1a28662182",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:42",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1866": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1866",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:43.451679+00:00",
+      "sha256": "705c83d54fb70552554dc093e1ae4c155b6c89a29326fbd483b593bc17dfb928",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1866.json.xz",
+      "sha256_snapshot_armazenado": "291f66a01cf501d0bd24eb742d4e1b5cb35a0f75eabbe07c58fed36386f68098",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:43",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1867": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1867",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:44.444807+00:00",
+      "sha256": "1347d14af55aafcdc2eb8222be20a4b0263e7c3826012ad5c9b78c5dfc8ab4eb",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1867.json.xz",
+      "sha256_snapshot_armazenado": "24b28bae1a5b6a78559aaa3fcf5c41912acf55da365883fb72c7ec2508208d0a",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:44",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1868": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1868",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:45.437654+00:00",
+      "sha256": "4a6c9b30b38b06b05f83f3ace2e6c6b2b6a0414a7aab316d28a928e5b8921672",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1868.json.xz",
+      "sha256_snapshot_armazenado": "d4b361242310b17c63fcf3cd21f0da75dd400041e01f8d46db20e6b6989e8744",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:45",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1869": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1869",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:46.449111+00:00",
+      "sha256": "943c1fdadf8b139f72a57c0c6f8a3602d491be8b7df40553f14a0736553ee8a9",
+      "records": 8,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1869.json.xz",
+      "sha256_snapshot_armazenado": "36b7c000f1845bb3c8b17b851c773789217c6ba8fbe9afda8b0ab0543d97a907",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:46",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1870": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1870",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:47.452484+00:00",
+      "sha256": "f2b780b04f66b26e945b59dd8848366ef24eb7fe669f4fd00ba06ecc83444998",
+      "records": 12,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1870.json.xz",
+      "sha256_snapshot_armazenado": "a9af4848eb5757e1ed6c8c5ec43021b70ab0f0ad46c80d6eb14f2104666654e7",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:47",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1871": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1871",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:48.442827+00:00",
+      "sha256": "61545eb0a7831a6d9419bd71e997b736045cce2bf5e02a9af5a5854d1e7e75d9",
+      "records": 7,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1871.json.xz",
+      "sha256_snapshot_armazenado": "a50bd20dda44ca8737765eba568d7827901c2fe418d172f487294f3f68e5cc45",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:48",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1872": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1872",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:49.446943+00:00",
+      "sha256": "57981d7bdd7f5860f1501c58b5d6609b3d7f5f3e051ccc3a8b3f9e20dffaa1a6",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1872.json.xz",
+      "sha256_snapshot_armazenado": "7507ba07b7ba532e198364d06fc8b67e7614427ebb32ce77b48a5c03f4fe63e2",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:49",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1873": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1873",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:50.455229+00:00",
+      "sha256": "6d5dc737ab39078cde014dcc4f4e68ebd1f22924198d92bf97fe1c0a765dc49a",
+      "records": 9,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1873.json.xz",
+      "sha256_snapshot_armazenado": "90e0010999d0b48de59179b89508276a3c403b8265ac8543ca3136fdbd4b394e",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:50",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1874": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1874",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:51.452980+00:00",
+      "sha256": "f842f69e17fe8d41c8bdb02534494169261696ff1feafdef99f02a83a79aee0e",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1874.json.xz",
+      "sha256_snapshot_armazenado": "e5c873ddae48ba86e42faaed8adce9dad14da1afd58cf53749ed3dd533fc5ba5",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:51",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1875": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1875",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:52.437011+00:00",
+      "sha256": "79468be90ab608c2e5f7cd44e5af0bc9f355a6084cda338d61880f9ff8f2a0b2",
+      "records": 11,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1875.json.xz",
+      "sha256_snapshot_armazenado": "114002ef1269b4249547248631d1a4f0050abd5ba347a8af4f2bcb6fbdeb2362",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:52",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1876": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1876",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:53.453547+00:00",
+      "sha256": "0f4d9a8056c1ddac332a9ef84805952f017deb042b74da58c29188e7f5e32b76",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1876.json.xz",
+      "sha256_snapshot_armazenado": "48e9641a1aacf743198570fb78bedfddafaec09809eb5e67b9ca66da2fe9bda7",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:53",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1877": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1877",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:54.440451+00:00",
+      "sha256": "3d338c6d4fe52ea149ef9432093221ff20ac7c92ad549b4886f45d3effa49499",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1877.json.xz",
+      "sha256_snapshot_armazenado": "7b847c86b2345a5f67749949a52eeb128c448ffe58fdf48377c53fe1c31ec41c",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:54",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1878": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1878",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:55.443551+00:00",
+      "sha256": "c1a41af2bc1da14ae187e31bbc5c0a3de95627bb6bffd2b7d5a81b1f47582602",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1878.json.xz",
+      "sha256_snapshot_armazenado": "35e490f33a61d2a7455b690f38463ab0f3f4c5b9d3c3336c3b0cec04ced4e5a5",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:55",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1879": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1879",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:56.456092+00:00",
+      "sha256": "2c6fd9b6c7b83d5a43d043ee67716a9ff1542e5f1743fa98e054a76c9134cc6a",
+      "records": 15,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1879.json.xz",
+      "sha256_snapshot_armazenado": "9de83a1d873d154765dc56ef18f7e421d4a89326c28d8dea57818d15ee6f4615",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:56",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1880": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1880",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:57.454147+00:00",
+      "sha256": "4e64049ee9594e09ee8c64ed06c013ad7e7eb53d9d6278476715561dd6c2b673",
+      "records": 8,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1880.json.xz",
+      "sha256_snapshot_armazenado": "68c9fb66314f5fe33076723b6e9dd6b3cbf276c7c4ca99f1e3b126bb96c72409",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:57",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1881": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1881",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:58.443267+00:00",
+      "sha256": "22b01f1de061a8b1314160124c04697de712a7d0636515a36162cb8c758d5658",
+      "records": 1,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1881.json.xz",
+      "sha256_snapshot_armazenado": "92715f238618624cfa8499cea20b702363043deee1fb3972c5942d432493db6f",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:58",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1882": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1882",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:12:59.488468+00:00",
+      "sha256": "a5292de549f4615debff9de2eda46672fdb74d2c915a24871f0efa1443e06b52",
+      "records": 18,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1882.json.xz",
+      "sha256_snapshot_armazenado": "e1888eb949e84ceadb0380564f7edd5c06582c885def66f5552e875a72142214",
+      "metadados": {
+        "Versao": "04/11/2026 09:12:59",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1883": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1883",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:00.461245+00:00",
+      "sha256": "67efd2d45ce72d9195ee6bb68ad806b17532b48ea8bc0d10935f244faf2a084a",
+      "records": 15,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1883.json.xz",
+      "sha256_snapshot_armazenado": "ac4c40a84bf9062fbf69a6fa94b0ae94aaceea263a4c4dd3ec20d076f1040ac8",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:00",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1884": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1884",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:01.439249+00:00",
+      "sha256": "3cba81c307e85992dcbf6e9da40e26407d49e59999f81bc222a95b2da96c4160",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1884.json.xz",
+      "sha256_snapshot_armazenado": "1861c8189e836d84f2b741a65367b85fdf474650ffb956319d5b4ed6f3b3c6e4",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:01",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1885": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1885",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:02.443613+00:00",
+      "sha256": "3f9ddac972d64d7cb9713397be6f0def284f6def15481db3f919a36c5c6db151",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1885.json.xz",
+      "sha256_snapshot_armazenado": "1012bee27920d8c795e2f49f74263f7141fd67522753a305783c65d796329794",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:02",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1886": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1886",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:03.472887+00:00",
+      "sha256": "cd0a2f0f2a0b3f59308ed67757e2efb383883e493bf3decb226f0a938846b40e",
+      "records": 17,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1886.json.xz",
+      "sha256_snapshot_armazenado": "22a874552deb1c3355dfe73cc5bfc7fff2671dc43d0e547ded18470d72416ac1",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:03",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1887": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1887",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:04.442966+00:00",
+      "sha256": "486a8618f62b14ce658f5af6726d2114a300925977a15ea0d53042b5115f248f",
+      "records": 7,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1887.json.xz",
+      "sha256_snapshot_armazenado": "448620b8a221bddc421f722fcc527edd3c89616297ba232b6052228b7358c26b",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:04",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1888": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1888",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:05.469066+00:00",
+      "sha256": "631a31fb736f3ce8fec1a734f18ea4303f7ecb5e4ea0f0c22ed3bb0a21c5d8bd",
+      "records": 9,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1888.json.xz",
+      "sha256_snapshot_armazenado": "871208cd02f618e6e72236501bc8584595ceba01c88148cc19c7fd9064aaee82",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:05",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1889": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1889",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:06.447041+00:00",
+      "sha256": "7ff76a422b2fdc1a73de23c815ddbbce2565b5883b16f85baf0f8ab8b2d0809c",
+      "records": 1,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1889.json.xz",
+      "sha256_snapshot_armazenado": "1b6cf659cdba63dbfc6c8f5a6b8f53867a1ec1fa76efda4678bdcf97703fd78a",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:06",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1890": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1890",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:07.461233+00:00",
+      "sha256": "e65110f755cb922ab483065dabecebc0a0c2586fc1d2ba42e6edc3f53e91e67b",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1890.json.xz",
+      "sha256_snapshot_armazenado": "349f7dc6dd0d7d8eb9fee26027c114c9575cc1b91440cff91f73952db9ebeb96",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:07",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1891": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1891",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:08.471207+00:00",
+      "sha256": "946e360d25c19fd9b6494614b447f008368af75a4eddca36c3c023a0c4c77a6c",
+      "records": 8,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1891.json.xz",
+      "sha256_snapshot_armazenado": "f220790bf2c5edbeb52fcbd5d2fe5c21b7498120659f5839ed813c6c3ed3d606",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:08",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1892": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1892",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:09.470246+00:00",
+      "sha256": "5d7d4f3e82d44313eb34370021943fc99a692cf95fb9a95810ef45080447e0cf",
+      "records": 14,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1892.json.xz",
+      "sha256_snapshot_armazenado": "bc26a596e2c857361c5553a15561ba60b890b0f3819626a69a7e3e8683ff67f9",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:09",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1893": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1893",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:10.455994+00:00",
+      "sha256": "2117fd00a1c848232d1fab28fe55207a0f0cbe2318963936d6c15e40116f9e46",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1893.json.xz",
+      "sha256_snapshot_armazenado": "c759bb8f9b8aa64d90c097c807c84799f71ac5d24342bcc0e02daac4afa58d94",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:10",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1894": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1894",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:11.458346+00:00",
+      "sha256": "4aae65707579effe69eb61f37d6dd5cb4ab4e79199fceba696a6e8343339159c",
+      "records": 9,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1894.json.xz",
+      "sha256_snapshot_armazenado": "c295f4d0d16a46b71f14b2cacf9c0345aab0236ab155e72f102114689fa20cac",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:11",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1895": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1895",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:12.474755+00:00",
+      "sha256": "98cd36c64625cbc40f02304be9948b35081340c537a8cec6b3b5a877f7be8a5d",
+      "records": 13,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1895.json.xz",
+      "sha256_snapshot_armazenado": "2cefbf49373a07a669593f4b32c43e150671da5a00d6e62923e7e8fbc6da7a82",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:12",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1896": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1896",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:13.457709+00:00",
+      "sha256": "fac4ce112ff51d1e94c3057bd3fa48e6bca0552fc5889a546544ba97fe2dbc23",
+      "records": 12,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1896.json.xz",
+      "sha256_snapshot_armazenado": "f1d7501d0a407806095320be556924d63c26d803b3a2471e3b399fd84e08bede",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:13",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1897": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1897",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:14.469550+00:00",
+      "sha256": "c664b47719e6347e92afb2adf864bf2023354b0ee8d36f76c534bff74b1addde",
+      "records": 7,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1897.json.xz",
+      "sha256_snapshot_armazenado": "5705bb6ecd6ef7e6317124e035b6511a858cc38ecf6eb20af8d353df0413db50",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:14",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1898": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1898",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:15.460916+00:00",
+      "sha256": "d4f454b8423887913510cd71057c1756e21e3905272e3f06b82cfb18d15f0184",
+      "records": 9,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1898.json.xz",
+      "sha256_snapshot_armazenado": "06d07d46d356cc6011eaeb368299d6ca0256cca08a8b894e8237d377ef68465f",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:15",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1899": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1899",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:16.473039+00:00",
+      "sha256": "b415c02b9b518345eed528b67e4edb7e2c94a585de7a63925aad0570bc79210a",
+      "records": 13,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1899.json.xz",
+      "sha256_snapshot_armazenado": "90145199e3a273a60ec01907288ade7fb1c7ad82ba502eec86a9fecfee7dd0eb",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:16",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1900": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1900",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:17.471163+00:00",
+      "sha256": "c76f0deeefabc2227cea4bcc2119902b6183d48bc03c0fb40b620f5d43027b8f",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1900.json.xz",
+      "sha256_snapshot_armazenado": "e25dd1747f47e80f579479f992f48ad18072a0ef219254be6d2be142713b66f4",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:17",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1901": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1901",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:18.460752+00:00",
+      "sha256": "29a19fcb49f61820024842326ccd49d9d3ad4e1306eecd7b4a75e0d22e58cf0a",
+      "records": 5,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1901.json.xz",
+      "sha256_snapshot_armazenado": "1c3f9f527dc3e688688798e2e27190377b4ebdadcb52561d9ec84440454d755e",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:18",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1902": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1902",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:19.451358+00:00",
+      "sha256": "96b70e67a40ba7ef30f4b9908a07d1c8f86fe7470388e720ae1fd729b3640754",
+      "records": 7,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1902.json.xz",
+      "sha256_snapshot_armazenado": "cf3e9b6848ab7bbe794324b9e6f70ced7e3a64dc7896eb39a21ba52fbd3fb452",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:19",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1903": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1903",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:20.459073+00:00",
+      "sha256": "23b762e8a06ac679c4180481578b08f08043ec17c03a81777e8fb0162c9e4a88",
+      "records": 5,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1903.json.xz",
+      "sha256_snapshot_armazenado": "3a14d40c75caf0c161738f963662ca5a9c696bfe2c776028ee64a0cc0a9923cb",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:20",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1904": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1904",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:21.462690+00:00",
+      "sha256": "e3ff06d48806bf2be72a98e51c4c90a54159ac783209c7e73a2c293fc019e103",
+      "records": 7,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1904.json.xz",
+      "sha256_snapshot_armazenado": "97edc706983c85223212705af71fa1374abffdeb31951ed9ae451d50a08714ed",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:21",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1905": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1905",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:22.458080+00:00",
+      "sha256": "0b7f45f841bb55d26d2f1ee6862cb1489f1a730d553b246352cc8c22800fd728",
+      "records": 5,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1905.json.xz",
+      "sha256_snapshot_armazenado": "44783ed847fb0c913d11a677857e2c0cc5b6ddf39f8bb38af1f6bfd454c724af",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:22",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1906": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1906",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:23.447814+00:00",
+      "sha256": "c7157247e286730871bd13c46d861c0e811cf51637391760f8f31d8a836b4bca",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1906.json.xz",
+      "sha256_snapshot_armazenado": "66b975ddde518101947123c2900a22067599b47b1732e6e182a325ef18bb04e7",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:23",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1907": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1907",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:24.463090+00:00",
+      "sha256": "8556c3662b24bb1327bd77128bf07ce54d63978dc7404264e3e01c49a90683a2",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1907.json.xz",
+      "sha256_snapshot_armazenado": "ad6b4428a1c22e73f90882c209093fe08e602d8a282e03e8c76d733d2fa4bcd5",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:24",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1908": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1908",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:25.456651+00:00",
+      "sha256": "23fd834551df27b7ea2c2cf5c4b8d8e8218e912adafd8de86f4920e6fd60e9ab",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1908.json.xz",
+      "sha256_snapshot_armazenado": "c7a791896752eec2b44c0c830fbc52dae8f1fbe5036ce07e5a6baad27af81b73",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:25",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1909": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1909",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:26.464185+00:00",
+      "sha256": "5779a09a8653e5146b0bbd88ee47bfacf5cc9cb7b771470ba67a01bc0292dc6b",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1909.json.xz",
+      "sha256_snapshot_armazenado": "812009f00c02d485f45c7a89d92de68d8171f89c40daa33e0833540474de5e01",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:26",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1910": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1910",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:27.464966+00:00",
+      "sha256": "a829b1ab5c5ea807d7a891566acf86a66aa2a8e00ce71558095c8f9e36a761fe",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1910.json.xz",
+      "sha256_snapshot_armazenado": "377001ed41ea0d4d8c0432115f03fe63560d6bc8b9247e36f41353a4d3faa308",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:27",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1911": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1911",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:28.450339+00:00",
+      "sha256": "70c9c9b4b92534adc98d0e0ff0db19ff3cfd08a19378050e05671ad87d42964d",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1911.json.xz",
+      "sha256_snapshot_armazenado": "6e3e20da806f05b3f304823a5d4ce64751c134eb6b54f1bf871ba0fc72fe8eda",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:28",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1912": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1912",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:29.458794+00:00",
+      "sha256": "326574a2fc1001114651e432df6030d85bff2f6a5e5bb2b57260fef49e0eabc6",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1912.json.xz",
+      "sha256_snapshot_armazenado": "b65eca68261b935300edaae80a654a891922231b48c6e887f7f1bb36b7eea02b",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:29",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1913": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1913",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:30.439338+00:00",
+      "sha256": "ada18744aac486593f9671e229edc7fec828ee98d4b18703ab5df7718e398c7d",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1913.json.xz",
+      "sha256_snapshot_armazenado": "9211358576cca04b5d9d1c3dcb96547663edd94adbd5228484c019717a0fbae7",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:30",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1914": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1914",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:31.451917+00:00",
+      "sha256": "bbf1d5f2878571efe98626d25309c8ad10b40a15cfd65adff86f89f13e4edd89",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1914.json.xz",
+      "sha256_snapshot_armazenado": "87bfd0cb66429714895aabe99c238fc6acc0006a5477736ebfeb84499d9d0e4e",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:31",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1915": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1915",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:32.451917+00:00",
+      "sha256": "f7f2163d1e8daa0668fdc7610e0076c465ec8e7d2eede8aafda7706f8a18a725",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1915.json.xz",
+      "sha256_snapshot_armazenado": "caf759bf8d50e2ea78b4ce1b8fbbb3efc4a73715b07435b0ae97ed26d738212e",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:32",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1916": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1916",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:33.442457+00:00",
+      "sha256": "48dee58fb0dbaa320d5d63c49aaf0403b2b0810eef93c9bfc7e6bc6887a0c304",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1916.json.xz",
+      "sha256_snapshot_armazenado": "f0cf55f27719490d877b4c6a99cef8676ccfa23525ceb816621e32449ff8f4b2",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:33",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1917": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1917",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:34.463140+00:00",
+      "sha256": "dabd5b1d92a788ff1c86315d9506bfc7287fcadc9918e94087aa0dbd34035bda",
+      "records": 5,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1917.json.xz",
+      "sha256_snapshot_armazenado": "897a9a84251614041444d55a78aa4d46fec3c7e89d8d1ab4ecadcb9e7b8206ca",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:34",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1918": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1918",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:35.466642+00:00",
+      "sha256": "883e01c427d3f09672839d6eace81196e23f1d0eea9f47f89ede452cc3ab0d61",
+      "records": 2,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1918.json.xz",
+      "sha256_snapshot_armazenado": "11841f7259114e7a5b6e3887ad668aca2ee7645eb2c306f8698265b028cd27f1",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:35",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1919": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1919",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:36.470961+00:00",
+      "sha256": "2a424d608ad31ef25812a67c85834d65f12f14f5134278f7a7a70bb74d6c39a8",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1919.json.xz",
+      "sha256_snapshot_armazenado": "8585b4be96241f51894c16b12051ebabad57a7e5e77988f95d6c6da437316370",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:36",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1920": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1920",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:37.447942+00:00",
+      "sha256": "a000fd02a8531b25581fd7785e2ff9bba678159895c93927f94f108715097fbe",
+      "records": 4,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1920.json.xz",
+      "sha256_snapshot_armazenado": "2cd1b734606f810f4de384c68a800fcfbac3bfd574108e75cc73d5206c1acf4f",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:37",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1921": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1921",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:38.475926+00:00",
+      "sha256": "c9706f92ce86361c784a7684856bdfabddb06731a85b9bdf7ca91e294c2771f3",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1921.json.xz",
+      "sha256_snapshot_armazenado": "9c9484220c901d7c2acf082131c37dd162e7a4a290a62c9ecd0505b15231e4b6",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:38",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1922": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1922",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:39.476437+00:00",
+      "sha256": "f9cf0d5d733f157f988745150f865ed1e5e1128802b8056da73b2af947e2e29f",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1922.json.xz",
+      "sha256_snapshot_armazenado": "f24ae44581b20063ccdcf6354f5cdb20642774af04c248d2235ea2785e1e9ae9",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:39",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1923": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1923",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:40.445301+00:00",
+      "sha256": "3b61688f2e169858843150493e03995ab12869fa4ebacdd812b5ba57e9ab7397",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1923.json.xz",
+      "sha256_snapshot_armazenado": "0ceef5ea4d6b56b6fbd73e5803c90bedc03670f13e685daa06ebe5f54a2b2d8f",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:40",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1924": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1924",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:41.446579+00:00",
+      "sha256": "5ee23c716a752df1f1657055f64de9e56f5aff34f67486b2dd9a70796c1ee9de",
+      "records": 1,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1924.json.xz",
+      "sha256_snapshot_armazenado": "3807b7af58bc150d5843a2f083fcc0d136153ec5cc9712a5b28902771ce79557",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:41",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1925": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1925",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:42.463217+00:00",
+      "sha256": "3fc09d62d11fba7a5c977448d52fb8b2e981bf02738dd2fbdedc6e913e9fc3b4",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1925.json.xz",
+      "sha256_snapshot_armazenado": "bb7f0b83a61d556e4ec688b9ea5e606838d1f865a928ec9deb53b97f7ca3d94a",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:42",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1926": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1926",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:43.465756+00:00",
+      "sha256": "45c8a2555dcd63e8bb65170bbf788aee04a6814d92f6378a4784f8bcae9f5b67",
+      "records": 1,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1926.json.xz",
+      "sha256_snapshot_armazenado": "ab144cc99c5085d47cb4f435ff0db5d581cb671a9aec2e9bb9f5fa7736f1f71d",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:43",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1927": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1927",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:44.476866+00:00",
+      "sha256": "af612555a9486bdf8e3c79f26b6fc1910b1e7a2075a3b655c7abafd2c0015425",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1927.json.xz",
+      "sha256_snapshot_armazenado": "9b0aeecaf5e168164a789c3e04e0600abd8deec3c8327d68486917bd4577bfdb",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:44",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1928": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1928",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:45.454134+00:00",
+      "sha256": "228e06cf5a9abf979d3d9a1464b9d2812c5ef0bcc32322bee959243fdfd89120",
+      "records": 6,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1928.json.xz",
+      "sha256_snapshot_armazenado": "b34b34b13f749ac02accc018eb7dccf347db9164549315def41d042ec9aec4cc",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:45",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1929": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1929",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:46.443617+00:00",
+      "sha256": "10d2791fe439a51dc32c55750fd4656dbc2fb31715afea6e0516d5ce5ee823d8",
+      "records": 3,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1929.json.xz",
+      "sha256_snapshot_armazenado": "49562ad05c783408ae2f3965048de642fa833bf6eb4f9695f5cd784d519b0304",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:46",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1930": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1930",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:47.443263+00:00",
+      "sha256": "62a0fc3e1927201c4e78b6646f24b2941c73f5627a1576536bb71cf02ba863e3",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1930.json.xz",
+      "sha256_snapshot_armazenado": "98ef61423fafbe06f0048d234073d919026fb5f6bc4f0c6ef1089cc35f06fb65",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:47",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1931": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1931",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:48.448823+00:00",
+      "sha256": "b666e484a1f2f779413c6e9b34768ee72f296373735d91b87f277fab2636bd2d",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1931.json.xz",
+      "sha256_snapshot_armazenado": "ac294221587b420d4fe234f6d06de29d289ab28bdcf725ac18f30a5141fc1d3a",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:48",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1932": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1932",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:49.447807+00:00",
+      "sha256": "8ae1112c0d12a53ead4cb56cb00568656f1601375e0b32dca7d2d143c98c097e",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1932.json.xz",
+      "sha256_snapshot_armazenado": "a2036a560ee17a5978edb291cf9496a419c91875bfdf2b799dba15416af22da9",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:49",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1933": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1933",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:50.449535+00:00",
+      "sha256": "c1671f63a302e3e82a16d96cf0ea2a331bc253588e5b78a165936b8fef419d38",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1933.json.xz",
+      "sha256_snapshot_armazenado": "d0dd7994ea8c5305637627e9a76e38f33513dc5947e3dd7ff51239028eb2368e",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:50",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1934": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1934",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:51.463119+00:00",
+      "sha256": "3d89c29f10cd68b7c84faa5567bbd8ee816f3f06106dd66835c36cec30a8c909",
+      "records": 2,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1934.json.xz",
+      "sha256_snapshot_armazenado": "eb40ef4ef1fb7c34917f102297e38be6c9e6e3dba890c53b98f4abc582fa7114",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:51",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1935": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1935",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:52.616405+00:00",
+      "sha256": "4469c1a9751e65175927d10578bd8cb31f19f143fd9422a528de7300501935b9",
+      "records": 141,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1935.json.xz",
+      "sha256_snapshot_armazenado": "93dc06ac0f41fc68def86c4e9a2063f75441f29b307d80b03520499641111dde",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:52",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1936": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1936",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:53.686663+00:00",
+      "sha256": "10ffbc4ea0b8ed3c30b2788e85891c3ea205e2b52fe6bff13a2f5733439737b6",
+      "records": 204,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1936.json.xz",
+      "sha256_snapshot_armazenado": "77b512717a2a1979ede8f6eb85e3e4df254ccce7071ff98c060827ca871d4cbb",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:53",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1937": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1937",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:54.687868+00:00",
+      "sha256": "bee25b86023108f7ae793cf3dd451baef573cc9bcacd52419286c074348a6626",
+      "records": 214,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1937.json.xz",
+      "sha256_snapshot_armazenado": "f6b6b193f681133cda51031005d4cdc50c9b8234f282840b01abaa933d0365be",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:54",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1938": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1938",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:55.455677+00:00",
+      "sha256": "3941f30861b06f009043410fec33dda7f712bea05d856b27c6b79f811b2c8ae4",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1938.json.xz",
+      "sha256_snapshot_armazenado": "27d772d3e7d30bc17fa2f29f3a9a3cfc19f69cb0af67972705e56a35dd536d5c",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:55",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1939": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1939",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:56.462767+00:00",
+      "sha256": "19ac702ec053edc57b79bee3a2902d638fd3c7e07ab62371fa2236be6280be91",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1939.json.xz",
+      "sha256_snapshot_armazenado": "18405a60e2ca987f15fb4fbdc17ed474d48fad19dfe7a8b6338576c31fb6440e",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:56",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1940": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1940",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:57.464639+00:00",
+      "sha256": "313b2d66a7b19b3409c825e2441ae69853528a746e0690904b9b6b6e5a0bcf9c",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1940.json.xz",
+      "sha256_snapshot_armazenado": "c32dfd49368daf0e20c1d07e469bedc6141fe38b0fec8f38c4d19142d11a2421",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:57",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1941": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1941",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:58.454127+00:00",
+      "sha256": "f85a2ad08c36158f289d408edd3223af81bfa82342abad482a980d4773702635",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1941.json.xz",
+      "sha256_snapshot_armazenado": "49c7036c3bafecb91fc5741b07c532e210a50b5d149ec4989bed6aa57f0bb348",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:58",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1942": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1942",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:13:59.456113+00:00",
+      "sha256": "826b6e2f34cd2af1871f92c8b057304dc1b81e2e24351ba9c69251b5e7acf797",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1942.json.xz",
+      "sha256_snapshot_armazenado": "101fbbacda2ce8abc238879847488257285af5a9a0b8cbd87c0f2471bd8cfc8c",
+      "metadados": {
+        "Versao": "04/11/2026 09:13:59",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1943": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1943",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:00.476517+00:00",
+      "sha256": "d54ca388883af766d02e4bac9f2259ec4d29330c99d39dc43a15a9f66d54acdf",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1943.json.xz",
+      "sha256_snapshot_armazenado": "9f32a418f67a0182ac91e6037f50d843b83ae0810688bb12819328841a9c69a9",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:00",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1944": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1944",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:01.454732+00:00",
+      "sha256": "b8cafac7cfc57a719d1269c2df1e5de0a526600739e4f1873d7987b247c79713",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1944.json.xz",
+      "sha256_snapshot_armazenado": "0f0ad3dd9c23e63326cd91de26efa870382d8a2faaf5e003e040b39f22124bf3",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:01",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1945": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1945",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:02.459121+00:00",
+      "sha256": "2b48f60c69c1ebd58d3e9d368d27555f4263c5b021318e03b238ec9fae7ec1e6",
+      "records": 0,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1945.json.xz",
+      "sha256_snapshot_armazenado": "f74d925c57fb032905e5ddbe4d8950a5add9b6142b818fd959834d9379235006",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:02",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1946": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1946",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:03.462707+00:00",
+      "sha256": "36588fdc280ddb0db9199021175b20abc37891d57f22ff6a909c38369b47c497",
+      "records": 12,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1946.json.xz",
+      "sha256_snapshot_armazenado": "26647df887fdfcd264188738ec59c9b4715af0128c6b3b97cac4218ddac06630",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:03",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1947": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1947",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:04.692428+00:00",
+      "sha256": "dc9bc5beace7d4eaeb3b9892d44b9c8b06b6ee7af6cb46dce0315d145bd53d2f",
+      "records": 197,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1947.json.xz",
+      "sha256_snapshot_armazenado": "cf5ac9864fd4148add2b078c7e88118cbe262912e07813035662827e0fe1d704",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:04",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1948": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1948",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:05.927393+00:00",
+      "sha256": "7d09ef8560c845bcc782ade62c46bb65c62953d75087da160c6450a60455ad39",
+      "records": 403,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1948.json.xz",
+      "sha256_snapshot_armazenado": "ef4228bbca8f261a3354717b0bd53bbc78dc46572002eb862ee090b5ea3d3629",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:05",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1949": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1949",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:06.917405+00:00",
+      "sha256": "6c259f39d9ca26269c1b3c51e3e44942676210118e15696857eebb50fa2b2b04",
+      "records": 447,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1949.json.xz",
+      "sha256_snapshot_armazenado": "8578577596947358ded85ce7d38675cf4b0f78ae5b7e1f498f0c60c8b15bb291",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:06",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1950": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1950",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:07.722140+00:00",
+      "sha256": "f86a6e173ee27eb984b2e8c1db33979715dff4413ebee833410a583ff70d2966",
+      "records": 271,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1950.json.xz",
+      "sha256_snapshot_armazenado": "353562c616836d5e826a803bebf42a372f56301e75856fb20509924afb2b0b88",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:07",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1951": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1951",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:08.754883+00:00",
+      "sha256": "da44cc34826418e82133167bc7340220896609df25a8e00178a15bd03a3dc504",
+      "records": 257,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1951.json.xz",
+      "sha256_snapshot_armazenado": "fd44237687c50ca0769e69330ef8baf0bc17253a8e6caa630e9f96bdd3909173",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:08",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1952": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1952",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:09.824448+00:00",
+      "sha256": "89ce11e5497b0c358b2d8241e9dc426bb529dc0e4624490c05157b13e18602a8",
+      "records": 301,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1952.json.xz",
+      "sha256_snapshot_armazenado": "97cfc4dff40c510e3bae7bf7e2b4e9e585bdda6b541e23b0b77b4b4801019e1c",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:09",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1953": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1953",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:10.872914+00:00",
+      "sha256": "8bfb892d4b974075b662bc82c5ef18c90843666f6667887d39b4557c740470a7",
+      "records": 356,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1953.json.xz",
+      "sha256_snapshot_armazenado": "050355820ec277a809f3d83628df84cd51e9a66eb4217e856befd53daf7d3c30",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:10",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1954": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1954",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:11.734066+00:00",
+      "sha256": "d9ce0d8fdd6ea2ed7c0992d32a005103c191fadf19960d8e86bc982e2d11f316",
+      "records": 231,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1954.json.xz",
+      "sha256_snapshot_armazenado": "2e289e219d1ccef3b57cdd2ce2cd25f5f2789c25d18e7835d6d638cdeb6606fc",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:11",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1955": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1955",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:12.891966+00:00",
+      "sha256": "77e410adb900e4d1f60086eef96e4fc477bc109f487cc2227e2a507ec5426896",
+      "records": 321,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1955.json.xz",
+      "sha256_snapshot_armazenado": "2536c550e5c0c21eb19d1788e803ce2b6e95a72e00f3d3c2dd1ff548239ce60d",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:12",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1956": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1956",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:13.928261+00:00",
+      "sha256": "498b1adcf710c9eadfd9bade69dbe0858f1b6dc900b9b17aac6b4aad54ac7934",
+      "records": 391,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1956.json.xz",
+      "sha256_snapshot_armazenado": "847e9b6c3285a1097f675cdda9361c57a2f92635943ca7bed9e25fe42239f711",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:13",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1957": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1957",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:14.869916+00:00",
+      "sha256": "f5f929c46e7c92cc3343204909522d75b5e1da3e48754d67695383ea015e6386",
+      "records": 276,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1957.json.xz",
+      "sha256_snapshot_armazenado": "858e55e5b55ec8b300cc20e9f0aec4fee4be21f1db3cf5d103c40f2e579afa6a",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:14",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1958": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1958",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:15.656611+00:00",
+      "sha256": "e2c3570e6c64723436259443d9a21dc9a3cc0fee8e59b3e9464d19867e42167f",
+      "records": 154,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1958.json.xz",
+      "sha256_snapshot_armazenado": "f5d37004af57f38c337b6b874b4dbb6b7be3b6c44f0580b763f8b971e566a26b",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:15",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1959": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1959",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:16.694133+00:00",
+      "sha256": "51d92c0fbb93040972c83bccc3802506c2b0ca302e4480c6d76ce6651538cc73",
+      "records": 205,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1959.json.xz",
+      "sha256_snapshot_armazenado": "1ee26be2e82f63b6d733fb00fd03249a3b36bd6c49a3814b470a086c1ec85129",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:16",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1960": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1960",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:17.703026+00:00",
+      "sha256": "bfef374920f3c7a4b8433f62268160c3399681186708b4e803b52d398744ee03",
+      "records": 148,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1960.json.xz",
+      "sha256_snapshot_armazenado": "0945179c8971115160b266c055287b7c43f44c4e308c4bf4525becb409f7bf49",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:17",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1961": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1961",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:18.719362+00:00",
+      "sha256": "763e914d0d70a062b828c42d7272e1aba9912d8afaf5b1a2eb054027c2b6ec6e",
+      "records": 189,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1961.json.xz",
+      "sha256_snapshot_armazenado": "ace743e08a1cbece3164b260f1f58d6fa35bfb4e8033beffb5738c81ccb55eb0",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:18",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1962": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1962",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:19.607897+00:00",
+      "sha256": "8892ec7184f53581e0cb5fb374eda31acdb69efed1478e6eb97ed5c336474aea",
+      "records": 158,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1962.json.xz",
+      "sha256_snapshot_armazenado": "fbe00aa6b8c52e011a83099190b5427aa73c1413cbe8d176e2eb8f30318cf6da",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:19",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1963": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1963",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:20.598963+00:00",
+      "sha256": "594eb2fe39b2cac9baa95013341178accea1ca706b70391a82cc4607f8bc21f0",
+      "records": 123,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1963.json.xz",
+      "sha256_snapshot_armazenado": "7114abe001e5306314ab3f79c93f246879238047470a7c2e286549bcc24759c9",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:20",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1964": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1964",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:21.813174+00:00",
+      "sha256": "7880b6c88305a43e2c540eae22250a0b495de241295a0828a172d8cbbcdb73d0",
+      "records": 278,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1964.json.xz",
+      "sha256_snapshot_armazenado": "3d80722c856ac41b39c435a5173009834ce6cae2cf485d40a200756cc98949f6",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:21",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "1965": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=1965",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:14:22.822691+00:00",
+      "sha256": "6bab927d0a96ccf5bcb163cef6ac02e08d66cda1eb345c8addeb4fe52b5590ce",
+      "records": 333,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-1965.json.xz",
+      "sha256_snapshot_armazenado": "0c6143abef59dd3d9218ce5f136ce86041f9947e16a258555a11706214b72747",
+      "metadados": {
+        "Versao": "04/11/2026 09:14:22",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2010": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2010",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:03.801482+00:00",
+      "sha256": "f5f59b9d698855cfb5e124a2b44e860b7a68392c645ad96659e78647d2aec9d8",
+      "records": 191,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2010.json.xz",
+      "sha256_snapshot_armazenado": "6d0028862b50bc916cedc167a44175eb3883b49c360264397ff4acc63066cddf",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:03",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2011": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2011",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:04.820052+00:00",
+      "sha256": "c800b76e4c47af1f3405fd7a7a4a51ba4738bb7c562e8b28e76c1f22e353e6f6",
+      "records": 208,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2011.json.xz",
+      "sha256_snapshot_armazenado": "18570edc8600c08982aa44a4f6479a953cbabfadf79f7b849e24f89ada5320bd",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:04",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2012": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2012",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:05.792961+00:00",
+      "sha256": "da309fbcfe2add5a33b21c792250f6a5d33ac99587bb67300e6f5082b76ab4f6",
+      "records": 193,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2012.json.xz",
+      "sha256_snapshot_armazenado": "d5ae850bc911bad3caebc96d53461c1854dc70cfc8f7e07c7f13676290016094",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:05",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2013": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2013",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:06.864001+00:00",
+      "sha256": "b037411058dbdaf47669216001f7b7ac480c53d14e1c2220e1d761915446d392",
+      "records": 172,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2013.json.xz",
+      "sha256_snapshot_armazenado": "2e0675b9999beb27fcb2ac5693e095f1f09df6e92f442a82d111130325fdc3fd",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:06",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2014": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2014",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:07.669851+00:00",
+      "sha256": "96c7fffa220bb65b28b73c610ca23eacd53b951467259a949e8338186422c18f",
+      "records": 128,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2014.json.xz",
+      "sha256_snapshot_armazenado": "d85bf7f98392734907cc832bbb3ce3575fbd9c72473ea4eb5bc8c0badb82d1ef",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:07",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2015": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2015",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:08.749694+00:00",
+      "sha256": "dc585bd0caf2ba56be7cc81c1e78530f0f8a9f36a73f69c3ca5adfab98095e02",
+      "records": 163,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2015.json.xz",
+      "sha256_snapshot_armazenado": "b291bfd074f698a087d64c56558a1692b1e30db6de504aaec603d109eaca175e",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:08",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2016": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2016",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:09.865756+00:00",
+      "sha256": "9aad1676fb4dd2d1c0bd792797dc9b0c8e47b1cf6d25d4ac1fcf4d22d7d403cb",
+      "records": 171,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2016.json.xz",
+      "sha256_snapshot_armazenado": "ee2b02fe970aa9d92199f623c6ac06fd68a5b746101068052a54894d7d22d3bb",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:09",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2017": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2017",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:11.017825+00:00",
+      "sha256": "6250ce0c4cc1d904409aa3f90035ec6c2d47fb09fee386edda61189632a86360",
+      "records": 173,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2017.json.xz",
+      "sha256_snapshot_armazenado": "6a396009643e34ff7c1c4cbb917861794a383c8dd277be6cb66809d804c314bf",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:10",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2018": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2018",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:12.004648+00:00",
+      "sha256": "6c501cb019dd563eebbd0d0f3f686e9b494364decb45f5740541189a7d37a571",
+      "records": 202,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2018.json.xz",
+      "sha256_snapshot_armazenado": "62c092d4e0b8307127509393598901c6b01fb848590dab2bbfc6345d54c57ebc",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:11",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2019": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2019",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:12.946585+00:00",
+      "sha256": "3a493e45a05eb3af779c2902f4c6f766c21e24c7815d6020db293acf481c1917",
+      "records": 185,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2019.json.xz",
+      "sha256_snapshot_armazenado": "76b96c01e334d81476229943c79e0ea8bc49180e286099a3c99f4aab98e85c58",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:12",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2020": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2020",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:13.974854+00:00",
+      "sha256": "a733d6c3ec50d8d0c3640558b96dd3783afc513689530aa5595c72498298ad65",
+      "records": 143,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2020.json.xz",
+      "sha256_snapshot_armazenado": "b93021f6973f6c898a2049c881da6d6da1f00832703a38e4ac983ccd96cb8112",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:13",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2021": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2021",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:15.149567+00:00",
+      "sha256": "9e27dd7817e8dff05953b4c139ae7188b990f19a5c0130abd0887922772e0c54",
+      "records": 172,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2021.json.xz",
+      "sha256_snapshot_armazenado": "1b5e6030b41aa023c1c58e05e0ab9309940c0925d749dfe0bd6f29460ca7db69",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:15",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2022": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2022",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:16.277417+00:00",
+      "sha256": "b5c63b258cd3d09447405398dec513bbb58f11281f01620f122e5759442f295f",
+      "records": 228,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2022.json.xz",
+      "sha256_snapshot_armazenado": "aed66e1b29938ff7f900ea7ba2083356995b88491df9c0c2b0059aadef563095",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:16",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2023": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2023",
+      "status": "captured",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T12:15:17.345919+00:00",
+      "sha256": "4dc3741f17025be55773ff4e190665f8b5c08f9c44df28dc5655228745374644",
+      "records": 275,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2023.json.xz",
+      "sha256_snapshot_armazenado": "e278d02b0ca76ecb5bf59a3fa386637ae2be42d5711ee820883cb8f28054039a",
+      "metadados": {
+        "Versao": "04/11/2026 09:15:17",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2024": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2024",
+      "status": "validated-existing-snapshot",
+      "http_status": null,
+      "capturado_em": null,
+      "sha256": "3a76b947557082d50076218bd93683dfb41948e431f3efef4414b31de0d036f2",
+      "records": 291,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2024.json.xz",
+      "sha256_snapshot_armazenado": "21bdd1d052fe6eeb69421129a6368e60490e14cdd8234381673a55a8d667487b",
+      "metadados": {
+        "Versao": "04/11/2026 09:00:25",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2025": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2025",
+      "status": "validated-existing-snapshot",
+      "http_status": null,
+      "capturado_em": null,
+      "sha256": "9cc75619a21773b4a2428e02c03636391656c7b451b5afa21451fdd09e18ca48",
+      "records": 239,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2025.json.xz",
+      "sha256_snapshot_armazenado": "3ca98b986996909e1e33fa3def28c349722a0f456b46712d75f39254011ef715",
+      "metadados": {
+        "Versao": "04/11/2026 09:00:26",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    },
+    "2026": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=2026",
+      "status": "validated-existing-snapshot",
+      "http_status": null,
+      "capturado_em": null,
+      "sha256": "a86940fdb48714febaa6a289550f9e618b9b9c4ac4bcb3253b8e8aed94c7e2b0",
+      "records": 204,
+      "snapshot": "provas/federal-lacunas-catalogo/senado-lei-anual/senado-LEI-2026.json.xz",
+      "sha256_snapshot_armazenado": "e8cb4dc68b869aa43ba9e8dbad4ae5b324ec0e56216a994e8d9b1b22be062a36",
+      "metadados": {
+        "Versao": "04/11/2026 09:00:27",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      }
+    }
+  },
+  "fonte": "legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=AAAA",
+  "criterio_identidade": "especie+numero/complemento+data",
+  "limites": [
+    "Anos sem resultado na API são limites da fonte, não prova de inexistência.",
+    "Ementa/registro não substituem Markdown integral."
+  ]
+}

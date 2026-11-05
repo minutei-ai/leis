@@ -1,0 +1,67 @@
+{
+  "documento": "br-federal-lei-2017-01-10-13414",
+  "fonte_principal": "planalto-L13414-2017-01-10",
+  "sha256_fonte_principal": "822fc5e578afdb8be46dc2113b5c7bc8ee72c66de4b97c6bdca55328df0ddbd5",
+  "sha256_conteudo": "3ff5fa843419f1a038d0df5faf7918077cab1a51491ded33dd1e4170ac0bca6e",
+  "capturado_em": "2026-11-04T20:53:50Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/L13414.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13414-2017-01-10.htm.xz",
+  "sha256_snapshot_armazenado": "bb2aaeb919f63a9c764a567d407dcb8f70b996b29370069303ea01ef70508925",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 33,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 148,
+    "artigos": 11,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2017-01-10-13414",
+    "numero": "13414",
+    "data": "2017-01-10",
+    "titulo_fonte": "LEI Nº 13414, DE 10 DE JANEIRO DE 2017",
+    "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2017.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "602638"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

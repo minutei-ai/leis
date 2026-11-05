@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-11-12-8571",
+  "fonte_principal": "camara-D8571",
+  "sha256_fonte_principal": "98b17170579cfd1d177324979ddcf6dbe1f88fb79caac65ccdbd878a686d689e",
+  "sha256_conteudo": "98b17170579cfd1d177324979ddcf6dbe1f88fb79caac65ccdbd878a686d689e",
+  "capturado_em": "2026-11-04T20:24:21Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8571-12-novembro-2015-781904-publicacaooriginal-148658-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8571.htm.xz",
+  "sha256_snapshot_armazenado": "074b27d7ff39b5e478e4bba15008f73ac6cb59318c7b18935464866b2d7f31a3",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 21,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-11-12-8571",
+    "numero": "8571",
+    "data": "2015-11-12",
+    "titulo_fonte": "DECRETO Nº 8571, DE 12 DE NOVEMBRO DE 2015",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO OCTOGÉSIMO OITAVO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (88PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 12 DE OUTUBRO DE 2011.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593307"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

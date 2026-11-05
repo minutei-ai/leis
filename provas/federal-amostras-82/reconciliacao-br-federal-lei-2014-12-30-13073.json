@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2014-12-30-13073",
+  "fonte_principal": "planalto-L13073-2014-12-30",
+  "sha256_fonte_principal": "fe1a6fbee3f3a66dc03acada4699cc46066cad8509286b31f356f89c9fa6b01e",
+  "sha256_conteudo": "0caafaf66b056689d4b1b1fe1c76fa37ad0e72ba98d9df40daf72ed36bc857db",
+  "capturado_em": "2026-11-04T20:52:25Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13073.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13073-2014-12-30.htm.xz",
+  "sha256_snapshot_armazenado": "46e160f0d8fdf1b4dc6da8c5923104cd5a79fc7ac9bd7d657959a3df7c065ce5",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 170,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 15,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-12-30-13073",
+    "numero": "13073",
+    "data": "2014-12-30",
+    "titulo_fonte": "LEI Nº 13073, DE 30 DE DEZEMBRO DE 2014",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho, crédito especial no valor de R$ 14.641.923,00, para os fins que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584885"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

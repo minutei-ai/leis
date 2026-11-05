@@ -103,8 +103,7 @@ LC123_BASELINE_META_REL = 'provas/nucleo-licitacoes/baselines/lc123-edicao-audit
 LC123_BASELINE_PAPEL = 'baseline-texto-auditado'
 BASELINE_SHA256 = {
     'federal/br-federal-lei-2021-04-01-14133.md': HISTORIC_14133_SHA256,
-    # Corpo jurídico preservado após limpeza #98/#100 (brasão/chrome CEDI omitidos; ver metadados/limpeza-markdown/).
-    'federal/br-federal-lei-2016-06-30-13303.md': '2b2b22fb17269e961c733057bf27212ffe1356720d82f368174bbf2f71faed7b',
+    'federal/br-federal-lei-2016-06-30-13303.md': '8dfe72c14107eed49d27ed6ace922ec19b63879bb2e133147c1155eeac845875',
     LC123_PATH: 'b31d0e6a2e50918a661db65da1c79886d8a40d848aa7e3c8ff6698bfa7ea8fb7',
 }
 
@@ -524,39 +523,6 @@ def drop_camara_portal_prefix(blocks):
         break
     return out
 
-
-_DOU_DISCLAIMER_PLAIN_RE = re.compile(
-    r'^\s*(?:~~)?Este texto não substitui o publicado\s+(?:n[oa]|d[oe])\s+D\.?\s*O\.?\s*U?\.?\b',
-    re.I,
-)
-
-
-def drop_portal_disclaimer_blocks(blocks):
-    """Remove avisos 'não substitui o publicado no DOU/D.O.' dos blocos convertidos."""
-    return [b for b in blocks if not _DOU_DISCLAIMER_PLAIN_RE.match(md_plain(b, True))]
-
-
-def strip_portal_chrome_plain(text):
-    """Remove o bloco CÂMARA/CEDI de textos planos usados em cobertura fonte↔Markdown."""
-    return _CAMARA_PORTAL_PLAIN_RE.sub('', text)
-
-
-_DOU_DISCLAIMER_START_RE = re.compile(
-    r'Este texto não substitui o\s+publicado\s+(?:n[oa]|d[oe])\s+D\.?\s*O\.?\s*U?\.?',
-    re.I | re.S,
-)
-
-
-def strip_dou_disclaimer_plain(text):
-    """Remove o rodapé DOU/D.O. a partir do aviso até o fim do texto da página.
-
-    A fonte HTML costuma quebrar a frase e encadear republicação/retificação; o
-    aviso é sempre rodapé, nunca dispositivo.
-    """
-    m = _DOU_DISCLAIMER_START_RE.search(text)
-    if m:
-        return text[:m.start()].rstrip()
-    return text
 
 
 def blocks_to_markdown(blocks, title_pattern):
@@ -1551,16 +1517,13 @@ def non_article_blocks(blocks):
 
 def full_body_coverage(preserved_md, source_blocks_list):
     """Cobertura integral: texto normalizado do corpo preservado == conversão da captura atual."""
-    left = strip_fold(strip_portal_chrome_plain(md_text_all(preserved_md)))
-    right = strip_fold(strip_portal_chrome_plain(
-        ''.join(md_plain(b, True) for b in source_blocks_list)))
+    left = strip_fold(md_text_all(preserved_md))
+    right = strip_fold(''.join(md_plain(b, True) for b in source_blocks_list))
     return dict(
         descricao=('texto integral do corpo preservado == texto convertido da captura atual usada para '
-                   'conferir (inclui títulos, notas e blocos fora de artigos; sem chrome CEDI), '
-                   'após normalização'),
+                   'conferir (inclui títulos, notas e blocos fora de artigos), após normalização'),
         equivalente=left == right,
         caracteres_normalizados=len(left),
-        chrome_portal_omitido='CÂMARA DOS DEPUTADOS / Centro de Documentação e Informação',
     )
 
 
@@ -2035,18 +1998,12 @@ def compute(sources, fontes, baseline_texts=None):
         rec = fontes[key]
         data = sources[key]
         conv = convert_html(data, SOURCES[key]['charset'], doc['base_url'])
-        # Cobertura fonte↔MD usa blocos sem chrome CEDI (ainda com rodapé DOU da página).
-        # O Markdown publicado omite também o aviso DOU (#100); proveniência em limpeza-markdown.
-        cov_blocks = drop_camara_portal_prefix(conv.blocks)
-        pub_blocks = drop_portal_disclaimer_blocks(cov_blocks)
-        body_cov = blocks_to_markdown(cov_blocks, r'^LEI(?: COMPLEMENTAR)? N')
-        body = blocks_to_markdown(pub_blocks, r'^LEI(?: COMPLEMENTAR)? N')
+        body = blocks_to_markdown(conv.blocks, r'^LEI(?: COMPLEMENTAR)? N')
         title_at = body.index('# ') if body.startswith('# ') else body.index('\n# ') + 1
         title_end = body.index('\n\n', title_at)
         head, rest = body[:title_end], body[title_end + 2:]
-        converted[doc['slug']] = dict(
-            doc=doc, conv=conv, body=body, body_cov=body_cov, head=head, rest=rest, rec=rec,
-            title=body[title_at + 2:title_end], pub_blocks=pub_blocks, cov_blocks=cov_blocks)
+        converted[doc['slug']] = dict(doc=doc, conv=conv, body=body, head=head, rest=rest, rec=rec,
+                                      title=body[title_at + 2:title_end])
 
     # --- provas de conferência ---
     reconciliation = {}
@@ -2054,19 +2011,12 @@ def compute(sources, fontes, baseline_texts=None):
         doc, conv, rec = item['doc'], item['conv'], item['rec']
         proof = dict(documento=slug, fonte_principal=doc['fonte'], sha256_fonte_principal=rec['sha256'],
                      fontes_conferencia=[])
-        src_plain = strip_portal_chrome_plain(
-            source_text_chars_from_html(sources[doc['fonte']], SOURCES[doc['fonte']]['charset']))
-        # Cobertura contra body_cov (com rodapé DOU); o arquivo publicado usa body sem DOU.
-        md_plain_all = strip_portal_chrome_plain(md_text_all(item['body_cov']))
-        coverage_ok = strip_fold(src_plain) == strip_fold(md_plain_all)
+        coverage_ok = strip_fold(source_text_chars_from_html(sources[doc['fonte']], SOURCES[doc['fonte']]['charset'])) == \
+            strip_fold(md_text_all(item['body']))
         proof['cobertura_texto'] = dict(
-            descricao=('texto integral da página da fonte (sem imagens nem chrome CEDI) == '
-                       'texto convertido (inclui rodapé DOU da página), após normalização; '
-                       'o Markdown publicado omite o aviso DOU (#100)'),
+            descricao='texto integral da página da fonte (sem imagens) == texto do Markdown publicado, após normalização',
             equivalente=coverage_ok,
-            caracteres_normalizados=len(strip_fold(md_plain_all)),
-            chrome_portal_omitido='CÂMARA DOS DEPUTADOS / Centro de Documentação e Informação',
-            dou_omitido_no_publicado=True)
+            caracteres_normalizados=len(strip_fold(md_text_all(item['body']))))
         proof['conversao'] = dict(conv.stats, imagens=conv.images, tabelas=conv.tables, blocos=len(conv.blocks))
         article_splits = {}
         for ckey in doc['conferencia']:
@@ -2290,22 +2240,20 @@ def compute(sources, fontes, baseline_texts=None):
             ckey = doc['fonte']  # captura atual do órgão da edição (Câmara); NÃO é a captura original
             conf_keys = doc.get('conferencia') or []
             camara_blocks, camara_conv = source_blocks(ckey, sources[ckey])
-            camara_blocks_pub = drop_camara_portal_prefix(camara_blocks)
             old_blocks = preserved_blocks(pristine)
             measured = measure_preserved_structure(pristine)
             # Integridade do corpo preservado contra a captura atual da Câmara (mesma URL alegada;
             # hash/data desta captura NÃO se atribuem à procedência original desconhecida).
-            # Chrome CEDI omitido dos dois lados (#100); não altera o texto jurídico.
-            art_camara, _, _ = article_proof(camara_blocks_pub, old_blocks)
-            cobertura = full_body_coverage(pristine, camara_blocks_pub)
+            art_camara, _, _ = article_proof(camara_blocks, old_blocks)
+            cobertura = full_body_coverage(pristine, camara_blocks)
             titulos_camara = dict(
-                iguais=headings(main_body_blocks(old_blocks)) == headings(main_body_blocks(camara_blocks_pub)),
+                iguais=headings(main_body_blocks(old_blocks)) == headings(main_body_blocks(camara_blocks)),
                 preservado=len(headings(main_body_blocks(old_blocks))),
-                captura_atual=len(headings(main_body_blocks(camara_blocks_pub))))
+                captura_atual=len(headings(main_body_blocks(camara_blocks))))
             fora_artigos = dict(
-                iguais=non_article_blocks(old_blocks) == non_article_blocks(camara_blocks_pub),
+                iguais=non_article_blocks(old_blocks) == non_article_blocks(camara_blocks),
                 preservado=len(non_article_blocks(old_blocks)),
-                captura_atual=len(non_article_blocks(camara_blocks_pub)))
+                captura_atual=len(non_article_blocks(camara_blocks)))
             if (art_camara['divergentes'] or art_camara['apenas_na_principal'] or art_camara['apenas_na_conferencia']
                     or not cobertura['equivalente'] or not titulos_camara['iguais'] or not fora_artigos['iguais']):
                 raise SystemExit(
@@ -2399,8 +2347,7 @@ def compute(sources, fontes, baseline_texts=None):
                         texto_riscado=measured['texto_riscado'],
                         anexos_no_corpo=measured['anexos_no_corpo'],
                         tabelas=measured['tabelas'],
-                        # Brasão CEDI omitido na limpeza #98; texto jurídico permanece no corpo preservado.
-                        imagens_omitidas=max(measured['imagens_embutidas'], len(camara_conv.images)),
+                        imagens_omitidas=0,  # imagens embutidas permanecem no corpo preservado
                         efeitos_diferidos='preservados-nas-notas-do-texto',
                         sha256_corpo_preservado=BASELINE_SHA256[rel])
             body = pristine
@@ -2412,11 +2359,9 @@ def compute(sources, fontes, baseline_texts=None):
                 + ('Conferência independente com o Planalto no mesmo arquivo de provas.'
                    if conf_keys else 'Nenhuma segunda fonte oficial independente foi obtida.'))
             entry['estrutura_medida'] = measured
-            n_img = max(measured['imagens_embutidas'], len(camara_conv.images))
             entry['blocos_nao_textuais'] = [dict(
-                tipo='imagem', quantidade=n_img,
-                tratamento=('omitida do Markdown; brasão/logotipo CEDI sem texto jurídico '
-                            '(limpeza #98; proveniência em metadados/limpeza-markdown/imagens.jsonl)'))] if n_img else []
+                tipo='imagem-embutida', quantidade=measured['imagens_embutidas'],
+                tratamento='mantida no corpo preservado (brasão/logotipo institucional)')]
             entry['fontes'] = dict(
                 captura_atual_camara=dict(chave=ckey, **public_source(fontes[ckey], ckey)),
                 conferencia=[dict(chave=k, **public_source(fontes[k], k)) for k in conf_keys

@@ -27,6 +27,7 @@ sha256_markdown: "0022eeb52368ef856003cff402d96e333eb3eb22ac944279bb6675119fec00
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 82, DE 16 DE JULHO DE 2014
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 17.6.2014
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2014-07-16-82.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -100,4 +102,8 @@ Senadora ANGELA PORTELA 2ª Secretária
 
 Senador CIRO NOGUEIRA 3º Secretário
 
-Senador JOÃO VICENTE CLAUDINO 4º Secretário\*
+Senador JOÃO VICENTE CLAUDINO 4º Secretário
+
+Este texto não substitui o publicado no DOU 17.6.2014
+
+\*

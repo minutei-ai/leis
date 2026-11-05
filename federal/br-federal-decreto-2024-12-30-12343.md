@@ -2,7 +2,8 @@
 
 > **Anexo recuperado — Presidência da República — Planalto.** Fonte do anexo: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12343.htm (capturada em 2026-11-03T17:50:53Z, SHA-256 da fonte `9dee00181e809c1a856e850413f02a191cc0f0f92d7be858aaf6b255bea570f7`, SHA-256 do conteúdo sem script de proteção `93f59afa69cf4dafb388a26b94ce508884fc4e3a92affc45b2ef02974d9ef581`). Snapshot: `provas/decretos-atualizacao-14133/fontes/planalto-d12343.htm.xz`. Prova de cobertura de todas as linhas: `provas/decretos-atualizacao-14133/cobertura-anexos.json`.
 >
->>
+> Este texto não substitui o publicado no DOU de 31.12.2024.
+>
 > Na captura, a página do Planalto exibe o ato com marcação de revogação (Decreto nº 12.807, de 2025) e `text-decoration:line-through` no corpo e no anexo. Este arquivo preserva o texto do decreto e o anexo sem aplicar essa marcação posterior de revogação; não certifica vigência.
 >
 > O corpo dos artigos e assinaturas abaixo preserva a redação já publicada neste acervo (originalmente proveniente de normas.leg.br / Senado). O anexo de valores foi recuperado da página HTML do Planalto (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12343.htm). Diferenças editoriais da página do Planalto em relação a esse corpo — faixas de Vigência/Revogado, brasão e links internos do Planalto — não foram incorporadas ao corpo já publicado. O aviso de que o texto não substitui o DOU, presente na fonte, foi colocado entre as assinaturas e o anexo, como na página oficial, e também consta nesta nota.
@@ -33,7 +34,11 @@ Brasília, 30 de dezembro de 2024; 203º da Independência e 136º da República
 
 LUIZ INÁCIO LULA DA SILVA
 
-Esther DweckANEXO
+Esther Dweck
+
+Este texto não substitui o publicado no DOU de 31.12.2024.
+
+ANEXO
 
 ATUALIZAÇÃO DOS VALORES ESTABELECIDOS NA LEI Nº 14.133, DE 1º DE ABRIL DE 2021
 

@@ -265,15 +265,9 @@ def edition_note(doc: dict, rec: dict, conv: nl.Converter) -> str:
 def build_document(doc: dict, data: bytes, rec: dict) -> tuple[str, dict, dict, nl.Converter]:
     spec = SOURCES[doc['fonte']]
     conv = nl.convert_html(data, spec['charset'], spec['url'])
-    cov_blocks = nl.drop_camara_portal_prefix(conv.blocks)
-    pub_blocks = nl.drop_portal_disclaimer_blocks(cov_blocks)
-    body_cov = nl.blocks_to_markdown(cov_blocks, doc['title_pattern'])
-    body = nl.blocks_to_markdown(pub_blocks, doc['title_pattern'])
-    src_plain = nl.strip_portal_chrome_plain(
-        nl.source_text_chars_from_html(data, spec['charset']))
-    md_plain_all = nl.strip_portal_chrome_plain(nl.md_text_all(body_cov))
-    src = nl.strip_fold(src_plain)
-    md_all = nl.strip_fold(md_plain_all)
+    body = nl.blocks_to_markdown(conv.blocks, doc['title_pattern'])
+    src = nl.strip_fold(nl.source_text_chars_from_html(data, spec['charset']))
+    md_all = nl.strip_fold(nl.md_text_all(body))
     coverage_ok = src == md_all
     arts, order = nl.split_articles(conv.blocks)
     anexos = sum(1 for b in conv.blocks if re.match(r'^ANEXO\b', nl.md_plain(b, True).strip(), re.I))

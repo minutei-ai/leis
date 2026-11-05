@@ -27,6 +27,7 @@ sha256_markdown: "fbf0f9403d25d70599d4fbcc0ab9440a5e0caccac945d35882531cf9f8b450
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 71, DE 29 DE NOVEMBRO DE 2012
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 30.11.2012
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2012-11-29-71.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -121,4 +123,8 @@ Brasília, em 29 de novembro de 2012.
 | Deputado EDUARDO DA FONTE 2º Vice-Presidente | Senador CÍCERO LUCENA 1º Secretário |
 | Deputado EDUARDO GOMES 1º Secretário | Senador JOÃO VICENTE CLAUDINO 3º Secretário |
 | Deputado INOCÊNCIO OLIVEIRA 3º Secretário | Senador CIRO NOGUEIRA 4º Secretário |
-| Deputado JÚLIO DELGADO 4º Secretário |  |\*
+| Deputado JÚLIO DELGADO 4º Secretário |  |
+
+Este texto não substitui o publicado no DOU 30.11.2012
+
+\*

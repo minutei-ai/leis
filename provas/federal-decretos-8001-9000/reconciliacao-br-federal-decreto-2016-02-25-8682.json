@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-02-25-8682",
+  "fonte_principal": "camara-D8682",
+  "sha256_fonte_principal": "9b0c39087aa3c0415676a12d74010cec8266e03fdbf2dc12acb54e5cb221ef5c",
+  "sha256_conteudo": "9b0c39087aa3c0415676a12d74010cec8266e03fdbf2dc12acb54e5cb221ef5c",
+  "capturado_em": "2026-11-04T20:26:02Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8682-25-fevereiro-2016-782454-publicacaooriginal-149568-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8682.htm.xz",
+  "sha256_snapshot_armazenado": "046e1a0ca7063a117aa9347a93d46ce8b66b79e91f368990036237728ce9fdd1",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 20,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-02-25-8682",
+    "numero": "8682",
+    "data": "2016-02-25",
+    "titulo_fonte": "DECRETO Nº 8682, DE 25 DE FEVEREIRO DE 2016",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO SEPTUAGÉSIMO OITAVO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (78PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 17 DE DEZEMBRO DE 2010.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414475"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

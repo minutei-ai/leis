@@ -1,12 +1,14 @@
-**EMENDA CONSTITUCIONAL Nº 16.**
+###EMC-000016-0-000-26-11-1965@@@
 
-**AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL** promulgam, nos têrmos do art. 217, § 4º, da Constituição Federal, a seguinte emenda ao texto constitucional:
+<strong>EMENDA CONSTITUCIONAL Nº 16.</strong>
 
-**Art**. 1º Ao artigo 95 é acrescido o seguinte parágrafo:
+<strong>AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL</strong> promulgam, nos têrmos do art. 217, § 4º, da Constituição Federal, a seguinte emenda ao texto constitucional:
+
+<strong>Art</strong>. 1º Ao artigo 95 é acrescido o seguinte parágrafo:
 
 “§ 4º Ocorrendo motivo de interêsse público, poderá o Tribunal competente, pelo voto de dois terços de seus membros efetivos, propor a remoção ou a disponibilidade do juiz de instância inferior, assegurada, no último caso, a defesa”.
 
-**Art**. 2º As alíneas *c*, *f*, *i* e *k* do art. 101, inciso I, passam a ter a seguinte redação:
+<strong>Art</strong>. 2º As alíneas <em>c</em>, <em>f</em>, <em>i</em> e <em>k</em> do art. 101, inciso I, passam a ter a seguinte redação:
 
 “c) os Ministros de Estado, os juízes dos Tribunais Superiores Federais, dos Tribunais Regionais do Trabalho, do Tribunais de Justiça dos Estados, do Distrito Federal e dos Territórios, os Ministros do Tribunal de Contas e os Chefes de missão diplomática de caráter permanente, assim nos crimes comuns como nos de responsabilidade, ressalvado, quanto aos Ministros de Estado, o disposto no final do artigo 92;
 
@@ -22,33 +24,33 @@ i) os mandados de segurança contra ato do Presidente da República, do Senado e
 
 k) a representação contra inconstitucionalidade de lei ou ato de natureza normativa, federal ou estadual, encaminhada pelo Procurador-Geral da República”;
 
-**Art**. 3º Ao art. 101, inciso I, é acrescida a seguinte alínea:
+<strong>Art</strong>. 3º Ao art. 101, inciso I, é acrescida a seguinte alínea:
 
 “1) as ações rescisórias de seus acórdãos e dos acórdãos das Turmas”.
 
-**Art**. 4º A alínea *b* do art. 101, inciso II, passa a ter a seguinte redação:
+<strong>Art</strong>. 4º A alínea <em>b</em> do art. 101, inciso II, passa a ter a seguinte redação:
 
 “b) as causas em que forem partes um Estado estrangeiro e pessoa domiciliada no País”.
 
-**Art**. 5º Ao art. 101 são acrescidos os seguintes parágrafos:
+<strong>Art</strong>. 5º Ao art. 101 são acrescidos os seguintes parágrafos:
 
 “§ 1º Incumbe ao Tribunal Pleno o julgamento;
 
-a) das causas de competência originária de que trata o inciso I, com exceção das previstas na alínea *h*, a menos que se trate de medida requerida contra ato do Presidente da República, dos Ministros de Estados, da Câmara dos Deputados, do Senado Federal e do próprio Supremo Tribunal Federal;
+a) das causas de competência originária de que trata o inciso I, com exceção das previstas na alínea <em>h</em>, a menos que se trate de medida requerida contra ato do Presidente da República, dos Ministros de Estados, da Câmara dos Deputados, do Senado Federal e do próprio Supremo Tribunal Federal;
 
 b) das prejudiciais de inconstitucionalidade suscitadas pelas Turmas;
 
 c) dos recursos interpostos de decisões das Turmas, se divergirem entre si na interpretação do direito federal;
 
-d) dos recursos ordinários nos crimes políticos (inciso II, *c*);
+d) dos recursos ordinários nos crimes políticos (inciso II, <em>c</em>);
 
 e) das revisões criminais (inciso IV);
 
 f) dos recursos que as Turmas decidirem submeter ao Plenário do Tribunal.
 
-§ 2º Incumbe às Turmas o julgamento definitivo das matérias enumeradas nos incisos I, *h* (com a ressalva prevista na alínea *a* do parágrafo anterior), II *a* e *b*, e III, dêste artigo, e distribuídas na forma da lei.”
+§ 2º Incumbe às Turmas o julgamento definitivo das matérias enumeradas nos incisos I, <em>h</em> (com a ressalva prevista na alínea <em>a</em> do parágrafo anterior), II <em>a</em> e <em>b</em>, e III, dêste artigo, e distribuídas na forma da lei.”
 
-**Art**. 6º O art. 103 passa a ter a seguinte redação:
+<strong>Art</strong>. 6º O art. 103 passa a ter a seguinte redação:
 
 “Art. 103. O Tribunal Federal de Recursos, com sede na Capital Federal, compor-se-á de treze juízes, nomeados pelo Presidente da República, depois de aprovada a escolha pelo Senado Federal, sendo oito entre magistrados e cinco entre advogados e membros do Ministério Público, todos com os requisitos do art. 99.
 
@@ -56,59 +58,59 @@ f) dos recursos que as Turmas decidirem submeter ao Plenário do Tribunal.
 
 § 2º A lei poderá criar, em diferentes regiões do País, outros Tribunais Federais de Recursos, mediante proposta do Presidente da República, ouvidos o próprio Tribunal e o Supremo Tribunal Federal, fixando-lhes sede jurisdição territorial e observados os preceitos dos arts. 103 e 104.”
 
-**Art**. 7º As alíneas *a* e *b* do art. 104, inciso I, passam a ter a seguinte redação:
+<strong>Art</strong>. 7º As alíneas <em>a</em> e <em>b</em> do art. 104, inciso I, passam a ter a seguinte redação:
 
 “a) os mandados de segurança contra ato de Ministro de Estado, do Presidente e das Câmaras ou Turmas do Próprio Tribunal ou de juiz federal;
 
-b) os *habeas corpus,* quando a autoridade coatora fôr juiz federal;”
+b) os <em>habeas corpus,</em> quando a autoridade coatora fôr juiz federal;”
 
-**Art**. 8º Ao art. 104, inciso I, são acrescidas as seguintes alíneas:
+<strong>Art</strong>. 8º Ao art. 104, inciso I, são acrescidas as seguintes alíneas:
 
 “c) os conflitos de jurisdição entre juízes federais subordinados ao mesmo Tribunal;
 
 d) as ações rescisórias dos seus acórdãos e dos acórdãos de suas Câmaras ou Turmas.”
 
-**Art**. 9º O inciso II do art. 104 passa a ter a seguinte redação:
+<strong>Art</strong>. 9º O inciso II do art. 104 passa a ter a seguinte redação:
 
-“II - julgar, em grau de recurso, as causas decididas pelos juízes federais em matéria civil ou criminal, ressalvada a hipótese do art. 101, II *c*;”
+“II - julgar, em grau de recurso, as causas decididas pelos juízes federais em matéria civil ou criminal, ressalvada a hipótese do art. 101, II <em>c</em>;”
 
-**Art**. 10. A alínea *b* do art. 110, inciso I, passa a ter a seguinte redação:
+<strong>Art</strong>. 10. A alínea <em>b</em> do art. 110, inciso I, passa a ter a seguinte redação:
 
 “b) de dois juízes escolhidos, entre os seu membros, pelo Tribunal Federal de Recursos;”
 
-**Art**. 11. A alíneas *a* e *b* do inciso I do art. 112 passam a ter a seguinte redação:
+<strong>Art</strong>. 11. A alíneas <em>a</em> e <em>b</em> do inciso I do art. 112 passam a ter a seguinte redação:
 
 “a) de dois juízes escolhidos pelo Tribunal de Justiça, dentre seus membros;
 
 b) de um juiz escolhido pelo Tribunal de Alçada, onde houver;”
 
-**Art**. 12. Ao art. 112, inciso I, é acrescida a seguinte alínea:
+<strong>Art</strong>. 12. Ao art. 112, inciso I, é acrescida a seguinte alínea:
 
 “c) de um juiz escolhido pelo Tribunal de Justiça, dentre os Juízes de Direito, ou de dois onde não houver Tribunal de Alçada;”
 
-**Art**. 13. O inciso II do art. 112 passa a ter a seguinte redação, suprimido o parágrafo único:
+<strong>Art</strong>. 13. O inciso II do art. 112 passa a ter a seguinte redação, suprimido o parágrafo único:
 
 “II - do juiz federal, e, havendo mais de um, do fôr escolhido pelo Tribunal Federal de Recursos;”
 
-**Art**. 14. Ao artigo 112 são acrescidos os seguintes inciso e parágrafo:
+<strong>Art</strong>. 14. Ao artigo 112 são acrescidos os seguintes inciso e parágrafo:
 
 “III - por nomeação do Presidente da Republica, de dois dentre seis cidadãos de notável saber jurídico e reputação ilibada, que não seja incompatíveis por lei, indicados pelo Tribunal de Justiça.
 
 Parágrafo único. O Tribunal Regional Eleitoral elegerá para seu Presidente um dos dois desembargadores do Tribunal de Justiça, cabendo ao outro a vice-presidência.
 
-**Art**. 15. O artigo 120 passa a ter a seguinte redação:
+<strong>Art</strong>. 15. O artigo 120 passa a ter a seguinte redação:
 
-“Art. 120. São irrecorríveis as decisões do Tribunal Superior Eleitoral, salvo a que contrariarem a Constituição Federal, as denegatórias de *habeas corpus* e as proferidas em mandado de segurança, das quais caberá recurso para o Supremo Tribunal Federal.”
+“Art. 120. São irrecorríveis as decisões do Tribunal Superior Eleitoral, salvo a que contrariarem a Constituição Federal, as denegatórias de <em>habeas corpus</em> e as proferidas em mandado de segurança, das quais caberá recurso para o Supremo Tribunal Federal.”
 
-**Art**. 16. O inciso III do artigo 121 passa a ter a seguinte redação:
+<strong>Art</strong>. 16. O inciso III do artigo 121 passa a ter a seguinte redação:
 
 “III - versarem sôbre inelegibilidade ou expedição de diploma nas eleições federais e estaduais;”
 
-**Art**. 17. O § 1º do artigo 122 da Constituição passa a ter a seguinte redação:
+<strong>Art</strong>. 17. O § 1º do artigo 122 da Constituição passa a ter a seguinte redação:
 
 “§ 1º As decisões do Tribunal Superior do Trabalho, com sede na capital da República, são irrecorríveis, salvo se contrariarem a Constituição, quando caberá recurso para o Supremo Tribunal Federal.”
 
-**Art**. 18 Os incisos II, III, IV, V, e XI do artigo 124 passam a ter a seguinte redação:
+<strong>Art</strong>. 18 Os incisos II, III, IV, V, e XI do artigo 124 passam a ter a seguinte redação:
 
 “II - poderão ser criados Tribunais de Alçada, com a competência que lhes fôr atribuída na lei estadual;
 
@@ -122,7 +124,7 @@ V - na composição de qualquer tribunal, um quinto dos lugares será preenchido
 
 XI  \- poderão ser criados cargos de juízes togados com investidura limitada ou não a certo tempo, e competência para julgamento das causas de pequeno valor. Êsses juízes poderão substituir os juízes vitalícios;”
 
-**Art**. 19. Ao artigo 124 são acrescidos os seguintes inciso e parágrafos:
+<strong>Art</strong>. 19. Ao artigo 124 são acrescidos os seguintes inciso e parágrafos:
 
 “XIII - a lei poderá estabelecer processo, de competência originária do Tribunal de Justiça, para declaração de inconstitucionalidade de lei ou ato de Município, em conflito com a Constituição do Estado.
 
@@ -132,19 +134,19 @@ XI  \- poderão ser criados cargos de juízes togados com investidura limitada 
 
 § 3º A vantagem decorrente do subsídio federal não se incorporará aos vencimentos dos magistrados para o efeito do artigo 95, III, nem excederá um quarto dos vencimentos que os magistrados estiverem percebendo na ocasião.”
 
-**Art**. 20. O artigo 125 passa a ter a seguinte redação:
+<strong>Art</strong>. 20. O artigo 125 passa a ter a seguinte redação:
 
 “Art. 125. A lei organizará o Ministério Público da União junto aos órgãos judiciários federais (art. 94, I a V).”
 
-**Art**. 21. O parágrafo 1º do art. 201 passa a ter a seguinte redação:
+<strong>Art</strong>. 21. O parágrafo 1º do art. 201 passa a ter a seguinte redação:
 
 “§ 1º As causas propostas perante outros juízes, se a União nelas intervier como assistente ou oponente, passarão a ser da competência do juiz federal.”
 
 Brasília, em 26 de novembro de 1965.
 
-**A MESA DA CÂMARA DOS DEPUTADOS**
+<strong>A MESA DA CÂMARA DOS DEPUTADOS</strong>
 
-**BILAC PINTO**
+<strong>BILAC PINTO</strong>
 
 PRESIDENTE
 
@@ -172,9 +174,9 @@ Nogueira de Rezende
 
 4º SECRETÁRIO
 
-**A MESA DO SENADO FEDERAL**
+<strong>A MESA DO SENADO FEDERAL</strong>
 
-**AURO MOURA ANDRADE**
+<strong>AURO MOURA ANDRADE</strong>
 
 PRESIDENTE
 

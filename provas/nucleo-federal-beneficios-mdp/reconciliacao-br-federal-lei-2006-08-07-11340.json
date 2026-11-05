@@ -11,8 +11,8 @@
   "cobertura_texto": {
     "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
     "equivalente": true,
-    "caracteres_normalizados_fonte": 35877,
-    "caracteres_normalizados_markdown": 35877,
+    "caracteres_normalizados_fonte": 35926,
+    "caracteres_normalizados_markdown": 35926,
     "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
   },
   "conversao": {

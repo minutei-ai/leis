@@ -212,7 +212,10 @@ class CoberturaNacionalTest(unittest.TestCase):
 
     def test_reconciliacao_especies_e_blockers(self):
         recon = cn.load_json(PROVAS / 'reconciliacao-especies-publicadas.json')
-        self.assertEqual(recon['publicados_por_especie_caminho']['decreto-lei'], 9647)
+        self.assertEqual(recon, cn.build_species_reconciliation())
+        self.assertEqual(recon['errata_complemento_senado_totais']['decretos_leis_snapshot_correspondencia_inversa'], 9647)
+        leitura = next(x for x in recon['leituras'] if x['especie'] == 'decreto-lei')
+        self.assertEqual(leitura['delta_arquivos_vs_errata'], leitura['publicados'] - 9647)
         ids = {b['id'] for b in recon['blockers_concretos']}
         self.assertEqual(ids & {'#70', '#74', '#77', '#102', '#103'}, {'#70', '#74', '#77', '#102', '#103'})
 

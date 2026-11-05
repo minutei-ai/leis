@@ -1,6 +1,8 @@
-**EMENDA CONSTITUCIONAL Nº 8, DE 14 DE ABRIL DE 1977.**
+###EMC-000008-0-000-14-04-1977@@@
 
-**O PRESIDENTE DA REPÚBLICA**,
+<strong>EMENDA CONSTITUCIONAL Nº 8, DE 14 DE ABRIL DE 1977.</strong>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>,
 
 No uso da atribuição que lhe confere o § 1º do artigo 2º do Ato Institucional nº 5, de 13 de dezembro de 1968, e
 
@@ -122,4 +124,4 @@ Art. 210. Na aplicação do disposto no § 2º do artigo 39, para a legislatura 
 
 Brasília, 14 de abril de 1977; 156º da Independência e 89º da República.
 
-**ERNESTO GEISEL**
+<strong>ERNESTO GEISEL</strong>

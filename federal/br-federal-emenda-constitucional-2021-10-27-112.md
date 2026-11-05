@@ -27,6 +27,7 @@ sha256_markdown: "1be42a281c357aa49ea0f57e1fb6c81b22dfd9a96eed753b49f0d0fa5df99a
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 112, DE 27 DE OUTUBRO DE 2021
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 28.10.2021
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2021-10-27-112.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -84,4 +86,8 @@ Brasília, em 27 de outubro de 2021
 | Deputado LUCIANO BIVAR 1º Secretário | Senador IRAJÁ 1º Secretário |
 | Deputada MARÍLIA ARRAES 2ª Secretária | Senador ELMANO FÉRRER 2º Secretário |
 | Deputada ROSE MODESTO 3ª Secretária | Senador ROGÉRIO CARVALHO 3º Secretário |
-| Deputada ROSANGELA GOMES 4ª Secretária | Senador WEVERTON 4º Secretário |\*
+| Deputada ROSANGELA GOMES 4ª Secretária | Senador WEVERTON 4º Secretário |
+
+Este texto não substitui o publicado no DOU 28.10.2021
+
+\*

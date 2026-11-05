@@ -27,6 +27,7 @@ sha256_markdown: "54b65b6c5c2f49d77cf523bce6698522e83078668a51c056c8242e1d76d9db
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 99, DE 14 DE DEZEMBRO DE 2017
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 15.12.2017
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2017-12-14-99.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -129,4 +131,8 @@ Art. 5º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 |  |  |
 | Deputado JHC 3º Secretário | Senador DAVI ALCOLUMBRE 3º Secretário-Suplente |
 |  |  |
-| Deputado RÔMULO GOUVEIA 4º Secretário | Senador ZEZE PERRELLA 4º Secretário |\*
+| Deputado RÔMULO GOUVEIA 4º Secretário | Senador ZEZE PERRELLA 4º Secretário |
+
+Este texto não substitui o publicado no DOU 15.12.2017
+
+\*

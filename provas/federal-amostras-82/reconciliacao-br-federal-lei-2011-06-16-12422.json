@@ -1,0 +1,64 @@
+{
+  "documento": "br-federal-lei-2011-06-16-12422",
+  "fonte_principal": "planalto-L12422-2011-06-16",
+  "sha256_fonte_principal": "4c5e9b4c503c8bcab87af61c30fdb542799ad54e3c504b376288e8f5ca693cd3",
+  "sha256_conteudo": "1e96c6a7eee74b5f9e75fed8e93141011bfb78955670010cbae53c8469326a9f",
+  "capturado_em": "2026-11-04T20:50:30Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12422.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12422-2011-06-16.htm.xz",
+  "sha256_snapshot_armazenado": "be92befc83bac450aa605e41bb1c7d6c7d18c53d2f21c68110b2a714b8e40f7b",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 3,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 18,
+    "artigos": 5,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2011-06-16-12422",
+    "numero": "12422",
+    "data": "2011-06-16",
+    "titulo_fonte": "LEI Nº 12422, DE 16 DE JUNHO DE 2011",
+    "ementa": "Altera a composição do Tribunal Regional do Trabalho da 13ª Região e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585419"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

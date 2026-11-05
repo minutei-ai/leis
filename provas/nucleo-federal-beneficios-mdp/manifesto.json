@@ -2,7 +2,7 @@
   "contrato_versao": 1,
   "lote": "nucleo-federal-beneficios-mdp",
   "descricao": "Lei 8.213/1991 (Planos de Benefícios da Previdência Social; edição consolidada do Planalto) e Lei 11.340/2006 (Lei Maria da Penha; norma atualizada da Câmara), recuperadas integralmente das fontes oficiais. Lote independente do núcleo de licitações.",
-  "gerado_em": "2026-11-04T21:42:40Z",
+  "gerado_em": "2026-11-04T12:26:34Z",
   "vigencia_certificada": false,
   "documentos": [
     {
@@ -38,7 +38,7 @@
         "dou_aviso": "Este texto não substitui o publicado no DOU de 25.7.1991, republicado 11.4.1996 e republicado em 14.8.1998"
       },
       "prova": "provas/nucleo-federal-beneficios-mdp/reconciliacao-br-federal-lei-1991-07-24-8213.json",
-      "sha256_markdown": "eb6cf62b843cec9b6f3b64d226c28a8037bbe297fbacb5200d827e32db803315",
+      "sha256_markdown": "691d0d274da5c9ec2ad2e2da913c200a52786ec95b4524a32da25d66e5d3cfc2",
       "estrutura": {
         "blocos": 1408,
         "artigos": 183,
@@ -81,7 +81,7 @@
         "dou_aviso": null
       },
       "prova": "provas/nucleo-federal-beneficios-mdp/reconciliacao-br-federal-lei-2006-08-07-11340.json",
-      "sha256_markdown": "d1fc32ec5cceff9e8fe05cf327a674377ef9833e5b2ac8956173c5aefdc41e12",
+      "sha256_markdown": "dfdbd02ea474e193944d8e7e8d4410504ceb68db95167a2c1ea85cb0aff89e57",
       "estrutura": {
         "blocos": 270,
         "artigos": 57,

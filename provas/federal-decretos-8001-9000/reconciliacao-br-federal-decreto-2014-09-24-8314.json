@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-09-24-8314",
+  "fonte_principal": "camara-D8314",
+  "sha256_fonte_principal": "93b2764a8ffa759f4899d29d2b5a447f236430a72b0991a223bfd56cc185b8da",
+  "sha256_conteudo": "93b2764a8ffa759f4899d29d2b5a447f236430a72b0991a223bfd56cc185b8da",
+  "capturado_em": "2026-11-04T20:17:31Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8314-24-setembro-2014-779375-publicacaooriginal-145044-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8314.htm.xz",
+  "sha256_snapshot_armazenado": "b6b4d6141f49445585ef45f662d3a63b3124e9eefaafefcc7323820b054710c8",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 89,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-09-24-8314",
+    "numero": "8314",
+    "data": "2014-09-24",
+    "titulo_fonte": "DECRETO Nº 8314, DE 24 DE SETEMBRO DE 2014",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITORIO NACIONAL, DA RESOLUÇÃO NO 2093 (2013), DE 6 DE MARÇO DE 2013, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE RENOVA O MANDATO DA MISSÃO DA UNIÃO AFRICANA NA  SOMALIA E ALTERA O EMBARGO A VENDA DE ARMAS  APLICAVEL AO PAIS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589065"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -27,6 +27,7 @@ sha256_markdown: "37ff07b9a7efd50c62533142dcfdc995e43854bc4fc4ddf8dc778ab5234e30
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 107, DE 2 DE JULHO DE 2020
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > Referência de catálogo da Câmara (não usada como fonte principal nesta entrega): https://www2.camara.leg.br/legin/fed/emecon/2020/emendaconstitucional-107-3-julho-2020-790377-publicacaooriginal-160989-pl.html.
 >
->>
+> Este texto não substitui o publicado no DOU de 3.7.2020
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2020-07-02-107.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -127,4 +129,8 @@ Brasília, em 2 de julho de 2020
 |  |  |
 | Deputado RAFAEL MOTTA no exercício da 3ª Secretaria | Senador FLÁVIO BOLSONARO 3º Secretário |
 |  |  |
-| Deputado ANDRÉ FUFUCA 4º Secretário | Senador WEVERTON no exercício da 4ª Secretaria |\*
+| Deputado ANDRÉ FUFUCA 4º Secretário | Senador WEVERTON no exercício da 4ª Secretaria |
+
+Este texto não substitui o publicado no DOU 3.7.2020
+
+\*

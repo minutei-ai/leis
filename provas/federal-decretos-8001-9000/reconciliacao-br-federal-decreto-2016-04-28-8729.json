@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-04-28-8729",
+  "fonte_principal": "camara-D8729",
+  "sha256_fonte_principal": "052b1e42fb64303af4577336a731ebbb3edd404cc83824474ab417d0b612cf31",
+  "sha256_conteudo": "052b1e42fb64303af4577336a731ebbb3edd404cc83824474ab417d0b612cf31",
+  "capturado_em": "2026-11-04T20:28:11Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8729-28-abril-2016-782953-publicacaooriginal-150200-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8729.htm.xz",
+  "sha256_snapshot_armazenado": "9d886daf5152dc44abb4cc756575e5e53fa74e10f3f36a6be3d3a5fa18224f0b",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 22,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-04-28-8729",
+    "numero": "8729",
+    "data": "2016-04-28",
+    "titulo_fonte": "DECRETO Nº 8729, DE 28 DE ABRIL DE 2016",
+    "ementa": "PROMULGA AS EMENDAS À CONVENÇÃO SOBRE O BANCO INTERNACIONAL DE RECONSTRUÇÃO E DESENVOLVIMENTO - BIRD CONSTANTES DAS RESOLUÇÕES NO 417, DE 1987, E Nº 596, DE 2009, DE SUA JUNTA GOVERNATIVA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590343"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

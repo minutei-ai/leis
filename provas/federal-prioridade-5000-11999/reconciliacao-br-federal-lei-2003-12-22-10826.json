@@ -1,0 +1,98 @@
+{
+  "documento": "br-federal-lei-2003-12-22-10826",
+  "fonte_principal": "planalto-L10826",
+  "sha256_fonte_principal": "6998bdec29c630870c116b7428d884287c52007d95c3b71fd2facb4278fc2206",
+  "sha256_conteudo": "d1c7227aec7a28d646b37a21da4cf144808e578b89d269251f9c524d51d46bfe",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L10826.htm.xz",
+  "sha256_snapshot_armazenado": "6717c24ce66a1a9db854fe952b9255df7910372926199f13f23186645289cbe1",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 44879,
+    "caracteres_normalizados_markdown": 44879,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 181,
+    "links": 166,
+    "tabelas_markdown": 5,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 9,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 9,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 15,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 25,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 247,
+    "artigos": 41,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "34",
+      "34-A",
+      "35",
+      "36",
+      "37"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2003-12-22-10826",
+    "numero": "10826",
+    "data": "2003-12-22",
+    "titulo_fonte": "LEI Nº 10826, DE 22 DE DEZEMBRO DE 2003",
+    "ementa": "Dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - Sinarm, define crimes e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "552702"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

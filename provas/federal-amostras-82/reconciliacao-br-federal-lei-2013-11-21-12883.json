@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2013-11-21-12883",
+  "fonte_principal": "planalto-L12883-2013-11-21",
+  "sha256_fonte_principal": "9f50d4137835059e4700b0fdbd0a64392f576043f985ccc229f362c3d83ef7e1",
+  "sha256_conteudo": "6683633f63b33ea6263359731ba676657354e624eff12bb4b568122f623a5af4",
+  "capturado_em": "2026-11-04T20:50:56Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12883.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12883-2013-11-21.htm.xz",
+  "sha256_snapshot_armazenado": "b70125394d6a0641108eb18b984025254c2abcb221bc507093bf16c309f50672",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 1,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 5,
+        "colunas_max": 3,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 5,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 19,
+    "artigos": 5,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-11-21-12883",
+    "numero": "12883",
+    "data": "2013-11-21",
+    "titulo_fonte": "LEI Nº 12883, DE 21 DE NOVEMBRO DE 2013",
+    "ementa": "Dispõe sobre a criação de cargos de membro, cargos efetivos, cargos em comissão e funções de confiança no âmbito do Ministério Público do Trabalho.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591331"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

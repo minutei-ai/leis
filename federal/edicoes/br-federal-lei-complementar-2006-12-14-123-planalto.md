@@ -24,7 +24,7 @@ anexos_no_corpo: 12
 tabelas: 0
 imagens_omitidas: 1
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "5f3f5274b0f7d46c7f3735d44adc152922c7de205811fdd3882b7db1f8bac556"
+sha256_markdown: "e51e5134662760e169cc5655f14e7852d277c8de08baa5034c8c044043435314"
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
@@ -2694,6 +2694,8 @@ Art. 88. Esta Lei Complementar entra em vigor na data de sua publicação, ressa
 Art. 89. Ficam revogadas, a partir de 1º de julho de 2007, a [Lei nº 9.317, de 5 de dezembro de 1996](https://www.planalto.gov.br/ccivil_03/leis/L9317.htm), e a [Lei nº 9.841, de 5 de outubro de 1999.](https://www.planalto.gov.br/ccivil_03/leis/L9841.htm)
 
 LUIZ INÁCIO LULA DA SILVA Guido Mantega Luiz Marinho Luiz Fernando Furlan Dilma Rousseff
+
+Este texto não substitui o publicado no DOU de 15.12.2006, republicado em 31.1.2009, republicado em 31.1.2012 e republicado em 6.3.2012.
 
 ~~ANEXO I DA LEI COMPLEMENTAR Nº 123, DE 14 DE DEZEMBRO DE 2006~~
 

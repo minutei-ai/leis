@@ -27,6 +27,7 @@ sha256_markdown: "7e185ebf80a7d71cc6062f96fdcbd43aa881aa9b28d79ec771293f9d0311e1
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 76, DE 28 DE NOVEMBRO DE 2013
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 29.11.2013
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2013-11-28-76.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -102,4 +104,8 @@ Senador CIRO NOGUEIRA 3º Secretário
 
 Senador JOÃO VICENTE CLAUDINO 4º Secretário
 
-Senador CASILDO MALDANER 4º Suplente\*
+Senador CASILDO MALDANER 4º Suplente
+
+Este texto não substitui o publicado no DOU 29.11.2013
+
+\*

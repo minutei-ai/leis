@@ -24,7 +24,7 @@ anexos_no_corpo: 0
 tabelas: 0
 imagens_omitidas: 1
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "60d5579e1828791bcf0dd20eceaf0a11b784a264921b07e8cd06d817600df647"
+sha256_markdown: "6f1efa7509d9dcde0eacd13a76666cfca2aec13f978c7c17ae159fd9e662cf40"
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
@@ -140,5 +140,7 @@ II - 1º de janeiro de 2027, quanto aos demais dispositivos.
 Brasília, 21 de outubro de 2026; 205º da Independência e 138º da República.
 
 LUIZ INÁCIO LULA DA SILVA Dario Carnevalli Durigan Paulo Henrique Rodrigues Pereira Guilherme Castro Boulos
+
+Este texto não substitui o publicado no DOU de 21.10.2026 - Edição extra
 
 \*

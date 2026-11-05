@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2016-02-22-8678",
+  "fonte_principal": "camara-D8678",
+  "sha256_fonte_principal": "d4101d3fcb05662f4d47bf0397aef37c9dbe9c1a3cb3aa7c8f5a2cbe4bbc0622",
+  "sha256_conteudo": "d4101d3fcb05662f4d47bf0397aef37c9dbe9c1a3cb3aa7c8f5a2cbe4bbc0622",
+  "capturado_em": "2026-11-04T20:25:56Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8678-22-fevereiro-2016-782414-publicacaooriginal-149517-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8678.htm.xz",
+  "sha256_snapshot_armazenado": "ee5050f1769d95e6cdf36a192a801fb322391fc27f227e700c22b93263ad4574",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 18,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "2"
+    ],
+    "ultimos_artigos": [
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-02-22-8678",
+    "numero": "8678",
+    "data": "2016-02-22",
+    "titulo_fonte": "DECRETO Nº 8678, DE 22 DE FEVEREIRO DE 2016",
+    "ementa": "ALTERA O DECRETO Nº 8.277, DE 27 DE JUNHO DE 2014, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DA SUPERINTENDÊNCIA DE DESENVOLVIMENTO DO CENTRO-OESTE - SUDECO, E REMANEJA CARGOS EM COMISSÃO.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414459"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

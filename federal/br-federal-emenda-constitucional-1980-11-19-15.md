@@ -1,10 +1,12 @@
-**EMENDA CONSTITUCIONAL Nº 15**
+###EMC-000015-0-000-19-11-1980@@@
 
-***Restabelece o sistema de voto direto nas eleições para Governador de Estado e para Senador da República.***
+<strong>EMENDA CONSTITUCIONAL Nº 15</strong>
 
-**AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL**, nos termos do art. 49 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
+<em><strong>Restabelece o sistema de voto direto nas eleições para Governador de Estado e para Senador da República.</strong></em>
 
-**Art**. 1º - O § 2º do art. 13 e o “*caput*” e os §§ 1º e 2º do art. 41 da Constituição Federal passam a vigorar, respectivamente, com a seguinte redação:
+<strong>AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL</strong>, nos termos do art. 49 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
+
+<strong>Art</strong>. 1º - O § 2º do art. 13 e o “<em>caput</em>” e os §§ 1º e 2º do art. 41 da Constituição Federal passam a vigorar, respectivamente, com a seguinte redação:
 
 “Art. 13 - ..................................................................................................................................
 
@@ -18,62 +20,8 @@ Art. 41 - O Senado Federal compõe-se de representantes dos Estados, eleitos pel
 
 § 3º - ..................................................................................................................................... ”
 
-**Art**. 2º - O mandato dos atuais Senadores terá a duração prevista na legislação em vigor à data da respectiva eleição.
+<strong>Art</strong>. 2º - O mandato dos atuais Senadores terá a duração prevista na legislação em vigor à data da respectiva eleição.
 
 Brasília, em 19 de novembro de 1980
 
-A Mesa da Câmara dos Deputados
-
-A Mesa do Senado Federal
-
-FLÁVIO MARCÍLIO
-
-Presidente
-
-LUIZ VIANA
-
-Presidente
-
-HOMERO SANTOS
-
-1º Vice-Presidente
-
-NILO COELHO
-
-1º Vice-Presidente
-
-RENATO AZEREDO
-
-2º Vice-Presidente
-
-DINARTE MARIZ
-
-2º Vice-Presidente
-
-WILSON BRAGA
-
-1º Secretário
-
-ALEXANDRE COSTA
-
-1º Secretário
-
-EPITÁCIO CAFETEIRA
-
-2º Secretário
-
-ARI KFFURI
-
-3º Secretário
-
-LOURIVAL BAPTISTA
-
-3º Secretário
-
-WALMOR DE LUCA
-
-4º Secretário
-
-GASTÃO MÜLLER
-
-4º Secretário
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A Mesa da Câmara dos Deputados</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A Mesa do Senado Federal</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>FLÁVIO MARCÍLIO</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>LUIZ VIANA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>HOMERO SANTOS</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>NILO COELHO</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>RENATO AZEREDO</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>DINARTE MARIZ</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>WILSON BRAGA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>ALEXANDRE COSTA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>EPITÁCIO CAFETEIRA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>ARI KFFURI</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>LOURIVAL BAPTISTA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td></tr><tr><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>WALMOR DE LUCA</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td><td style="width:212.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>GASTÃO MÜLLER</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td></tr></tbody></table>

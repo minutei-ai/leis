@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-2007-01-04-11441",
+  "fonte_principal": "planalto-L11441",
+  "sha256_fonte_principal": "7ed6a999885bda95edc8b0c2a2992363ceafc5c051c98a7c9b0816309ce59519",
+  "sha256_conteudo": "3a157f826572b9a8e0147a6f6b53fc00020d055a4c96a53f5510ef425874a71a",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11441.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L11441.htm.xz",
+  "sha256_snapshot_armazenado": "ec612f56e2fb4bd5bd6b0f4157ee87b0d3a67669338eea674e467cb292314361",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 2462,
+    "caracteres_normalizados_markdown": 2462,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 5,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 22,
+    "artigos": 5,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2007-01-04-11441",
+    "numero": "11441",
+    "data": "2007-01-04",
+    "titulo_fonte": "LEI Nº 11441, DE 4 DE JANEIRO DE 2007",
+    "ementa": "Altera dispositivos da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, possibilitando a realização de inventário, partilha, separação consensual e divórcio conse",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "572593"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

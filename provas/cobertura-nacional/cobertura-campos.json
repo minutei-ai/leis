@@ -141,7 +141,7 @@
       "arquivo": "federal/br-federal-constituicao-1988-10-05.md",
       "tem_frontmatter_estruturado": false,
       "campos_frontmatter": [],
-      "sha256_corpo_ou_arquivo": "acbbbc93df8da8ced077476bf7de1d52e34749db9e0f42755e180172f263ff47",
+      "sha256_corpo_ou_arquivo": "7dd15dd64c2cf5997c8bbc818766bd860be49f73a3799b5a61a13e9d6d35b358",
       "identidade_caminho": {
         "arquivo": "federal/br-federal-constituicao-1988-10-05.md",
         "stem": "br-federal-constituicao-1988-10-05",
@@ -159,15 +159,15 @@
         "estado_identidade": "derivada-do-caminho-candidata"
       },
       "representacao": {
-        "representacao": "mista",
+        "representacao": "texto",
         "cobertura_transcricao": "desconhecida",
-        "cobertura_ocr": "desconhecida",
+        "cobertura_ocr": "nao-aplicavel",
         "fac_simile_oficial": false,
-        "imagens_markdown": 1,
-        "data_uris": 1,
+        "imagens_markdown": 0,
+        "data_uris": 0,
         "imagens_asset": 0,
         "texto_integral_pesquisavel": false,
-        "fonte_integral_preservada": true
+        "fonte_integral_preservada": false
       }
     },
     {
@@ -461,7 +461,7 @@
       "arquivo": "federal/br-federal-decreto-1954-02-25-35110.md",
       "tem_frontmatter_estruturado": false,
       "campos_frontmatter": [],
-      "sha256_corpo_ou_arquivo": "07029a5432af074af6172be9a5ff1e14880a57aa30f073c078d3ca19ef85ff50",
+      "sha256_corpo_ou_arquivo": "f0159691dbe879428a4c5745888ff10b099421dc61ddaf1e62057e1f408ba149",
       "identidade_caminho": {
         "arquivo": "federal/br-federal-decreto-1954-02-25-35110.md",
         "stem": "br-federal-decreto-1954-02-25-35110",

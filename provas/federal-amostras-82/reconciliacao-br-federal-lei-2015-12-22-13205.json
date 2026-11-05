@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2015-12-22-13205",
+  "fonte_principal": "planalto-L13205-2015-12-22",
+  "sha256_fonte_principal": "de2f5ec2be44a34b593ad7d7b504b2b228c3090cb1a01a838d62d2309a8f8a3e",
+  "sha256_conteudo": "63717a34f9a3d98e84023ea6d5fa98426cfbf4970ed107debcfb6afe4f4b5637",
+  "capturado_em": "2026-11-04T20:52:56Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13205.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13205-2015-12-22.htm.xz",
+  "sha256_snapshot_armazenado": "7dc4cb85f21d8d53ebd7bb78f3ab98d840614657cba10d0aefc5642a96b05b09",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 27,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 14,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2015-12-22-13205",
+    "numero": "13205",
+    "data": "2015-12-22",
+    "titulo_fonte": "LEI Nº 13205, DE 22 DE DEZEMBRO DE 2015",
+    "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério do Trabalho e Emprego, crédito suplementar no valor de R$ 2.159.298.268,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585017"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

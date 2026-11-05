@@ -9,7 +9,7 @@
   "ranking_demonstracao": [
     {
       "arquivo": "federal/br-federal-lei-2021-04-01-14133.md",
-      "score": 4.133139,
+      "score": 4.132079,
       "alerta_cobertura_textual": true,
       "cobertura_transcricao": "desconhecida",
       "vigencia_certificada": false,
@@ -19,7 +19,7 @@
     },
     {
       "arquivo": "federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md",
-      "score": 4.085601,
+      "score": 4.084434,
       "alerta_cobertura_textual": true,
       "cobertura_transcricao": "desconhecida",
       "vigencia_certificada": false,
@@ -29,7 +29,7 @@
     },
     {
       "arquivo": "municipais/3550308/br-municipal-3550308-decreto-2022-12-27-62100.md",
-      "score": 3.767059,
+      "score": 3.76562,
       "alerta_cobertura_textual": true,
       "cobertura_transcricao": "desconhecida",
       "vigencia_certificada": false,
@@ -43,9 +43,9 @@
       "alerta_cobertura_textual": true,
       "cobertura_transcricao": "desconhecida",
       "vigencia_certificada": false,
-      "sha256_markdown": "589f5976a0800fb7de3af018f1a691ad99380a6fdd8dfc814c802bf1680f1fb7",
+      "sha256_markdown": "8a13e33a8d73f4346c1b7479d7b7835751ab92ebe7d3a89c11217fcec1a9d26c",
       "fonte_url": "desconhecido",
-      "bytes_markdown_integral": 22396
+      "bytes_markdown_integral": 10299
     },
     {
       "arquivo": "federal/br-federal-decreto-1954-02-25-35110.md",
@@ -53,9 +53,9 @@
       "alerta_cobertura_textual": true,
       "cobertura_transcricao": "ausente",
       "vigencia_certificada": false,
-      "sha256_markdown": "07029a5432af074af6172be9a5ff1e14880a57aa30f073c078d3ca19ef85ff50",
+      "sha256_markdown": "f0159691dbe879428a4c5745888ff10b099421dc61ddaf1e62057e1f408ba149",
       "fonte_url": "desconhecido",
-      "bytes_markdown_integral": 3612
+      "bytes_markdown_integral": 3564
     },
     {
       "arquivo": "estaduais/AC/br-ac-norma-1121.md",
@@ -96,18 +96,18 @@
     },
     {
       "arquivo": "federal/br-federal-lei-complementar-1967-11-09-1.md",
-      "export_sha256": "589f5976a0800fb7de3af018f1a691ad99380a6fdd8dfc814c802bf1680f1fb7",
-      "recomputado": "589f5976a0800fb7de3af018f1a691ad99380a6fdd8dfc814c802bf1680f1fb7",
+      "export_sha256": "8a13e33a8d73f4346c1b7479d7b7835751ab92ebe7d3a89c11217fcec1a9d26c",
+      "recomputado": "8a13e33a8d73f4346c1b7479d7b7835751ab92ebe7d3a89c11217fcec1a9d26c",
       "igual": true,
-      "bytes": 22396,
+      "bytes": 10299,
       "truncado": false
     },
     {
       "arquivo": "federal/br-federal-decreto-1954-02-25-35110.md",
-      "export_sha256": "07029a5432af074af6172be9a5ff1e14880a57aa30f073c078d3ca19ef85ff50",
-      "recomputado": "07029a5432af074af6172be9a5ff1e14880a57aa30f073c078d3ca19ef85ff50",
+      "export_sha256": "f0159691dbe879428a4c5745888ff10b099421dc61ddaf1e62057e1f408ba149",
+      "recomputado": "f0159691dbe879428a4c5745888ff10b099421dc61ddaf1e62057e1f408ba149",
       "igual": true,
-      "bytes": 3612,
+      "bytes": 3564,
       "truncado": false
     },
     {

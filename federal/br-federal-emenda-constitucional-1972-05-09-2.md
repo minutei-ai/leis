@@ -1,8 +1,10 @@
-**EMENDA CONSTITUCIONAL Nº 2**
+###EMC-000002-0-000-09-05-1972@@@
 
-***Regula a eleição de Governadores e Vice-Governadores dos Estados em 1974.***
+<strong>EMENDA CONSTITUCIONAL Nº 2</strong>
 
-**AS MESAS DACÂMARA DOS DEPUTADOS E DOSENADO FEDERAL**, nos termos do artigo 49 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
+<em><strong>Regula a eleição de Governadores e Vice-Governadores dos Estados em 1974.</strong></em>
+
+<strong>AS MESAS DA</strong> <strong>CÂMARA DOS DEPUTADOS E DO</strong> <strong>SENADO FEDERAL</strong>, nos termos do artigo 49 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
 Artigo único. A eleição para Governadores e Vice-Governadores dos Estados, em 1974, realizar-se-á em sessão pública e mediante votação nominal, pelo sufrágio de um colégio eleitoral constituído pelas respectivas Assembléias Legislativas.
 
@@ -14,62 +16,4 @@ Artigo único. A eleição para Governadores e Vice-Governadores dos Estados, em
 
 Brasília, em 9 de maio de 1972.
 
-A Mesa da Câmara dos Deputados
-
-A Mesa do Senado Federal
-
-PEREIRA LOPES
-
-PETRÔNIO PORTELLA
-
-Presidente
-
-Presidente
-
-Luiz Braga
-
-Carlos Lindenberg
-
-1º Vice-Presidente
-
-1º Vice-Presidente
-
-Reynaldo Santana
-
-Ruy Carneiro
-
-2º Vice-Presidente
-
-2º Vice-Presidente
-
-Elias Carmo
-
-Ney Braga
-
-1º Secretário
-
-1º Secretário
-
-Amaral de Souza
-
-Clodomir Milet
-
-2º Secretário
-
-2º Secretário
-
-Alípio Carvalho
-
-Guido Mondin
-
-3º Secretário
-
-3º Secretário
-
-Heitor Cavalcanti
-
-Duarte Filho
-
-4º Secretário
-
-4º Secretário
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A Mesa da Câmara dos Deputados</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A Mesa do Senado Federal</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>PEREIRA LOPES</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>PETRÔNIO PORTELLA</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Luiz Braga</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Carlos Lindenberg</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Reynaldo Santana</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Ruy Carneiro</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Elias Carmo</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Ney Braga</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Amaral de Souza</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Clodomir Milet</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Alípio Carvalho</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Guido Mondin</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Heitor Cavalcanti</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Duarte Filho</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td></tr></tbody></table>

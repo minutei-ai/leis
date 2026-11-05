@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-12-8336",
+  "fonte_principal": "camara-D8336",
+  "sha256_fonte_principal": "0cf6fead8becf339f5049c134513dcd50b5e34116fcac89a34bd53b933097a7f",
+  "sha256_conteudo": "0cf6fead8becf339f5049c134513dcd50b5e34116fcac89a34bd53b933097a7f",
+  "capturado_em": "2026-11-04T20:18:17Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8336-12-novembro-2014-779535-publicacaooriginal-145335-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8336.htm.xz",
+  "sha256_snapshot_armazenado": "fba80d3981de7fc99ccb208b976fe6a6f37f26abec4daaab84b70c7ebe683a02",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 286,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-12-8336",
+    "numero": "8336",
+    "data": "2014-11-12",
+    "titulo_fonte": "DECRETO Nº 8336, DE 12 DE NOVEMBRO DE 2014",
+    "ementa": "PROMULGA A CONVENÇÃO ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO  DA REPUBLICA BOLIVARIANA DA VENEZUELA PARA  EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A  EVASÃO FISCAL EM MATERIA DE IMPOSTOS SOBRE  A RENDA, FIRMADA EM CARACAS, EM 14 DE FEVEREIRO DE 2005.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589153"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

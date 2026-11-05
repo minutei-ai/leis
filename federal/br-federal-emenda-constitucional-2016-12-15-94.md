@@ -27,6 +27,7 @@ sha256_markdown: "f92122821b3e4150a484ca47ad2319f0a9cc7c87a32ecd8f5dc283c559e677
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 94, DE 15 DE DEZEMBRO DE 2016
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 16.12.2016
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2016-12-15-94.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -156,4 +158,8 @@ Senador Zeze Perrella 2º Secretário
 
 Senador Gladson Cameli 3º Secretário
 
-Senadora Ângela Portela 4ª Secretária\*
+Senadora Ângela Portela 4ª Secretária
+
+Este texto não substitui o publicado no DOU 16.12.2016
+
+\*

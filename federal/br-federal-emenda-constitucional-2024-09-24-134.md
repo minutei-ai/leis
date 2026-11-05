@@ -27,6 +27,7 @@ sha256_markdown: "ed5b62b8a5b7239f262a24a249da9021ae6265e6a0412d6ae883371e54f7e5
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 134, DE 24 DE SETEMBRO DE 2024
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídic
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 25.9.2024
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2024-09-24-134.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -76,4 +78,8 @@ Brasília, em 24 de setembro de 2024
 | Deputado LUCIANO BIVAR 1º Secretário | Senador ROGÉRIO CARVALHO 1º Secretário |
 | Deputada MARIA DO ROSÁRIO 2ª Secretária | Senador WEVERTON 2º Secretário |
 | Deputado JÚLIO CÉSAR 3º Secretário | Senador CHICO RODRIGUES 3º Secretário |
-| Deputado LUCIO MOSQUINI 4º Secretário | Senador STYVENSON VALENTIM 4º Secretário |\*
+| Deputado LUCIO MOSQUINI 4º Secretário | Senador STYVENSON VALENTIM 4º Secretário |
+
+Este texto não substitui o publicado no DOU 25.9.2024
+
+\*

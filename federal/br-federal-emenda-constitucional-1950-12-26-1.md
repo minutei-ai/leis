@@ -1,8 +1,10 @@
+###EMC-000001-0-000-26-12-1950@@@
+
 As Mesas do Senado Federal e da Câmara dos Deputados promulgam, nos  termos do  art. 217,  § 4º, da Constituição Federal a seguinte
 
-    **EMENDA N. 1, AO ART. 26, §**  **3º – DA CONSTITUIÇÃO**
+    <strong>EMENDA N. 1, AO ART. 26, §</strong>  <strong>3º – DA CONSTITUIÇÃO</strong>
 
-     **Artigo único.** O art. 26, § 3º, da Constituição Federal passa a ter a seguinte redação: 
+     <strong>Artigo único.</strong> O art. 26, § 3º, da Constituição Federal passa a ter a seguinte redação: 
 
 “Os vencimentos dos Desembargadores do Tribunal de Justiça serão fixados em quantia não inferior a setenta por cento do que recebem os Ministros do Supremo Tribunal Federal; e os dos demais juízes vitalícios com diferença não excedente a trinta por cento de uma para outra entrância, atribuindo-se aos de entrância mais elevada não menos de dois terços dos vencimentos dos Desembargadores”.
 

@@ -27,6 +27,7 @@ sha256_markdown: "b42328950085f755b186aa749c8e36a18756460769980a1d03d95af4217d67
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 131, DE 3 DE OUTUBRO DE 2023
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídic
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 4.10.2023
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2023-10-03-131.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -86,4 +88,8 @@ Brasília, em 3 de outubro de 2023
 | Deputado LUCIANO BIVAR 1º Secretário | Senador ROGÉRIO CARVALHO 1º Secretário |
 | Deputada MARIA DO ROSÁRIO 2ª Secretária | Senador WEVERTON 2º Secretário |
 | Deputado JÚLIO CÉSAR 3º Secretário | Senador CHICO RODRIGUES 3º Secretário |
-| Deputado LUCIO MOSQUINI 4º Secretário | Senador STYVENSON VALENTIM 4º Secretário |\*
+| Deputado LUCIO MOSQUINI 4º Secretário | Senador STYVENSON VALENTIM 4º Secretário |
+
+Este texto não substitui o publicado no DOU 4.10.2023
+
+\*

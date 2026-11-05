@@ -663,7 +663,7 @@
       "tabelas": 0,
       "imagens_omitidas": 2,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_markdown": "b3a561c3dcfa9814b836fd23d90b785ce001b966bf460007ce94bb41fa69f95b",
+      "sha256_markdown": "dcc753cd94538ec1ba59e3881f000fcad18743f7ff2f0584ef709b7c22d1b210",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "conversao": {
@@ -832,7 +832,7 @@
       "tabelas": 10,
       "imagens_omitidas": 1,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_markdown": "2fba9970309f31f236bd0125fb70b13c8a44e7284791bce160f0e9106f965167",
+      "sha256_markdown": "9f953d620c07681837da1927d32908e69a5d7ba88bfc31fb5989cdae77791d73",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "conversao": {
@@ -1212,7 +1212,7 @@
       "tabelas": 0,
       "imagens_omitidas": 1,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_markdown": "5f3f5274b0f7d46c7f3735d44adc152922c7de205811fdd3882b7db1f8bac556",
+      "sha256_markdown": "e51e5134662760e169cc5655f14e7852d277c8de08baa5034c8c044043435314",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "conversao": {
@@ -1378,7 +1378,7 @@
       "tabelas": 0,
       "imagens_omitidas": 1,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_markdown": "60d5579e1828791bcf0dd20eceaf0a11b784a264921b07e8cd06d817600df647",
+      "sha256_markdown": "6f1efa7509d9dcde0eacd13a76666cfca2aec13f978c7c17ae159fd9e662cf40",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "conversao": {
@@ -1498,7 +1498,7 @@
       "tabelas": 9,
       "imagens_omitidas": 1,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_markdown": "d82f0f1927285af368cc6d46f9e544e6a5eb752c7f73960dd124c0412befe80d",
+      "sha256_markdown": "ee860b085cd3c8c86b09030984fe6687bb2ce5106b102af3457179356984b17e",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "conversao": {
@@ -1777,10 +1777,10 @@
       "texto_riscado": false,
       "anexos_no_corpo": 0,
       "tabelas": 0,
-      "imagens_omitidas": 1,
+      "imagens_omitidas": 0,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_corpo_preservado": "2b2b22fb17269e961c733057bf27212ffe1356720d82f368174bbf2f71faed7b",
-      "sha256_markdown": "2b2b22fb17269e961c733057bf27212ffe1356720d82f368174bbf2f71faed7b",
+      "sha256_corpo_preservado": "8dfe72c14107eed49d27ed6ace922ec19b63879bb2e133147c1155eeac845875",
+      "sha256_markdown": "8dfe72c14107eed49d27ed6ace922ec19b63879bb2e133147c1155eeac845875",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "proveniencia": "Corpo preservado byte a byte do commit auditado; a data e o hash da captura original não foram registrados (capturado_em/sha256_fonte = desconhecido). A captura atual da Câmara usada para conferir o corpo está em `reconciliacao-br-federal-lei-2016-06-30-13303.json` (campo captura_atual_para_conferir), com hash e data próprios — não atribuídos retroativamente à procedência original. Conferência independente com o Planalto no mesmo arquivo de provas.",
@@ -1788,15 +1788,15 @@
         "texto_riscado": false,
         "anexos_no_corpo": 0,
         "tabelas": 0,
-        "imagens_embutidas": 0,
+        "imagens_embutidas": 1,
         "titulos_e_capitulos": 27,
-        "blocos": 679
+        "blocos": 681
       },
       "blocos_nao_textuais": [
         {
-          "tipo": "imagem",
+          "tipo": "imagem-embutida",
           "quantidade": 1,
-          "tratamento": "omitida do Markdown; brasão/logotipo CEDI sem texto jurídico (limpeza #98; proveniência em metadados/limpeza-markdown/imagens.jsonl)"
+          "tratamento": "mantida no corpo preservado (brasão/logotipo institucional)"
         }
       ],
       "fontes": {
@@ -1872,7 +1872,7 @@
       "tabelas": 0,
       "imagens_omitidas": 1,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_markdown": "f251e0a58c5210e2da70347e235a33936438339f6493c903f454e6311eeaa90c",
+      "sha256_markdown": "16f4717e1c485d9bb202b7adfb77bb1935651cc2818a5b37b97b5eac4bb824e0",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "conversao": {
@@ -2041,7 +2041,7 @@
       "tabelas": 0,
       "imagens_omitidas": 1,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_markdown": "fa468788f6e44265cd9790751cb48b6c8aacc3baea3cefa4f4d74faf1cd6e588",
+      "sha256_markdown": "33dd1506893b0c421a000e4dba35cd65978d14d0ef099ddb66369dc55c8314e5",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "conversao": {

@@ -1,0 +1,70 @@
+{
+  "documento": "br-federal-lei-2011-06-30-12434",
+  "fonte_principal": "planalto-L12434-2011-06-30",
+  "sha256_fonte_principal": "182682b7e3710ef1e004cdf17ae0f8dda712d9cb9ccf362128261b695cb99f30",
+  "sha256_conteudo": "f246746bc11e24af228d499d4faa2d858addce47e79d48189be4466c0b2acc2b",
+  "capturado_em": "2026-11-04T20:50:31Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12434.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12434-2011-06-30.htm.xz",
+  "sha256_snapshot_armazenado": "c567f00dc04bec42c64910aba71b6271d0de78b0d550f1e8f0260444e929187d",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 3,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 2,
+        "colunas_max": 4,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 6,
+        "colunas_max": 3,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 5,
+        "colunas_max": 3,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 22,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2011-06-30-12434",
+    "numero": "12434",
+    "data": "2011-06-30",
+    "titulo_fonte": "LEI Nº 12434, DE 30 DE JUNHO DE 2011",
+    "ementa": "Altera a Organização Judiciária do Distrito Federal e dos Territórios, estabelecida pela Lei nº 11.697, de 13 de junho de 2008.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585431"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-02-22-8679",
+  "fonte_principal": "camara-D8679",
+  "sha256_fonte_principal": "29b355ead32592fa4387fdba111907ed86808c0cdab7923dbc85ed6cb04d2dd4",
+  "sha256_conteudo": "29b355ead32592fa4387fdba111907ed86808c0cdab7923dbc85ed6cb04d2dd4",
+  "capturado_em": "2026-11-04T20:25:59Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8679-22-fevereiro-2016-782415-publicacaooriginal-149519-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8679.htm.xz",
+  "sha256_snapshot_armazenado": "219f004b2a0692362bd129e017421a2ecac44a774ef6bc3bafdeca20c7efdae8",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-02-22-8679",
+    "numero": "8679",
+    "data": "2016-02-22",
+    "titulo_fonte": "DECRETO Nº 8679, DE 22 DE FEVEREIRO DE 2016",
+    "ementa": "ALTERA O DECRETO Nº 8.276, DE 27 DE JUNHO DE 2014, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA SUPERINTENDÊNCIA DE DESENVOLVIMENTO DO NORDESTE - SUDENE, E REMANEJA CARGOS EM COMISSÃO.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414463"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

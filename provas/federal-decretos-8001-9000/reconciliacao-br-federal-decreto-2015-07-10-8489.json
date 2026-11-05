@@ -1,0 +1,56 @@
+{
+  "documento": "br-federal-decreto-2015-07-10-8489",
+  "fonte_principal": "camara-D8489",
+  "sha256_fonte_principal": "5cd0be54af25d73ee90facb08d52cba39cc2181acd32ac75aaecc4fe39e146f8",
+  "sha256_conteudo": "5cd0be54af25d73ee90facb08d52cba39cc2181acd32ac75aaecc4fe39e146f8",
+  "capturado_em": "2026-11-04T20:22:34Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8489-10-julho-2015-781225-publicacaooriginal-147544-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8489.htm.xz",
+  "sha256_snapshot_armazenado": "6b5b7aa72f9edc19e64b9bdd778b9689005c5881af6f420e291699b179e1aca6",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 42,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "3",
+      "10",
+      "11",
+      "13"
+    ],
+    "ultimos_artigos": [
+      "3",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-07-10-8489",
+    "numero": "8489",
+    "data": "2015-07-10",
+    "titulo_fonte": "DECRETO Nº 8489, DE 10 DE JULHO DE 2015",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO, DAS FUNÇÕES DE CONFIANÇA DO DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES - DNIT, ALTERA AS ESTRUTURAS REGIMENTAIS DO MINISTÉRIO DA FAZENDA E DA SECRETARIA DA MICRO E PEQUENA EMPRESA, DECLARA O VALOR EM DAS-UNITÁRIO DAS FCDNIT E REMANEJA CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584512"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

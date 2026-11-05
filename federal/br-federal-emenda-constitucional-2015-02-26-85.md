@@ -27,6 +27,7 @@ sha256_markdown: "66437b85d620812fc77adff0d22f26b75e4cb95c97f8527bf580d11e20a71a
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 85, DE 26 DE FEVEREIRO DE 2015
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 27.2.2015 e republicado em 03.03.2015
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2015-02-26-85.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -158,4 +160,8 @@ Senador ZEZE PERRELLA 2º - Secretário
 
 Senador GLADSON CAMELI 3º - Secretário
 
-Senadora ÂNGELA PORTELA 4ª - Secretária\*
+Senadora ÂNGELA PORTELA 4ª - Secretária
+
+Este texto não substitui o publicado no DOU 27.2.2015 republicado em 03.03.2015
+
+\*

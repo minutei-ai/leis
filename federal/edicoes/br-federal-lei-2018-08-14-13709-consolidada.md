@@ -24,7 +24,7 @@ anexos_no_corpo: 0
 tabelas: 0
 imagens_omitidas: 0
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "bd9c03bb1e61cb2717b2b008c949cf52e7ca0cfc35cbc2703155d0112b6fc28a"
+sha256_markdown: "89970f6a38747b06ac7496da2b6ff30425ef8a5139e927484f9c2f15f813eb7b"
 manifesto: "metadados/lgpd.json"
 contrato_versao: 1
 ---
@@ -40,6 +40,10 @@ contrato_versao: 1
 > Edição histórica preservada em `../br-federal-lei-2018-08-14-13709.md`. Texto entre `~~` (se houver) é redação superada/vetada/revogada que a fonte mantém riscada.
 
 <!-- nota-edicao:fim -->
+
+CÂMARA DOS DEPUTADOS
+
+Centro de Documentação e Informação
 
 # LEI Nº 13.709, DE 14 DE AGOSTO DE 2018
 

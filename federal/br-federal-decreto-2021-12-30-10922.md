@@ -2,7 +2,8 @@
 
 > **Anexo recuperado — Presidência da República — Planalto.** Fonte do anexo: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10922.htm (capturada em 2026-11-03T17:50:53Z, SHA-256 da fonte `b3708bdd59ca70e6963d9ac94873d492ffe966799eb3854510029d9b68bcd4e3`, SHA-256 do conteúdo sem script de proteção `ebcc594efce59aafa15b8ae28b72e79abaef851086bd9dc39a274f6f68b227b5`). Snapshot: `provas/decretos-atualizacao-14133/fontes/planalto-d10922.htm.xz`. Prova de cobertura de todas as linhas: `provas/decretos-atualizacao-14133/cobertura-anexos.json`.
 >
->>
+> Este texto não substitui o publicado no DOU de 31.12.2021.
+>
 > Na captura, a página do Planalto exibe o ato com marcação de revogação (Decreto nº 11.317, de 2022) e `text-decoration:line-through` no corpo e no anexo. Este arquivo preserva o texto do decreto e o anexo sem aplicar essa marcação posterior de revogação; não certifica vigência.
 >
 > O corpo dos artigos e assinaturas abaixo preserva a redação já publicada neste acervo (originalmente proveniente de normas.leg.br / Senado). O anexo de valores foi recuperado da página HTML do Planalto (https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10922.htm). Diferenças editoriais da página do Planalto em relação a esse corpo — faixas de Vigência/Revogado, brasão e links internos do Planalto — não foram incorporadas ao corpo já publicado. O aviso de que o texto não substitui o DOU, presente na fonte, foi colocado entre as assinaturas e o anexo, como na página oficial, e também consta nesta nota.
@@ -31,7 +32,11 @@ Brasília, 30 de dezembro de 2021; 200º da Independência e 133º da República
 
 JAIR MESSIAS BOLSONARO
 
-Marcelo Pacheco dos GuaranysANEXO
+Marcelo Pacheco dos Guaranys
+
+Este texto não substitui o publicado no DOU de 31.12.2021.
+
+ANEXO
 
 ATUALIZAÇÃO DOS VALORES ESTABELECIDOS NA LEI Nº 14.133, DE 1º DE ABRIL DE 2021
 

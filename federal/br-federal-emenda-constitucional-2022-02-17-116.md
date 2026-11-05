@@ -27,6 +27,7 @@ sha256_markdown: "258616128a3b56151045deb4300abdb877b66ecbd3f4d3e0806d71281b03c2
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 116, DE 17 DE FEVEREIRO DE 2022
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 18.2.2022
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-02-17-116.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -78,4 +80,8 @@ Brasília, em 17 de fevereiro de 2022
 | Deputado LUCIANO BIVAR 1º Secretário | Senador IRAJÁ 1º Secretário |
 | Deputada MARÍLIA ARRAES 2ª Secretária | Senador ELMANO FÉRRER 2º Secretário |
 | Deputada ROSE MODESTO 3ª Secretária | Senador ROGÉRIO CARVALHO 3º Secretário |
-| Deputada ROSANGELA GOMES 4ª Secretária | Senador WEVERTON 4º Secretário |\*
+| Deputada ROSANGELA GOMES 4ª Secretária | Senador WEVERTON 4º Secretário |
+
+Este texto não substitui o publicado no DOU 18.2.2022
+
+\*

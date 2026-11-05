@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1996-07-24-9296",
+  "fonte_principal": "planalto-L9296",
+  "sha256_fonte_principal": "c6036b493327146ef374c54677df3ba000d2b229fb9b75ceceb6fdd0332884b2",
+  "sha256_conteudo": "c8cd11b8c90507f771759528999341302963333e3b1a033e3b08e4cf99f71878",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L9296.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9296.htm.xz",
+  "sha256_snapshot_armazenado": "c1585973e3f5e8e9991e381d44138076a5623ed7a31f8ff3b9f07ec49b1f3633",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 6143,
+    "caracteres_normalizados_markdown": 6143,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 4,
+    "links": 26,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 52,
+    "artigos": 14,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "9",
+      "10",
+      "10-A",
+      "11",
+      "12"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1996-07-24-9296",
+    "numero": "9296",
+    "data": "1996-07-24",
+    "titulo_fonte": "LEI Nº 9296, DE 24 DE JULHO DE 1996",
+    "ementa": "Regulamenta o inciso XII, parte final, do art. 5° da Constituição Federal.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "551172"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

@@ -27,6 +27,7 @@ sha256_markdown: "b33255bad0ccca4680006fe7903432700a93dbc935e732c81f20419aa57f7b
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 93, DE 8 DE SETEMBRO DE 2016
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 9.9.2016
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2016-09-08-93.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -128,4 +130,8 @@ Senador Zeze Perrella 2º Secretário
 
 Senador Gladson Cameli 3º Secretário
 
-Senadora Ângela Portela 4ª Secretária\*
+Senadora Ângela Portela 4ª Secretária
+
+Este texto não substitui o publicado no DOU 9.9.2016 - Edição extra
+
+\*

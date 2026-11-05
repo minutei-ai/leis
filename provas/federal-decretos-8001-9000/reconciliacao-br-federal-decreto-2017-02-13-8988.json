@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2017-02-13-8988",
+  "fonte_principal": "camara-D8988",
+  "sha256_fonte_principal": "9bd261510ca218ff9ba6df687a327ae8917ad89b9214b996aef359c6f1125015",
+  "sha256_conteudo": "9bd261510ca218ff9ba6df687a327ae8917ad89b9214b996aef359c6f1125015",
+  "capturado_em": "2026-11-04T20:37:30Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8988-13-fevereiro-2017-784308-publicacaooriginal-151974-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8988.htm.xz",
+  "sha256_snapshot_armazenado": "bd0d9d5e4750635cd0414f56737b85ae5eefa08d6d1ee37b91585b8a2e42d085",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 16,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2017-02-13-8988",
+    "numero": "8988",
+    "data": "2017-02-13",
+    "titulo_fonte": "DECRETO Nº 8988, DE 13 DE FEVEREIRO DE 2017",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO QUINQUAGÉSIMO NONO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 35 (59PA-ACE35), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, ESTADOS PARTES DO MERCOSUL, E A REPÚBLICA DO CHILE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "415008"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

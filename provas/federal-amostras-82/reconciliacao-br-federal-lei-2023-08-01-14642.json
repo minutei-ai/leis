@@ -1,0 +1,61 @@
+{
+  "documento": "br-federal-lei-2023-08-01-14642",
+  "fonte_principal": "planalto-L14642",
+  "sha256_fonte_principal": "5ce8616507b378374ce468aedfd4a12ca0e520dcd377389168fa9bb91fabe91e",
+  "sha256_conteudo": "e55c7dfdf7a764900bfbf80403e044f063d85c206b6beee82164120fba25a423",
+  "capturado_em": "2026-11-04T19:15:08Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14642.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L14642.htm.xz",
+  "sha256_snapshot_armazenado": "3a473509acb5d6a71342d9c011d7149d157b72d762a3af1e2b599dd7cadac4b4",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/LEIS/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 11,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2023-08-01-14642",
+    "numero": "14642",
+    "data": "2023-08-01",
+    "titulo_fonte": "LEI Nº 14642, DE 1 DE AGOSTO DE 2023",
+    "ementa": "Denomina João Batista Menegatti o viaduto localizado na rodovia BR-282, na travessia urbana do Município de Xanxerê, Estado de Santa Catarina.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "37441123"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

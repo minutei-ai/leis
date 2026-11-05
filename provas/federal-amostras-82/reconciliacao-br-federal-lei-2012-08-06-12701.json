@@ -1,0 +1,52 @@
+{
+  "documento": "br-federal-lei-2012-08-06-12701",
+  "fonte_principal": "planalto-L12701-2012-08-06",
+  "sha256_fonte_principal": "02033e52fbac98ade996447857d5427fc6e7aea2a1a82d3a6a4a51ec96baa84d",
+  "sha256_conteudo": "b7276ac458374928010e6fc5f9d22c33943cecc832cb017a845c37d7fec3c1f6",
+  "capturado_em": "2026-11-04T20:50:46Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12701.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12701-2012-08-06.htm.xz",
+  "sha256_snapshot_armazenado": "504091a165200b0e759fb49688380d379fca6638f9dcbc9bbd16928e618725eb",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 1,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 11,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2012-08-06-12701",
+    "numero": "12701",
+    "data": "2012-08-06",
+    "titulo_fonte": "LEI Nº 12701, DE 6 DE AGOSTO DE 2012",
+    "ementa": "Inscreve os nomes de Francisco Barreto de Menezes, João Fernandes Vieira, André Vidal de Negreiros, Henrique Dias, Antônio Filipe Camarão e Antônio Dias Cardoso no Livro dos Heróis da Pátria.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "588077"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

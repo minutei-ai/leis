@@ -256,6 +256,27 @@
     ]
   },
   "municipios_publicados": {
+    "1100205": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
+      }
+    ],
+    "1302603": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
+      }
+    ],
+    "1400100": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
+      }
+    ],
     "1505536": [
       {
         "orgao": "Câmara Municipal de Parauapebas",
@@ -270,6 +291,34 @@
         "poder": "desconhecido",
         "estado": "catalogo-parcial",
         "evidencia": "inventario-territorial"
+      }
+    ],
+    "2304400": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
+      }
+    ],
+    "2408102": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
+      }
+    ],
+    "2507507": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
+      }
+    ],
+    "2611606": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
       }
     ],
     "2702355": [
@@ -288,6 +337,13 @@
         "evidencia": "inventario-territorial"
       }
     ],
+    "2704302": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
+      }
+    ],
     "2704708": [
       {
         "orgao": "Câmara Municipal de Marechal Deodoro",
@@ -302,6 +358,20 @@
         "poder": "Legislativo",
         "estado": "catalogo-parcial",
         "evidencia": "inventario-territorial"
+      }
+    ],
+    "2800308": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
+      }
+    ],
+    "2927408": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
       }
     ],
     "3100906": [
@@ -330,6 +400,13 @@
         "evidencia": "leis-dom-pbh-api + licitacoes-locais"
       }
     ],
+    "3205309": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
+      }
+    ],
     "3500105": [
       {
         "orgao": "Câmara Municipal de Adamantina",
@@ -344,6 +421,20 @@
         "poder": "ambos-parciais",
         "estado": "catalogo-parcial",
         "evidencia": "licitacoes-locais + catalogos/pmsp"
+      }
+    ],
+    "4106902": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
+      }
+    ],
+    "4314902": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
       }
     ],
     "5201405": [
@@ -372,7 +463,7 @@
     ]
   },
   "municipios_sem_diretorio": {
-    "contagem": 5555,
+    "contagem": 5542,
     "estado_trabalho": "sem-publicacao-identificada",
     "fontes": [
       {

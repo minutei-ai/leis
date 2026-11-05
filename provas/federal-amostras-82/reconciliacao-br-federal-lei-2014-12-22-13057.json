@@ -1,0 +1,149 @@
+{
+  "documento": "br-federal-lei-2014-12-22-13057",
+  "fonte_principal": "planalto-L13057-2014-12-22",
+  "sha256_fonte_principal": "c2863d910c8e66fd98c86ededc51648a7e4028b7895e80370968ac1aded755f9",
+  "sha256_conteudo": "02565db5a776f0f1ca4b9c197dfbbe7bb504b985bcf485e192af1188ff18bae9",
+  "capturado_em": "2026-11-04T20:52:17Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13057.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13057-2014-12-22.htm.xz",
+  "sha256_snapshot_armazenado": "747d91476df504d473c6d827b5757221fb68b61b557e4ab76185d4dffc597bbe",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 4,
+    "tabelas_markdown": 16,
+    "tabelas_html": 2,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 3,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 5,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 5,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 13,
+        "colunas_max": 5,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 5,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 5,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 5,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 3,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 5,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 51,
+    "artigos": 6,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-12-22-13057",
+    "numero": "13057",
+    "data": "2014-12-22",
+    "titulo_fonte": "LEI Nº 13057, DE 22 DE DEZEMBRO DE 2014",
+    "ementa": "Cria cargos de provimento efetivo, em comissão e funções comissionadas no Tribunal de Justiça do Distrito Federal e dos Territórios - TJDFT.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584869"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

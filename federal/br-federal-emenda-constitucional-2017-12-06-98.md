@@ -27,6 +27,7 @@ sha256_markdown: "3c4bbec7dd130db338855ea00c86c53694f52629af1cbf5170a8b8767e4773
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 98, DE 6 DE DEZEMBRO DE 2017
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 11.12.2017
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2017-12-06-98.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -117,4 +119,8 @@ Art. 8º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 |  |  |
 | Deputado JHC 3º Secretário | Senador DAVI ALCOLUMBRE 3º Secretário-Suplente |
 |  |  |
-| Deputado RÔMULO GOUVEIA 4º Secretário | Senador ZEZE PERRELLA 4º Secretário |\*
+| Deputado RÔMULO GOUVEIA 4º Secretário | Senador ZEZE PERRELLA 4º Secretário |
+
+Este texto não substitui o publicado no DOU 11.12.2017
+
+\*

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2017-01-16-8958",
+  "fonte_principal": "camara-D8958",
+  "sha256_fonte_principal": "747078670bae8bad5899dfb3507fa1bd8da6117e9eafd5535990119dd712ac49",
+  "sha256_conteudo": "747078670bae8bad5899dfb3507fa1bd8da6117e9eafd5535990119dd712ac49",
+  "capturado_em": "2026-11-04T20:44:21Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8958-16-janeiro-2017-784175-publicacaooriginal-151812-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8958.htm.xz",
+  "sha256_snapshot_armazenado": "f3a27a3f3a9254e516b4ecd9f08fab2f314ab4d2578331cc52a9402f17d7abe8",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 169,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2017-01-16-8958",
+    "numero": "8958",
+    "data": "2017-01-16",
+    "titulo_fonte": "DECRETO Nº 8958, DE 16 DE JANEIRO DE 2017",
+    "ementa": "PROMULGA O ACORDO SOBRE SERVIÇOS AÉREOS ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO QUÊNIA, FIRMADO EM BRASÍLIA, EM 14 DE SETEMBRO DE 2010.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "603258"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

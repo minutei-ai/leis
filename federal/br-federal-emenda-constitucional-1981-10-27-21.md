@@ -1,75 +1,19 @@
-**EMENDA CONSTITUCIONAL Nº 21**
+###EMC-000021-0-000-27-10-1981@@@
 
-***Dispõe sobre a remuneração dos deputados estaduais.***
+<strong>EMENDA CONSTITUCIONAL Nº 21</strong>
 
-**AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL**, nos termos do art. 49 da Constituição Federal, promulgam a seguinte Emenda ao Texto constitucional:
+<em><strong>Dispõe sobre a remuneração dos deputados estaduais.</strong></em>
 
-**Art**. 1º - O item VI do art. 13 da Constituição Federal passa a vigorar com a seguinte redação:
+<strong>AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL</strong>, nos termos do art. 49 da Constituição Federal, promulgam a seguinte Emenda ao Texto constitucional:
+
+<strong>Art</strong>. 1º - O item VI do art. 13 da Constituição Federal passa a vigorar com a seguinte redação:
 
 ‘’VI – a proibição de pagar a deputados estaduais mais de oito sessões extraordinárias.’’
 
-**Art**. 2º - É acrescentado o seguinte artigo à Constituição Federal:
+<strong>Art</strong>. 2º - É acrescentado o seguinte artigo à Constituição Federal:
 
 ‘’Art. 212 – As Assembléias Legislativas poderão fixar a remuneração de seus membros para vigorar na presente Legislatura, observado o limite de 2/3 (dois terços) do que percebem, a mesmo título, os deputados federais, excetuadas as sessões extraordinárias e as sessões conjuntas do Congresso Nacional.’’
 
 Brasília, 27 de outubro de 1981
 
-A Mesa da Câmara dos Deputados
-
-A Mesa do Senado Federal
-
-NELSON MARCHEZAN
-
-JARBAS PASSARINHO
-
-Presidente
-
-Presidente
-
-HAROLDO SANFORD
-
-PASSOS PÔRTO
-
-1º Vice-Presidente
-
-1º Vice-Presidente
-
-FREITAS NOBRE
-
-GILVAN ROCHA
-
-2º Vice-Presidente
-
-2º Vice-Presidente
-
-FURTADO LEITE
-
-CUNHA LIMA
-
-1º Secretário
-
-1º Secretário
-
-CARLOS WILSON
-
-JORGE KALUME
-
-2º Secretário
-
-2º Secretário
-
-JOSÉ CAMARGO
-
-ITAMAR FRANCO
-
-3º Secretário
-
-3º Secretário
-
-PAES DE ANDRADE
-
-JUTAHY Magalhães
-
-4º Secretário
-
-4º Secretário
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>A Mesa da Câmara dos Deputados</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>A Mesa do Senado Federal</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>NELSON MARCHEZAN</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>JARBAS PASSARINHO</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Presidente</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Presidente</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>HAROLDO SANFORD</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>PASSOS PÔRTO</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FREITAS NOBRE</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>GILVAN ROCHA</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>FURTADO LEITE</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>CUNHA LIMA</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1º Secretário</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1º Secretário</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>CARLOS WILSON</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>JORGE KALUME</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>2º Secretário</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>2º Secretário</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>JOSÉ CAMARGO</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>ITAMAR FRANCO</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>3º Secretário</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>3º Secretário</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>PAES DE ANDRADE</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>JUTAHY Magalhães</span></span></p></td></tr><tr><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>4º Secretário</span></span></p></td><td style="width:230.55pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>4º Secretário</span></span></p></td></tr></tbody></table>

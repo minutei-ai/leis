@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-03-28-8699",
+  "fonte_principal": "camara-D8699",
+  "sha256_fonte_principal": "5b31f71541405cd38ef3214c1b3dff93a053780619fa0185f2cb34eb29c26b54",
+  "sha256_conteudo": "5b31f71541405cd38ef3214c1b3dff93a053780619fa0185f2cb34eb29c26b54",
+  "capturado_em": "2026-11-04T20:26:37Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8699-28-marco-2016-782651-publicacaooriginal-149840-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8699.htm.xz",
+  "sha256_snapshot_armazenado": "52eb5568abc689311778f2af1a14d2cb04408d1a3ae065d1629a6cb4816691bf",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 55,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-03-28-8699",
+    "numero": "8699",
+    "data": "2016-03-28",
+    "titulo_fonte": "DECRETO Nº 8699, DE 28 DE MARÇO DE 2016",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA ARGENTINA PARA A CONSTRUÇÃO DE UMA PONTE INTERNACIONAL SOBRE O RIO PEPERI-GUAÇU, ENTRE AS CIDADES DE PARAÍSO, BRASIL, E SÃO PEDRO, ARGENTINA, FIRMADO EM BUENOS AIRES, EM 31 DE JANEIRO DE 2011.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414545"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

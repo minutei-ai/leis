@@ -27,6 +27,7 @@ sha256_markdown: "72d40eef39ebe3a2fe832cc4a4023cdaba1c170a6004ef116b6510ee63a102
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 57, DE 18 DE DEZEMBRO DE 2008
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > Referência de catálogo da Câmara (não usada como fonte principal nesta entrega): https://www2.camara.leg.br/legin/fed/emecon/2008/emendaconstitucional-57-18-dezembro-2008-584930-publicacaooriginal-107792-pl.html.
 >
->>
+> Este texto não substitui o publicado no DOU de 18.12.2008
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2008-12-18-57.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -72,4 +74,8 @@ Brasília, em 18 de dezembro de 2008.
 | Deputado Osmar Serraglio 1º Secretário | Senador Gerson Camata 2º Secretário |
 | Deputado Ciro Nogueira 2º Secretário | Senador César Borges 3º Secretário |
 | Deputado Waldemir Moka 3º Secretário | Senador Magno Malta 4º Secretário |
-| Deputado JOSÉ CARLOS MACHADO 4º Secretário |  |\*
+| Deputado JOSÉ CARLOS MACHADO 4º Secretário |  |
+
+Este texto não substitui o publicado no DOU 18.12.2008 - Edição extra
+
+\*

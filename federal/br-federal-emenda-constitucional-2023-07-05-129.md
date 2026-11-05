@@ -27,6 +27,7 @@ sha256_markdown: "4159faed46d9c269d1d58448f945c2f442759a5716a48e7bf054083dce1fc0
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 129, DE 5 DE JULHO DE 2023
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídic
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 6.7.2023
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2023-07-05-129.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -72,4 +74,8 @@ Brasília, em 5 de julho de 2023
 | Deputado LUCIANO BIVAR 1º Secretário | Senador ROGÉRIO CARVALHO 1º Secretário |
 | Deputada MARIA DO ROSÁRIO 2ª Secretária | Senador WEVERTON 2º Secretário |
 | Deputado JÚLIO CÉSAR 3º Secretário | Senador CHICO RODRIGUES 3º Secretário |
-| Deputado LUCIO MOSQUINI 4º Secretário | Senador STYVENSON VALENTIM 4º Secretário |\*
+| Deputado LUCIO MOSQUINI 4º Secretário | Senador STYVENSON VALENTIM 4º Secretário |
+
+Este texto não substitui o publicado no DOU 6.7.2023
+
+\*

@@ -27,6 +27,7 @@ sha256_markdown: "7b0b0b55c187ccd762793680f54e6fb8d025f16bbcbb9f804c1c0db478c539
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 90, DE 15 DE SETEMBRO DE 2015
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > Referência de catálogo da Câmara (não usada como fonte principal nesta entrega): https://www2.camara.leg.br/legin/fed/emecon/2015/emendaconstitucional-90-15-setembro-2015-781520-publicacaooriginal-148098-pl.html.
 >
->>
+> Este texto não substitui o publicado no DOU de 16.9.2015
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2015-09-15-90.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -86,4 +88,8 @@ Senador ZEZE PERRELLA 2º Secretário
 
 Senador GLADSON CAMELI 3º Secretário
 
-Senadora ÂNGELA PORTELA 4ª Secretária\*
+Senadora ÂNGELA PORTELA 4ª Secretária
+
+Este texto não substitui o publicado no DOU 16.9.2015
+
+\*

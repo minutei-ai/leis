@@ -27,6 +27,7 @@ sha256_markdown: "247b380fe3ce5a70665c17b59d9b4925333abeab6ce7101be38da5eba9c5cc
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 96, DE 6 DE JUNHO DE 2017
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 7.6.2017
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2017-06-06-96.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -96,4 +98,8 @@ Senador GLADSON CAMELI 2º Secretário
 
 Senador ANTONIO CARLOS VALADARES 3º Secretário
 
-Senador ZEZE PERRELLA 4º Secretário\*
+Senador ZEZE PERRELLA 4º Secretário
+
+Este texto não substitui o publicado no DOU 7.6.2017
+
+\*

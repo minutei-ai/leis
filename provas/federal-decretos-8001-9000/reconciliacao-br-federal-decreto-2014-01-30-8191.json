@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-01-30-8191",
+  "fonte_principal": "camara-D8191",
+  "sha256_fonte_principal": "9d03eab11de662b81c07ae7749ebda5e2038d2376379cd952f4df39e6d3c63cd",
+  "sha256_conteudo": "9d03eab11de662b81c07ae7749ebda5e2038d2376379cd952f4df39e6d3c63cd",
+  "capturado_em": "2026-11-04T20:15:00Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8191-30-janeiro-2014-778097-publicacaooriginal-143189-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8191.htm.xz",
+  "sha256_snapshot_armazenado": "3044ac06867e769a351463b261c91296feeda2fd1281a9015ae4cfdeaad9eda9",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-01-30-8191",
+    "numero": "8191",
+    "data": "2014-01-30",
+    "titulo_fonte": "DECRETO Nº 8191, DE 30 DE JANEIRO DE 2014",
+    "ementa": "FIXA, PARA O EXERCITO, OS QUANTITATIVOS DE VAGAS PARA PROMOÇÕES OBRIGATORIAS DE OFICIAIS DAS ARMAS, QUADROS E SERVIÇOS QUE MENCIONA, NO ANO-BASE DE 2013.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584291"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2014-08-06-13020",
+  "fonte_principal": "planalto-L13020-2014-08-06",
+  "sha256_fonte_principal": "9ba4c320aa744327c5851599032bd1ad445f7539e1e02c43a114292b112c35a1",
+  "sha256_conteudo": "e033d7d1c5ad73ab6d0ef637e02689cbd54571816bf396fe39723136972e27df",
+  "capturado_em": "2026-11-04T20:52:13Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13020.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13020-2014-08-06.htm.xz",
+  "sha256_snapshot_armazenado": "bf0c50841637d9b40016af028679923e955d7841cc95c48d9fd1061e5536fee3",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 5,
+    "tabelas_markdown": 1,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 6,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 35,
+    "artigos": 8,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-08-06-13020",
+    "numero": "13020",
+    "data": "2014-08-06",
+    "titulo_fonte": "LEI Nº 13020, DE 6 DE AGOSTO DE 2014",
+    "ementa": "Cria, em caráter temporário, as Funções Comissionadas de Grandes Eventos - FCGE e extingue Funções Comissionadas Técnicas - FCT.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584831"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

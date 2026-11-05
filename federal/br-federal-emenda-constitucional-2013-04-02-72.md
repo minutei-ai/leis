@@ -27,6 +27,7 @@ sha256_markdown: "24f70b31b4133d4c2e79958c48a58a5b62995fc8883d47694cf78d4eb17520
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 72, DE 2 DE ABRIL DE 2013
@@ -43,14 +44,13 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > Referência de catálogo da Câmara (não usada como fonte principal nesta entrega): https://www2.camara.leg.br/legin/fed/emecon/2013/emendaconstitucional-72-2-abril-2013-775615-publicacaooriginal-139358-pl.html.
 >
->>
+> Este texto não substitui o publicado no DOU de 3.4.2013
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2013-04-02-72.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
 >
-> 1 tabela(s) da fonte foram convertidas para Markdown/`
-
-<table>` no corpo.
+> 1 tabela(s) da fonte foram convertidas para Markdown/`<table>` no corpo.
 
 <!-- nota-edicao:fim -->
 
@@ -76,4 +76,9 @@ Brasília, em 2 de abril de 2013.
 <tr><td>Deputado SIMÃO SESSIM 2º Secretário</td><td>Senador FLEXA RIBEIRO 1º Secretário</td></tr>
 <tr><td>Deputado MAURÍCIO QUINTELLA LESSA 3º Secretário</td><td>Senadora ANGELA PORTELA 2ª Secretária</td></tr>
 <tr><td rowspan="2">Deputado ANTONIO CARLOS BIFFI 4º Secretário</td><td>Senador CIRO NOGUEIRA 3º Secretário</td></tr>
-<tr><td>Senador JOÃO VICENTE CLAUDINO 4º Secretário\*
+<tr><td>Senador JOÃO VICENTE CLAUDINO 4º Secretário</td></tr>
+</table>
+
+Este texto não substitui o publicado no DOU 3.4.2013
+
+\*

@@ -27,6 +27,7 @@ sha256_markdown: "d89b750ccc5ce710b8f65182ef437e1453d3230224361a3682bf772400101d
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 77, DE 11 DE FEVEREIRO DE 2014
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 12.2.2014
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2014-02-11-77.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -102,4 +104,8 @@ Senadora ANGELA PORTELA 2ª Secretária
 
 Senador CIRO NOGUEIRA 3º Secretário
 
-Senador JOÃO VICENTE CLAUDINO 4º Secretário\*
+Senador JOÃO VICENTE CLAUDINO 4º Secretário
+
+Este texto não substitui o publicado no DOU 12.2.2014
+
+\*

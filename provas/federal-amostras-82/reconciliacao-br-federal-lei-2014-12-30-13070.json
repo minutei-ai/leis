@@ -1,0 +1,54 @@
+{
+  "documento": "br-federal-lei-2014-12-30-13070",
+  "fonte_principal": "planalto-L13070-2014-12-30",
+  "sha256_fonte_principal": "76fbfc5f8de9ea758f45c281e495de9b71cba2ec13fc17651d3958b6b612854c",
+  "sha256_conteudo": "6a3a647d8dbdc413834864d23bb18a87e0107ee5363e4256a427a6bdc6040c48",
+  "capturado_em": "2026-11-04T20:52:21Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13070.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13070-2014-12-30.htm.xz",
+  "sha256_snapshot_armazenado": "687d5ed6075f6984a0f3d140dffc5c3c4399809bc59d8cf4ad48f963b78f6d58",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 3,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 18,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-12-30-13070",
+    "numero": "13070",
+    "data": "2014-12-30",
+    "titulo_fonte": "LEI Nº 13070, DE 30 DE DEZEMBRO DE 2014",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho e do Ministério Público da União, crédito especial no valor de R$ 18.557.902,00 para os fins que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584882"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

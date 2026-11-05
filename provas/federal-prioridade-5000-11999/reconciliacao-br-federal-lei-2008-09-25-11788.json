@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-2008-09-25-11788",
+  "fonte_principal": "planalto-L11788",
+  "sha256_fonte_principal": "a93f9b66d0abecbcba129e453c308aff78372f10dfcc0f0dd2d358339c1f5afe",
+  "sha256_conteudo": "b59696e1b5de17936cb2297ea9b526c4e72c1f865dae12828f108714505f5e26",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Lei/L11788.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L11788.htm.xz",
+  "sha256_snapshot_armazenado": "acc6c727168bf7b22c2585bdd36735bc2faa09af3becc1f66384466740bd59f3",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 13206,
+    "caracteres_normalizados_markdown": 13206,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 3,
+    "links": 19,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "desconhecido",
+        "largura": "76",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2008/Decreto/Image4.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 104,
+    "artigos": 22,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "18",
+      "19",
+      "20",
+      "21",
+      "22"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2008-09-25-11788",
+    "numero": "11788",
+    "data": "2008-09-25",
+    "titulo_fonte": "LEI Nº 11788, DE 25 DE SETEMBRO DE 2008",
+    "ementa": "Dispõe sobre o estágio de estudantes; altera a redação do art. 428 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto- Lei nº 5.452, de 1º de maio de 1943, e a Lei n",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "582210"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

@@ -27,6 +27,7 @@ sha256_markdown: "a85b824ca7e8b2ac0e200908ec8332185671b3ba6d399edde4f0fbbf43c1ff
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 53, DE 19 DE DEZEMBRO DE 2006
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > Referência de catálogo da Câmara (não usada como fonte principal nesta entrega): https://www2.camara.leg.br/legin/fed/emecon/2006/emendaconstitucional-53-19-dezembro-2006-548446-publicacaooriginal-63582-pl.html.
 >
->>
+> Este texto não substitui o publicado no DOU de 20.12.2006
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2006-12-19-53.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -203,4 +205,8 @@ Brasília, em 19 de dezembro de 2006.
 | Deputado CIRO NOGUEIRA 2º Vice-Presidente | Senador ANTERO PAES DE BARROS 2º Vice-Presidente |
 | Deputado INOCÊNCIO OLIVEIRA 1º Secretário | Senador EFRAIM MORAIS 1º Secretário |
 | Deputado NILTON CAPIXABA 2º Secretário | Senador JOÃO ALBERTO SOUZA 2º Secretário |
-| Deputado EDUARDO GOMES 3º Secretário | Senador PAULO OCTÁVIO 3º Secretário Senador EDUARDO SIQUEIRA CAMPOS 4º Secretário |\*
+| Deputado EDUARDO GOMES 3º Secretário | Senador PAULO OCTÁVIO 3º Secretário Senador EDUARDO SIQUEIRA CAMPOS 4º Secretário |
+
+Este texto não substitui o publicado no DOU 20.12.2006
+
+\*

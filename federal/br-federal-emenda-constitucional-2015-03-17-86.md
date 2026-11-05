@@ -27,6 +27,7 @@ sha256_markdown: "0858d55ec0b10591536c3170f220cbf60141a7851a030c9d6088ef7d732005
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 86, DE 17 DE MARÇO DE 2015
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 18.3.2015
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2015-03-17-86.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -170,4 +172,8 @@ Senador ZEZE PERRELLA 2º - Secretário
 
 Senador GLADSON CAMELI 3º - Secretário
 
-Senadora ÂNGELA PORTELA 4ª - Secretária\*
+Senadora ÂNGELA PORTELA 4ª - Secretária
+
+Este texto não substitui o publicado no DOU 18.3.2015
+
+\*

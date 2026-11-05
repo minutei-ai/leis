@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1996-12-26-9427",
+  "fonte_principal": "planalto-L9427",
+  "sha256_fonte_principal": "4a1ccde000093ec98a0c9ebd563bf3371069e3112ea2bff50c4c95ae33b3b17c",
+  "sha256_conteudo": "baaea7f0344d48877106a6f51656b9b9ead5c26ef176c8ba463549ec9def3ff8",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L9427compilada.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9427.htm.xz",
+  "sha256_snapshot_armazenado": "c4a1e74441d94e2307707b0796711ef27d715488e6f2797ce56b9ac98c4f4139",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 47231,
+    "caracteres_normalizados_markdown": 47231,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 260,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/decreto/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 272,
+    "artigos": 38,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "3-A",
+      "3-B"
+    ],
+    "ultimos_artigos": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1996-12-26-9427",
+    "numero": "9427",
+    "data": "1996-12-26",
+    "titulo_fonte": "LEI Nº 9427, DE 26 DE DEZEMBRO DE 1996",
+    "ementa": "Institui a Agência Nacional de Energia Elétrica - ANEEL, disciplina o regime das concessões de serviços públicos de energia elétrica e dá outras providências.",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "compilado-planalto",
+      "integral": true
+    },
+    "senado_id": "551303"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-12-16-8933",
+  "fonte_principal": "camara-D8933",
+  "sha256_fonte_principal": "df477ee109316e597a04b7fb757286293094779c88cf518fdac2e09b2d395ad2",
+  "sha256_conteudo": "df477ee109316e597a04b7fb757286293094779c88cf518fdac2e09b2d395ad2",
+  "capturado_em": "2026-11-04T20:35:07Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8933-16-dezembro-2016-784053-publicacaooriginal-151593-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8933.htm.xz",
+  "sha256_snapshot_armazenado": "508c0f0f76a3c3d5246a1d54229c154c4b3ab8a7a2b804ff9af42ca420e0a6af",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 11,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-12-16-8933",
+    "numero": "8933",
+    "data": "2016-12-16",
+    "titulo_fonte": "DECRETO Nº 8933, DE 16 DE DEZEMBRO DE 2016",
+    "ementa": "APROVA O PROGRAMA DE DISPÊNDIOS GLOBAIS - PDG PARA 2017 DAS EMPRESAS ESTATAIS FEDERAIS, E DÁ OUTRAS PROVIDÊNCIAS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414956"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

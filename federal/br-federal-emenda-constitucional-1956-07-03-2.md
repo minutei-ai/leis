@@ -1,14 +1,16 @@
+###EMC-000002-0-000-03-07-1956@@@
+
 As Mesas da Câmara dos Deputados e do Senado Federal promulgam, nos têrmos do art. 217, § 4º, da Constituição Federal, a seguinte
 
-**EMENDA CONSTITUCIONAL N. 2**
+<strong>EMENDA CONSTITUCIONAL N. 2</strong>
 
-**Art.** 1º O atual Distrito Federal será administrado por um Prefeito, cabendo as funções legislativas a uma Câmara de Vereadores, eleitos, êstes e aquêle, por sufrágio direto, simultâneamente, pelo período de quatro anos.
+<strong>Art.</strong> 1º O atual Distrito Federal será administrado por um Prefeito, cabendo as funções legislativas a uma Câmara de Vereadores, eleitos, êstes e aquêle, por sufrágio direto, simultâneamente, pelo período de quatro anos.
 
 Parágrafo único. A primeira eleição para Prefeito realizar-se-á quando se efetuar a de Presidente da República para o próximo período, governamental.
 
-**Art.** 2º Serão extensivas ao Prefeito do Distrito Federal as inelegibilidade previstas no inciso IV do art. 139 da Constituição.
+<strong>Art.</strong> 2º Serão extensivas ao Prefeito do Distrito Federal as inelegibilidade previstas no inciso IV do art. 139 da Constituição.
 
-**Art.** 3º O Govêrno Federal não intervirá, na administração local do Distrito Federal, salvo nos casos do art. 7º da Constituição, no que lhe fôr aplicável ou quando:
+<strong>Art.</strong> 3º O Govêrno Federal não intervirá, na administração local do Distrito Federal, salvo nos casos do art. 7º da Constituição, no que lhe fôr aplicável ou quando:
 
 I – Se verificar impontualidade no serviço de empréstimo garantido pelo Govêrno;
 
@@ -20,42 +22,4 @@ Rio de Janeiro, em 3 de Julho de 1956.
 
 A Mesa da Câmara dos Deputados:        A Mesa do Senado Federal:
 
-Ulisses Guimarães
-
-            Presidente
-
-Apolônio Sales
-
-              Presidente, em exercício
-
-Divonsir Côrtes
-
-           1º Secretário
-
-Vivaldo Lima
-
-              1º Secretário
-
-Leonardo Barbieri
-
-           2º Secretário
-
-Freitas Cavalcanti
-
-              2º Secretário
-
-Esteves Rodrigues
-
-           3º Secretário
-
-Carlos Lindenberg
-
-              3º Secretário
-
-Aurélio Viana
-
-         4º Secretário
-
-Kerginaldo Cavalcanti
-
-              4º Secretário
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:170.2pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Ulisses Guimarães</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>Presidente</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:262.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Apolônio Sales</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>Presidente, em exercício</span></span></p></td></tr><tr><td style="width:170.2pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Divonsir Côrtes</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>1º Secretário</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:262.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Vivaldo Lima</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>1º Secretário</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:170.2pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Leonardo Barbieri</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>2º Secretário</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:262.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Freitas Cavalcanti</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>2º Secretário</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:170.2pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Esteves Rodrigues</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>3º Secretário</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:262.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Carlos Lindenberg</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>3º Secretário</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:170.2pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Aurélio Viana</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>4º Secretário</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:262.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Kerginaldo Cavalcanti</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp; </span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>4º Secretário</span></span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr></tbody></table>

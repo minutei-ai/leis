@@ -1,0 +1,81 @@
+{
+  "documento": "br-federal-lei-delegada-1992-08-27-13",
+  "fonte_principal": "planalto-ldl13",
+  "senado_id": "572946",
+  "sha256_fonte_principal": "452b4da4df121d20c317125d7f7c5ca03a8b7ec7d23ed24d851e4c63add50bb1",
+  "sha256_conteudo": "0dbaa7f0cfe4e8c27a99edab41c3404e25a90a62763e43bff5565e4a9c3ac126",
+  "capturado_em": "2026-11-04T18:54:31Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/ldl/ldl13.htm",
+  "snapshot": "provas/leis-delegadas/fontes/planalto-ldl13.htm.xz",
+  "sha256_snapshot_armazenado": "0785d152a6624fda66721ac9129823cf1428113290b5f18557897213e5334536",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 9006,
+    "caracteres_normalizados_markdown": 9006,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 3,
+    "links": 38,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 5,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 55,
+    "artigos": 20,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "16",
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-delegada-1992-08-27-13",
+    "tipo": "lei-delegada",
+    "numero": "13",
+    "data": "1992-08-27",
+    "titulo_fonte": "LEI DELEGADA Nº 13, DE 27 DE AGOSTO DE 1992",
+    "ementa": "Institui Gratificações de Atividade para os servidores civis do Poder Executivo, revê vantagens e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto-ldl",
+      "integral": "desconhecido"
+    },
+    "senado_id": "572946",
+    "senado_url": "https://legis.senado.leg.br/norma/572946"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "Edição histórica da página do Planalto; não é publicação original do DOU isolada.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Catálogo Senado prova identidade; ementa/registro não substituem o Markdown integral."
+  ]
+}

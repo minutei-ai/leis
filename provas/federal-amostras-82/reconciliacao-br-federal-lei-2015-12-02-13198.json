@@ -1,0 +1,67 @@
+{
+  "documento": "br-federal-lei-2015-12-02-13198",
+  "fonte_principal": "planalto-L13198-2015-12-02",
+  "sha256_fonte_principal": "85ab0a2ccffa452b048c8fbdcbcf4677b5e6ac70f28922803cf47861dd5640ec",
+  "sha256_conteudo": "f8923d4ebe3b5ff62a9407e51be23ed5cc661ea81412c22dc45a2dcff3d52b4b",
+  "capturado_em": "2026-11-04T20:52:52Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13198.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13198-2015-12-02.htm.xz",
+  "sha256_snapshot_armazenado": "e673932144a5d69f1b0e660ff8ab7612570f3f29b2bebcc875ad9cdc29d7080f",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 3,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 148,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 13,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2015-12-02-13198",
+    "numero": "13198",
+    "data": "2015-12-02",
+    "titulo_fonte": "LEI Nº 13198, DE 2 DE DEZEMBRO DE 2015",
+    "ementa": "Abre crédito extraordinário, em favor dos Ministérios da Justiça, das Relações Exteriores, dos Transportes, da Defesa e da Integração Nacional, no valor de R$ 950.246.149,00, para os fins que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585010"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

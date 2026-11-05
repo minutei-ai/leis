@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2016-02-11-8668",
+  "fonte_principal": "camara-D8668",
+  "sha256_fonte_principal": "f29741e8b7ea84dd0c24ef30b6f130f7ccb76dffd885a4f261d4cf5de01e3403",
+  "sha256_conteudo": "f29741e8b7ea84dd0c24ef30b6f130f7ccb76dffd885a4f261d4cf5de01e3403",
+  "capturado_em": "2026-11-04T20:25:33Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8668-11-fevereiro-2016-782339-publicacaooriginal-149404-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8668.htm.xz",
+  "sha256_snapshot_armazenado": "23b5e4cb73ee369da17190903a745fa8629352b5bcf6c4519aa1e4a9660ce843",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 28,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "3"
+    ],
+    "ultimos_artigos": [
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-02-11-8668",
+    "numero": "8668",
+    "data": "2016-02-11",
+    "titulo_fonte": "DECRETO Nº 8668, DE 11 DE FEVEREIRO DE 2016",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DA JUSTIÇA, REMANEJA CARGOS EM COMISSÃO, ALOCA FUNÇÕES DE CONFIANÇA E DISPÕE SOBRE CARGOS EM COMISSÃO E FUNÇÕES COMISSIONADAS TÉCNICAS MANTIDOS TEMPORARIAMENTE NA DEFENSORIA PÚBLICA DA UNIÃO.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584766"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

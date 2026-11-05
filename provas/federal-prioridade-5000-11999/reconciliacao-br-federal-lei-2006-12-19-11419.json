@@ -1,0 +1,63 @@
+{
+  "documento": "br-federal-lei-2006-12-19-11419",
+  "fonte_principal": "planalto-L11419",
+  "sha256_fonte_principal": "2d285ae00547be825c665012bfae8c698f99f40d02fb21b72e194ba9b07dec85",
+  "sha256_conteudo": "aeb80c37d0bbf9dc2a77d68022228a4af968288739befee37a8db1e233be69bc",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11419.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L11419.htm.xz",
+  "sha256_snapshot_armazenado": "9342650ff0380a7a845d671bd7aca5722b36e4403e4890f5ca5d985155ab1f4c",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 14920,
+    "caracteres_normalizados_markdown": 14920,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 2,
+    "links": 24,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 125,
+    "artigos": 22,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "18",
+      "19",
+      "20",
+      "21",
+      "22"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2006-12-19-11419",
+    "numero": "11419",
+    "data": "2006-12-19",
+    "titulo_fonte": "LEI Nº 11419, DE 19 DE DEZEMBRO DE 2006",
+    "ementa": "Dispõe sobre a informatização do processo judicial; altera a Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil; e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "572571"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

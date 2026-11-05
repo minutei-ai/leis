@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1995-06-29-9069",
+  "fonte_principal": "planalto-L9069",
+  "sha256_fonte_principal": "d2e7ff577e0bb664c88b6aca90bf356fd3d9323c63a46d5664fc0b1ba8cbf9f4",
+  "sha256_conteudo": "7f0070f8718b36941a5b0016c7b1c5cab0408122f708167f0ea930cf684a37a5",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L9069.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9069.htm.xz",
+  "sha256_snapshot_armazenado": "b7007b754c4fd6bfc544e2b87a5138520a6122ab485a1c9368dee057059e0ee3",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 56315,
+    "caracteres_normalizados_markdown": 56315,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 104,
+    "links": 254,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 380,
+    "artigos": 85,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "81",
+      "82",
+      "83",
+      "84",
+      "85"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1995-06-29-9069",
+    "numero": "9069",
+    "data": "1995-06-29",
+    "titulo_fonte": "LEI Nº 9069, DE 29 DE JUNHO DE 1995",
+    "ementa": "Dispõe sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e condições de emissão do REAL e os critérios para conversão das obrigações para o REAL, e dá outras p",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "550945"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

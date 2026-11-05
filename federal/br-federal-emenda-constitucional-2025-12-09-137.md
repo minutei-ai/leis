@@ -27,6 +27,7 @@ sha256_markdown: "9080fbd10e077e259d37263db3db7b18787fe98ac152742aa88ae66f42ec7a
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 137, DE 9 DE DEZEMBRO DE 2025
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídic
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
->>
+> Este texto não substitui o publicado no DOU de 10.12.2025
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2025-12-09-137.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -84,4 +86,8 @@ Brasília, em 9 de dezembro de 2025
 | Deputado CARLOS VERAS 1º Secretário |  | Senadora DANIELLA RIBEIRO 1ª Secretária |
 | Deputado LULA DA FONTE 2º Secretário |  | Senador CONFÚCIO MOURA 2º Secretário |
 | Deputada DELEGADA KATARINA 3ª Secretária |  | Senadora ANA PAULA LOBATO 3ª Secretária |
-| Deputado SERGIO SOUZA 4º Secretário |  | Senador LAÉRCIO OLIVEIRA 4º Secretário |\*
+| Deputado SERGIO SOUZA 4º Secretário |  | Senador LAÉRCIO OLIVEIRA 4º Secretário |
+
+Este texto não substitui o publicado no DOU 10.12.2025
+
+\*

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-02-11-8669",
+  "fonte_principal": "camara-D8669",
+  "sha256_fonte_principal": "7bcae8f8c4be6edd1c7b1891e82c80c77853ccbd2b69b7d773ce697b55d7ade4",
+  "sha256_conteudo": "7bcae8f8c4be6edd1c7b1891e82c80c77853ccbd2b69b7d773ce697b55d7ade4",
+  "capturado_em": "2026-11-04T20:25:35Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8669-11-fevereiro-2016-782340-publicacaooriginal-149406-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8669.htm.xz",
+  "sha256_snapshot_armazenado": "b213151f6b72a44dc3e12f65c422681813bfd175a2d2cadeec3ceddef6a81a26",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 8,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-02-11-8669",
+    "numero": "8669",
+    "data": "2016-02-11",
+    "titulo_fonte": "DECRETO Nº 8669, DE 11 DE FEVEREIRO DE 2016",
+    "ementa": "DISPÕE SOBRE A REVOGAÇÃO DO REGIME DE SANÇÕES DAS NAÇÕES UNIDAS À REPÚBLICA ISLÂMICA DO IRÃ.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414424"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

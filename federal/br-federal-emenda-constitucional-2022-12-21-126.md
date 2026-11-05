@@ -27,6 +27,7 @@ sha256_markdown: "9412053331112aef1a96d7228ce7728b8681e2f3c5ea5a79a03cbe548ff8cd
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 126, DE 21 DE DEZEMBRO DE 2022
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > Referência de catálogo da Câmara (não usada como fonte principal nesta entrega): https://www2.camara.leg.br/legin/fed/emecon/2022/emendaconstitucional-126-21-dezembro-2022-793528-publicacaooriginal-166603-pl.html.
 >
->>
+> Este texto não substitui o publicado no DOU de 22.12.2022
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-12-21-126.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -170,4 +172,8 @@ Brasília, em 21 de dezembro de 2022
 | Deputado LUCIANO BIVAR 1º Secretário | Senador IRAJÁ 1º Secretário |
 | Deputado ODAIR CUNHA 2º Secretário | Senador ELMANO FÉRRER 2º Secretário |
 | Deputada GEOVANIA DE SÁ 3ª Secretária | Senador ROGÉRIO CARVALHO 3º Secretário |
-| Deputada ROSANGELA GOMES 4ª Secretária | Senador WEVERTON 4º Secretário |\*
+| Deputada ROSANGELA GOMES 4ª Secretária | Senador WEVERTON 4º Secretário |
+
+Este texto não substitui o publicado no DOU 22.12.2022
+
+\*

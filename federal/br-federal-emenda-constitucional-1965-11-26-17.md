@@ -1,18 +1,20 @@
-**EMENDA CONSTITUCIONAL Nº 17**
+###EMC-000017-0-000-26-11-1965@@@
 
-**AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL** promulgam, nos têrmos do art. 217, § 4º, da Constituição Federal, a seguinte emenda ao texto constitucional:
+<strong>EMENDA CONSTITUCIONAL Nº 17</strong>
 
-**Art**. 1º O art. 39 da Constituição passa a ter a seguinte redação:
+<strong>AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL</strong> promulgam, nos têrmos do art. 217, § 4º, da Constituição Federal, a seguinte emenda ao texto constitucional:
+
+<strong>Art</strong>. 1º O art. 39 da Constituição passa a ter a seguinte redação:
 
 “Art. 39 O Congresso Nacional reunir-se-á, anualmente, na Capital da República, de 1º de março a 30 de junho e de 1º de agôsto a 1º de dezembro.”
 
-**Art**. 2º São acrescidos ao art. 41 da Constituição os seguintes incisos:
+<strong>Art</strong>. 2º São acrescidos ao art. 41 da Constituição os seguintes incisos:
 
 VI - Atender a matéria relevante ou urgente, a juízo da Mesa de qualquer das Casas do Congresso Nacional;
 
 VII - apreciar, por solicitação do Presidente da República, projetos de lei de sua iniciativa.”
 
-**Art**. 3º O art. 54 da Constituição, acrescido de um parágrafo, passa a ter a seguinte redação:
+<strong>Art</strong>. 3º O art. 54 da Constituição, acrescido de um parágrafo, passa a ter a seguinte redação:
 
 “Art. 54 Os Ministros de Estado são obrigados a comparecer perante a Câmara dos Deputados, o Senado Federal ou qualquer das suas comissões, quando uma ou outra Câmara os convocar para, pessoalmente, prestar informações acêrca de assunto préviamente determinado.
 
@@ -20,15 +22,15 @@ VII - apreciar, por solicitação do Presidente da República, projetos de lei d
 
 § 2º Os Ministros de Estado, a seu pedido, poderão comparecer perante as comissões ou o Plenário de qualquer das Casas do Congresso Nacional e discutir projetos relacionados com o Ministério sob sua direção.”
 
-**Art**. 4º O art. 58 da Constituição, mantidos os atuais parágrafos, passa a ter a seguinte redação:
+<strong>Art</strong>. 4º O art. 58 da Constituição, mantidos os atuais parágrafos, passa a ter a seguinte redação:
 
 “Art. 58 O número de Deputados será fixado, por lei, em proporção que não exceda de um para cada trezentos mil habitantes, até vinte e cinco Deputados, e, além dêsse limite, um para cada quinhentos mil habitantes.”
 
-**Art**. 5º É acrescido ao art. 65 da Constituição o seguinte parágrafo:
+<strong>Art</strong>. 5º É acrescido ao art. 65 da Constituição o seguinte parágrafo:
 
 “Parágrafo único. A lei regulará o processo de fiscalização, pela Câmara dos Deputados e pelo Senado Federal, dos atos do Poder Executivo e da administração descentralizada.”
 
-**Art**. 6º Os parágrafos do art. 67 da Constituição passam a ter a seguinte redação:
+<strong>Art</strong>. 6º Os parágrafos do art. 67 da Constituição passam a ter a seguinte redação:
 
 “§ 1º Cabe à Câmara dos Deputados e ao Presidente da República a iniciativa dos projetos de lei sôbre matéria financeira.
 
@@ -62,64 +64,10 @@ VI - estado de sitio.
 
 § 10 Os prazos estabelecidos neste artigo para a elaboração legislativa não correm nos períodos de recesso do Congresso Nacional.”
 
-**Art**. 7º O § 1º do art. 70 da Constituição passa a ter a seguinte redação:
+<strong>Art</strong>. 7º O § 1º do art. 70 da Constituição passa a ter a seguinte redação:
 
 “§ 1º Se o Presidente da República julgar o projeto, no todo ou em parte, inconstitucional ou contrário ao interêsse público, vetá-lo-á, total ou parcialmente, dentro de dez dias úteis, contados daquele em que o receber, e comunicará, no mesmo prazo, ao Presidente do Senado Federal, os motivos do veto. Se a sanção fôr negada quando estiver finda a sessão legislativa, o Presidente da República publicará o veto. O veto parcial deve abranger o texto de artigo, parágrafo, inciso, item, número ou alínea.
 
 Brasília, em 26 de novembro de 1965.
 
-A MESA DA CÃMARA DOS DEPUTADOS
-
-Bilac Pinto
-
-Presidente
-
-Batista Ramos
-
-1º Vice-Presidente
-
-Mário Gomes
-
-2º Vice-Presidente
-
-Nilo Coelho
-
-1º Secretário
-
-Henrique La Roque
-
-2º Secretário
-
-Emilio Gomes
-
-3º Secretário
-
-Nogueira de Rezende
-
-4º Secretário
-
-A MESA DO SENADO FEDERAL
-
-Auro Moura Andrade
-
-Presidente
-
-Camillo Nogueira da Gama
-
-Vice-Presidente
-
-Dinarte Mariz
-
-1º Secretário
-
-Adalberto Sena
-
-2º Secretário em exercício
-
-Cattete Pinheiro
-
-3º Secretário em exercício
-
-Gudio Mondim
-
-4º Secretário em exercício
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A MESA DA CÃMARA DOS DEPUTADOS</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Bilac Pinto</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Presidente</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Batista Ramos</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Mário Gomes</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Nilo Coelho</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1º Secretário</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Henrique La Roque </span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span><span>2º Secretário</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span><span>Emilio Gomes</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>3º Secretário</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Nogueira de Rezende</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>4º Secretário</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A MESA DO SENADO FEDERAL</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Auro Moura Andrade</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Presidente</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Camillo Nogueira da Gama</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Vice-Presidente</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Dinarte Mariz</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1º Secretário</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Adalberto Sena</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>2º Secretário em exercício</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cattete Pinheiro</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>3º Secretário em exercício</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Gudio Mondim</span></span></p></td></tr><tr><td style="width:194.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>4º Secretário em exercício</span></span></p></td><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr></tbody></table>

@@ -1,0 +1,61 @@
+{
+  "documento": "br-federal-decreto-2017-02-09-8986",
+  "fonte_principal": "planalto-D8986",
+  "sha256_fonte_principal": "f8b4c6050275e3a8f3c09cdef6eb31299ff971749fc4bf2f0aacf11724968d73",
+  "sha256_conteudo": "49e3c6f7a056fbbddc4a2db5916344dad5e3419dae85ba9ca916170e58d840e3",
+  "capturado_em": "2026-11-04T20:44:30Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D8986.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/planalto-D8986.htm.xz",
+  "sha256_snapshot_armazenado": "e926bdd19470c8962616717ef7c5203c6d9410b7b11720e3f5bc8dd0babf6de5",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 12,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 2,
+        "colunas_max": 3,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 18,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2017-02-09-8986",
+    "numero": "8986",
+    "data": "2017-02-09",
+    "titulo_fonte": "DECRETO Nº 8986, DE 9 DE FEVEREIRO DE 2017",
+    "ementa": "DISPÕE SOBRE O SALDO REMANESCENTE DAS AUTORIZAÇÕES PARA PROVIMENTO DE CARGOS, EMPREGOS E FUNÇÕES CONSTANTES DO ANEXO V À LEI Nº 13.115, DE 20 DE ABRIL DE 2015 - LEI ORÇAMENTÁRIA ANUAL DE 2015, E DO ANEXO V À LEI Nº 13.255, DE 14 DE JANEIRO DE 2016 - LEI ORÇAMENTÁRIA ANUAL DE 2016.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "415002"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

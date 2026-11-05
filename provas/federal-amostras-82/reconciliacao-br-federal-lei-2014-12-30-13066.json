@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2014-12-30-13066",
+  "fonte_principal": "planalto-L13066-2014-12-30",
+  "sha256_fonte_principal": "d252ab89b54e55a74bd3fd6a53f7c7992c074f7ccd1b90f4a82ee1963ae56527",
+  "sha256_conteudo": "dcb1c682b886590f6dde572d053d237952599b5f4863289a70ba65cf5d1e1185",
+  "capturado_em": "2026-11-04T20:52:18Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13066.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13066-2014-12-30.htm.xz",
+  "sha256_snapshot_armazenado": "81a1338d8b179208117c2f3ecc689084b80fd33b744e3bc1b5b153c43078533c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 14,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 14,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-12-30-13066",
+    "numero": "13066",
+    "data": "2014-12-30",
+    "titulo_fonte": "LEI Nº 13066, DE 30 DE DEZEMBRO DE 2014",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério das Cidades, crédito suplementar no valor de R$ 113.800.000,00, para reforço de dotação constante da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584878"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

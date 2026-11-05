@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-08-17-8839",
+  "fonte_principal": "camara-D8839",
+  "sha256_fonte_principal": "d66b0cbc0f994ae2d64b0c5ad277a1de561f83ab8aab0e8487e1d8fdd0d94c97",
+  "sha256_conteudo": "d66b0cbc0f994ae2d64b0c5ad277a1de561f83ab8aab0e8487e1d8fdd0d94c97",
+  "capturado_em": "2026-11-04T20:31:48Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8839-17-agosto-2016-783508-publicacaooriginal-150966-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8839.htm.xz",
+  "sha256_snapshot_armazenado": "0b9c64558bbfb2e8d2f30408e8a4f661f9870c51ade2cc1372e7b834f975e920",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 65,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-08-17-8839",
+    "numero": "8839",
+    "data": "2016-08-17",
+    "titulo_fonte": "DECRETO Nº 8839, DE 17 DE AGOSTO DE 2016",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO UZBEQUISTÃO SOBRE COOPERAÇÃO ECONÔMICA E COMERCIAL, FIRMADO EM BRASÍLIA, EM 28 DE MAIO DE 2009.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414759"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

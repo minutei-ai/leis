@@ -1,75 +1,19 @@
-**EMENDA CONSTITUCIONAL Nº 9.**
+###EMC-000009-0-000-28-06-1977@@@
 
-***Dá nova redação ao § 1º do artigo 175 da Constituição Federal.***
+<strong>EMENDA CONSTITUCIONAL Nº 9.</strong>
 
-**AS MESAS DA CÂMARA DOS DEPUTADOS** e do **SENADO FEDERAL**, nos termos do artigo 49 da Constituição Federal, promulgam a seguinte Emenda ao texto Constitucional.
+<em><strong>Dá nova redação ao § 1º do artigo 175 da Constituição Federal.</strong></em>
 
-**Art**. 1º O § 1º do artigo 175 da Constituição Federal passa a vigorar com a seguinte redação:
+<strong>AS MESAS DA CÂMARA DOS DEPUTADOS</strong> e do <strong>SENADO FEDERAL</strong>, nos termos do artigo 49 da Constituição Federal, promulgam a seguinte Emenda ao texto Constitucional.
+
+<strong>Art</strong>. 1º O § 1º do artigo 175 da Constituição Federal passa a vigorar com a seguinte redação:
 
 “Art. 175 - ................................................................................................................................
 
 § 1º - O casamento somente poderá ser dissolvido, nos casos expressos em lei, desde que haja prévia separação judicial por mais de três anos”.
 
-**Art**. 2º A separação, de que trata o § 1º do artigo 175 da Constituição, poderá ser de fato, devidamente comprovada em Juízo, e pelo prazo de cinco anos, se for anterior à data desta emenda.
+<strong>Art</strong>. 2º A separação, de que trata o § 1º do artigo 175 da Constituição, poderá ser de fato, devidamente comprovada em Juízo, e pelo prazo de cinco anos, se for anterior à data desta emenda.
 
 Brasília, em 28 de junho de 1977.
 
-A Mesa da Câmara dos Deputados
-
-A Mesa do Senado Federal
-
-Marco Maciel
-
-Petrônio Portela
-
-Presidente
-
-Presidente
-
-João Linhares
-
-José Lindoso
-
-1º Vice-Presidente
-
-1º Vice-Presidente
-
-Adhemar Santillo
-
-Amaral Peixoto
-
-2º Vice-Presidente
-
-2º Vice-Presidente
-
-Djalma Bessa
-
-Mendes Canale
-
-1º Secretário
-
-1º Secretário
-
-Jader Barbalho
-
-Mauro Benevides
-
-2º Secretário
-
-2º Secretário
-
-João Climaco
-
-Henrique de La Roque
-
-3º Secretário
-
-3º Secretário
-
-José Camargo
-
-Renato Franco
-
-4º Secretário
-
-4º Secretário
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A Mesa da Câmara dos Deputados</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A Mesa do Senado Federal</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Marco Maciel</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Petrônio Portela</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>João Linhares</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>José Lindoso</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Adhemar Santillo</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Amaral Peixoto</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Djalma Bessa</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Mendes Canale</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Jader Barbalho</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Mauro Benevides</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>João Climaco</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Henrique de La Roque</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>José Camargo</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Renato Franco</span></span></p></td></tr><tr><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td><td style="width:212.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td></tr></tbody></table>

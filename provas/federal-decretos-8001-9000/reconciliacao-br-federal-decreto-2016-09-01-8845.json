@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-09-01-8845",
+  "fonte_principal": "camara-D8845",
+  "sha256_fonte_principal": "4516d05fed9eeffa0f2430037e128f969b0c3e2b7d7c5015d5c2edf292d19863",
+  "sha256_conteudo": "4516d05fed9eeffa0f2430037e128f969b0c3e2b7d7c5015d5c2edf292d19863",
+  "capturado_em": "2026-11-04T20:31:56Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8845-1-setembro-2016-783562-publicacaooriginal-151013-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8845.htm.xz",
+  "sha256_snapshot_armazenado": "380eb171731b6f4ae769b21d5a881983fa1cdf4798a161273b669d60d660bfde",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 85,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-09-01-8845",
+    "numero": "8845",
+    "data": "2016-09-01",
+    "titulo_fonte": "DECRETO Nº 8845, DE 1 DE SETEMBRO DE 2016",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2293 (2016), DE 23 DE JUNHO DE 2016, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE RENOVA O REGIME DE SANÇÕES APLICÁVEL À REPÚBLICA DEMOCRÁTICA DO CONGO.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414783"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

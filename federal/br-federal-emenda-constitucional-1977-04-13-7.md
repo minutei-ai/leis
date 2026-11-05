@@ -1,6 +1,8 @@
-**EMENDA CONSTITUCIONAL Nº 7, DE 13 DE ABRIL DE 1977.**
+###EMC-000007-0-000-13-04-1977@@@
 
-**O PRESIDENTE DA REPÚBLICA**, no uso da atribuição que lhe confere o § 1º do artigo 2º do Ato Institucional nº 5, de 13 de dezembro de 1968, e
+<strong>EMENDA CONSTITUCIONAL Nº 7, DE 13 DE ABRIL DE 1977.</strong>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso da atribuição que lhe confere o § 1º do artigo 2º do Ato Institucional nº 5, de 13 de dezembro de 1968, e
 
 CONSIDERANDO que, nos termos do Ato Complementar nº 102, de 1º de abril de 1977, foi decretado, a partir dessa data, o recesso do Congresso Nacional,
 
@@ -28,7 +30,7 @@ Art. 72. .......................................................................
 
 § 7º O Tribunal de Contas apreciará, para fins de registro, a legalidade das concessões iniciais de aposentadorias, reformas e pensões, independendo de sua apreciação as melhorias posteriores.
 
-§ 4º O Presidente da República poderá ordenar a execução ou o registro dos atos a que se referem o parágrafo anterior e alínea *b* do § 5º *ad referendum* do Congresso Nacional.
+§ 4º O Presidente da República poderá ordenar a execução ou o registro dos atos a que se referem o parágrafo anterior e alínea <em>b</em> do § 5º <em>ad referendum</em> do Congresso Nacional.
 
 Art. 96. O Ministério Público dos Estados será organizado em carreira, por lei estadual.
 
@@ -110,23 +112,23 @@ p) o pedido de medida cautelar nas representações oferecidas pelo Procurador-G
 
 .................................................................................................................................................
 
-§ 1º As causas a que se fere o item III, alíneas *a* e *d*, deste artigo, serão indicadas pelo Supremo Tribunal Federal no regimento interno, que atenderá à sua natureza, espécie, valor pecuniário e relevância da questão federal.
+§ 1º As causas a que se fere o item III, alíneas <em>a</em> e <em>d</em>, deste artigo, serão indicadas pelo Supremo Tribunal Federal no regimento interno, que atenderá à sua natureza, espécie, valor pecuniário e relevância da questão federal.
 
 § 2º O Supremo Tribunal Federal funcionará em plenário ou dividido em turmas.
 
 § 3º O regimento interno estabelecerá:
 
-a) a competência do plenário, além dos casos previstos nas alíneas *a, b, c, d, i, j, l* e *o* do item I dêste artigo, que lhe são privativos;
+a) a competência do plenário, além dos casos previstos nas alíneas <em>a, b, c, d, i, j, l</em> e <em>o</em> do item I dêste artigo, que lhe são privativos;
 
 b) a composição e a competência das turmas;
 
 c) o processo e o julgamento dos feitos de sua competência originária ou recursal e da argüição de relevância da questão federal; e
 
-d) a competência de seu Presidente para conceder o *exequatur* a cargas rogatórias e para homologar sentenças estrangeiras.
+d) a competência de seu Presidente para conceder o <em>exequatur</em> a cargas rogatórias e para homologar sentenças estrangeiras.
 
-**SEÇÃO III**
+<strong>SEÇÃO III</strong>
 
-*Do Conselho Nacional da Magistratura*
+<em>Do Conselho Nacional da Magistratura</em>
 
 Art. 120. O Conselho Nacional da Magistratura, com sede na Capital da União e jurisdição em todo o território nacional, compõe-se de sete Ministros do Supremo Tribunal Federal, e por este escolhidos.
 
@@ -134,9 +136,9 @@ Art. 120. O Conselho Nacional da Magistratura, com sede na Capital da União e j
 
 § 2º Junto ao Conselho funcionará o Procurador-Geral da República.
 
-**SEÇÃO IV**
+<strong>SEÇÃO IV</strong>
 
-*do Tribunal Federal de Recursos*
+<em>do Tribunal Federal de Recursos</em>
 
 Art. 121. O Tribunal Federal de Recursos compõe-se de vinte e sete Ministros vitalícios, nomeados pelo Presidente da República, sendo quinze dentre juízes federais, indicados, em lista tríplice, pelo próprio Tribunal; quatro dentre membros do Ministério Público Federal; quatro dentre advogados que satisfaçam os requisitos do parágrafo único do artigo 118; e quatro dentre magistrados ou membros do Ministério Público dos Estados e do Distrito Federal.
 
@@ -160,9 +162,9 @@ II - julgar, originariamente, nos termos da lei, o pedido de revisão das decis�
 
 III - julgar, em grau de recurso, as causas decididas pelos juízes federais.
 
-**SEÇÃO V**
+<strong>SEÇÃO V</strong>
 
-*Dos Juizes Federais*
+<em>Dos Juizes Federais</em>
 
 Art. 123. Os juízes federais serão nomeados pelo Presidente da República, escolhidos, sempre que possível, em lista tríplice, organizada pelo Tribunal Federal de Recursos.
 
@@ -184,9 +186,9 @@ IX - os crimes cometidos a bordo de navios ou aeronaves, ressalvada a competênc
 
 Art. 126. A lei poderá permitir que a ação fiscal e outras sejam promovidas, nas comarcas do interior, onde tiver domicílio a outra parte, perante a Justiça do Estado ou do Território, e com recurso para o Tribunal Federal de Recursos, bem como atribuir ao Ministério Público local a representação judicial da União.
 
-**SEÇÃO VI**
+<strong>SEÇÃO VI</strong>
 
-*Dos Tribunais e Juízes Militares*
+<em>Dos Tribunais e Juízes Militares</em>
 
 Art. 128 ..................................................................................................................................
 
@@ -194,9 +196,9 @@ Art. 128 .......................................................................
 
 § 3º O Superior Tribunal Militar funcionará em plenário ou dividido em turmas, na forma estabelecida em lei.
 
-**SEÇÃO VII**
+<strong>SEÇÃO VII</strong>
 
-*Dos Tribunais e Juízes Eleitorais*
+<em>Dos Tribunais e Juízes Eleitorais</em>
 
 Art. 131 ..................................................................................................................................
 
@@ -206,9 +208,9 @@ b) de dois juízes entre os membros do Tribunal Federal de Recursos;
 
 .................................................................................................................................................
 
-**SEÇÃO VIII**
+<strong>SEÇÃO VIII</strong>
 
-*Dos Tribunais e Juizos do Trabalho*
+<em>Dos Tribunais e Juizos do Trabalho</em>
 
 Art. 142 ..................................................................................................................................
 
@@ -216,9 +218,9 @@ Art. 142 .......................................................................
 
 Art. 143. Das decisões do Tribunal Superior do Trabalho somente caberá recurso para o Supremo Tribunal Federal quando contrariarem esta Constituição.
 
-**SEÇÃO IX**
+<strong>SEÇÃO IX</strong>
 
-*Dos Tribunais e Juízes Estaduais*
+<em>Dos Tribunais e Juízes Estaduais</em>
 
 Art. 144. Os Estados organização a sua justiça, observados os artigos 113 a 117 desta Constituição, a Lei Orgânica da Magistratura Nacional e os dispositivos seguintes:
 
@@ -234,7 +236,7 @@ c) somente após dois anos de exercício na respectiva entrância poderá o juiz
 
 .................................................................................................................................................
 
-IV - na composição de qualquer Tribunal, um quinto dos lugares será preenchido por advogados, em efetivo exercício da profissão, e membros do Ministério Público, todos de notório merecimento e idoneidade moral, com dez anos, pelo menos, de prática *forense*. Os lugares reservados a membros do Ministério Público ou advogados serão preenchidos, respectivamente, por membros do Ministério Público ou advogados, indicados em lista tríplice,
+IV - na composição de qualquer Tribunal, um quinto dos lugares será preenchido por advogados, em efetivo exercício da profissão, e membros do Ministério Público, todos de notório merecimento e idoneidade moral, com dez anos, pelo menos, de prática <em>forense</em>. Os lugares reservados a membros do Ministério Público ou advogados serão preenchidos, respectivamente, por membros do Ministério Público ou advogados, indicados em lista tríplice,
 
 V - nos Tribunais de Justiça com número superior a vinte e cinco desembargadores será constituído órgão especial, com o mínimo de onze e o máximo de vinte e cinco membros, para o exercício das atribuições, administrativas e jurisdicionais, da competência do Tribunal Pleno, bem como para a uniformização da jurisprudência no caso de divergência entre seus grupos ou seções;
 
@@ -302,4 +304,4 @@ Art. 207. Enquanto não for promulgada a Lei Orgânica da Magistratura Nacional,
 
 Brasília, 13 de abril de 1977; 156º da Independência e 89º da República.
 
-**ERNESTO GEISEL**
+<strong>ERNESTO GEISEL</strong>

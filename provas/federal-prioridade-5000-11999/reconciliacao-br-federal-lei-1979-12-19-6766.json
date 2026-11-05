@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1979-12-19-6766",
+  "fonte_principal": "planalto-L6766",
+  "sha256_fonte_principal": "178f4577aec8c89c45b32a9296ef5c76c7edcabc8a1da1816b488db5cdd665b2",
+  "sha256_conteudo": "0cab2750fd6512a34ee1640e3785715d9933d850cd48a9c370ee7f96c1599d4a",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L6766.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L6766.htm.xz",
+  "sha256_snapshot_armazenado": "6203862aa0fd182f5d158ab5cb77fc56c5e97d520f7fb8cc95a7f032ae95b077",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 59131,
+    "caracteres_normalizados_markdown": 59131,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 50,
+    "links": 159,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 352,
+    "artigos": 66,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "2-A",
+      "3",
+      "4"
+    ],
+    "ultimos_artigos": [
+      "52",
+      "53",
+      "53-A",
+      "54",
+      "55"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1979-12-19-6766",
+    "numero": "6766",
+    "data": "1979-12-19",
+    "titulo_fonte": "LEI Nº 6766, DE 19 DE DEZEMBRO DE 1979",
+    "ementa": "Dispõe sobre o parcelamento do solo urbano e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": null
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

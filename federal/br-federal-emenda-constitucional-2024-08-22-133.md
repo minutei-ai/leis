@@ -27,6 +27,7 @@ sha256_markdown: "c03768ffe07e745b0d926e3faa23bec08925c47c8da7011d47c6f7e90ab315
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
+
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 133, DE 22 DE AGOSTO DE 2024
@@ -43,7 +44,8 @@ Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídic
 >
 > Referência de catálogo da Câmara (não usada como fonte principal nesta entrega): https://www2.camara.leg.br/legin/fed/emecon/2024/emendaconstitucional-133-22-agosto-2024-796112-publicacaooriginal-172800-pl.html.
 >
->>
+> Este texto não substitui o publicado no DOU de 23.8.2024
+>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2024-08-22-133.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -106,4 +108,8 @@ Brasília, em 22 de agosto de 2024
 | Deputado LUCIANO BIVAR 1º Secretário | Senador ROGÉRIO CARVALHO 1º Secretário |
 | Deputada MARIA DO ROSÁRIO 2ª Secretária | Senador WEVERTON 2º Secretário |
 | Deputado JÚLIO CÉSAR 3º Secretário | Senador CHICO RODRIGUES 3º Secretário |
-| Deputado LUCIO MOSQUINI 4º Secretário | Senador STYVENSON VALENTIM 4º Secretário |\*
+| Deputado LUCIO MOSQUINI 4º Secretário | Senador STYVENSON VALENTIM 4º Secretário |
+
+Este texto não substitui o publicado no DOU 23.8.2024
+
+\*

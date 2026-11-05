@@ -2,7 +2,8 @@
 
 > **Anexo recuperado — Presidência da República — Planalto.** Fonte do anexo: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11317.htm (capturada em 2026-11-03T17:50:53Z, SHA-256 da fonte `82a4b7351aecc0e54f289bb97703fd1f61fb06b71fd9bf95a00dddabd19cd1f8`, SHA-256 do conteúdo sem script de proteção `a8e085243dec70002f06003ccc45e3b05cbf0ae7e2d03ab6637c10f3b3f384fe`). Snapshot: `provas/decretos-atualizacao-14133/fontes/planalto-d11317.htm.xz`. Prova de cobertura de todas as linhas: `provas/decretos-atualizacao-14133/cobertura-anexos.json`.
 >
->>
+> Este texto não substitui o publicado no DOU de 30.12.2022.
+>
 > Na captura, a página do Planalto exibe o ato com marcação de revogação (Decreto nº 11.871, de 2023) e `text-decoration:line-through` no corpo e no anexo. Este arquivo preserva o texto do decreto e o anexo sem aplicar essa marcação posterior de revogação; não certifica vigência.
 >
 > O corpo dos artigos e assinaturas abaixo preserva a redação já publicada neste acervo (originalmente proveniente de normas.leg.br / Senado). O anexo de valores foi recuperado da página HTML do Planalto (https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11317.htm). Diferenças editoriais da página do Planalto em relação a esse corpo — faixas de Vigência/Revogado, brasão e links internos do Planalto — não foram incorporadas ao corpo já publicado. O aviso de que o texto não substitui o DOU, presente na fonte, foi colocado entre as assinaturas e o anexo, como na página oficial, e também consta nesta nota.
@@ -33,7 +34,11 @@ Brasília, 29 de dezembro de 2022; 201º da Independência e 134º da República
 
 JAIR MESSIAS BOLSONARO
 
-Marcelo Pacheco dos GuaranysANEXO
+Marcelo Pacheco dos Guaranys
+
+Este texto não substitui o publicado no DOU de 30.12.2022.
+
+ANEXO
 
 ATUALIZAÇÃO DOS VALORES ESTABELECIDOS NA LEI Nº 14.133, DE 1º DE ABRIL DE 2021
 

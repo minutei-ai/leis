@@ -1,10 +1,12 @@
-# **EMENDA CONSTITUCIONAL Nº 23**
+###EMC-000023-0-000-01-12-1983@@@
 
-*Altera dispositivos da Constituição Federal.*
+<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>EMENDA CONSTITUCIONAL Nº 23</strong></span></span></h1>
+
+<em>Altera dispositivos da Constituição Federal.</em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do art. 49 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art**. 1º - Os dispositivos da Constituição Federal abaixo enumerados, passam a vigorar com as seguintes alterações:
+<strong>Art</strong>. 1º - Os dispositivos da Constituição Federal abaixo enumerados, passam a vigorar com as seguintes alterações:
 
 “Art. 18 - .........................................................................................................................
 
@@ -40,11 +42,11 @@ I - sessenta por cento do produto da arrecadação do imposto sobre lubrificante
 
 § 3º - Aos Estados, Distrito Federal e Territórios serão atribuídos dois terços da transferência prevista no item I; aos Municípios um terço.”
 
-**Art**. 2º - A inclusão do imposto sobre produtos industrializados na base de cálculo do imposto sobre operações relativas à circulação de mercadorias, incidente sobre cigarros, será feita gradualmente, à razão de um terço no exercício de 1984, dois terços no exercício de 1985 e integralmente a partir do exercício de 1986.
+<strong>Art</strong>. 2º - A inclusão do imposto sobre produtos industrializados na base de cálculo do imposto sobre operações relativas à circulação de mercadorias, incidente sobre cigarros, será feita gradualmente, à razão de um terço no exercício de 1984, dois terços no exercício de 1985 e integralmente a partir do exercício de 1986.
 
-**Art**. 3º - No exercício financeiro de 1984, a distribuição a que se referem os itens I e II do art. 25 será de 12,5% (doze inteiros e cinco décimos por cento) e 13,5% (treze inteiros e cinco décimos por cento), respectivamente.
+<strong>Art</strong>. 3º - No exercício financeiro de 1984, a distribuição a que se referem os itens I e II do art. 25 será de 12,5% (doze inteiros e cinco décimos por cento) e 13,5% (treze inteiros e cinco décimos por cento), respectivamente.
 
-**Art**. 4º - A participação dos Estados, do Distrito Federal, dos Municípios e dos Territórios, na distribuição prevista no item I do art. 26, será de:
+<strong>Art</strong>. 4º - A participação dos Estados, do Distrito Federal, dos Municípios e dos Territórios, na distribuição prevista no item I do art. 26, será de:
 
 I - quarenta e quatro por cento, no exercício de 1984;
 
@@ -54,64 +56,8 @@ III - cinqüenta e dois por cento, no exercício de 1986; e
 
 IV -cinqüenta e seis por cento, no exercício de 1987.
 
-**Art**. 5º - Esta Emenda Constitucional entrará em vigor no dia 1º de janeiro de 1984.
+<strong>Art</strong>. 5º - Esta Emenda Constitucional entrará em vigor no dia 1º de janeiro de 1984.
 
 Brasília, em 1º de dezembro de 1983
 
-A Mesa da Câmara dos Deputados
-
-A Mesa do Senado Federal
-
-FLÁVIO MARCÍLIO
-
-PRESIDENTE
-
-MOACYR DALLA
-
-PRESIDENTE
-
-PAULINO CÍCERO DE VASCONCELLOS
-
-1º Vice-Presidente
-
-LOMANTO JÚNIOR
-
-1º Vice-Presidente
-
-WALBER GUIMARÃES
-
-2º Vice-Presidente
-
-FERNANDO LYRA
-
-1º Secretário
-
-HENRIQUE SANTILLO
-
-1º Secretário
-
-ARY KFFURI
-
-2º Secretário
-
-LENOIR VARGAS
-
-2º Secretário
-
-FRANCISCO STUDART
-
-3º Secretário
-
-MILTON CABRAL
-
-3º Secretário
-
-OSMAR LEITÃO
-
-4º Secretário,
-
-em exercício
-
-RAIMUNDO PARENTE
-
-4º Secretário
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>A Mesa da Câmara dos Deputados</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>A Mesa do Senado Federal</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>FLÁVIO MARCÍLIO</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>PRESIDENTE</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>MOACYR DALLA</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>PRESIDENTE</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>PAULINO CÍCERO DE VASCONCELLOS</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>LOMANTO JÚNIOR</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>WALBER GUIMARÃES</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>FERNANDO LYRA</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>HENRIQUE SANTILLO</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>ARY KFFURI</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>LENOIR VARGAS</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>FRANCISCO STUDART</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>MILTON CABRAL</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td></tr><tr><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>OSMAR LEITÃO</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>4º Secretário,</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>em exercício</span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span><span>RAIMUNDO PARENTE</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td></tr></tbody></table>

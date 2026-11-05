@@ -1,0 +1,58 @@
+{
+  "documento": "br-federal-decreto-2016-10-27-8891",
+  "fonte_principal": "camara-D8891",
+  "sha256_fonte_principal": "f035658603828476f805c92639f7654e822e3278887af828641fb7e76c756915",
+  "sha256_conteudo": "f035658603828476f805c92639f7654e822e3278887af828641fb7e76c756915",
+  "capturado_em": "2026-11-04T20:33:44Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8891-27-outubro-2016-783853-publicacaooriginal-151335-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8891.htm.xz",
+  "sha256_snapshot_armazenado": "c37d8ab69acbf63da14650c6b95403c1e4c321f4d5f48524081a5d14211cf76a",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 32,
+    "artigos": 9,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "5",
+      "6",
+      "7",
+      "9",
+      "10"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-10-27-8891",
+    "numero": "8891",
+    "data": "2016-10-27",
+    "titulo_fonte": "DECRETO Nº 8891, DE 27 DE OUTUBRO DE 2016",
+    "ementa": "ALTERA O DECRETO Nº 8.276, DE 27 DE JUNHO DE 2014, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO NORDESTE - SUDENE, REMANEJA CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "604070"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "documento": "br-federal-lei-2013-12-27-12951",
+  "fonte_principal": "planalto-L12951-2013-12-27",
+  "sha256_fonte_principal": "5fd97cb5c0061085b9f6e67fdb68629597802b29b83b13456a507941829d877a",
+  "sha256_conteudo": "bdecf772a33271d2b2c7581b4465b67f66e0cac3f47b73550a4db768e4caf974",
+  "capturado_em": "2026-11-04T20:52:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12951.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12951-2013-12-27.htm.xz",
+  "sha256_snapshot_armazenado": "74c721cb3e7485301428d726d1bd51f35e41b0f94ed5ca565b9dcc3213fbdec0",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 4,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 15,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-12-27-12951",
+    "numero": "12951",
+    "data": "2013-12-27",
+    "titulo_fonte": "LEI Nº 12951, DE 27 DE DEZEMBRO DE 2013",
+    "ementa": "Abre ao Orçamento de Investimento para 2013, em favor de empresas estatais, crédito suplementar no valor de R$ 16.649.201.758,00, e reduz o Orçamento de Investimento de empresas no valor de R$ 16.974.733.834,00, para os fins que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591399"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}
