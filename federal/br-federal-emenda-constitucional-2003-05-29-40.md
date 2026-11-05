@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2003-05-29-40"
+norma_id: "br-federal-emenda-constitucional-2003-05-29-40"
+norma_tipo: "emenda-constitucional"
+norma_numero: "40"
+norma_data: "2003-05-29"
+titulo: "EMENDA CONSTITUCIONAL Nº 40, DE 29 DE MAIO DE 2003"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2003-05-29-40@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc40.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "12470f548cb207df53010f4aeaa5a278829e91d19e7f9d490b324501c1430d86"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000040-0-000-29-05-2003@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 40, DE 29 DE MAIO DE 2003</strong>

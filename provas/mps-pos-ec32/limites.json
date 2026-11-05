@@ -1,0 +1,28 @@
+{
+  "issue": 84,
+  "matriz_resumo": {
+    "ausentes_canonicos": 201,
+    "catalogo_sha256": "1093d5551bb8122c768917874a651e4ad42ce2f56894518483f0b4d53bfbe57a",
+    "catalogo_total_mpv": 7499,
+    "corte_operacional": "2001-09-11",
+    "nota_corte": "Corte operacional de descoberta pós-EC 32; não afirma vigência nem esgota reedições de 2001 anteriores ao corte (lote #95).",
+    "pos_corte_sem_reedicao": 1398,
+    "presentes": 1197,
+    "revisao_mesmo_numero": 0
+  },
+  "n_publicados": 57,
+  "n_retidos": 142,
+  "nota": "Marcadores <<ANEXO>>/<<TABELA>> no HTML normas.leg.br são placeholders oficiais (&lt;&lt;ANEXO&gt;&gt;). Recuperação via LexML→Câmara .doc; PDFs DOU multicoluna permanecem retidos sem publicar íntegra falsa. Planalto indisponível neste host não implica ausência da norma.",
+  "recuperados_camara": 48,
+  "regras": [
+    "Não inferir vigência/completude de presença de arquivo ou HTTP.",
+    "<<ANEXO>>/<<TABELA>> na conversão retêm a norma até peça oficial recuperada.",
+    "PDF Câmara capturado fica em provas/anexos-camara/ sem virar Markdown até layout confiável.",
+    "Provas privadas fora do repo público; divergências literais preservadas."
+  ],
+  "retidos_por_status": {
+    "retido-anexo-pdf-layout-pendente": 128,
+    "retido-sem-anexo-camara": 13,
+    "retido-titulo-nao-encontrado": 1
+  }
+}

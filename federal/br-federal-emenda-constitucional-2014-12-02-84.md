@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2014-12-02-84"
+norma_id: "br-federal-emenda-constitucional-2014-12-02-84"
+norma_tipo: "emenda-constitucional"
+norma_numero: "84"
+norma_data: "2014-12-02"
+titulo: "EMENDA CONSTITUCIONAL Nº 84"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2014-12-02-84@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc84.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "9742a50254287cfba329db38de93ec5d2351292f83ca7b586604ad359e5b5ed4"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL Nº 84</strong>
 
 <em><strong>Altera o art. 159 da Constituição Federal para aumentar a entrega de recursos pela União para o Fundo de Participação dos Municípios.</strong></em>

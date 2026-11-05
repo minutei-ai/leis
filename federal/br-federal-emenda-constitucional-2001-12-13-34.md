@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2001-12-13-34"
+norma_id: "br-federal-emenda-constitucional-2001-12-13-34"
+norma_tipo: "emenda-constitucional"
+norma_numero: "34"
+norma_data: "2001-12-13"
+titulo: "EMENDA CONSTITUCIONAL Nº 34, DE 2001"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2001-12-13-34@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/2001/emendaconstitucional-34-13-dezembro-2001-427152-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc34.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "0283ba934723fc9cba23cec4660984b554263870289bcc44c3758cd88514dfc3"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "9dfc590c2252b752c1f8a3551623fc9793c5c7062f43c9b90f6ec8055db56126"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 34, DE 2001
 
 Dá nova redação à alínea c do inciso XVI do art. 37 da Constituição Federal.

@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-1995-08-15-6"
+norma_id: "br-federal-emenda-constitucional-1995-08-15-6"
+norma_tipo: "emenda-constitucional"
+norma_numero: "6"
+norma_data: "1995-08-15"
+titulo: "EMENDA CONSTITUCIONAL Nº 6, DE 1995"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1995-08-15-6@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/1995/emendaconstitucional-6-15-agosto-1995-366937-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc06.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "ce92dc93be239ca5db31198fa28f8f010fde39b2c25a6db4bb168bdff23f0535"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "6b199f32396cf37cbc7dbe0f49812e336d42083d10c78eb59576a44974ebcc0e"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 6, DE 1995
 
 Altera o inciso IX do art. 170, o art. 171 e o § 1º do art. 176 da Constituição Federal.

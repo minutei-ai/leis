@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2006-03-08-52"
+norma_id: "br-federal-emenda-constitucional-2006-03-08-52"
+norma_tipo: "emenda-constitucional"
+norma_numero: "52"
+norma_data: "2006-03-08"
+titulo: "EMENDA CONSTITUCIONAL Nº 52, DE 8 DE MARÇO DE 2006"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2006-03-08-52@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc52.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "e93096bf7a5cd2fa01ee0f6f488afda3ac6ba7e39cec82e8edd4583cc5e7cbb5"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000052-0-000-08-03-2006@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 52, DE 8 DE MARÇO DE 2006</strong>

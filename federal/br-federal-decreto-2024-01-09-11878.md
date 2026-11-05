@@ -1,16 +1,69 @@
-DECRETO Nº 11.878, DE 9 DE JANEIRO DE 2024
+---
+id: "br-federal-decreto-2024-01-09-11878"
+norma_id: "br-federal-decreto-2024-01-09-11878"
+norma_tipo: "decreto"
+norma_numero: "11878"
+norma_data: "2024-01-09"
+titulo: "DECRETO Nº 11.878, DE 9 DE JANEIRO DE 2024"
+esfera: "federal"
+edicao_id: "br-federal-decreto-2024-01-09-11878@consolidada-planalto"
+edicao_tipo: "consolidada"
+edicao_integral: true
+edicao_relacionada: "br-federal-decreto-2024-01-09-11878-historica"
+fonte_orgao: "Presidência da República — Planalto"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11878.htm"
+fonte_formato: "html"
+fonte_conferencia: "nenhuma"
+capturado_em: "2026-11-04T19:07:11Z"
+sha256_fonte: "35c40b57c682d12eff0ff5537814dc2e4250cfad20aafbc7e23777d8d05fc276"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: true
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 1
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "dce9f3e8eecd2feaf42ea8e90bc6614d08c4285652a49948dab6c15c220ce408"
+manifesto: "metadados/atualizacao-planalto-licitacao.json"
+contrato_versao: 1
+---
 
-Regulamenta o [art. 79 da Lei nº 14.133, de 1º de abril de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-04-01;14133!art79), para dispor sobre o procedimento auxiliar de credenciamento para a contratação de bens e serviços, no âmbito da administração pública federal direta, autárquica e fundacional.
+Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
-O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, caput, incisos IV e VI, alínea "a", da Constituição, e tendo em vista o disposto no art. 79 da Lei nº 14.133, de 1º de abril de 2021,
+# DECRETO Nº 11.878, DE 9 DE JANEIRO DE 2024
+
+<!-- nota-edicao:inicio -->
+
+> **Edição consolidada — Presidência da República — Planalto (lote atualizacao-planalto-licitacao, issue #93).** Fonte: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11878.htm (capturada em 2026-11-04T19:07:11Z, SHA-256 da fonte `35c40b57c682d12eff0ff5537814dc2e4250cfad20aafbc7e23777d8d05fc276`, SHA-256 do conteúdo sem script de proteção `b3f68cae175f429e885e4a82f78dc7c7c80dc27f14bbdae172d68b9a7248f564`). Snapshot: `provas/atualizacao-planalto-licitacao/fontes/planalto-d11878.htm.xz`. O acervo não certifica vigência.
+>
+> Texto entre `~~` é redação superada, vetada ou revogada que a fonte oficial mantém riscada; não é dispositivo em vigor. Notas de alteração da fonte foram preservadas.
+>
+> A edição anterior deste caminho está preservada como edição histórica em `federal/edicoes/br-federal-decreto-2024-01-09-11878-historica.md` (autenticada também por SHA-256 em `provas/atualizacao-planalto-licitacao/baseline-edicao-anterior.json`); não foi apagada silenciosamente.
+>
+> Prova: `provas/atualizacao-planalto-licitacao/reconciliacao-br-federal-decreto-2024-01-09-11878.json`. Contrato: `metadados/CONTRATO-atualizacao-planalto-licitacao.md`.
+>
+> 1 imagem(ns) institucional(is) do cabeçalho foram omitidas (brasão/logotipo sem texto jurídico).
+
+<!-- nota-edicao:fim -->
+
+Regulamenta o art. 79 da Lei nº 14.133, de 1º de abril de 2021, para dispor sobre o procedimento auxiliar de credenciamento para a contratação de bens e serviços, no âmbito da administração pública federal direta, autárquica e fundacional.
+
+O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, caput, incisos IV e VI, alínea “a”, da Constituição, e tendo em vista o disposto no art. 79 da Lei nº 14.133, de 1º de abril de 2021,
 
 DECRETA:
 
 CAPÍTULO I
 
-DISPOSIÇÕES PRELIMINARES Objeto e âmbito de aplicação
+DISPOSIÇÕES PRELIMINARES
 
-Art. 1º Este Decreto regulamenta o [art. 79 da Lei nº 14.133, de 1º de abril de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021-04-01;14133!art79), para dispor sobre o procedimento auxiliar de credenciamento para a contratação de bens e serviços, no âmbito da administração pública federal direta, autárquica e fundacional.
+Objeto e âmbito de aplicação
+
+~~Art. 1º Este Decreto regulamenta o~~
+
+~~[art. 79 da Lei nº 14.133, de 1º de abril de 2021,](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm#art79) para dispor sobre o procedimento auxiliar de credenciamento para a contratação de bens e serviços, no âmbito da administração pública federal direta, autárquica e fundacional.~~
+
+Art. 1º Este Decreto regulamenta o [art. 79, caput, incisos I a III, da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art79i), para dispor sobre o procedimento auxiliar de credenciamento para a contratação de bens e serviços, no âmbito da administração pública federal direta, autárquica e fundacional. [(Redação dada pelo Decreto nº 13.106, de 2026)](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13106.htm#art34) [Vigência](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13106.htm#art27)
 
 Parágrafo único. O disposto neste Decreto não se aplica às contratações de obras e serviços especiais de engenharia.
 
@@ -18,25 +71,25 @@ Definições
 
 Art. 2º Para fins do disposto neste Decreto, considera-se:
 
-I – credenciamento - processo administrativo de chamamento público em que o órgão ou a entidade credenciante convoca, por meio de edital, interessados em prestar serviços ou fornecer bens para que, preenchidos os requisitos necessários, se credenciem no órgão ou na entidade para executar o objeto quando convocados;
+I - credenciamento - processo administrativo de chamamento público em que o órgão ou a entidade credenciante convoca, por meio de edital, interessados em prestar serviços ou fornecer bens para que, preenchidos os requisitos necessários, se credenciem no órgão ou na entidade para executar o objeto quando convocados;
 
-II – credenciado - fornecedor ou prestador de serviço que atende às exigências do edital de credenciamento, apto a ser convocado, quando necessário, para a execução do objeto;
+II - credenciado - fornecedor ou prestador de serviço que atende às exigências do edital de credenciamento, apto a ser convocado, quando necessário, para a execução do objeto;
 
-III – credenciante - órgão ou entidade da administração pública federal responsável pelo procedimento de credenciamento;
+III - credenciante - órgão ou entidade da administração pública federal responsável pelo procedimento de credenciamento;
 
-IV – edital de credenciamento - instrumento convocatório que divulga a intenção de compra de bens ou de contratação de serviços e estabelece critérios para futuras contratações; e
+IV - edital de credenciamento - instrumento convocatório que divulga a intenção de compra de bens ou de contratação de serviços e estabelece critérios para futuras contratações; e
 
-V – Sistema de Cadastramento Unificado de Fornecedores - SICAF - ferramenta informatizada, integrante do Sistema de Compras do Governo Federal - Compras.gov.br, disponibilizada pelo Ministério da Gestão e da Inovação em Serviços Públicos, para cadastramento dos licitantes ou fornecedores de procedimentos de contratação pública promovidos pelos órgãos e pelas entidades da administração pública federal direta, autárquica e fundacional.
+V - Sistema de Cadastramento Unificado de Fornecedores - SICAF - ferramenta informatizada, integrante do Sistema de Compras do Governo Federal - Compras.gov.br, disponibilizada pelo Ministério da Gestão e da Inovação em Serviços Públicos, para cadastramento dos licitantes ou fornecedores de procedimentos de contratação pública promovidos pelos órgãos e pelas entidades da administração pública federal direta, autárquica e fundacional.
 
 Hipóteses de contratação
 
 Art. 3º O credenciamento poderá ser adotado pela administração nas seguintes hipóteses de contratação:
 
-I – paralela e não excludente - caso em que é viável e vantajosa para a administração a realização de contratações simultâneas em condições padronizadas;
+I - paralela e não excludente - caso em que é viável e vantajosa para a administração a realização de contratações simultâneas em condições padronizadas;
 
-II – com seleção a critério de terceiros - caso em que a seleção do contratado está a cargo do beneficiário direto da prestação;
+II - com seleção a critério de terceiros - caso em que a seleção do contratado está a cargo do beneficiário direto da prestação;
 
-III – em mercados fluidos - caso em que a flutuação constante do valor da prestação e das condições de contratação inviabiliza a seleção de agente por meio de processo de licitação.
+III - em mercados fluidos - caso em que a flutuação constante do valor da prestação e das condições de contratação inviabiliza a seleção de agente por meio de processo de licitação.
 
 Art. 4º O credenciamento não obriga a administração pública a contratar.
 
@@ -44,17 +97,17 @@ Forma de realização
 
 Art. 5º O credenciamento ficará permanentemente aberto durante a vigência do edital e será realizado por meio do Compras.gov.br, observadas as seguintes fases:
 
-I – preparatória;
+I - preparatória;
 
-II – de divulgação do edital de credenciamento;
+II - de divulgação do edital de credenciamento;
 
-III – de registro do requerimento de participação;
+III - de registro do requerimento de participação;
 
-IV – de habilitação;
+IV - de habilitação;
 
-V – recursal; e
+V - recursal; e
 
-VI – de divulgação da lista de credenciados.
+VI - de divulgação da lista de credenciados.
 
 § 1º Para acesso ao Compras.gov.br e operacionalização do credenciamento, serão observados os procedimentos estabelecidos pelo Ministério da Gestão e da Inovação em Serviços Públicos.
 
@@ -62,45 +115,57 @@ VI – de divulgação da lista de credenciados.
 
 CAPÍTULO II
 
-DA FASE PREPARATÓRIA Orientações gerais
+DA FASE PREPARATÓRIA
+
+Orientações gerais
 
 Art. 6º A escolha pela contratação por credenciamento deverá ser motivada durante a fase preparatória e atender, em especial:
 
-I – aos pressupostos para enquadramento na contratação direta, por inexigibilidade, conforme previsto no [inciso IV do](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021;14133!art74_cpt_inc4) [caput](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021;14133!art74_cpt_inc4) [do art. 74 da Lei nº 14.133, de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021;14133!art74_cpt_inc4); e
+I - aos pressupostos para enquadramento na contratação direta, por inexigibilidade, conforme previsto no
 
-II – à necessidade de designação da comissão de contratação como responsável pelo exame e julgamento dos documentos de habilitação, nos termos do disposto no [§ 1º do art. 5º do Decreto nº 11.246, de 27 de outubro de 2022](https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2022-10-27;11246!art5_par1).
+[inciso IV do caput do art. 74 da Lei nº 14.133, de 2021](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm#art74iv)
+
+; e
+
+II - à necessidade de designação da comissão de contratação como responsável pelo exame e julgamento dos documentos de habilitação, nos termos do disposto no
+
+[§ 1º do art. 5º do Decreto nº 11.246, de 27 de outubro de 2022.](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2022/Decreto/D11246.htm#art5§1)
 
 Edital de credenciamento
 
-Art. 7º O edital de credenciamento observará as regras gerais da [Lei nº 14.133, de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021;14133), e conterá:
+Art. 7º O edital de credenciamento observará as regras gerais da
 
-I – descrição do objeto;
+[Lei nº 14.133, de 2021](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm)
 
-II – quantitativo estimado de cada item, com respectiva unidade de medida;
+, e conterá:
 
-III – requisitos de habilitação e qualificação técnica;
+I - descrição do objeto;
 
-IV – prazo para análise da documentação para habilitação;
+II - quantitativo estimado de cada item, com respectiva unidade de medida;
 
-V – critério para distribuição da demanda, quando for o caso;
+III - requisitos de habilitação e qualificação técnica;
 
-VI – critério para ordem de contratação dos credenciados, quando for o caso;
+IV - prazo para análise da documentação para habilitação;
 
-VII – forma e prazos de interposição dos recursos, impugnação e pedidos de esclarecimentos;
+V - critério para distribuição da demanda, quando for o caso;
 
-VIII – prazo para assinatura do instrumento contratual após a convocação pela administração;
+VI - critério para ordem de contratação dos credenciados, quando for o caso;
 
-IX – condições para alteração ou atualização de preços nas hipóteses previstas nos incisos I e II do caput do art. 3º deste Decreto;
+VII - forma e prazos de interposição dos recursos, impugnação e pedidos de esclarecimentos;
 
-X – hipóteses de descredenciamento;
+VIII - prazo para assinatura do instrumento contratual após a convocação pela administração;
 
-XI – minuta de termo de credenciamento, de contrato ou de instrumento equivalente;
+IX - condições para alteração ou atualização de preços nas hipóteses previstas nos incisos I e II do caput do art. 3º deste Decreto;
 
-XII – modelos de declarações;
+X - hipóteses de descredenciamento;
 
-XIII – possibilidade de cometimento a terceiros, quando for o caso; e
+XI - minuta de termo de credenciamento, de contrato ou de instrumento equivalente;
 
-XIV – sanções aplicáveis.
+XII - modelos de declarações;
+
+XIII - possibilidade de cometimento a terceiros, quando for o caso; e
+
+XIV - sanções aplicáveis.
 
 § 1º O edital definirá os valores fixados e poderá prever índice de reajustamento dos preços, quando couber, para as hipóteses de contratação paralela e não excludente e de contratação com seleção a critério de terceiros.
 
@@ -124,57 +189,73 @@ Parágrafo único. A administração permitirá o cadastramento permanente de no
 
 CAPÍTULO III
 
-DA APRESENTAÇÃO DO REQUERIMENTO DE PARTICIPAÇÃO Procedimentos
+DA APRESENTAÇÃO DO REQUERIMENTO DE PARTICIPAÇÃO
 
-Art. 10\. Os interessados deverão estar previamente cadastrados no SICAF e apresentar requerimento de participação com a indicação de sua intenção de se credenciar para o fornecimento dos bens ou para a prestação dos serviços.
+Procedimentos
+
+Art. 10. Os interessados deverão estar previamente cadastrados no SICAF e apresentar requerimento de participação com a indicação de sua intenção de se credenciar para o fornecimento dos bens ou para a prestação dos serviços.
 
 § 1º É vedada a participação no processo de credenciamento de pessoa física ou jurídica que:
 
-I – esteja impedida de licitar ou contratar com a administração pública federal; ou
+I - esteja impedida de licitar ou contratar com a administração pública federal; ou
 
-II – mantenha vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou da entidade credenciante ou com agente público que desempenhe função no processo de contratação ou atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau.
+II - mantenha vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou da entidade credenciante ou com agente público que desempenhe função no processo de contratação ou atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau.
 
 § 2º O interessado declarará, sem prejuízo da exigência de outras declarações previstas na legislação, o cumprimento dos requisitos para a habilitação e a conformidade de seu requerimento de participação com as exigências do edital.
 
-§ 3º A falsidade da declaração de que trata o § 2º sujeitará o interessado às sanções previstas na [Lei nº 14.133, de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021;14133), sem prejuízo da responsabilidade penal.
+§ 3º A falsidade da declaração de que trata o § 2º sujeitará o interessado às sanções previstas na
+
+[Lei nº 14.133, de 2021](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm)
+
+, sem prejuízo da responsabilidade penal.
 
 CAPÍTULO IV
 
-DA HABILITAÇÃO Orientações gerais
+DA HABILITAÇÃO
 
-Art. 11\. Para habilitação como credenciado, serão exigidos os documentos necessários e suficientes para demonstrar a capacidade do interessado de realizar o objeto da contratação, nos termos do disposto nos art. 62 ao [art. 70 da Lei nº 14.133, de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021;14133!art70).
+Orientações gerais
+
+Art. 11. Para habilitação como credenciado, serão exigidos os documentos necessários e suficientes para demonstrar a capacidade do interessado de realizar o objeto da contratação, nos termos do disposto nos
+
+[art. 62 ao art. 70 da Lei nº 14.133, de 2021.](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm#art62)
 
 Parágrafo único. A documentação exigida para fins de habilitação jurídica, fiscal, social, trabalhista e econômico-financeira, desde que previsto no edital, poderá ser substituída por registro no SICAF.
 
-Art. 12\. A inscrição do interessado para o credenciamento mediante apresentação de requerimento de participação implicará a aceitação integral e irrestrita das condições estabelecidas no edital.
+Art. 12. A inscrição do interessado para o credenciamento mediante apresentação de requerimento de participação implicará a aceitação integral e irrestrita das condições estabelecidas no edital.
 
-Art. 13\. O interessado que atender aos requisitos de habilitação previstos no edital será credenciado pelo órgão ou pela entidade credenciante, com a possibilidade de, no interesse da administração, ser convocado para executar o objeto.
+Art. 13. O interessado que atender aos requisitos de habilitação previstos no edital será credenciado pelo órgão ou pela entidade credenciante, com a possibilidade de, no interesse da administração, ser convocado para executar o objeto.
 
-Art. 14\. Quando convocado para execução do objeto, o credenciado deverá comprovar que mantém todos os requisitos de habilitação exigidos no edital de credenciamento para fins de assinatura de contrato ou outro instrumento hábil.
+Art. 14. Quando convocado para execução do objeto, o credenciado deverá comprovar que mantém todos os requisitos de habilitação exigidos no edital de credenciamento para fins de assinatura de contrato ou outro instrumento hábil.
 
 Procedimentos de verificação
 
-Art. 15\. A habilitação será verificada por meio do SICAF em relação aos documentos abrangidos pelo referido Sistema.
+Art. 15. A habilitação será verificada por meio do SICAF em relação aos documentos abrangidos pelo referido Sistema.
 
 § 1º Os documentos exigidos para habilitação que não estejam contemplados no SICAF serão enviados na forma prevista no edital, quando solicitado pela comissão de contratação, até a conclusão da fase de habilitação.
 
 § 2º Após a apresentação dos documentos de habilitação, fica vedada a substituição ou a apresentação de novos documentos, exceto em sede de diligência, para:
 
-I – complementação de informações acerca dos documentos já apresentados pelos licitantes, desde que necessária para apurar fatos existentes à época da abertura do certame; ou
+I - complementação de informações acerca dos documentos já apresentados pelos licitantes, desde que necessária para apurar fatos existentes à época da abertura do certame; ou
 
-II – atualização de documentos cuja validade tenha expirado após a data de recebimento da documentação.
+II - atualização de documentos cuja validade tenha expirado após a data de recebimento da documentação.
 
 § 3º A verificação pela comissão de contratação, em sítios eletrônicos oficiais de órgãos e entidades emissores de certidões, constitui meio legal de prova para fins de habilitação.
 
-§ 4º Na análise dos documentos de habilitação, a comissão de contratação poderá sanar erros ou falhas que não alterarem sua substância ou validade jurídica, atribuindo-lhes eficácia para fins de classificação, observado o disposto no [art. 55 da Lei nº 9.784, de 29 de janeiro de 1999](https://normas.leg.br/?urn=urn:lex:br:federal:lei:1999-01-29;9784!art55).
+§ 4º Na análise dos documentos de habilitação, a comissão de contratação poderá sanar erros ou falhas que não alterarem sua substância ou validade jurídica, atribuindo-lhes eficácia para fins de classificação, observado o disposto no
 
-§ 5º A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de pequeno porte observará o disposto no [art. 42 da Lei Complementar nº 123, de 14 de agosto de 2006](https://normas.leg.br/?urn=urn:lex:br:federal:lei.complementar:2006-08-14;123!art42).
+[art. 55 da Lei nº 9.784, de 29 de janeiro de 1999.](https://www.planalto.gov.br/ccivil_03/LEIS/L9784.htm#art55)
+
+§ 5º A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de pequeno porte observará o disposto no
+
+[art. 42 da Lei Complementar nº 123, de 14 de agosto de 2006.](https://www.planalto.gov.br/ccivil_03/LEIS/LCP/Lcp123.htm#art42.)
 
 CAPÍTULO V
 
-DA IMPUGNAÇÃO E DOS RECURSOS Da impugnação e da intenção de recorrer
+DA IMPUGNAÇÃO E DOS RECURSOS
 
-Art. 16\. Qualquer pessoa é parte legítima para impugnar edital de credenciamento por irregularidade ou para solicitar esclarecimento sobre os seus termos.
+Da impugnação e da intenção de recorrer
+
+Art. 16. Qualquer pessoa é parte legítima para impugnar edital de credenciamento por irregularidade ou para solicitar esclarecimento sobre os seus termos.
 
 § 1º A comissão de contratação responderá aos pedidos de esclarecimentos ou à impugnação no prazo de três dias úteis, contado da data de recebimento do pedido.
 
@@ -184,7 +265,7 @@ Art. 16\. Qualquer pessoa é parte legítima para impugnar edital de credenciame
 
 § 4º As respostas aos pedidos de esclarecimentos e impugnações serão divulgadas no Compras.gov.br no prazo estabelecido no § 1º.
 
-Art. 17\. Após a decisão da administração sobre a habilitação, o interessado poderá, conforme definido em edital, manifestar sua intenção de recorrer, sob pena de preclusão.
+Art. 17. Após a decisão da administração sobre a habilitação, o interessado poderá, conforme definido em edital, manifestar sua intenção de recorrer, sob pena de preclusão.
 
 § 1º O interessado poderá interpor recurso, no prazo de três dias úteis, contado da data de publicação da decisão.
 
@@ -194,17 +275,27 @@ Art. 17\. Após a decisão da administração sobre a habilitação, o interessa
 
 CAPÍTULO VI
 
-DA DIVULGAÇÃO DA LISTA DE CREDENCIADOS Publicação dos credenciados
+DA DIVULGAÇÃO DA LISTA DE CREDENCIADOS
 
-Art. 18\. O resultado, com a lista de credenciados relacionados de acordo com o critério estabelecido no edital, será publicado e estará permanentemente disponível e atualizado no PNCP.
+Publicação dos credenciados
+
+Art. 18. O resultado, com a lista de credenciados relacionados de acordo com o critério estabelecido no edital, será publicado e estará permanentemente disponível e atualizado no PNCP.
 
 CAPÍTULO VII
 
-DA CONTRATAÇÃO Formalização
+DA CONTRATAÇÃO
 
-Art. 19\. Após divulgação da lista de credenciados, o órgão ou a entidade poderá convocar o credenciado para assinatura do instrumento contratual, emissão de nota de empenho de despesa, autorização de compra ou outro instrumento hábil, conforme disposto no [art. 95 da Lei nº 14.133, de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021;14133!art95).
+Formalização
 
-§ 1º A administração poderá convocar o credenciado durante todo o prazo de validade do credenciamento para assinar o contrato ou outro instrumento equivalente, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas na [Lei nº 14.133, de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021;14133), e no edital de credenciamento.
+Art. 19. Após divulgação da lista de credenciados, o órgão ou a entidade poderá convocar o credenciado para assinatura do instrumento contratual, emissão de nota de empenho de despesa, autorização de compra ou outro instrumento hábil, conforme disposto no
+
+[art. 95 da Lei nº 14.133, de 2021.](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm#art95)
+
+§ 1º A administração poderá convocar o credenciado durante todo o prazo de validade do credenciamento para assinar o contrato ou outro instrumento equivalente, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas na
+
+[Lei nº 14.133, de 2021](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm)
+
+, e no edital de credenciamento.
 
 § 2º O prazo para assinatura do instrumento contratual pelo credenciado, após convocação pela administração, será estabelecido em edital.
 
@@ -214,33 +305,41 @@ Art. 19\. Após divulgação da lista de credenciados, o órgão ou a entidade p
 
 Vigência dos contratos
 
-Art. 20\. A vigência dos contratos decorrentes do credenciamento será estabelecida no edital, observado o disposto no [art. 105 da Lei nº 14.133, de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021;14133!art105).
+Art. 20. A vigência dos contratos decorrentes do credenciamento será estabelecida no edital, observado o disposto no
+
+[art. 105 da Lei nº 14.133, de 2021.](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm#art105)
 
 Alteração dos contratos
 
-Art. 21\. Os contratos decorrentes de credenciamento poderão ser alterados, observado o disposto no [art. 124 da Lei nº 14.133, de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021;14133!art124).
+Art. 21. Os contratos decorrentes de credenciamento poderão ser alterados, observado o disposto no
+
+[art. 124 da Lei nº 14.133, de 2021.](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm#art124)
 
 CAPÍTULO VIII
 
-DA ANULAÇÃO, DA REVOGAÇÃO E DO DESCREDENCIAMENTO Anulação e revogação
+DA ANULAÇÃO, DA REVOGAÇÃO E DO DESCREDENCIAMENTO
 
-Art. 22\. O edital de credenciamento poderá ser anulado, a qualquer tempo, em caso de vício de legalidade, ou revogado, por motivos de conveniência e de oportunidade da administração.
+Anulação e revogação
 
-§ 1º Na hipótese de anulação do edital de credenciamento, os instrumentos que dele resultaram ficarão sujeitos ao disposto nos art. 147 ao [art. 150 da Lei nº 14.133, de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021;14133!art150).
+Art. 22. O edital de credenciamento poderá ser anulado, a qualquer tempo, em caso de vício de legalidade, ou revogado, por motivos de conveniência e de oportunidade da administração.
+
+§ 1º Na hipótese de anulação do edital de credenciamento, os instrumentos que dele resultaram ficarão sujeitos ao disposto nos
+
+[art. 147 ao art. 150 da Lei nº 14.133, de 2021.](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm#art147)
 
 § 2º A revogação do edital de credenciamento não repercutirá nos instrumentos já celebrados que dele resultaram.
 
 Descredenciamento
 
-Art. 23\. O órgão ou a entidade credenciante poderá realizar o descredenciamento quando houver:
+Art. 23. O órgão ou a entidade credenciante poderá realizar o descredenciamento quando houver:
 
-I – pedido formalizado pelo credenciado;
+I - pedido formalizado pelo credenciado;
 
-II – perda das condições de habilitação do credenciado;
+II - perda das condições de habilitação do credenciado;
 
-III – descumprimento injustificado do contrato pelo contratado; e
+III - descumprimento injustificado do contrato pelo contratado; e
 
-IV – sanção de impedimento de licitar e contratar ou de declaração de inidoneidade superveniente ao credenciamento.
+IV - sanção de impedimento de licitar e contratar ou de declaração de inidoneidade superveniente ao credenciamento.
 
 § 1º O pedido de descredenciamento de que trata o inciso I do caput não desincumbirá o credenciado do cumprimento de eventuais contratos assumidos e das responsabilidades deles recorrentes.
 
@@ -252,28 +351,40 @@ IV – sanção de impedimento de licitar e contratar ou de declaração de inid
 
 CAPÍTULO IX
 
-DA SANÇÃO Aplicação
+DA SANÇÃO
 
-Art. 24\. Os credenciados, após convocação para assinatura do instrumento contratual ou instrumento equivalente, estarão sujeitos às sanções administrativas previstas na [Lei nº 14.133, de 2021](https://normas.leg.br/?urn=urn:lex:br:federal:lei:2021;14133), e no edital e às demais cominações legais, assegurado o direito ao contraditório e à ampla defesa.
+Aplicação
+
+Art. 24. Os credenciados, após convocação para assinatura do instrumento contratual ou instrumento equivalente, estarão sujeitos às sanções administrativas previstas na
+
+[Lei nº 14.133, de 2021,](https://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2021/Lei/L14133.htm)
+
+e no edital e às demais cominações legais, assegurado o direito ao contraditório e à ampla defesa.
 
 CAPÍTULO X
 
-DISPOSIÇÕES FINAIS Orientações gerais
+DISPOSIÇÕES FINAIS
 
-Art. 25\. O mesmo interessado poderá ser credenciado para executar mais de um objeto, desde que atenda aos requisitos de habilitação em relação a todos os objetos.
+Orientações gerais
+
+Art. 25. O mesmo interessado poderá ser credenciado para executar mais de um objeto, desde que atenda aos requisitos de habilitação em relação a todos os objetos.
 
 § 1º O credenciado, no caso previsto neste artigo, poderá apresentar de uma vez só a documentação exigida.
 
 § 2º O disposto no § 1º não se aplica quando as exigências de capacidade técnica forem diferenciadas, hipótese em que o credenciado deverá apresentar complementação da documentação relativa a esse quesito.
 
-Art. 26\. A Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos poderá editar normas complementares para a execução do disposto neste Decreto.
+Art. 26. A Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos poderá editar normas complementares para a execução do disposto neste Decreto.
 
 Vigência
 
-Art. 27\. Este Decreto entra em vigor na data de sua publicação.
+Art. 27. Este Decreto entra em vigor na data de sua publicação.
 
 Brasília, 9 de janeiro de 2024; 203º da Independência e 136º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
 Esther Dweck
+
+Este texto não substitui o publicado no DOU de 10.1.2024
+
+\*

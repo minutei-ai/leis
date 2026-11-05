@@ -1,0 +1,1151 @@
+{
+  "n_publicados": 143,
+  "n_retidos": 0,
+  "publicados": [
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1965-10-27-1",
+      "path": "federal/br-federal-ato-complementar-1965-10-27-1.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "066d9697d3b562e78ef7be38f0b1f0c818a74ad3896787a691abd547dc39798f",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1965-11-01-2",
+      "path": "federal/br-federal-ato-complementar-1965-11-01-2.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "c61a8102935cf98df752c0c97ac0814168af6c3a749f8861c22024e640aa78eb",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1965-11-03-3",
+      "path": "federal/br-federal-ato-complementar-1965-11-03-3.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "f83b064cfc4f01ed3f8adb1bd4105721b0b91209bab162e2787f5645d142a997",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1965-11-20-4",
+      "path": "federal/br-federal-ato-complementar-1965-11-20-4.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "17175711de7017e61474008ccc37881408125290f087ba5d9d73f6b443a740a6",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1965-12-10-5",
+      "path": "federal/br-federal-ato-complementar-1965-12-10-5.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "cc59a806ae288fa603e70803749d81512388dea4e0d9ec0c5507580dc737cb8d",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-01-03-6",
+      "path": "federal/br-federal-ato-complementar-1966-01-03-6.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "6a981bac7d2c8198a7a9100630388cfb014e910be5e232d42aac6d1104edd320",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-01-31-7",
+      "path": "federal/br-federal-ato-complementar-1966-01-31-7.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "0bda19f4b0529c6fd93d5ba2a62a193658373bf1564d26fa1d0546ce65a8fc24",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-03-29-8",
+      "path": "federal/br-federal-ato-complementar-1966-03-29-8.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "59166cbd97271a2027d2b3df44074dfdf50a058c5d7e5b6e42ef4b62747d33d5",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-05-11-9",
+      "path": "federal/br-federal-ato-complementar-1966-05-11-9.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "d76dddec53126751afb2a75d787b744577a9b6aa24f73ac23820aa1fe904356e",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-06-04-10",
+      "path": "federal/br-federal-ato-complementar-1966-06-04-10.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "bc389997e485004cfc0b9b468aa8d1a7c0d55d5255ed4d6815bbbfb58b6f5903",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-06-28-11",
+      "path": "federal/br-federal-ato-complementar-1966-06-28-11.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "664ccc6f758b26d939640cb413d89ad27ee5b59d009103fc1188753ef5694660",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-06-28-12",
+      "path": "federal/br-federal-ato-complementar-1966-06-28-12.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "86cad839799ad19c12598624fa9a9c08f51c9846ac92d28681f4174547bdf40b",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-06-28-13",
+      "path": "federal/br-federal-ato-complementar-1966-06-28-13.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "06f641d66d512bd72cbb40fa3116726098c8fbcaebf4a9e27d455678e43ddadc",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-06-30-14",
+      "path": "federal/br-federal-ato-complementar-1966-06-30-14.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "889c8894c329782e04e1d226c574ab212c4cd52763f8edc3d15158294b058478",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-07-15-15",
+      "path": "federal/br-federal-ato-complementar-1966-07-15-15.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "d9a443e329e76807f1a852a8b0175a67a49c7fe71a28227999402fcf68bccb6d",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-07-18-16",
+      "path": "federal/br-federal-ato-complementar-1966-07-18-16.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "26a408653bc205ad44ea3564362feaf93a3056955a3b50d3e1df6dcf86d11717",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-07-29-17",
+      "path": "federal/br-federal-ato-complementar-1966-07-29-17.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "3d977d0f0ddc5f5cf88e5ee0d46cdbf85dd20561a1a7b3875cf991bce3c44da6",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-07-29-18",
+      "path": "federal/br-federal-ato-complementar-1966-07-29-18.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "33b63de21dd3ffc774ae579a3e0018a322ec92883575fb8f2e222a5d5bc2c924",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-08-09-19",
+      "path": "federal/br-federal-ato-complementar-1966-08-09-19.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "1636651d13a75017cc718e64ca82fb8312a8770a72c3c0a4c626a757bf3c2af2",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-08-09-20",
+      "path": "federal/br-federal-ato-complementar-1966-08-09-20.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "059e6b9dfcd3d445d8a98e8e126753d37bb97f67f6279381c82f38dfa58189eb",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-08-09-21",
+      "path": "federal/br-federal-ato-complementar-1966-08-09-21.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "fb207988df3e77b1bcb8992c7358d953675c86abb0e78da4d065b0d0426de8a1",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-09-22-22",
+      "path": "federal/br-federal-ato-complementar-1966-09-22-22.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "594b3fdd676586ab45bec20bdec540fca100d9703ecb70220e8c9a0da0150167",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-10-20-23",
+      "path": "federal/br-federal-ato-complementar-1966-10-20-23.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "1d2c046d35cf16915903226849c76fd28454fb84efd6899ce4aa9ac2b23a2ddb",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-11-18-24",
+      "path": "federal/br-federal-ato-complementar-1966-11-18-24.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "01b2fb77ada15ff06f97ba54fe39e1195bf66c82576d2c428a246f14209a101a",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-11-24-25",
+      "path": "federal/br-federal-ato-complementar-1966-11-24-25.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "3e12402e4244779d5c54f545130e9c520adde485cb20ae8ee7ba55144c234a90",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-11-29-26",
+      "path": "federal/br-federal-ato-complementar-1966-11-29-26.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "414e209a6d8046174b4ef353520ad8ae4f4a60b3b717e7b2f6e1517496c3cd06",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-12-08-27",
+      "path": "federal/br-federal-ato-complementar-1966-12-08-27.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "4edae684f018eb40ab21d355ebfd9c65dc8d9485bcefa38b461c78c2de0a67d3",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-12-13-28",
+      "path": "federal/br-federal-ato-complementar-1966-12-13-28.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "ef7c71e3cd1e7fbe238893a595f4bdd72a6d6ac5ce5ce84fc21dc3618d251b39",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-12-26-29",
+      "path": "federal/br-federal-ato-complementar-1966-12-26-29.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "6bac0cf46b45833607ba4a636e3dd81fbf72dc5e7fda9ea29f3104d8ab1acab0",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-12-26-30",
+      "path": "federal/br-federal-ato-complementar-1966-12-26-30.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "690c32394797ca83e284532fce5464ab85c0018ce4c633da1e3bfdf05ef08632",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1966-12-28-31",
+      "path": "federal/br-federal-ato-complementar-1966-12-28-31.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "1774df72e7d0635f0e0dc52da0dd56e5e52ad55fbfc08eac54a6a3c21870566e",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1967-01-05-32",
+      "path": "federal/br-federal-ato-complementar-1967-01-05-32.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "7e3ead5f54db5e467288abcabb770486f3e7cfe77b649a2707d23cabad999925",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1967-01-18-33",
+      "path": "federal/br-federal-ato-complementar-1967-01-18-33.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "40a5beeea2ab201600117505ea5cf45e879989ed62bda401f37590bf2d4d6abb",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1967-01-30-34",
+      "path": "federal/br-federal-ato-complementar-1967-01-30-34.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "00781e371b780f2d12973770f52f136114b7ccc9c869feedd7752463f7b99d30",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1967-02-28-35",
+      "path": "federal/br-federal-ato-complementar-1967-02-28-35.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "f430c52909c322934b992217cce580364abc3f8131ab53b975a4e760cd3f8290",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1967-03-13-36",
+      "path": "federal/br-federal-ato-complementar-1967-03-13-36.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "ebceac6c106e1e34c44087146d34b7031500e7f3ab89808b716537b5cffa6d54",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1967-03-14-37",
+      "path": "federal/br-federal-ato-complementar-1967-03-14-37.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "7294e3e5213356d359cca5eb62e30142dee62e6bc82249f8cddf76968b93fe28",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1968-12-13-38",
+      "path": "federal/br-federal-ato-complementar-1968-12-13-38.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "59f8d7bb375f6d16e86f3e8e37d7ab751db34264261f2432022621ead8687a99",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1968-12-20-39",
+      "path": "federal/br-federal-ato-complementar-1968-12-20-39.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "c6d41f67ed8e543991900c9eb7595eae45bcbe185f6080430d3f1b21526d4a8c",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1968-12-30-40",
+      "path": "federal/br-federal-ato-complementar-1968-12-30-40.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "e4e19027baa6b9f217aa150255c423cb6379794340fba3cb7f81eca39afdfe25",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-01-22-41",
+      "path": "federal/br-federal-ato-complementar-1969-01-22-41.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "208b7c64ae6d9ddb0d3c9357133995fc3d0b0d74fcaeb4576d449901f4811518",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-01-27-42",
+      "path": "federal/br-federal-ato-complementar-1969-01-27-42.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "cf1159a4c1202d576993ee52e8df3230f2879baa7c897c3b15591f26424899b4",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-01-29-43",
+      "path": "federal/br-federal-ato-complementar-1969-01-29-43.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "e586bf20ed6c22aa08d1bcc7391dfc6b3ee81cf676275d3321f658f1318902f8",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-01-29-44",
+      "path": "federal/br-federal-ato-complementar-1969-01-29-44.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "9b34c9a176e1936837c40979bf6703d8e96a6d558a443a3ec8df46af0fc12760",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-01-30-45",
+      "path": "federal/br-federal-ato-complementar-1969-01-30-45.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "ef7d440e3b78bf49de280fdec1859c2f22f5efc5c30cf34d8520dd881fbaafb5",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-02-07-46",
+      "path": "federal/br-federal-ato-complementar-1969-02-07-46.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "d6dc5274a206664db83aa4c5f18a71bb34aec83a67825a4cf527c3fb8314bbc2",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-02-07-47",
+      "path": "federal/br-federal-ato-complementar-1969-02-07-47.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "95143f31c7c3f7be24a3d20625b7a82b5cf3bded84798d35f0e3587f825bea92",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-02-24-48",
+      "path": "federal/br-federal-ato-complementar-1969-02-24-48.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "8054c04dd5802ad76018ba9b19ca9361aaf52845c72eb590703c3dfcff302aad",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-02-27-49",
+      "path": "federal/br-federal-ato-complementar-1969-02-27-49.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "6079fa56e8a0edd235c94cd16fb00f76fb54d667d53d908d8f7b9317f44d7183",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-02-27-50",
+      "path": "federal/br-federal-ato-complementar-1969-02-27-50.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "d6f70ce369e1f7e0cb7415b309b5b8a40ca76e4966ac885e598795440506b637",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-04-17-51",
+      "path": "federal/br-federal-ato-complementar-1969-04-17-51.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "56ab57565f4387cd16b9e287a5928608397377cdbd757d2d781d67d2eb76509c",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-05-02-52",
+      "path": "federal/br-federal-ato-complementar-1969-05-02-52.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "66cc675f2b5947c5ff5837b9e0b42a3edbac8c99dcb67591ff15ff81ee8ec680",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-05-08-53",
+      "path": "federal/br-federal-ato-complementar-1969-05-08-53.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "ae3b8e18e967d81bafe9b8b57ce044c44df497a0c88d44c8fd7f76ac006f2caa",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-05-20-54",
+      "path": "federal/br-federal-ato-complementar-1969-05-20-54.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "122cf315d94970c19b1e951ce12d339131a646418d003408ec9389366e32e9cd",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-06-04-55",
+      "path": "federal/br-federal-ato-complementar-1969-06-04-55.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "d8825550a7a72eda26be46df8ba57f83f077c79f55508c0c76863203a1c091fa",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-06-18-56",
+      "path": "federal/br-federal-ato-complementar-1969-06-18-56.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "377cd315e38c271fb98d1db3dfa0e8f1ffe90985436df0c61594ebf6e568c692",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-07-10-57",
+      "path": "federal/br-federal-ato-complementar-1969-07-10-57.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "fc4bf62b03a41e99c1c60506ee2db975ad65526ded5b46c4b1339417c0375b44",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-07-24-58",
+      "path": "federal/br-federal-ato-complementar-1969-07-24-58.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "94fb37138be4a8df2abed213e25944dc2268a6d99e6711a032a563f0a788b710",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-07-24-59",
+      "path": "federal/br-federal-ato-complementar-1969-07-24-59.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "a92f636b25aa56f878f391991ff8b15a0e1ed25cff995a9fcfd07eb8afdf194b",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-07-24-60",
+      "path": "federal/br-federal-ato-complementar-1969-07-24-60.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "d1b494543181cfceb94bffce3a1ae47da1f1a30c827bba47c4a87890f578629e",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-08-14-61",
+      "path": "federal/br-federal-ato-complementar-1969-08-14-61.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "1de628366fbde85d2f43b6fe83c233cb77f49602cc31bc5972535d94397e90ae",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-08-22-62",
+      "path": "federal/br-federal-ato-complementar-1969-08-22-62.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "2bd1615c16baac41934399a6e79494f80fad3a4b20b7b175d08c6d469cb7d91b",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-09-04-63",
+      "path": "federal/br-federal-ato-complementar-1969-09-04-63.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "8ff2704a97c17dc4a44313c8ec783feef697f8a0320dfec77965090675b8767d",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-09-05-64",
+      "path": "federal/br-federal-ato-complementar-1969-09-05-64.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "c7127b23f16005ad710fc023aa2d5792d1651c4aa897001ef07e704378f99f5a",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-09-09-65",
+      "path": "federal/br-federal-ato-complementar-1969-09-09-65.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "bfa3877c60053c92817184b57f477dc3c02210b0d35675cb6f8f2040232e778f",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-09-19-66",
+      "path": "federal/br-federal-ato-complementar-1969-09-19-66.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "0849c1f99d481fbb11c9f9f171785fd14c75c2a42495075485ad11fb8c908306",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-09-22-67",
+      "path": "federal/br-federal-ato-complementar-1969-09-22-67.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "c8b9574b512fd70c92e5afcf27ca0c954e6a13b2e1b306590b96bfa157544e56",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-09-29-68",
+      "path": "federal/br-federal-ato-complementar-1969-09-29-68.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "e1a3b751ba386d4c8d4806263e4af3d165f4005ceaf7713d891dff9d5f488e7b",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-10-06-69",
+      "path": "federal/br-federal-ato-complementar-1969-10-06-69.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "1c1c00f89181f060f6245d565787d9d8c439912dcc21c536fe6c3d8b84f6eda5",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-10-06-70",
+      "path": "federal/br-federal-ato-complementar-1969-10-06-70.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "450238362101cf10051ba7b19c6380e0f64494b3ba4f9ccda96c75a7e7b1c902",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-10-14-71",
+      "path": "federal/br-federal-ato-complementar-1969-10-14-71.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "54afea06f96e35702976c2122d604329af68121730da1dfc4746642d12ed086f",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-10-15-72",
+      "path": "federal/br-federal-ato-complementar-1969-10-15-72.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "82c4626a6b6114e043265dc2f74497a8486228673b5b3d06a0abb3f9ef2ecc01",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-10-15-73",
+      "path": "federal/br-federal-ato-complementar-1969-10-15-73.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "a92d7083c46d643cc870930fc605704023754e12144542446544d5f594a3b6a3",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-10-20-74",
+      "path": "federal/br-federal-ato-complementar-1969-10-20-74.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "4869dc94bf0158d8d1ed88d51858836fa029e877515bad5d72b12f2c93f99279",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-10-21-75",
+      "path": "federal/br-federal-ato-complementar-1969-10-21-75.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "e8e8f34d98b51bfd9fe609677dfbc7f1df4ea6156c56ba21c4ee063d91c88813",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-10-21-76",
+      "path": "federal/br-federal-ato-complementar-1969-10-21-76.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "592dfed9bb095ba23f9269ec21971bbaccfaa331e0d7b85046038c6b752a481c",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1969-10-27-77",
+      "path": "federal/br-federal-ato-complementar-1969-10-27-77.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "a6e0acb2f79f84c2fb9ebdc426029190e754f6407163abb95b0299158e22fcc4",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-01-15-78",
+      "path": "federal/br-federal-ato-complementar-1970-01-15-78.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "6ec4b921d944303d0f01e184c93b20ca0ccbe9631c3215a46215750a4aa9b433",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-01-29-79",
+      "path": "federal/br-federal-ato-complementar-1970-01-29-79.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "e021e2378ac97d37abf15915fdbfc276132ff975315e10d185b4aad6047d443e",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-03-25-80",
+      "path": "federal/br-federal-ato-complementar-1970-03-25-80.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "0d2ba1bc1749c0039ed1b17fd5f19cb71e9cd33f53955180f76b26f2eaf1f25e",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-03-30-81",
+      "path": "federal/br-federal-ato-complementar-1970-03-30-81.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "2888ccb53088f5532c5099e3f6caada38d1c2089a0c5d708dd47f528c5675c9f",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-04-23-82",
+      "path": "federal/br-federal-ato-complementar-1970-04-23-82.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "449f6eaf1984917b501b7159dd804ed43f1060d7e849e2dadea725557f31eed5",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-04-27-83",
+      "path": "federal/br-federal-ato-complementar-1970-04-27-83.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "5ae6d6fc471afad0c8ffb84c1f6fba29a5ffb648fabaa34781a02be798efab0c",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-05-20-84",
+      "path": "federal/br-federal-ato-complementar-1970-05-20-84.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "8b763060f2dad2d8c7b2cb260530c94f2b0288fe255586cfd922d4677e326fa1",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-05-20-85",
+      "path": "federal/br-federal-ato-complementar-1970-05-20-85.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "525241a5d2b422ffeebdb698f4bcd32d602b4b33b60fc5bb9296e4e2ea935e94",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-05-26-86",
+      "path": "federal/br-federal-ato-complementar-1970-05-26-86.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "42e151a573be29f607c45e1536951015057739d927d0e2e89617eec75aa144d9",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-07-08-87",
+      "path": "federal/br-federal-ato-complementar-1970-07-08-87.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "71c2d971f9611a278e08de9aee81dc9425f52f9e5e9e0d9d3909b8a89f574649",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-07-08-88",
+      "path": "federal/br-federal-ato-complementar-1970-07-08-88.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "f0727222811af3f9d6fb6b41197e9997179785da96367f791af574bcaf26de2f",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-07-08-89",
+      "path": "federal/br-federal-ato-complementar-1970-07-08-89.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "d238dd38895297b33919343a0408274947793094cba60e4b617f5fe681ed4408",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-07-08-90",
+      "path": "federal/br-federal-ato-complementar-1970-07-08-90.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "954948c22cd4ee65ff26026ebdefeb4f93e11959fb88249ca701553327d7fa2a",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-07-08-91",
+      "path": "federal/br-federal-ato-complementar-1970-07-08-91.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "342a86793c0885a93989e2b31650504b6fd0f01902e8ca2885a1a1bb17c1ef12",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-07-08-92",
+      "path": "federal/br-federal-ato-complementar-1970-07-08-92.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "1e1250cc0f69a0e180a35887b613d39667ed15503d59607d1137bc73f19f1243",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-07-08-93",
+      "path": "federal/br-federal-ato-complementar-1970-07-08-93.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "25dfba45a4f0ab2e9fd3815d29689b08aea6eb83bd77d62df1de3ec0ea9c4976",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1970-07-22-94",
+      "path": "federal/br-federal-ato-complementar-1970-07-22-94.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "2bef30e8064fbaa7782736b2dd53adf02a621217d4903b5db113d3b4f87050b4",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1972-06-08-95",
+      "path": "federal/br-federal-ato-complementar-1972-06-08-95.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "f5b9c9b0dee35e9e380105c2fb83772d6fcafecb731ddafb4c09424ebac60dd3",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1972-07-27-96",
+      "path": "federal/br-federal-ato-complementar-1972-07-27-96.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "2f693218cdeed1c509280f88c3bfb8eb8a8f10d4d96c41ab6f819ba1093d80e6",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1973-01-26-97",
+      "path": "federal/br-federal-ato-complementar-1973-01-26-97.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "ebef9c5cd1eaef2b10442955ca909c265f21689e8c663157d187bd7ed8a606f4",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1973-08-07-98",
+      "path": "federal/br-federal-ato-complementar-1973-08-07-98.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "8c23c2f661fd0f162b3759396a197f527216f6bc51a6cb63cde0107ce757a3bb",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1973-10-04-99",
+      "path": "federal/br-federal-ato-complementar-1973-10-04-99.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "0c165ea7621770927fe8370da2c379cd4e0cbff4ae031ad4f3cf2896c5ec75a8",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1976-12-03-100",
+      "path": "federal/br-federal-ato-complementar-1976-12-03-100.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "176369b66f812362d2d87d99ff58c523d037e226fe6abd607d27f519fb7857ae",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1977-01-18-101",
+      "path": "federal/br-federal-ato-complementar-1977-01-18-101.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "590a30157e2babb8fa90858f89f5fc781e41c58a3abc54daaa203332359dbcaf",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1977-04-01-102",
+      "path": "federal/br-federal-ato-complementar-1977-04-01-102.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "472183d88355aba8bf23933e56da02195c5c7ba25eb09fb87be002ce439713b6",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1977-04-14-103",
+      "path": "federal/br-federal-ato-complementar-1977-04-14-103.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "6fa660b2d2b2a371f1d31a12191b119105db7b35339c8541f852653b56f4ffb7",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1977-07-26-104",
+      "path": "federal/br-federal-ato-complementar-1977-07-26-104.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "ccba4a944413cf72a75d42e886bf721f622f7faff8ecaa0d50942ce74950cd92",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-complementar",
+      "id": "br-federal-ato-complementar-1978-06-09-105",
+      "path": "federal/br-federal-ato-complementar-1978-06-09-105.md",
+      "serie": "ato-complementar-1965-1978",
+      "sha256_markdown_corpo": "709cce69cb62aad1e932841357df747a0ce849b304195b05577030265381492f",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1964-04-09-1",
+      "path": "federal/br-federal-ato-institucional-1964-04-09-1.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "9ba2db2fb539b8fccb0b36378c723a0d258873e91b1876c364e0e422aa385f62",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1965-10-27-2",
+      "path": "federal/br-federal-ato-institucional-1965-10-27-2.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "b3495c2a4ccdbd0e98b1a3ccc0ea73d94c94808bb68c68cff92eb2e1aac16191",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1966-02-05-3",
+      "path": "federal/br-federal-ato-institucional-1966-02-05-3.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "a147f638bc8061f644ad5a241af093f85f18fa84dea7d8aec7372790457741c8",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1966-12-07-4",
+      "path": "federal/br-federal-ato-institucional-1966-12-07-4.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "3f44fc457a5e42661a68fad84a17ac18d83d736e40969ad1537163072553256b",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1968-12-13-5",
+      "path": "federal/br-federal-ato-institucional-1968-12-13-5.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "83505aff0d985301fdb0af75619817c6ee7ae418e6e89c18dd94475056f22923",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1969-02-01-6",
+      "path": "federal/br-federal-ato-institucional-1969-02-01-6.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "315083795b07177f80ee48ca2558ab8574a80bce640c3c397c1ab81ba4019ed4",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1969-02-26-7",
+      "path": "federal/br-federal-ato-institucional-1969-02-26-7.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "2c5ddd85e329bd8123fe64c5984991459f87153040ac7452bcac16ff1b49fd5a",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1969-04-02-8",
+      "path": "federal/br-federal-ato-institucional-1969-04-02-8.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "0bbed0191b66b1a81ba87f10b1bc42075946ab8726ec72343b6c4fc7e707ea51",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1969-04-25-9",
+      "path": "federal/br-federal-ato-institucional-1969-04-25-9.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "fd746ad246aafe37a4f666166616ac7232e5e8a3fd7683878e19e130016e438b",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1969-05-16-10",
+      "path": "federal/br-federal-ato-institucional-1969-05-16-10.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "ad7ba7e1ba7eec0202fd26e2839df104e1f22474e4f02fa8e174fd954f659136",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1969-08-14-11",
+      "path": "federal/br-federal-ato-institucional-1969-08-14-11.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "354da9068a865eb70ac07f4101428772732616855d3b05bb03e3fdd293118942",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1969-08-31-12",
+      "path": "federal/br-federal-ato-institucional-1969-08-31-12.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "1b727c5c533a2c3176fd146bb3bea4af2ba957fdc459d257de63beac110037ac",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1969-09-05-13",
+      "path": "federal/br-federal-ato-institucional-1969-09-05-13.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "217b7b8839a88be6f9ab4b43bbd65ed2f0bafeb423569a54dd3d4fd971896a34",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1969-09-05-14",
+      "path": "federal/br-federal-ato-institucional-1969-09-05-14.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "dbb9574f9dc438df214a7cc5d02dc7a4ae8b6b386eff0c2d96b71910c5582d74",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1969-09-09-15",
+      "path": "federal/br-federal-ato-institucional-1969-09-09-15.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "bc3e4c4c5b4cefd2658afd45e57169de92e8c016ad42ff1e458d7a96842e65b4",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1969-10-14-16",
+      "path": "federal/br-federal-ato-institucional-1969-10-14-16.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "94555535ee35fd5ece65b8e2633d289b12c6ddb5ac7f0e4c8e888a5bf1517d9b",
+      "status": "publicado"
+    },
+    {
+      "especie": "ato-institucional",
+      "id": "br-federal-ato-institucional-1969-10-14-17",
+      "path": "federal/br-federal-ato-institucional-1969-10-14-17.md",
+      "serie": "ato-institucional-1964-1969",
+      "sha256_markdown_corpo": "091494a8e7a4a8aadd94e8c2d61b9a1c43a551df732c2fd5e44bd0f4a49db5a5",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1938-05-16-1",
+      "path": "federal/br-federal-lei-constitucional-1938-05-16-1.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "450738a5f681936e3d4aa9902a2152016b823136217970d01caa932d4112bc07",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1938-05-16-2",
+      "path": "federal/br-federal-lei-constitucional-1938-05-16-2.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "c7df6597fd5379bb4f5926b0d26597d60a7940f53cc92cf1b0ca241c49355dfb",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1940-09-18-3",
+      "path": "federal/br-federal-lei-constitucional-1940-09-18-3.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "f3bc6a0e5dfafee60453d04234598f01c5be97d151558aad3bafb9ff39b7bea7",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1940-09-20-4",
+      "path": "federal/br-federal-lei-constitucional-1940-09-20-4.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "832a83c52c57d8b677b6e0eaa30bc83e639e514d48afc0303838970491c1ca99",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1942-03-10-5",
+      "path": "federal/br-federal-lei-constitucional-1942-03-10-5.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "2416b9ab31e65852e84da326e07bbec72f82ed710e5010ccff19a6afed146853",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1942-05-13-6",
+      "path": "federal/br-federal-lei-constitucional-1942-05-13-6.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "2b2d69fe711db8febd63b7fc36bdfac0670202cd9c5f5d7c908c53f3b7bbb9d6",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1942-09-30-7",
+      "path": "federal/br-federal-lei-constitucional-1942-09-30-7.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "828e9a160d44961eeeb8dbb68d29554f3d10bb49dd49e9ad8da00319a43c2895",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1942-10-12-8",
+      "path": "federal/br-federal-lei-constitucional-1942-10-12-8.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "2e4e9cfc290761556852ee12d78a2a5f981f4b7da5d666846215781ec8be4a1f",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1945-02-28-9",
+      "path": "federal/br-federal-lei-constitucional-1945-02-28-9.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "4c2ae5772d1500bda8c0f8eda91851fd7869816593ef605c1f6c049844ffd011",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1945-05-26-10",
+      "path": "federal/br-federal-lei-constitucional-1945-05-26-10.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "4982b67066ae9467b759cac77a67914e27e95d606476052dbc5505027b9e4698",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1945-10-30-11",
+      "path": "federal/br-federal-lei-constitucional-1945-10-30-11.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "319b0f9aa0a217a505f931c8e601574d3fa58196c55f4c7dbf901bc214ddc36e",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1945-11-07-12",
+      "path": "federal/br-federal-lei-constitucional-1945-11-07-12.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "7da0c28185c06c1b213a2ed92eb7cf18aa884698f1f46d775d7654522816ebfb",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1945-11-12-13",
+      "path": "federal/br-federal-lei-constitucional-1945-11-12-13.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "acbc3a087acdc886cc6cb5d636227b121086b65f8a72c84b8965609ce17cb1c1",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1945-11-17-14",
+      "path": "federal/br-federal-lei-constitucional-1945-11-17-14.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "23ab51cd3ba46d8559cf40f75c1b63a0953f2bb7a5730005b2a41b83cef5fa76",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1945-11-26-15",
+      "path": "federal/br-federal-lei-constitucional-1945-11-26-15.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "309d9c7c4a09272aab2139c320258a45f1c950ccce03947fa5742d92572cdab5",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1945-11-30-16",
+      "path": "federal/br-federal-lei-constitucional-1945-11-30-16.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "8a0935a6da5439947babdb482def9964bb713421614d517635cc46c19b397c67",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1945-12-03-17",
+      "path": "federal/br-federal-lei-constitucional-1945-12-03-17.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "8639b8dd713e6f4b1013a4ee920444561c503fed72c604c6c319dde9a9a2d6ae",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1945-12-11-18",
+      "path": "federal/br-federal-lei-constitucional-1945-12-11-18.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "cf66cb578b4d37d9ab03ac02b9b9f403b4e8fe1071e1bbdde0d9bfcdf5e9ad91",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1945-12-31-19",
+      "path": "federal/br-federal-lei-constitucional-1945-12-31-19.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "3019ffcc392129baa1c86a093106aa4ec5f3e7592f7df3e83c0ae869f2c43a39",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1946-01-02-20",
+      "path": "federal/br-federal-lei-constitucional-1946-01-02-20.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "196aa9852f85fdeec5e77c83db28495c158c993752dd5b480fe3ecce998c5751",
+      "status": "publicado"
+    },
+    {
+      "especie": "lei-constitucional",
+      "id": "br-federal-lei-constitucional-1946-01-23-21",
+      "path": "federal/br-federal-lei-constitucional-1946-01-23-21.md",
+      "serie": "lei-constitucional-1938-1946",
+      "sha256_markdown_corpo": "8d0f898fd4a3ac89ff6ad689e4561993ed536bfebe921b3ec8842609a05bf7d4",
+      "status": "publicado"
+    }
+  ],
+  "retidos": []
+}

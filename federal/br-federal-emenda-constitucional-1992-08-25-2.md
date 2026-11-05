@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-1992-08-25-2"
+norma_id: "br-federal-emenda-constitucional-1992-08-25-2"
+norma_tipo: "emenda-constitucional"
+norma_numero: "2"
+norma_data: "1992-08-25"
+titulo: "EMENDA CONSTITUCIONAL Nº 2, DE 1992"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1992-08-25-2@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc2.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "d015397b77267c60bafd3581c81991c88bf5a41a4dace7034fd59a863b64ef6a"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000002-0-000-25-08-1992@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 2, DE 1992</strong>

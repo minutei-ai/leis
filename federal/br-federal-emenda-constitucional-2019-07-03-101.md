@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2019-07-03-101"
+norma_id: "br-federal-emenda-constitucional-2019-07-03-101"
+norma_tipo: "emenda-constitucional"
+norma_numero: "101"
+norma_data: "2019-07-03"
+titulo: "EMENDA CONSTITUCIONAL Nº 101"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2019-07-03-101@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc101.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "c79646d34da9e0ba1ffe1e747586d94060e04a8997c23fff5ad99a8a5d09aa97"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL Nº 101</strong>
 
 <em><strong>Acrescenta § 3º ao art. 42 da Constituição Federal para estender aos militares dos Estados, do Distrito Federal e dos Territórios o direito à acumulação de cargos públicos prevista no art. 37, inciso XVI.</strong></em>

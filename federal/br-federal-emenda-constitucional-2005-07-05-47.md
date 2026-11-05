@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2005-07-05-47"
+norma_id: "br-federal-emenda-constitucional-2005-07-05-47"
+norma_tipo: "emenda-constitucional"
+norma_numero: "47"
+norma_data: "2005-07-05"
+titulo: "EMENDA CONSTITUCIONAL Nº 47"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2005-07-05-47@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc47.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "a88ec9be6e605050811c55e1ec7ce559af5a148a546e21f199cd3aff7f7ec4d7"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000047-0-000-05-07-2005@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 47</strong>

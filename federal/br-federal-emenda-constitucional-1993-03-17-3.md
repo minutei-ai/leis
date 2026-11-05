@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-1993-03-17-3"
+norma_id: "br-federal-emenda-constitucional-1993-03-17-3"
+norma_tipo: "emenda-constitucional"
+norma_numero: "3"
+norma_data: "1993-03-17"
+titulo: "EMENDA CONSTITUCIONAL Nº 3, DE 1993"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1993-03-17-3@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc3.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "c0164cc393cb289ed1c0ed35e6882c7060139a5b4453b09c8658c9a8825899e4"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL Nº 3, DE 1993</strong>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
