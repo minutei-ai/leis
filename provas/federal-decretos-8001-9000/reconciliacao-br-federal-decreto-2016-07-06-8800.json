@@ -1,0 +1,62 @@
+{
+  "documento": "br-federal-decreto-2016-07-06-8800",
+  "fonte_principal": "planalto-D8800",
+  "sha256_fonte_principal": "a91d7db3c9a8800160e6f6dc52f952d4d55e893c6d80858c8ef5b9e7f6d997b2",
+  "sha256_conteudo": "03bf3a4c11070b7571fe39b43a59844123ea4be453200f1f17e791a9918d744c",
+  "capturado_em": "2026-11-04T19:28:37Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8800.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/D8800.htm.xz",
+  "sha256_snapshot_armazenado": "739ab3cf4dde9e73a612e08ec5e4accde4152247b444d84a6f71c884be2fbe1b",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 1,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 85,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-07-06-8800",
+    "numero": "8800",
+    "data": "2016-07-06",
+    "titulo_fonte": "DECRETO Nº 8800, DE 6 DE JULHO DE 2016",
+    "ementa": "Decreto nº 8.800, de 6 de julho de 2016.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": null
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1996-12-27-9430",
+  "fonte_principal": "planalto-L9430",
+  "sha256_fonte_principal": "7224a7ffd7ff8e5489b6506abc5baf8bb570fd20220368a3b8b4f3d15b45e327",
+  "sha256_conteudo": "b28ed28c8b9e7505a84c96263544d3c81c5d74e1a431f415f7aa372d80ec0f2a",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L9430.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9430.htm.xz",
+  "sha256_snapshot_armazenado": "7cbc3ea2d55d047e26a7ef36fe3392ea6e2c5e036ccc33ed477c3051a125174b",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 168477,
+    "caracteres_normalizados_markdown": 168477,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 659,
+    "links": 1099,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 1046,
+    "artigos": 104,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "84",
+      "85",
+      "86",
+      "87",
+      "88"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1996-12-27-9430",
+    "numero": "9430",
+    "data": "1996-12-27",
+    "titulo_fonte": "LEI Nº 9430, DE 27 DE DEZEMBRO DE 1996",
+    "ementa": "Dispõe sobre a legislação tributária federal, as contribuições para a seguridade social, o processo administrativo de consulta e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "551306"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

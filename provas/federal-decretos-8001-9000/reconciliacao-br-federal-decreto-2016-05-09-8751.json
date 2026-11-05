@@ -1,0 +1,62 @@
+{
+  "documento": "br-federal-decreto-2016-05-09-8751",
+  "fonte_principal": "planalto-D8751",
+  "sha256_fonte_principal": "c27ac1235f6419b1a60f2ed9cf6197bf813355827926473a33b4b609178fae78",
+  "sha256_conteudo": "2f4478fbe0de2e390fdd482452e499bc523cd6c5309269b5e1d25bb60014717c",
+  "capturado_em": "2026-11-04T20:43:50Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8751.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/planalto-D8751.htm.xz",
+  "sha256_snapshot_armazenado": "71a933339da5dd41e4f06943a1313bb995bf1aa13a83aeb43ef55c7ef25dbff0",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 1,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 67,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-05-09-8751",
+    "numero": "8751",
+    "data": "2016-05-09",
+    "titulo_fonte": "DECRETO Nº 8751, DE 9 DE MAIO DE 2016",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2244 (2015), DE 23 DE OUTUBRO DE 2015, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE ESTENDE ATÉ 15 DE NOVEMBRO DE 2016 O REGIME DE SANÇÕES APLICÁVEL À SOMÁLIA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414584"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

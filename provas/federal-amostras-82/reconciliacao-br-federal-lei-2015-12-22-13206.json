@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2015-12-22-13206",
+  "fonte_principal": "planalto-L13206-2015-12-22",
+  "sha256_fonte_principal": "ddf2cc0860fbc1c9322dfd6cd00016ac5a5d2a066f460e22004404066fdede01",
+  "sha256_conteudo": "5c21178e609798337e4a77dc113db19387c90ed7526bd168b1f4d982ce66eeae",
+  "capturado_em": "2026-11-04T20:52:57Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13206.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13206-2015-12-22.htm.xz",
+  "sha256_snapshot_armazenado": "1a080228db2590fc902eb873893b11cc5140299b125b838d55ff8f093fd627f5",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 3,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 171,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 13,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2015-12-22-13206",
+    "numero": "13206",
+    "data": "2015-12-22",
+    "titulo_fonte": "LEI Nº 13206, DE 22 DE DEZEMBRO DE 2015",
+    "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo, crédito especial no valor de R$ 5.060.000,00, para os fins que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585018"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

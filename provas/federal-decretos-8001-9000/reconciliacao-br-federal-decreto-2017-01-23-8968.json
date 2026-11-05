@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2017-01-23-8968",
+  "fonte_principal": "camara-D8968",
+  "sha256_fonte_principal": "eea46389e0d42db53589a8f87f154760b1e5632f1ad2fc0c08da3d6169b8b9e6",
+  "sha256_conteudo": "eea46389e0d42db53589a8f87f154760b1e5632f1ad2fc0c08da3d6169b8b9e6",
+  "capturado_em": "2026-11-04T20:36:33Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8968-23-janeiro-2017-784197-publicacaooriginal-151849-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8968.htm.xz",
+  "sha256_snapshot_armazenado": "c26ed5d8bff1e690f253f849b2580f4c4b840a1fe6c64cd8e320d038e7bf030b",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2017-01-23-8968",
+    "numero": "8968",
+    "data": "2017-01-23",
+    "titulo_fonte": "DECRETO Nº 8968, DE 23 DE JANEIRO DE 2017",
+    "ementa": "ALTERA O DECRETO Nº 8.644, DE 21 DE JANEIRO DE 2016, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA EMBRATUR - INSTITUTO BRASILEIRO DE TURISMO E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO- DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "603298"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

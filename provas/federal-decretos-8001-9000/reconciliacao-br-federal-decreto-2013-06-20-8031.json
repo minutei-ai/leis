@@ -1,0 +1,52 @@
+{
+  "documento": "br-federal-decreto-2013-06-20-8031",
+  "fonte_principal": "camara-D8031",
+  "sha256_fonte_principal": "b7ec7dbeb6c00694905573a881184a324d590fd26749477100095ae90b17b500",
+  "sha256_conteudo": "b7ec7dbeb6c00694905573a881184a324d590fd26749477100095ae90b17b500",
+  "capturado_em": "2026-11-04T20:13:54Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8031-20-junho-2013-776336-publicacaooriginal-140225-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8031.htm.xz",
+  "sha256_snapshot_armazenado": "b737e53568326a0285046f298fee70a770e589ec6b2b8b1c7eccda9daf542e45",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 16,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "2",
+      "6"
+    ],
+    "ultimos_artigos": [
+      "2",
+      "6"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-06-20-8031",
+    "numero": "8031",
+    "data": "2013-06-20",
+    "titulo_fonte": "DECRETO Nº 8031, DE 20 DE JUNHO DE 2013",
+    "ementa": "ALTERA OS ANEXOS I E II AO DECRETO 6.061, DE 15 DE MARÇO DE 2007, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM  COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO MINISTERIO DA JUSTIÇA, E REMANEJA CARGOS EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES -  DAS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590687"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

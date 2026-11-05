@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1995-02-13-8987",
+  "fonte_principal": "planalto-L8987",
+  "sha256_fonte_principal": "a011740cb79b6d8bf4f89e4fdd3ab3c75f987d6dba88ce60a5239da1a1bd4976",
+  "sha256_conteudo": "fae4fade71ab2037b5e3fcf9802ef9edc1c0e7a4dc3e3a1f353615ef882a9130",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L8987compilada.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8987.htm.xz",
+  "sha256_snapshot_armazenado": "79ae1334e3cab5e58fcf21ffca54a6fc6c503e550732338fff6432bf507eea8e",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 32969,
+    "caracteres_normalizados_markdown": 32969,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 90,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 262,
+    "artigos": 52,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1995-02-13-8987",
+    "numero": "8987",
+    "data": "1995-02-13",
+    "titulo_fonte": "LEI Nº 8987, DE 13 DE FEVEREIRO DE 1995",
+    "ementa": "Dispõe sobre o regime de concessão e permissão da prestação de serviços públicos previsto no art. 175 da Constituição Federal e dá outras providências.",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "compilado-planalto",
+      "integral": true
+    },
+    "senado_id": null
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

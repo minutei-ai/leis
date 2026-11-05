@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-12-30-8630",
+  "fonte_principal": "camara-D8630",
+  "sha256_fonte_principal": "392ffec5747c5825449e8e8482cdfc8296f118b9ddb54198deb849cbdbd74a57",
+  "sha256_conteudo": "392ffec5747c5825449e8e8482cdfc8296f118b9ddb54198deb849cbdbd74a57",
+  "capturado_em": "2026-11-04T20:24:55Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8630-30-dezembro-2015-782222-publicacaooriginal-149140-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8630.htm.xz",
+  "sha256_snapshot_armazenado": "1b25ac67266675b49c4c8555114256ff548921d2cbc5ef6d2b66cd6f80bb22b8",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 84,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-12-30-8630",
+    "numero": "8630",
+    "data": "2015-12-30",
+    "titulo_fonte": "DECRETO Nº 8630, DE 30 DE DEZEMBRO DE 2015",
+    "ementa": "PROMULGA O ACORDO NA ÁREA DE SUBMARINOS ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA FRANCESA, FIRMADO NO RIO DE JANEIRO, EM 23 DE DEZEMBRO DE 2008.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584615"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

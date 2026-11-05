@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-09-06-8847",
+  "fonte_principal": "camara-D8847",
+  "sha256_fonte_principal": "19d5116fbf454db16f260403d93c16f3414dc32c64c833ae6db2b588cbf87f4b",
+  "sha256_conteudo": "19d5116fbf454db16f260403d93c16f3414dc32c64c833ae6db2b588cbf87f4b",
+  "capturado_em": "2026-11-04T20:32:00Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8847-6-setembro-2016-783584-publicacaooriginal-151034-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8847.htm.xz",
+  "sha256_snapshot_armazenado": "708f82b7c00c2c0c92508c1bd01733d2d27b0ee2da929274fa8816b5a721c502",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-09-06-8847",
+    "numero": "8847",
+    "data": "2016-09-06",
+    "titulo_fonte": "DECRETO Nº 8847, DE 6 DE SETEMBRO DE 2016",
+    "ementa": "ALTERA O ANEXO AO DECRETO Nº 8.808, DE 15 DE JULHO DE 2016, QUE ESTABELECE REGRAS ESPECIAIS PARA CONCESSÃO DE DIÁRIAS PARA SERVIDORES E MILITARES EM DECORRÊNCIA DOS JOGOS OLÍMPICOS E PARAOLÍMPICOS RIO 2016.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414791"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

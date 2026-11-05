@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-03-24-8696",
+  "fonte_principal": "camara-D8696",
+  "sha256_fonte_principal": "e53f943063c0ca6aff0bb68a10620bdde74824fd7c31dec67971fbec869bf33a",
+  "sha256_conteudo": "e53f943063c0ca6aff0bb68a10620bdde74824fd7c31dec67971fbec869bf33a",
+  "capturado_em": "2026-11-04T20:26:25Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8696-24-marco-2016-782626-publicacaooriginal-149819-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8696.htm.xz",
+  "sha256_snapshot_armazenado": "315f2554e9f672b1d236154db713cc9b9192142f75be8bae443d8300526d4666",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-03-24-8696",
+    "numero": "8696",
+    "data": "2016-03-24",
+    "titulo_fonte": "DECRETO Nº 8696, DE 24 DE MARÇO DE 2016",
+    "ementa": "ALTERA O DECRETO Nº 6.845, DE 7 DE MAIO DE 2009, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO INSTITUTO BRASILEIRO DE MUSEUS - IBRAM.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414533"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

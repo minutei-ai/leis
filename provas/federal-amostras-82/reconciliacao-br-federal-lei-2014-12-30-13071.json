@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2014-12-30-13071",
+  "fonte_principal": "planalto-L13071-2014-12-30",
+  "sha256_fonte_principal": "8ac5059a3797581b0c9e4f225a0962c6c0be836e19e590ed6b049c765fc0f210",
+  "sha256_conteudo": "2f429fe025712a7e52eaaab6bdf699b94d75693bea323822a79d5c4c28a1db6e",
+  "capturado_em": "2026-11-04T20:52:22Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13071.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13071-2014-12-30.htm.xz",
+  "sha256_snapshot_armazenado": "e7d20cec3b27b9bddb585ae48b0d793032154f346c40212e96da93c2a9cefc88",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 420,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 15,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-12-30-13071",
+    "numero": "13071",
+    "data": "2014-12-30",
+    "titulo_fonte": "LEI Nº 13071, DE 30 DE DEZEMBRO DE 2014",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho e do Ministério Público da União, crédito suplementar no valor de R$ 41.455.831,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584883"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

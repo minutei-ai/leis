@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2013-06-05-12824",
+  "fonte_principal": "planalto-L12824-2013-06-05",
+  "sha256_fonte_principal": "5ad047aa1c9ceff965bcd9a2ee2e0baa3ddf5a0dfe362042a84b2ca61525942e",
+  "sha256_conteudo": "0e1c2a7a61a85d547ed2c5cc003ec1b21696cf8d684b3d161d240d24b1ba2a92",
+  "capturado_em": "2026-11-04T20:50:50Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12824.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12824-2013-06-05.htm.xz",
+  "sha256_snapshot_armazenado": "f3578983eb5caa799e194c625db297d1d69002621a1815b6a56741b7b76b322f",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 4,
+    "tabelas_markdown": 2,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 32,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 14,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 60,
+    "artigos": 14,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-06-05-12824",
+    "numero": "12824",
+    "data": "2013-06-05",
+    "titulo_fonte": "LEI Nº 12824, DE 5 DE JUNHO DE 2013",
+    "ementa": "Dispõe sobre a criação da Universidade Federal do Sul e Sudeste do Pará - UNIFESSPA, por desmembramento da Universidade Federal do Pará - UFPA, e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "588200"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

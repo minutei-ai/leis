@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1993-12-07-8742",
+  "fonte_principal": "planalto-L8742",
+  "sha256_fonte_principal": "341cee3a4705d98c336785de654fa82ba04b57f2bc44019673a8f58daa1d6769",
+  "sha256_conteudo": "93200f6fe144e60aad3522260903bd93b38c261c9487b0755653921cdd3d55b4",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L8742.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8742.htm.xz",
+  "sha256_snapshot_armazenado": "a107174d854c95a77ae6a35d329e7c2cc1e13fbb49e2887b6b882a24dacb0b32",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 75220,
+    "caracteres_normalizados_markdown": 75220,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 127,
+    "links": 340,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 444,
+    "artigos": 71,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "40-A",
+      "40-B",
+      "40-C",
+      "41",
+      "42"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1993-12-07-8742",
+    "numero": "8742",
+    "data": "1993-12-07",
+    "titulo_fonte": "LEI Nº 8742, DE 7 DE DEZEMBRO DE 1993",
+    "ementa": "Dispõe sobre a organização da Assistência Social e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "550618"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "gerado_em": "2026-11-04T20:10:00Z",
+  "anos": {
+    "2013": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=2013",
+      "capturado_em": "2026-11-04T20:10:00Z",
+      "http_status": 200,
+      "sha256": "b746ecf577d5206ee5afdbf4698420803de9329c5f8be2da25a055ecbf19e8b2",
+      "bytes": 285894,
+      "records": 628,
+      "metadados": {
+        "Versao": "04/11/2026 17:04:29",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      },
+      "snapshot": "provas/federal-decretos-8001-9000/catalogo-senado/DEC-2013.json"
+    },
+    "2014": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=2014",
+      "capturado_em": "2026-11-04T20:10:00Z",
+      "http_status": 200,
+      "sha256": "746e07c55543ae5e4da904898492d1c8d6c8dfc226cd0e68be65a29997dcfbac",
+      "bytes": 223846,
+      "records": 482,
+      "metadados": {
+        "Versao": "04/11/2026 17:01:34",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      },
+      "snapshot": "provas/federal-decretos-8001-9000/catalogo-senado/DEC-2014.json"
+    },
+    "2015": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=2015",
+      "capturado_em": "2026-11-04T20:10:00Z",
+      "http_status": 200,
+      "sha256": "6c14c9b2055fb44ff90f96b855733050d69a8b7aefe872073ba10b23918c1739",
+      "bytes": 192553,
+      "records": 413,
+      "metadados": {
+        "Versao": "04/11/2026 17:04:30",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      },
+      "snapshot": "provas/federal-decretos-8001-9000/catalogo-senado/DEC-2015.json"
+    },
+    "2016": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=2016",
+      "capturado_em": "2026-11-04T20:10:00Z",
+      "http_status": 200,
+      "sha256": "e1d32ceb69c19a97d3237e2593fcd9c2a7b65a7a379236dbe3c6e2cb57493b39",
+      "bytes": 208571,
+      "records": 457,
+      "metadados": {
+        "Versao": "04/11/2026 17:04:31",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      },
+      "snapshot": "provas/federal-decretos-8001-9000/catalogo-senado/DEC-2016.json"
+    },
+    "2017": {
+      "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=2017",
+      "capturado_em": "2026-11-04T20:10:00Z",
+      "http_status": 200,
+      "sha256": "5cc5516240981e46f6bc9a9748c48dc778f18020a732d779f01f2f7610753f28",
+      "bytes": 181060,
+      "records": 384,
+      "metadados": {
+        "Versao": "04/11/2026 17:04:32",
+        "VersaoServico": "3",
+        "DataVersaoServico": "2017-02-01",
+        "DescricaoDataSet": "Obtém a lista de Legislação Federal com base nos parâmetros informados."
+      },
+      "snapshot": "provas/federal-decretos-8001-9000/catalogo-senado/DEC-2017.json"
+    }
+  }
+}

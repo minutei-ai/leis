@@ -1,0 +1,52 @@
+{
+  "documento": "br-federal-decreto-2016-11-29-8917",
+  "fonte_principal": "camara-D8917",
+  "sha256_fonte_principal": "2a3f82a56c703dc9be11c92ad75cbf8d7c3e05a4407a98f6c38bab30da18d006",
+  "sha256_conteudo": "2a3f82a56c703dc9be11c92ad75cbf8d7c3e05a4407a98f6c38bab30da18d006",
+  "capturado_em": "2026-11-04T20:34:15Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8917-29-novembro-2016-783959-publicacaooriginal-151461-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8917.htm.xz",
+  "sha256_snapshot_armazenado": "e6a6042a2efaf102d7c2e646bf3093ea4dfb54d178140fb086d5a8ce509d25b0",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 25,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "3",
+      "12"
+    ],
+    "ultimos_artigos": [
+      "3",
+      "12"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-11-29-8917",
+    "numero": "8917",
+    "data": "2016-11-29",
+    "titulo_fonte": "DECRETO Nº 8917, DE 29 DE NOVEMBRO DE 2016",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DA INDÚSTRIA, COMÉRCIO EXTERIOR E SERVIÇOS, REMANEJA CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS, SUBSTITUI CARGOS EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE E ALTERA O DECRETO NO 8.854, DE 22 DE SETEMBRO DE 2016, QUE APROVA A ESTRUTURA REGIMENTAL DO INSTITUTO NACIONAL DA PROPRIEDADE - INPI.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414894"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

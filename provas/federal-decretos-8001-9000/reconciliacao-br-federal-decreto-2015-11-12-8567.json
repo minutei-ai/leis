@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-11-12-8567",
+  "fonte_principal": "camara-D8567",
+  "sha256_fonte_principal": "000876f6a4faa74d2d30f9911d4abd0bf12d40b66765d72f2ff6a987c35c27d1",
+  "sha256_conteudo": "000876f6a4faa74d2d30f9911d4abd0bf12d40b66765d72f2ff6a987c35c27d1",
+  "capturado_em": "2026-11-04T20:24:14Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8567-12-novembro-2015-781894-publicacaooriginal-148645-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8567.htm.xz",
+  "sha256_snapshot_armazenado": "b3cd4709843d63a4e9ebda61404a6debb8fd54d8b20205cea6be7b12daa9492d",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 91,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-11-12-8567",
+    "numero": "8567",
+    "data": "2015-11-12",
+    "titulo_fonte": "DECRETO Nº 8567, DE 12 DE NOVEMBRO DE 2015",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO PRIMEIRO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 58, FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI, A REPÚBLICA ORIENTAL DO URUGUAI E A REPÚBLICA DO PERU, EM MONTEVIDÉU, EM 30 DE NOVEMBRO DE 2005.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593291"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

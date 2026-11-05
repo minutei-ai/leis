@@ -1,0 +1,2188 @@
+{
+  "done": {
+    "8001": {
+      "slug": "br-federal-decreto-2013-05-10-8001",
+      "capturado_em": "2026-11-04T20:13:18Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8001-10-maio-2013-775961-publicacaooriginal-139780-pe.html"
+    },
+    "8002": {
+      "slug": "br-federal-decreto-2013-05-14-8002",
+      "capturado_em": "2026-11-04T20:13:20Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8002-14-maio-2013-775967-publicacaooriginal-139793-pe.html"
+    },
+    "8003": {
+      "slug": "br-federal-decreto-2013-05-15-8003",
+      "capturado_em": "2026-11-04T20:13:22Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8003-15-maio-2013-775979-publicacaooriginal-139807-pe.html"
+    },
+    "8004": {
+      "slug": "br-federal-decreto-2013-05-15-8004",
+      "capturado_em": "2026-11-04T20:13:29Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8004-15-maio-2013-775980-publicacaooriginal-139808-pe.html"
+    },
+    "8006": {
+      "slug": "br-federal-decreto-2013-05-15-8006",
+      "capturado_em": "2026-11-04T20:13:31Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8006-15-maio-2013-775982-publicacaooriginal-139810-pe.html"
+    },
+    "8007": {
+      "slug": "br-federal-decreto-2013-05-15-8007",
+      "capturado_em": "2026-11-04T20:13:32Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8007-15-maio-2013-775983-publicacaooriginal-139811-pe.html"
+    },
+    "8008": {
+      "slug": "br-federal-decreto-2013-05-15-8008",
+      "capturado_em": "2026-11-04T20:13:34Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8008-15-maio-2013-775984-publicacaooriginal-139812-pe.html"
+    },
+    "8011": {
+      "slug": "br-federal-decreto-2013-05-16-8011",
+      "capturado_em": "2026-11-04T20:13:36Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8011-16-maio-2013-776014-publicacaooriginal-139845-pe.html"
+    },
+    "8012": {
+      "slug": "br-federal-decreto-2013-05-16-8012",
+      "capturado_em": "2026-11-04T20:13:38Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8012-16-maio-2013-776015-publicacaooriginal-139848-pe.html"
+    },
+    "8013": {
+      "slug": "br-federal-decreto-2013-05-16-8013",
+      "capturado_em": "2026-11-04T20:13:39Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8013-16-maio-2013-776016-publicacaooriginal-139849-pe.html"
+    },
+    "8014": {
+      "slug": "br-federal-decreto-2013-05-16-8014",
+      "capturado_em": "2026-11-04T20:13:41Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8014-16-maio-2013-776017-publicacaooriginal-139850-pe.html"
+    },
+    "8015": {
+      "slug": "br-federal-decreto-2013-05-17-8015",
+      "capturado_em": "2026-11-04T20:13:43Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8015-17-maio-2013-776022-publicacaooriginal-139856-pe.html"
+    },
+    "8016": {
+      "slug": "br-federal-decreto-2013-05-17-8016",
+      "capturado_em": "2026-11-04T20:13:45Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8016-17-maio-2013-776025-publicacaooriginal-139859-pe.html"
+    },
+    "8025": {
+      "slug": "br-federal-decreto-2013-06-06-8025",
+      "capturado_em": "2026-11-04T20:13:47Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8025-6-junho-2013-776189-publicacaooriginal-140070-pe.html"
+    },
+    "8026": {
+      "slug": "br-federal-decreto-2013-06-06-8026",
+      "capturado_em": "2026-11-04T20:13:49Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8026-6-junho-2013-776190-publicacaooriginal-140067-pe.html"
+    },
+    "8029": {
+      "slug": "br-federal-decreto-2013-06-20-8029",
+      "capturado_em": "2026-11-04T20:13:51Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8029-20-junho-2013-776314-publicacaooriginal-140203-pe.html"
+    },
+    "8030": {
+      "slug": "br-federal-decreto-2013-06-20-8030",
+      "capturado_em": "2026-11-04T20:13:53Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8030-20-junho-2013-776324-publicacaooriginal-140213-pe.html"
+    },
+    "8031": {
+      "slug": "br-federal-decreto-2013-06-20-8031",
+      "capturado_em": "2026-11-04T20:13:54Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8031-20-junho-2013-776336-publicacaooriginal-140225-pe.html"
+    },
+    "8032": {
+      "slug": "br-federal-decreto-2013-06-25-8032",
+      "capturado_em": "2026-11-04T20:13:56Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8032-25-junho-2013-776362-publicacaooriginal-140265-pe.html"
+    },
+    "8042": {
+      "slug": "br-federal-decreto-2013-07-10-8042",
+      "capturado_em": "2026-11-04T20:13:58Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8042-10-julho-2013-776476-publicacaooriginal-140404-pe.html"
+    },
+    "8044": {
+      "slug": "br-federal-decreto-2013-07-10-8044",
+      "capturado_em": "2026-11-04T20:13:59Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8044-10-julho-2013-776482-publicacaooriginal-140410-pe.html"
+    },
+    "8045": {
+      "slug": "br-federal-decreto-2013-07-11-8045",
+      "capturado_em": "2026-11-04T20:14:01Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8045-11-julho-2013-776492-publicacaooriginal-140422-pe.html"
+    },
+    "8046": {
+      "slug": "br-federal-decreto-2013-07-11-8046",
+      "capturado_em": "2026-11-04T20:14:03Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8046-11-julho-2013-776494-publicacaooriginal-140424-pe.html"
+    },
+    "8047": {
+      "slug": "br-federal-decreto-2013-07-11-8047",
+      "capturado_em": "2026-11-04T20:14:05Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8047-11-julho-2013-776499-publicacaooriginal-140432-pe.html"
+    },
+    "8048": {
+      "slug": "br-federal-decreto-2013-07-11-8048",
+      "capturado_em": "2026-11-04T20:14:06Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8048-11-julho-2013-776490-publicacaooriginal-140420-pe.html"
+    },
+    "8049": {
+      "slug": "br-federal-decreto-2013-07-11-8049",
+      "capturado_em": "2026-11-04T20:14:08Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8049-11-julho-2013-776493-publicacaooriginal-140423-pe.html"
+    },
+    "8050": {
+      "slug": "br-federal-decreto-2013-07-11-8050",
+      "capturado_em": "2026-11-04T20:14:10Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8050-11-julho-2013-776495-publicacaooriginal-140426-pe.html"
+    },
+    "8063": {
+      "slug": "br-federal-decreto-2013-08-01-8063",
+      "capturado_em": "2026-11-04T20:14:12Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8063-1-agosto-2013-776668-publicacaooriginal-140652-pe.html"
+    },
+    "8064": {
+      "slug": "br-federal-decreto-2013-08-02-8064",
+      "capturado_em": "2026-11-04T20:14:13Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8064-2-agosto-2013-776716-publicacaooriginal-140693-pe.html"
+    },
+    "8065": {
+      "slug": "br-federal-decreto-2013-08-07-8065",
+      "capturado_em": "2026-11-04T20:14:14Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8065-7-agosto-2013-776738-publicacaooriginal-140723-pe.html"
+    },
+    "8066": {
+      "slug": "br-federal-decreto-2013-08-07-8066",
+      "capturado_em": "2026-11-04T20:14:16Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8066-7-agosto-2013-776737-publicacaooriginal-140722-pe.html"
+    },
+    "8067": {
+      "slug": "br-federal-decreto-2013-08-14-8067",
+      "capturado_em": "2026-11-04T20:14:18Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8067-14-agosto-2013-776777-publicacaooriginal-140785-pe.html"
+    },
+    "8070": {
+      "slug": "br-federal-decreto-2013-08-14-8070",
+      "capturado_em": "2026-11-04T20:14:20Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8070-14-agosto-2013-776779-publicacaooriginal-140788-pe.html"
+    },
+    "8108": {
+      "slug": "br-federal-decreto-2013-09-17-8108",
+      "capturado_em": "2026-11-04T20:14:22Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8108-17-setembro-2013-777068-publicacaooriginal-141153-pe.html"
+    },
+    "8109": {
+      "slug": "br-federal-decreto-2013-09-17-8109",
+      "capturado_em": "2026-11-04T20:14:24Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8109-17-setembro-2013-777072-publicacaooriginal-141157-pe.html"
+    },
+    "8132": {
+      "slug": "br-federal-decreto-2013-10-24-8132",
+      "capturado_em": "2026-11-04T20:14:26Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8132-24-outubro-2013-777316-publicacaooriginal-141575-pe.html"
+    },
+    "8133": {
+      "slug": "br-federal-decreto-2013-10-28-8133",
+      "capturado_em": "2026-11-04T20:14:28Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8133-28-outubro-2013-777318-publicacaooriginal-141585-pe.html"
+    },
+    "8136": {
+      "slug": "br-federal-decreto-2013-11-05-8136",
+      "capturado_em": "2026-11-04T20:14:30Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8136-5-novembro-2013-777373-publicacaooriginal-141718-pe.html"
+    },
+    "8137": {
+      "slug": "br-federal-decreto-2013-11-06-8137",
+      "capturado_em": "2026-11-04T20:14:32Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8137-6-novembro-2013-777375-publicacaooriginal-141730-pe.html"
+    },
+    "8140": {
+      "slug": "br-federal-decreto-2013-11-14-8140",
+      "capturado_em": "2026-11-04T20:14:35Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8140-14-novembro-2013-777425-publicacaooriginal-141861-pe.html"
+    },
+    "8143": {
+      "slug": "br-federal-decreto-2013-11-22-8143",
+      "capturado_em": "2026-11-04T20:14:38Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8143-22-novembro-2013-777450-publicacaooriginal-141945-pe.html"
+    },
+    "8168": {
+      "slug": "br-federal-decreto-2013-12-23-8168",
+      "capturado_em": "2026-11-04T20:14:41Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8168-23-dezembro-2013-777750-publicacaooriginal-142489-pe.html"
+    },
+    "8169": {
+      "slug": "br-federal-decreto-2013-12-23-8169",
+      "capturado_em": "2026-11-04T20:14:43Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8169-23-dezembro-2013-777754-publicacaooriginal-142493-pe.html"
+    },
+    "8173": {
+      "slug": "br-federal-decreto-2013-12-26-8173",
+      "capturado_em": "2026-11-04T20:14:45Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8173-26-dezembro-2013-777784-publicacaooriginal-142540-pe.html"
+    },
+    "8174": {
+      "slug": "br-federal-decreto-2013-12-26-8174",
+      "capturado_em": "2026-11-04T20:14:47Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8174-26-dezembro-2013-777787-publicacaooriginal-142542-pe.html"
+    },
+    "8176": {
+      "slug": "br-federal-decreto-2013-12-27-8176",
+      "capturado_em": "2026-11-04T20:14:49Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8176-27-dezembro-2013-777990-publicacaooriginal-142679-pe.html"
+    },
+    "8186": {
+      "slug": "br-federal-decreto-2014-01-17-8186",
+      "capturado_em": "2026-11-04T20:14:51Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8186-17-janeiro-2014-778027-publicacaooriginal-142963-pe.html"
+    },
+    "8189": {
+      "slug": "br-federal-decreto-2014-01-21-8189",
+      "capturado_em": "2026-11-04T20:14:54Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8189-21-janeiro-2014-778089-publicacaooriginal-143063-pe.html"
+    },
+    "8190": {
+      "slug": "br-federal-decreto-2014-01-30-8190",
+      "capturado_em": "2026-11-04T20:14:57Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8190-30-janeiro-2014-778096-publicacaooriginal-143187-pe.html"
+    },
+    "8191": {
+      "slug": "br-federal-decreto-2014-01-30-8191",
+      "capturado_em": "2026-11-04T20:15:00Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8191-30-janeiro-2014-778097-publicacaooriginal-143189-pe.html"
+    },
+    "8192": {
+      "slug": "br-federal-decreto-2014-01-30-8192",
+      "capturado_em": "2026-11-04T20:15:04Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8192-30-janeiro-2014-778098-publicacaooriginal-143191-pe.html"
+    },
+    "8196": {
+      "slug": "br-federal-decreto-2014-02-19-8196",
+      "capturado_em": "2026-11-04T20:15:08Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8196-19-fevereiro-2014-778210-publicacaooriginal-143430-pe.html"
+    },
+    "8200": {
+      "slug": "br-federal-decreto-2014-02-27-8200",
+      "capturado_em": "2026-11-04T20:15:12Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8200-27-fevereiro-2014-778241-publicacaooriginal-143503-pe.html"
+    },
+    "8206": {
+      "slug": "br-federal-decreto-2014-03-13-8206",
+      "capturado_em": "2026-11-04T20:15:17Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8206-13-marco-2014-778258-publicacaooriginal-143561-pe.html"
+    },
+    "8208": {
+      "slug": "br-federal-decreto-2014-03-21-8208",
+      "capturado_em": "2026-11-04T20:15:22Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8208-21-marco-2014-778302-publicacaooriginal-143621-pe.html"
+    },
+    "8209": {
+      "slug": "br-federal-decreto-2014-03-21-8209",
+      "capturado_em": "2026-11-04T20:15:27Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8209-21-marco-2014-778303-publicacaooriginal-143622-pe.html"
+    },
+    "8210": {
+      "slug": "br-federal-decreto-2014-03-21-8210",
+      "capturado_em": "2026-11-04T20:15:32Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8210-21-marco-2014-778304-publicacaooriginal-143624-pe.html"
+    },
+    "8216": {
+      "slug": "br-federal-decreto-2014-03-28-8216",
+      "capturado_em": "2026-11-04T20:15:36Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8216-28-marco-2014-778330-publicacaooriginal-143671-pe.html"
+    },
+    "8218": {
+      "slug": "br-federal-decreto-2014-03-28-8218",
+      "capturado_em": "2026-11-04T20:15:39Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8218-28-marco-2014-778320-publicacaooriginal-143660-pe.html"
+    },
+    "8223": {
+      "slug": "br-federal-decreto-2014-04-03-8223",
+      "capturado_em": "2026-11-04T20:15:43Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8223-3-abril-2014-778377-publicacaooriginal-143724-pe.html"
+    },
+    "8224": {
+      "slug": "br-federal-decreto-2014-04-03-8224",
+      "capturado_em": "2026-11-04T20:15:46Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8224-3-abril-2014-778378-publicacaooriginal-143725-pe.html"
+    },
+    "8227": {
+      "slug": "br-federal-decreto-2014-04-22-8227",
+      "capturado_em": "2026-11-04T20:15:49Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8227-22-abril-2014-778536-publicacaooriginal-143926-pe.html"
+    },
+    "8228": {
+      "slug": "br-federal-decreto-2014-04-22-8228",
+      "capturado_em": "2026-11-04T20:15:52Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8228-22-abril-2014-778537-publicacaooriginal-143927-pe.html"
+    },
+    "8238": {
+      "slug": "br-federal-decreto-2014-05-21-8238",
+      "capturado_em": "2026-11-04T20:15:55Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8238-21-maio-2014-778777-publicacaooriginal-144175-pe.html"
+    },
+    "8246": {
+      "slug": "br-federal-decreto-2014-05-23-8246",
+      "capturado_em": "2026-11-04T20:15:58Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8246-23-maio-2014-778797-publicacaooriginal-144201-pe.html"
+    },
+    "8248": {
+      "slug": "br-federal-decreto-2014-05-23-8248",
+      "capturado_em": "2026-11-04T20:16:01Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8248-23-maio-2014-778789-publicacaooriginal-144191-pe.html"
+    },
+    "8249": {
+      "slug": "br-federal-decreto-2014-05-23-8249",
+      "capturado_em": "2026-11-04T20:16:03Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8249-23-maio-2014-778790-publicacaooriginal-144193-pe.html"
+    },
+    "8258": {
+      "slug": "br-federal-decreto-2014-05-29-8258",
+      "capturado_em": "2026-11-04T20:16:07Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8258-29-maio-2014-778832-publicacaooriginal-144262-pe.html"
+    },
+    "8267": {
+      "slug": "br-federal-decreto-2014-06-18-8267",
+      "capturado_em": "2026-11-04T20:16:09Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8267-18-junho-2014-778942-publicacaooriginal-144428-pe.html"
+    },
+    "8275": {
+      "slug": "br-federal-decreto-2014-06-27-8275",
+      "capturado_em": "2026-11-04T20:16:13Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8275-27-junho-2014-778976-publicacaooriginal-144478-pe.html"
+    },
+    "8276": {
+      "slug": "br-federal-decreto-2014-06-27-8276",
+      "capturado_em": "2026-11-04T20:16:17Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8276-27-junho-2014-778979-publicacaooriginal-144480-pe.html"
+    },
+    "8277": {
+      "slug": "br-federal-decreto-2014-06-27-8277",
+      "capturado_em": "2026-11-04T20:16:20Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8277-27-junho-2014-778980-publicacaooriginal-144481-pe.html"
+    },
+    "8278": {
+      "slug": "br-federal-decreto-2014-06-27-8278",
+      "capturado_em": "2026-11-04T20:16:24Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8278-27-junho-2014-778981-publicacaooriginal-144482-pe.html"
+    },
+    "8283": {
+      "slug": "br-federal-decreto-2014-07-03-8283",
+      "capturado_em": "2026-11-04T20:16:28Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8283-3-julho-2014-779028-publicacaooriginal-144546-pe.html"
+    },
+    "8286": {
+      "slug": "br-federal-decreto-2014-07-04-8286",
+      "capturado_em": "2026-11-04T20:16:31Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8286-4-julho-2014-779037-publicacaooriginal-144558-pe.html"
+    },
+    "8287": {
+      "slug": "br-federal-decreto-2014-07-16-8287",
+      "capturado_em": "2026-11-04T20:16:36Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8287-16-julho-2014-779073-publicacaooriginal-144613-pe.html"
+    },
+    "8288": {
+      "slug": "br-federal-decreto-2014-07-24-8288",
+      "capturado_em": "2026-11-04T20:16:40Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8288-24-julho-2014-779110-publicacaooriginal-144653-pe.html"
+    },
+    "8290": {
+      "slug": "br-federal-decreto-2014-07-30-8290",
+      "capturado_em": "2026-11-04T20:16:45Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8290-30-julho-2014-779122-publicacaooriginal-144668-pe.html"
+    },
+    "8297": {
+      "slug": "br-federal-decreto-2014-08-15-8297",
+      "capturado_em": "2026-11-04T20:16:50Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8297-15-agosto-2014-779231-publicacaooriginal-144789-pe.html"
+    },
+    "8305": {
+      "slug": "br-federal-decreto-2014-09-23-8305",
+      "capturado_em": "2026-11-04T20:16:54Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8305-23-setembro-2014-779357-publicacaooriginal-145021-pe.html"
+    },
+    "8306": {
+      "slug": "br-federal-decreto-2014-09-23-8306",
+      "capturado_em": "2026-11-04T20:16:59Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8306-23-setembro-2014-779358-publicacaooriginal-145022-pe.html"
+    },
+    "8307": {
+      "slug": "br-federal-decreto-2014-09-23-8307",
+      "capturado_em": "2026-11-04T20:17:04Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8307-23-setembro-2014-779359-publicacaooriginal-145023-pe.html"
+    },
+    "8308": {
+      "slug": "br-federal-decreto-2014-09-23-8308",
+      "capturado_em": "2026-11-04T20:17:09Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8308-23-setembro-2014-779360-publicacaooriginal-145024-pe.html"
+    },
+    "8309": {
+      "slug": "br-federal-decreto-2014-09-23-8309",
+      "capturado_em": "2026-11-04T20:17:14Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8309-23-setembro-2014-779361-publicacaooriginal-145025-pe.html"
+    },
+    "8310": {
+      "slug": "br-federal-decreto-2014-09-23-8310",
+      "capturado_em": "2026-11-04T20:17:18Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8310-23-setembro-2014-779362-publicacaooriginal-145026-pe.html"
+    },
+    "8312": {
+      "slug": "br-federal-decreto-2014-09-24-8312",
+      "capturado_em": "2026-11-04T20:17:23Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8312-24-setembro-2014-779366-publicacaooriginal-145030-pe.html"
+    },
+    "8313": {
+      "slug": "br-federal-decreto-2014-09-24-8313",
+      "capturado_em": "2026-11-04T20:17:27Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8313-24-setembro-2014-779374-publicacaooriginal-145042-pe.html"
+    },
+    "8314": {
+      "slug": "br-federal-decreto-2014-09-24-8314",
+      "capturado_em": "2026-11-04T20:17:31Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8314-24-setembro-2014-779375-publicacaooriginal-145044-pe.html"
+    },
+    "8315": {
+      "slug": "br-federal-decreto-2014-09-24-8315",
+      "capturado_em": "2026-11-04T20:17:34Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8315-24-setembro-2014-779377-publicacaooriginal-145045-pe.html"
+    },
+    "8316": {
+      "slug": "br-federal-decreto-2014-09-24-8316",
+      "capturado_em": "2026-11-04T20:17:36Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8316-24-setembro-2014-779378-publicacaooriginal-145046-pe.html"
+    },
+    "8317": {
+      "slug": "br-federal-decreto-2014-09-24-8317",
+      "capturado_em": "2026-11-04T20:17:39Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8317-24-setembro-2014-779379-publicacaooriginal-145048-pe.html"
+    },
+    "8318": {
+      "slug": "br-federal-decreto-2014-09-24-8318",
+      "capturado_em": "2026-11-04T20:17:41Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8318-24-setembro-2014-779380-publicacaooriginal-145049-pe.html"
+    },
+    "8319": {
+      "slug": "br-federal-decreto-2014-09-24-8319",
+      "capturado_em": "2026-11-04T20:17:43Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8319-24-setembro-2014-779373-publicacaooriginal-145040-pe.html"
+    },
+    "8322": {
+      "slug": "br-federal-decreto-2014-10-06-8322",
+      "capturado_em": "2026-11-04T20:17:45Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8322-6-outubro-2014-779409-publicacaooriginal-145115-pe.html"
+    },
+    "8323": {
+      "slug": "br-federal-decreto-2014-10-06-8323",
+      "capturado_em": "2026-11-04T20:17:47Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8323-6-outubro-2014-779410-publicacaooriginal-145116-pe.html"
+    },
+    "8324": {
+      "slug": "br-federal-decreto-2014-10-06-8324",
+      "capturado_em": "2026-11-04T20:17:49Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8324-6-outubro-2014-779406-publicacaooriginal-145112-pe.html"
+    },
+    "8328": {
+      "slug": "br-federal-decreto-2014-10-27-8328",
+      "capturado_em": "2026-11-04T20:17:52Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8328-27-outubro-2014-779463-publicacaooriginal-145225-pe.html"
+    },
+    "8330": {
+      "slug": "br-federal-decreto-2014-11-05-8330",
+      "capturado_em": "2026-11-04T20:17:53Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8330-5-novembro-2014-779492-publicacaooriginal-145282-pe.html"
+    },
+    "8331": {
+      "slug": "br-federal-decreto-2014-11-12-8331",
+      "capturado_em": "2026-11-04T20:17:57Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8331-12-novembro-2014-779511-publicacaooriginal-145313-pe.html"
+    },
+    "8332": {
+      "slug": "br-federal-decreto-2014-11-12-8332",
+      "capturado_em": "2026-11-04T20:18:01Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8332-12-novembro-2014-779528-publicacaooriginal-145323-pe.html"
+    },
+    "8333": {
+      "slug": "br-federal-decreto-2014-11-12-8333",
+      "capturado_em": "2026-11-04T20:18:05Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8333-12-novembro-2014-779531-publicacaooriginal-145327-pe.html"
+    },
+    "8334": {
+      "slug": "br-federal-decreto-2014-11-12-8334",
+      "capturado_em": "2026-11-04T20:18:09Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8334-12-novembro-2014-779532-publicacaooriginal-145328-pe.html"
+    },
+    "8335": {
+      "slug": "br-federal-decreto-2014-11-12-8335",
+      "capturado_em": "2026-11-04T20:18:13Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8335-12-novembro-2014-779533-publicacaooriginal-145329-pe.html"
+    },
+    "8336": {
+      "slug": "br-federal-decreto-2014-11-12-8336",
+      "capturado_em": "2026-11-04T20:18:17Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8336-12-novembro-2014-779535-publicacaooriginal-145335-pe.html"
+    },
+    "8337": {
+      "slug": "br-federal-decreto-2014-11-12-8337",
+      "capturado_em": "2026-11-04T20:18:21Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8337-12-novembro-2014-779538-publicacaooriginal-145338-pe.html"
+    },
+    "8338": {
+      "slug": "br-federal-decreto-2014-11-13-8338",
+      "capturado_em": "2026-11-04T20:18:24Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8338-13-novembro-2014-779573-publicacaooriginal-145373-pe.html"
+    },
+    "8340": {
+      "slug": "br-federal-decreto-2014-11-13-8340",
+      "capturado_em": "2026-11-04T20:18:28Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8340-13-novembro-2014-779575-publicacaooriginal-145378-pe.html"
+    },
+    "8341": {
+      "slug": "br-federal-decreto-2014-11-13-8341",
+      "capturado_em": "2026-11-04T20:18:32Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8341-13-novembro-2014-779576-publicacaooriginal-145380-pe.html"
+    },
+    "8342": {
+      "slug": "br-federal-decreto-2014-11-13-8342",
+      "capturado_em": "2026-11-04T20:18:37Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8342-13-novembro-2014-779577-publicacaooriginal-145382-pe.html"
+    },
+    "8343": {
+      "slug": "br-federal-decreto-2014-11-13-8343",
+      "capturado_em": "2026-11-04T20:18:44Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8343-13-novembro-2014-779578-publicacaooriginal-145383-pe.html"
+    },
+    "8345": {
+      "slug": "br-federal-decreto-2014-11-13-8345",
+      "capturado_em": "2026-11-04T20:18:56Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8345-13-novembro-2014-779582-publicacaooriginal-145389-pe.html"
+    },
+    "8346": {
+      "slug": "br-federal-decreto-2014-11-13-8346",
+      "capturado_em": "2026-11-04T20:19:02Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8346-13-novembro-2014-779580-publicacaooriginal-145386-pe.html"
+    },
+    "8348": {
+      "slug": "br-federal-decreto-2014-11-13-8348",
+      "capturado_em": "2026-11-04T20:19:14Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8348-13-novembro-2014-779583-publicacaooriginal-145392-pe.html"
+    },
+    "8349": {
+      "slug": "br-federal-decreto-2014-11-13-8349",
+      "capturado_em": "2026-11-04T20:19:20Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8349-13-novembro-2014-779584-publicacaooriginal-145393-pe.html"
+    },
+    "8350": {
+      "slug": "br-federal-decreto-2014-11-13-8350",
+      "capturado_em": "2026-11-04T20:19:26Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8350-13-novembro-2014-779585-publicacaooriginal-145394-pe.html"
+    },
+    "8351": {
+      "slug": "br-federal-decreto-2014-11-13-8351",
+      "capturado_em": "2026-11-04T20:19:32Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8351-13-novembro-2014-779586-publicacaooriginal-145395-pe.html"
+    },
+    "8352": {
+      "slug": "br-federal-decreto-2014-11-13-8352",
+      "capturado_em": "2026-11-04T20:19:38Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8352-13-novembro-2014-779587-publicacaooriginal-145397-pe.html"
+    },
+    "8353": {
+      "slug": "br-federal-decreto-2014-11-13-8353",
+      "capturado_em": "2026-11-04T20:19:44Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8353-13-novembro-2014-779588-publicacaooriginal-145399-pe.html"
+    },
+    "8354": {
+      "slug": "br-federal-decreto-2014-11-13-8354",
+      "capturado_em": "2026-11-04T20:19:49Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8354-13-novembro-2014-779589-publicacaooriginal-145401-pe.html"
+    },
+    "8355": {
+      "slug": "br-federal-decreto-2014-11-13-8355",
+      "capturado_em": "2026-11-04T20:19:54Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8355-13-novembro-2014-779590-publicacaooriginal-145402-pe.html"
+    },
+    "8356": {
+      "slug": "br-federal-decreto-2014-11-13-8356",
+      "capturado_em": "2026-11-04T20:19:59Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8356-13-novembro-2014-779591-publicacaooriginal-145404-pe.html"
+    },
+    "8357": {
+      "slug": "br-federal-decreto-2014-11-13-8357",
+      "capturado_em": "2026-11-04T20:20:04Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8357-13-novembro-2014-779592-publicacaooriginal-145405-pe.html"
+    },
+    "8358": {
+      "slug": "br-federal-decreto-2014-11-13-8358",
+      "capturado_em": "2026-11-04T20:20:09Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8358-13-novembro-2014-779593-publicacaooriginal-145406-pe.html"
+    },
+    "8360": {
+      "slug": "br-federal-decreto-2014-11-17-8360",
+      "capturado_em": "2026-11-04T20:20:13Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8360-17-novembro-2014-779595-publicacaooriginal-145424-pe.html"
+    },
+    "8361": {
+      "slug": "br-federal-decreto-2014-11-17-8361",
+      "capturado_em": "2026-11-04T20:20:16Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8361-17-novembro-2014-779596-publicacaooriginal-145425-pe.html"
+    },
+    "8362": {
+      "slug": "br-federal-decreto-2014-11-17-8362",
+      "capturado_em": "2026-11-04T20:20:21Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8362-17-novembro-2014-779597-publicacaooriginal-145426-pe.html"
+    },
+    "8363": {
+      "slug": "br-federal-decreto-2014-11-17-8363",
+      "capturado_em": "2026-11-04T20:20:26Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8363-17-novembro-2014-779598-publicacaooriginal-145427-pe.html"
+    },
+    "8364": {
+      "slug": "br-federal-decreto-2014-11-17-8364",
+      "capturado_em": "2026-11-04T20:20:31Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8364-17-novembro-2014-779599-publicacaooriginal-145428-pe.html"
+    },
+    "8366": {
+      "slug": "br-federal-decreto-2014-11-25-8366",
+      "capturado_em": "2026-11-04T20:20:35Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8366-25-novembro-2014-779615-publicacaooriginal-145467-pe.html"
+    },
+    "8367": {
+      "slug": "br-federal-decreto-2014-11-28-8367",
+      "capturado_em": "2026-11-04T20:20:39Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8367-28-novembro-2014-779643-publicacaooriginal-145503-pe.html"
+    },
+    "8382": {
+      "slug": "br-federal-decreto-2014-12-29-8382",
+      "capturado_em": "2026-11-04T20:20:46Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8382-29-dezembro-2014-779842-publicacaooriginal-145726-pe.html"
+    },
+    "8383": {
+      "slug": "br-federal-decreto-2014-12-29-8383",
+      "capturado_em": "2026-11-04T20:20:49Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8383-29-dezembro-2014-779843-publicacaooriginal-145729-pe.html"
+    },
+    "8384": {
+      "slug": "br-federal-decreto-2014-12-29-8384",
+      "capturado_em": "2026-11-04T20:20:53Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8384-29-dezembro-2014-779846-publicacaooriginal-145732-pe.html"
+    },
+    "8386": {
+      "slug": "br-federal-decreto-2014-12-30-8386",
+      "capturado_em": "2026-11-04T20:20:56Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8386-30-dezembro-2014-779865-publicacaooriginal-145765-pe.html"
+    },
+    "8389": {
+      "slug": "br-federal-decreto-2015-01-07-8389",
+      "capturado_em": "2026-11-04T20:20:59Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8389-7-janeiro-2015-779974-publicacaooriginal-145876-pe.html"
+    },
+    "8393": {
+      "slug": "br-federal-decreto-2015-01-28-8393",
+      "capturado_em": "2026-11-04T20:21:03Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8393-28-janeiro-2015-780089-publicacaooriginal-146004-pe.html"
+    },
+    "8394": {
+      "slug": "br-federal-decreto-2015-01-28-8394",
+      "capturado_em": "2026-11-04T20:21:06Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8394-28-janeiro-2015-780092-publicacaooriginal-146006-pe.html"
+    },
+    "8396": {
+      "slug": "br-federal-decreto-2015-01-30-8396",
+      "capturado_em": "2026-11-04T20:21:09Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8396-30-janeiro-2015-780097-publicacaooriginal-146019-pe.html"
+    },
+    "8397": {
+      "slug": "br-federal-decreto-2015-02-04-8397",
+      "capturado_em": "2026-11-04T20:21:12Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8397-4-fevereiro-2015-780109-publicacaooriginal-146049-pe.html"
+    },
+    "8398": {
+      "slug": "br-federal-decreto-2015-02-04-8398",
+      "capturado_em": "2026-11-04T20:21:16Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8398-4-fevereiro-2015-780110-publicacaooriginal-146050-pe.html"
+    },
+    "8399": {
+      "slug": "br-federal-decreto-2015-02-04-8399",
+      "capturado_em": "2026-11-04T20:21:18Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8399-4-fevereiro-2015-780111-publicacaooriginal-146051-pe.html"
+    },
+    "8400": {
+      "slug": "br-federal-decreto-2015-02-04-8400",
+      "capturado_em": "2026-11-04T20:21:21Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8400-4-fevereiro-2015-780112-publicacaooriginal-146052-pe.html"
+    },
+    "8402": {
+      "slug": "br-federal-decreto-2015-02-04-8402",
+      "capturado_em": "2026-11-04T20:21:23Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8402-4-fevereiro-2015-780114-publicacaooriginal-146054-pe.html"
+    },
+    "8403": {
+      "slug": "br-federal-decreto-2015-02-04-8403",
+      "capturado_em": "2026-11-04T20:21:24Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8403-4-fevereiro-2015-780115-publicacaooriginal-146055-pe.html"
+    },
+    "8404": {
+      "slug": "br-federal-decreto-2015-02-04-8404",
+      "capturado_em": "2026-11-04T20:21:26Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8404-4-fevereiro-2015-780116-publicacaooriginal-146056-pe.html"
+    },
+    "8405": {
+      "slug": "br-federal-decreto-2015-02-11-8405",
+      "capturado_em": "2026-11-04T20:21:28Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8405-11-fevereiro-2015-780144-publicacaooriginal-146105-pe.html"
+    },
+    "8409": {
+      "slug": "br-federal-decreto-2015-02-24-8409",
+      "capturado_em": "2026-11-04T20:21:31Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8409-24-fevereiro-2015-780158-publicacaooriginal-146158-pe.html"
+    },
+    "8410": {
+      "slug": "br-federal-decreto-2015-02-24-8410",
+      "capturado_em": "2026-11-04T20:21:33Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8410-24-fevereiro-2015-780159-publicacaooriginal-146159-pe.html"
+    },
+    "8411": {
+      "slug": "br-federal-decreto-2015-02-24-8411",
+      "capturado_em": "2026-11-04T20:21:35Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8411-24-fevereiro-2015-780160-publicacaooriginal-146160-pe.html"
+    },
+    "8412": {
+      "slug": "br-federal-decreto-2015-02-26-8412",
+      "capturado_em": "2026-11-04T20:21:38Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8412-26-fevereiro-2015-780182-publicacaooriginal-146188-pe.html"
+    },
+    "8415": {
+      "slug": "br-federal-decreto-2015-02-27-8415",
+      "capturado_em": "2026-11-04T20:21:41Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8415-27-fevereiro-2015-780190-publicacaooriginal-146202-pe.html"
+    },
+    "8418": {
+      "slug": "br-federal-decreto-2015-03-18-8418",
+      "capturado_em": "2026-11-04T20:21:43Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8418-18-marco-2015-780296-publicacaooriginal-146381-pe.html"
+    },
+    "8419": {
+      "slug": "br-federal-decreto-2015-03-18-8419",
+      "capturado_em": "2026-11-04T20:21:44Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8419-18-marco-2015-780297-publicacaooriginal-146382-pe.html"
+    },
+    "8421": {
+      "slug": "br-federal-decreto-2015-03-20-8421",
+      "capturado_em": "2026-11-04T20:21:46Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8421-20-marco-2015-780322-publicacaooriginal-146423-pe.html"
+    },
+    "8422": {
+      "slug": "br-federal-decreto-2015-03-20-8422",
+      "capturado_em": "2026-11-04T20:21:48Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8422-20-marco-2015-780323-publicacaooriginal-146425-pe.html"
+    },
+    "8423": {
+      "slug": "br-federal-decreto-2015-03-30-8423",
+      "capturado_em": "2026-11-04T20:21:49Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8423-30-marco-2015-780434-publicacaooriginal-146570-pe.html"
+    },
+    "8429": {
+      "slug": "br-federal-decreto-2015-04-07-8429",
+      "capturado_em": "2026-11-04T20:21:51Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8429-7-abril-2015-780484-publicacaooriginal-146619-pe.html"
+    },
+    "8430": {
+      "slug": "br-federal-decreto-2015-04-09-8430",
+      "capturado_em": "2026-11-04T20:21:52Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8430-9-abril-2015-780496-publicacaooriginal-146636-pe.html"
+    },
+    "8431": {
+      "slug": "br-federal-decreto-2015-04-09-8431",
+      "capturado_em": "2026-11-04T20:21:55Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8431-9-abril-2015-780497-publicacaooriginal-146638-pe.html"
+    },
+    "8434": {
+      "slug": "br-federal-decreto-2015-04-22-8434",
+      "capturado_em": "2026-11-04T20:21:58Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8434-22-abril-2015-780580-publicacaooriginal-146712-pe.html"
+    },
+    "8442": {
+      "slug": "br-federal-decreto-2015-04-29-8442",
+      "capturado_em": "2026-11-04T20:22:01Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8442-29-abril-2015-780648-publicacaooriginal-146772-pe.html"
+    },
+    "8452": {
+      "slug": "br-federal-decreto-2015-05-19-8452",
+      "capturado_em": "2026-11-04T20:22:03Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8452-19-maio-2015-780832-publicacaooriginal-146984-pe.html"
+    },
+    "8453": {
+      "slug": "br-federal-decreto-2015-05-20-8453",
+      "capturado_em": "2026-11-04T20:22:06Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8453-20-maio-2015-780835-publicacaooriginal-146992-pe.html"
+    },
+    "8454": {
+      "slug": "br-federal-decreto-2015-05-20-8454",
+      "capturado_em": "2026-11-04T20:22:08Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8454-20-maio-2015-780836-publicacaooriginal-146994-pe.html"
+    },
+    "8455": {
+      "slug": "br-federal-decreto-2015-05-20-8455",
+      "capturado_em": "2026-11-04T20:22:10Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8455-20-maio-2015-780837-publicacaooriginal-146996-pe.html"
+    },
+    "8456": {
+      "slug": "br-federal-decreto-2015-05-22-8456",
+      "capturado_em": "2026-11-04T20:22:11Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8456-22-maio-2015-780851-publicacaooriginal-147022-pe.html"
+    },
+    "8458": {
+      "slug": "br-federal-decreto-2015-05-26-8458",
+      "capturado_em": "2026-11-04T20:22:13Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8458-26-maio-2015-780860-publicacaooriginal-147042-pe.html"
+    },
+    "8459": {
+      "slug": "br-federal-decreto-2015-05-26-8459",
+      "capturado_em": "2026-11-04T20:22:16Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8459-26-maio-2015-780861-publicacaooriginal-147045-pe.html"
+    },
+    "8470": {
+      "slug": "br-federal-decreto-2015-06-22-8470",
+      "capturado_em": "2026-11-04T20:22:17Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8470-22-junho-2015-781035-publicacaooriginal-147292-pe.html"
+    },
+    "8477": {
+      "slug": "br-federal-decreto-2015-06-30-8477",
+      "capturado_em": "2026-11-04T20:22:19Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8477-30-junho-2015-781109-publicacaooriginal-147387-pe.html"
+    },
+    "8478": {
+      "slug": "br-federal-decreto-2015-07-03-8478",
+      "capturado_em": "2026-11-04T20:22:20Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8478-3-julho-2015-781163-publicacaooriginal-147449-pe.html"
+    },
+    "8480": {
+      "slug": "br-federal-decreto-2015-07-06-8480",
+      "capturado_em": "2026-11-04T20:22:22Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8480-6-julho-2015-781196-publicacaooriginal-147491-pe.html"
+    },
+    "8482": {
+      "slug": "br-federal-decreto-2015-07-07-8482",
+      "capturado_em": "2026-11-04T20:22:24Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8482-7-julho-2015-781202-publicacaooriginal-147497-pe.html"
+    },
+    "8483": {
+      "slug": "br-federal-decreto-2015-07-08-8483",
+      "capturado_em": "2026-11-04T20:22:26Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8483-8-julho-2015-781205-publicacaooriginal-147509-pe.html"
+    },
+    "8484": {
+      "slug": "br-federal-decreto-2015-07-08-8484",
+      "capturado_em": "2026-11-04T20:22:28Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8484-8-julho-2015-781206-publicacaooriginal-147510-pe.html"
+    },
+    "8486": {
+      "slug": "br-federal-decreto-2015-07-08-8486",
+      "capturado_em": "2026-11-04T20:22:30Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8486-8-julho-2015-781212-publicacaooriginal-147514-pe.html"
+    },
+    "8487": {
+      "slug": "br-federal-decreto-2015-07-10-8487",
+      "capturado_em": "2026-11-04T20:22:31Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8487-10-julho-2015-781224-publicacaooriginal-147543-pe.html"
+    },
+    "8488": {
+      "slug": "br-federal-decreto-2015-07-10-8488",
+      "capturado_em": "2026-11-04T20:22:32Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8488-10-julho-2015-781226-publicacaooriginal-147547-pe.html"
+    },
+    "8489": {
+      "slug": "br-federal-decreto-2015-07-10-8489",
+      "capturado_em": "2026-11-04T20:22:34Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8489-10-julho-2015-781225-publicacaooriginal-147544-pe.html"
+    },
+    "8490": {
+      "slug": "br-federal-decreto-2015-07-13-8490",
+      "capturado_em": "2026-11-04T20:22:36Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8490-13-julho-2015-781235-publicacaooriginal-147558-pe.html"
+    },
+    "8492": {
+      "slug": "br-federal-decreto-2015-07-13-8492",
+      "capturado_em": "2026-11-04T20:22:37Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8492-13-julho-2015-781237-publicacaooriginal-147561-pe.html"
+    },
+    "8496": {
+      "slug": "br-federal-decreto-2015-07-30-8496",
+      "capturado_em": "2026-11-04T20:22:39Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8496-30-julho-2015-781318-publicacaooriginal-147705-pe.html"
+    },
+    "8502": {
+      "slug": "br-federal-decreto-2015-08-18-8502",
+      "capturado_em": "2026-11-04T20:22:41Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8502-18-agosto-2015-781385-publicacaooriginal-147823-pe.html"
+    },
+    "8503": {
+      "slug": "br-federal-decreto-2015-08-18-8503",
+      "capturado_em": "2026-11-04T20:22:43Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8503-18-agosto-2015-781386-publicacaooriginal-147825-pe.html"
+    },
+    "8506": {
+      "slug": "br-federal-decreto-2015-08-24-8506",
+      "capturado_em": "2026-11-04T20:22:45Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8506-24-agosto-2015-781405-publicacaooriginal-147882-pe.html"
+    },
+    "8508": {
+      "slug": "br-federal-decreto-2015-08-25-8508",
+      "capturado_em": "2026-11-04T20:22:47Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8508-25-agosto-2015-781454-publicacaooriginal-147939-pe.html"
+    },
+    "8512": {
+      "slug": "br-federal-decreto-2015-08-31-8512",
+      "capturado_em": "2026-11-04T20:22:49Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8512-31-agosto-2015-781467-publicacaooriginal-147978-pe.html"
+    },
+    "8519": {
+      "slug": "br-federal-decreto-2015-09-28-8519",
+      "capturado_em": "2026-11-04T20:22:50Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8519-28-setembro-2015-781630-publicacaooriginal-148262-pe.html"
+    },
+    "8520": {
+      "slug": "br-federal-decreto-2015-09-28-8520",
+      "capturado_em": "2026-11-04T20:22:51Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8520-28-setembro-2015-781631-publicacaooriginal-148264-pe.html"
+    },
+    "8521": {
+      "slug": "br-federal-decreto-2015-09-28-8521",
+      "capturado_em": "2026-11-04T20:22:54Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8521-28-setembro-2015-781633-publicacaooriginal-148266-pe.html"
+    },
+    "8522": {
+      "slug": "br-federal-decreto-2015-09-28-8522",
+      "capturado_em": "2026-11-04T20:22:55Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8522-28-setembro-2015-781632-publicacaooriginal-148265-pe.html"
+    },
+    "8523": {
+      "slug": "br-federal-decreto-2015-09-28-8523",
+      "capturado_em": "2026-11-04T20:22:57Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8523-28-setembro-2015-781634-publicacaooriginal-148267-pe.html"
+    },
+    "8524": {
+      "slug": "br-federal-decreto-2015-09-28-8524",
+      "capturado_em": "2026-11-04T20:22:59Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8524-28-setembro-2015-781635-publicacaooriginal-148272-pe.html"
+    },
+    "8525": {
+      "slug": "br-federal-decreto-2015-09-28-8525",
+      "capturado_em": "2026-11-04T20:23:00Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8525-28-setembro-2015-781636-publicacaooriginal-148274-pe.html"
+    },
+    "8526": {
+      "slug": "br-federal-decreto-2015-09-28-8526",
+      "capturado_em": "2026-11-04T20:23:02Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8526-28-setembro-2015-781637-publicacaooriginal-148275-pe.html"
+    },
+    "8527": {
+      "slug": "br-federal-decreto-2015-09-28-8527",
+      "capturado_em": "2026-11-04T20:23:04Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8527-28-setembro-2015-781638-publicacaooriginal-148277-pe.html"
+    },
+    "8528": {
+      "slug": "br-federal-decreto-2015-09-28-8528",
+      "capturado_em": "2026-11-04T20:23:05Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8528-28-setembro-2015-781639-publicacaooriginal-148278-pe.html"
+    },
+    "8529": {
+      "slug": "br-federal-decreto-2015-09-28-8529",
+      "capturado_em": "2026-11-04T20:23:07Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8529-28-setembro-2015-781640-publicacaooriginal-148279-pe.html"
+    },
+    "8530": {
+      "slug": "br-federal-decreto-2015-09-28-8530",
+      "capturado_em": "2026-11-04T20:23:10Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8530-28-setembro-2015-781641-publicacaooriginal-148280-pe.html"
+    },
+    "8531": {
+      "slug": "br-federal-decreto-2015-09-28-8531",
+      "capturado_em": "2026-11-04T20:23:11Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8531-28-setembro-2015-781644-publicacaooriginal-148283-pe.html"
+    },
+    "8532": {
+      "slug": "br-federal-decreto-2015-09-30-8532",
+      "capturado_em": "2026-11-04T20:23:13Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8532-30-setembro-2015-781673-publicacaooriginal-148305-pe.html"
+    },
+    "8540": {
+      "slug": "br-federal-decreto-2015-10-09-8540",
+      "capturado_em": "2026-11-04T20:23:15Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8540-9-outubro-2015-781736-publicacaooriginal-148394-pe.html"
+    },
+    "8542": {
+      "slug": "br-federal-decreto-2015-10-16-8542",
+      "capturado_em": "2026-11-04T20:23:17Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8542-16-outubro-2015-781762-publicacaooriginal-148440-pe.html"
+    },
+    "8544": {
+      "slug": "br-federal-decreto-2015-10-21-8544",
+      "capturado_em": "2026-11-04T20:23:19Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8544-21-outubro-2015-781825-publicacaooriginal-148509-pe.html"
+    },
+    "8545": {
+      "slug": "br-federal-decreto-2015-10-23-8545",
+      "capturado_em": "2026-11-04T20:23:22Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8545-23-outubro-2015-781833-publicacaooriginal-148523-pe.html"
+    },
+    "8546": {
+      "slug": "br-federal-decreto-2015-10-23-8546",
+      "capturado_em": "2026-11-04T20:23:25Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8546-23-outubro-2015-781834-publicacaooriginal-148524-pe.html"
+    },
+    "8547": {
+      "slug": "br-federal-decreto-2015-10-23-8547",
+      "capturado_em": "2026-11-04T20:23:29Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8547-23-outubro-2015-781835-publicacaooriginal-148526-pe.html"
+    },
+    "8548": {
+      "slug": "br-federal-decreto-2015-10-23-8548",
+      "capturado_em": "2026-11-04T20:23:33Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8548-23-outubro-2015-781836-publicacaooriginal-148528-pe.html"
+    },
+    "8549": {
+      "slug": "br-federal-decreto-2015-10-23-8549",
+      "capturado_em": "2026-11-04T20:23:38Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8549-23-outubro-2015-781837-publicacaooriginal-148529-pe.html"
+    },
+    "8550": {
+      "slug": "br-federal-decreto-2015-10-23-8550",
+      "capturado_em": "2026-11-04T20:23:42Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8550-23-outubro-2015-781838-publicacaooriginal-148531-pe.html"
+    },
+    "8557": {
+      "slug": "br-federal-decreto-2015-11-11-8557",
+      "capturado_em": "2026-11-04T20:23:45Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8557-11-novembro-2015-781883-publicacaooriginal-148626-pe.html"
+    },
+    "8558": {
+      "slug": "br-federal-decreto-2015-11-11-8558",
+      "capturado_em": "2026-11-04T20:23:49Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8558-11-novembro-2015-781884-publicacaooriginal-148627-pe.html"
+    },
+    "8559": {
+      "slug": "br-federal-decreto-2015-11-11-8559",
+      "capturado_em": "2026-11-04T20:23:52Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8559-11-novembro-2015-781879-publicacaooriginal-148621-pe.html"
+    },
+    "8560": {
+      "slug": "br-federal-decreto-2015-11-11-8560",
+      "capturado_em": "2026-11-04T20:23:55Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8560-11-novembro-2015-781885-publicacaooriginal-148629-pe.html"
+    },
+    "8561": {
+      "slug": "br-federal-decreto-2015-11-11-8561",
+      "capturado_em": "2026-11-04T20:23:58Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8561-11-novembro-2015-781886-publicacaooriginal-148631-pe.html"
+    },
+    "8562": {
+      "slug": "br-federal-decreto-2015-11-11-8562",
+      "capturado_em": "2026-11-04T20:24:02Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8562-11-novembro-2015-781889-publicacaooriginal-148635-pe.html"
+    },
+    "8563": {
+      "slug": "br-federal-decreto-2015-11-11-8563",
+      "capturado_em": "2026-11-04T20:24:05Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8563-11-novembro-2015-781890-publicacaooriginal-148636-pe.html"
+    },
+    "8564": {
+      "slug": "br-federal-decreto-2015-11-11-8564",
+      "capturado_em": "2026-11-04T20:24:07Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8564-11-novembro-2015-781891-publicacaooriginal-148638-pe.html"
+    },
+    "8565": {
+      "slug": "br-federal-decreto-2015-11-11-8565",
+      "capturado_em": "2026-11-04T20:24:10Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8565-11-novembro-2015-781892-publicacaooriginal-148639-pe.html"
+    },
+    "8566": {
+      "slug": "br-federal-decreto-2015-11-11-8566",
+      "capturado_em": "2026-11-04T20:24:12Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8566-11-novembro-2015-781893-publicacaooriginal-148642-pe.html"
+    },
+    "8567": {
+      "slug": "br-federal-decreto-2015-11-12-8567",
+      "capturado_em": "2026-11-04T20:24:14Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8567-12-novembro-2015-781894-publicacaooriginal-148645-pe.html"
+    },
+    "8568": {
+      "slug": "br-federal-decreto-2015-11-12-8568",
+      "capturado_em": "2026-11-04T20:24:16Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8568-12-novembro-2015-781895-publicacaooriginal-148648-pe.html"
+    },
+    "8569": {
+      "slug": "br-federal-decreto-2015-11-12-8569",
+      "capturado_em": "2026-11-04T20:24:18Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8569-12-novembro-2015-781896-publicacaooriginal-148649-pe.html"
+    },
+    "8570": {
+      "slug": "br-federal-decreto-2015-11-12-8570",
+      "capturado_em": "2026-11-04T20:24:19Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8570-12-novembro-2015-781899-publicacaooriginal-148651-pe.html"
+    },
+    "8571": {
+      "slug": "br-federal-decreto-2015-11-12-8571",
+      "capturado_em": "2026-11-04T20:24:21Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8571-12-novembro-2015-781904-publicacaooriginal-148658-pe.html"
+    },
+    "8574": {
+      "slug": "br-federal-decreto-2015-11-24-8574",
+      "capturado_em": "2026-11-04T20:24:22Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8574-24-novembro-2015-781952-publicacaooriginal-148735-pe.html"
+    },
+    "8577": {
+      "slug": "br-federal-decreto-2015-11-26-8577",
+      "capturado_em": "2026-11-04T20:24:24Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8577-26-novembro-2015-781965-publicacaooriginal-148754-pe.html"
+    },
+    "8578": {
+      "slug": "br-federal-decreto-2015-11-26-8578",
+      "capturado_em": "2026-11-04T20:24:26Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8578-26-novembro-2015-781964-publicacaooriginal-148753-pe.html"
+    },
+    "8580": {
+      "slug": "br-federal-decreto-2015-11-27-8580",
+      "capturado_em": "2026-11-04T20:24:27Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8580-27-novembro-2015-781971-publicacaooriginal-148768-pe.html"
+    },
+    "8581": {
+      "slug": "br-federal-decreto-2015-12-03-8581",
+      "capturado_em": "2026-11-04T20:24:29Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8581-3-dezembro-2015-781994-publicacaooriginal-148815-pe.html"
+    },
+    "8590": {
+      "slug": "br-federal-decreto-2015-12-15-8590",
+      "capturado_em": "2026-11-04T20:24:30Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8590-15-dezembro-2015-782097-publicacaooriginal-148952-pe.html"
+    },
+    "8594": {
+      "slug": "br-federal-decreto-2015-12-18-8594",
+      "capturado_em": "2026-11-04T20:24:32Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8594-18-dezembro-2015-782126-publicacaooriginal-148993-pe.html"
+    },
+    "8596": {
+      "slug": "br-federal-decreto-2015-12-18-8596",
+      "capturado_em": "2026-11-04T20:24:33Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8596-18-dezembro-2015-782128-publicacaooriginal-148996-pe.html"
+    },
+    "8598": {
+      "slug": "br-federal-decreto-2015-12-18-8598",
+      "capturado_em": "2026-11-04T20:24:35Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8598-18-dezembro-2015-782130-publicacaooriginal-148999-pe.html"
+    },
+    "8599": {
+      "slug": "br-federal-decreto-2015-12-18-8599",
+      "capturado_em": "2026-11-04T20:24:37Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8599-18-dezembro-2015-782131-publicacaooriginal-149001-pe.html"
+    },
+    "8601": {
+      "slug": "br-federal-decreto-2015-12-18-8601",
+      "capturado_em": "2026-11-04T20:24:38Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8601-18-dezembro-2015-782133-publicacaooriginal-149003-pe.html"
+    },
+    "8602": {
+      "slug": "br-federal-decreto-2015-12-18-8602",
+      "capturado_em": "2026-11-04T20:24:39Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8602-18-dezembro-2015-782134-publicacaooriginal-149004-pe.html"
+    },
+    "8603": {
+      "slug": "br-federal-decreto-2015-12-18-8603",
+      "capturado_em": "2026-11-04T20:24:41Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8603-18-dezembro-2015-782135-publicacaooriginal-149005-pe.html"
+    },
+    "8604": {
+      "slug": "br-federal-decreto-2015-12-18-8604",
+      "capturado_em": "2026-11-04T20:24:42Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8604-18-dezembro-2015-782136-publicacaooriginal-149007-pe.html"
+    },
+    "8606": {
+      "slug": "br-federal-decreto-2015-12-18-8606",
+      "capturado_em": "2026-11-04T20:24:45Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8606-18-dezembro-2015-782138-publicacaooriginal-149013-pe.html"
+    },
+    "8607": {
+      "slug": "br-federal-decreto-2015-12-18-8607",
+      "capturado_em": "2026-11-04T20:24:46Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8607-18-dezembro-2015-782139-publicacaooriginal-149014-pe.html"
+    },
+    "8608": {
+      "slug": "br-federal-decreto-2015-12-18-8608",
+      "capturado_em": "2026-11-04T20:24:48Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8608-18-dezembro-2015-782140-publicacaooriginal-149015-pe.html"
+    },
+    "8609": {
+      "slug": "br-federal-decreto-2015-12-18-8609",
+      "capturado_em": "2026-11-04T20:24:50Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8609-18-dezembro-2015-782141-publicacaooriginal-149016-pe.html"
+    },
+    "8610": {
+      "slug": "br-federal-decreto-2015-12-18-8610",
+      "capturado_em": "2026-11-04T20:24:51Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8610-18-dezembro-2015-782142-publicacaooriginal-149020-pe.html"
+    },
+    "8627": {
+      "slug": "br-federal-decreto-2015-12-30-8627",
+      "capturado_em": "2026-11-04T20:24:53Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8627-30-dezembro-2015-782219-publicacaooriginal-149137-pe.html"
+    },
+    "8630": {
+      "slug": "br-federal-decreto-2015-12-30-8630",
+      "capturado_em": "2026-11-04T20:24:55Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8630-30-dezembro-2015-782222-publicacaooriginal-149140-pe.html"
+    },
+    "8631": {
+      "slug": "br-federal-decreto-2015-12-30-8631",
+      "capturado_em": "2026-11-04T20:24:56Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8631-30-dezembro-2015-782223-publicacaooriginal-149143-pe.html"
+    },
+    "8632": {
+      "slug": "br-federal-decreto-2015-12-30-8632",
+      "capturado_em": "2026-11-04T20:24:58Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8632-30-dezembro-2015-782224-publicacaooriginal-149144-pe.html"
+    },
+    "8636": {
+      "slug": "br-federal-decreto-2016-01-13-8636",
+      "capturado_em": "2026-11-04T20:25:00Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8636-13-janeiro-2016-782261-publicacaooriginal-149228-pe.html"
+    },
+    "8640": {
+      "slug": "br-federal-decreto-2016-01-18-8640",
+      "capturado_em": "2026-11-04T20:25:02Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8640-18-janeiro-2016-782278-publicacaooriginal-149262-pe.html"
+    },
+    "8644": {
+      "slug": "br-federal-decreto-2016-01-21-8644",
+      "capturado_em": "2026-11-04T20:25:03Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8644-21-janeiro-2016-782283-publicacaooriginal-149282-pe.html"
+    },
+    "8649": {
+      "slug": "br-federal-decreto-2016-01-28-8649",
+      "capturado_em": "2026-11-04T20:25:05Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8649-28-janeiro-2016-782296-publicacaooriginal-149306-pe.html"
+    },
+    "8650": {
+      "slug": "br-federal-decreto-2016-01-28-8650",
+      "capturado_em": "2026-11-04T20:25:06Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8650-28-janeiro-2016-782297-publicacaooriginal-149307-pe.html"
+    },
+    "8651": {
+      "slug": "br-federal-decreto-2016-01-28-8651",
+      "capturado_em": "2026-11-04T20:25:08Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8651-28-janeiro-2016-782298-publicacaooriginal-149308-pe.html"
+    },
+    "8654": {
+      "slug": "br-federal-decreto-2016-01-28-8654",
+      "capturado_em": "2026-11-04T20:25:11Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8654-28-janeiro-2016-782301-publicacaooriginal-149314-pe.html"
+    },
+    "8655": {
+      "slug": "br-federal-decreto-2016-01-28-8655",
+      "capturado_em": "2026-11-04T20:25:14Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8655-28-janeiro-2016-782302-publicacaooriginal-149315-pe.html"
+    },
+    "8656": {
+      "slug": "br-federal-decreto-2016-01-29-8656",
+      "capturado_em": "2026-11-04T20:25:15Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8656-29-janeiro-2016-782316-publicacaooriginal-149338-pe.html"
+    },
+    "8658": {
+      "slug": "br-federal-decreto-2016-01-29-8658",
+      "capturado_em": "2026-11-04T20:25:17Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8658-29-janeiro-2016-782313-publicacaooriginal-149332-pe.html"
+    },
+    "8659": {
+      "slug": "br-federal-decreto-2016-01-29-8659",
+      "capturado_em": "2026-11-04T20:25:19Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8659-29-janeiro-2016-782314-publicacaooriginal-149333-pe.html"
+    },
+    "8660": {
+      "slug": "br-federal-decreto-2016-01-29-8660",
+      "capturado_em": "2026-11-04T20:25:21Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8660-29-janeiro-2016-782315-publicacaooriginal-149334-pe.html"
+    },
+    "8661": {
+      "slug": "br-federal-decreto-2016-02-01-8661",
+      "capturado_em": "2026-11-04T20:25:22Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8661-1-fevereiro-2016-782317-publicacaooriginal-149345-pe.html"
+    },
+    "8663": {
+      "slug": "br-federal-decreto-2016-02-03-8663",
+      "capturado_em": "2026-11-04T20:25:25Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8663-3-fevereiro-2016-782321-publicacaooriginal-149351-pe.html"
+    },
+    "8664": {
+      "slug": "br-federal-decreto-2016-02-04-8664",
+      "capturado_em": "2026-11-04T20:25:28Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8664-4-fevereiro-2016-782332-publicacaooriginal-149364-pe.html"
+    },
+    "8667": {
+      "slug": "br-federal-decreto-2016-02-11-8667",
+      "capturado_em": "2026-11-04T20:25:31Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8667-11-fevereiro-2016-782338-publicacaooriginal-149402-pe.html"
+    },
+    "8668": {
+      "slug": "br-federal-decreto-2016-02-11-8668",
+      "capturado_em": "2026-11-04T20:25:33Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8668-11-fevereiro-2016-782339-publicacaooriginal-149404-pe.html"
+    },
+    "8669": {
+      "slug": "br-federal-decreto-2016-02-11-8669",
+      "capturado_em": "2026-11-04T20:25:35Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8669-11-fevereiro-2016-782340-publicacaooriginal-149406-pe.html"
+    },
+    "8670": {
+      "slug": "br-federal-decreto-2016-02-12-8670",
+      "capturado_em": "2026-11-04T20:25:37Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8670-12-fevereiro-2016-782352-publicacaooriginal-149451-pe.html"
+    },
+    "8671": {
+      "slug": "br-federal-decreto-2016-02-16-8671",
+      "capturado_em": "2026-11-04T20:25:39Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8671-16-fevereiro-2016-782388-publicacaooriginal-149481-pe.html"
+    },
+    "8672": {
+      "slug": "br-federal-decreto-2016-02-16-8672",
+      "capturado_em": "2026-11-04T20:25:42Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8672-16-fevereiro-2016-782389-publicacaooriginal-149483-pe.html"
+    },
+    "8673": {
+      "slug": "br-federal-decreto-2016-02-16-8673",
+      "capturado_em": "2026-11-04T20:25:45Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8673-16-fevereiro-2016-782390-publicacaooriginal-149485-pe.html"
+    },
+    "8674": {
+      "slug": "br-federal-decreto-2016-02-16-8674",
+      "capturado_em": "2026-11-04T20:25:48Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8674-16-fevereiro-2016-782391-publicacaooriginal-149488-pe.html"
+    },
+    "8676": {
+      "slug": "br-federal-decreto-2016-02-19-8676",
+      "capturado_em": "2026-11-04T20:25:51Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8676-19-fevereiro-2016-782404-publicacaooriginal-149509-pe.html"
+    },
+    "8677": {
+      "slug": "br-federal-decreto-2016-02-22-8677",
+      "capturado_em": "2026-11-04T20:25:54Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8677-22-fevereiro-2016-782413-publicacaooriginal-149515-pe.html"
+    },
+    "8678": {
+      "slug": "br-federal-decreto-2016-02-22-8678",
+      "capturado_em": "2026-11-04T20:25:56Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8678-22-fevereiro-2016-782414-publicacaooriginal-149517-pe.html"
+    },
+    "8679": {
+      "slug": "br-federal-decreto-2016-02-22-8679",
+      "capturado_em": "2026-11-04T20:25:59Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8679-22-fevereiro-2016-782415-publicacaooriginal-149519-pe.html"
+    },
+    "8682": {
+      "slug": "br-federal-decreto-2016-02-25-8682",
+      "capturado_em": "2026-11-04T20:26:02Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8682-25-fevereiro-2016-782454-publicacaooriginal-149568-pe.html"
+    },
+    "8684": {
+      "slug": "br-federal-decreto-2016-02-25-8684",
+      "capturado_em": "2026-11-04T20:26:06Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8684-25-fevereiro-2016-782456-publicacaooriginal-149571-pe.html"
+    },
+    "8685": {
+      "slug": "br-federal-decreto-2016-02-25-8685",
+      "capturado_em": "2026-11-04T20:26:08Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8685-25-fevereiro-2016-782457-publicacaooriginal-149573-pe.html"
+    },
+    "8686": {
+      "slug": "br-federal-decreto-2016-03-04-8686",
+      "capturado_em": "2026-11-04T20:26:12Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8686-4-marco-2016-782477-publicacaooriginal-149612-pe.html"
+    },
+    "8687": {
+      "slug": "br-federal-decreto-2016-03-04-8687",
+      "capturado_em": "2026-11-04T20:26:15Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8687-4-marco-2016-782478-publicacaooriginal-149614-pe.html"
+    },
+    "8689": {
+      "slug": "br-federal-decreto-2016-03-10-8689",
+      "capturado_em": "2026-11-04T20:26:19Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8689-10-marco-2016-782543-publicacaooriginal-149694-pe.html"
+    },
+    "8694": {
+      "slug": "br-federal-decreto-2016-03-21-8694",
+      "capturado_em": "2026-11-04T20:26:22Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8694-21-marco-2016-782603-publicacaooriginal-149790-pe.html"
+    },
+    "8696": {
+      "slug": "br-federal-decreto-2016-03-24-8696",
+      "capturado_em": "2026-11-04T20:26:25Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8696-24-marco-2016-782626-publicacaooriginal-149819-pe.html"
+    },
+    "8697": {
+      "slug": "br-federal-decreto-2016-03-24-8697",
+      "capturado_em": "2026-11-04T20:26:29Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8697-24-marco-2016-782629-publicacaooriginal-149823-pe.html"
+    },
+    "8698": {
+      "slug": "br-federal-decreto-2016-03-28-8698",
+      "capturado_em": "2026-11-04T20:26:33Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8698-28-marco-2016-782650-publicacaooriginal-149839-pe.html"
+    },
+    "8699": {
+      "slug": "br-federal-decreto-2016-03-28-8699",
+      "capturado_em": "2026-11-04T20:26:37Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8699-28-marco-2016-782651-publicacaooriginal-149840-pe.html"
+    },
+    "8701": {
+      "slug": "br-federal-decreto-2016-03-31-8701",
+      "capturado_em": "2026-11-04T20:26:40Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8701-31-marco-2016-782723-publicacaooriginal-149924-pe.html"
+    },
+    "8702": {
+      "slug": "br-federal-decreto-2016-04-01-8702",
+      "capturado_em": "2026-11-04T20:26:44Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8702-1-abril-2016-782748-publicacaooriginal-149961-pe.html"
+    },
+    "8703": {
+      "slug": "br-federal-decreto-2016-04-01-8703",
+      "capturado_em": "2026-11-04T20:26:47Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8703-1-abril-2016-782789-publicacaooriginal-149967-pe.html"
+    },
+    "8707": {
+      "slug": "br-federal-decreto-2016-04-13-8707",
+      "capturado_em": "2026-11-04T20:26:55Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8707-13-abril-2016-782891-publicacaooriginal-150089-pe.html"
+    },
+    "8708": {
+      "slug": "br-federal-decreto-2016-04-13-8708",
+      "capturado_em": "2026-11-04T20:27:00Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8708-13-abril-2016-782892-publicacaooriginal-150090-pe.html"
+    },
+    "8709": {
+      "slug": "br-federal-decreto-2016-04-13-8709",
+      "capturado_em": "2026-11-04T20:27:05Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8709-13-abril-2016-782893-publicacaooriginal-150092-pe.html"
+    },
+    "8711": {
+      "slug": "br-federal-decreto-2016-04-14-8711",
+      "capturado_em": "2026-11-04T20:27:12Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8711-14-abril-2016-782896-publicacaooriginal-150096-pe.html"
+    },
+    "8713": {
+      "slug": "br-federal-decreto-2016-04-15-8713",
+      "capturado_em": "2026-11-04T20:27:18Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8713-15-abril-2016-782902-publicacaooriginal-150113-pe.html"
+    },
+    "8714": {
+      "slug": "br-federal-decreto-2016-04-15-8714",
+      "capturado_em": "2026-11-04T20:27:25Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8714-15-abril-2016-782903-publicacaooriginal-150115-pe.html"
+    },
+    "8715": {
+      "slug": "br-federal-decreto-2016-04-19-8715",
+      "capturado_em": "2026-11-04T20:27:32Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8715-19-abril-2016-782921-publicacaooriginal-150134-pe.html"
+    },
+    "8717": {
+      "slug": "br-federal-decreto-2016-04-25-8717",
+      "capturado_em": "2026-11-04T20:27:38Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8717-25-abril-2016-782929-publicacaooriginal-150155-pe.html"
+    },
+    "8718": {
+      "slug": "br-federal-decreto-2016-04-25-8718",
+      "capturado_em": "2026-11-04T20:27:45Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8718-25-abril-2016-782928-publicacaooriginal-150154-pe.html"
+    },
+    "8721": {
+      "slug": "br-federal-decreto-2016-04-27-8721",
+      "capturado_em": "2026-11-04T20:27:51Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8721-27-abril-2016-782940-publicacaooriginal-150178-pe.html"
+    },
+    "8722": {
+      "slug": "br-federal-decreto-2016-04-27-8722",
+      "capturado_em": "2026-11-04T20:27:58Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8722-27-abril-2016-782941-publicacaooriginal-150180-pe.html"
+    },
+    "8728": {
+      "slug": "br-federal-decreto-2016-04-28-8728",
+      "capturado_em": "2026-11-04T20:28:04Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8728-28-abril-2016-782952-publicacaooriginal-150198-pe.html"
+    },
+    "8729": {
+      "slug": "br-federal-decreto-2016-04-28-8729",
+      "capturado_em": "2026-11-04T20:28:11Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8729-28-abril-2016-782953-publicacaooriginal-150200-pe.html"
+    },
+    "8730": {
+      "slug": "br-federal-decreto-2016-04-29-8730",
+      "capturado_em": "2026-11-04T20:28:17Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8730-29-abril-2016-782957-publicacaooriginal-150208-pe.html"
+    },
+    "8734": {
+      "slug": "br-federal-decreto-2016-05-02-8734",
+      "capturado_em": "2026-11-04T20:28:24Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8734-2-maio-2016-782981-publicacaooriginal-150225-pe.html"
+    },
+    "8736": {
+      "slug": "br-federal-decreto-2016-05-03-8736",
+      "capturado_em": "2026-11-04T20:28:31Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8736-3-maio-2016-782992-publicacaooriginal-150240-pe.html"
+    },
+    "8744": {
+      "slug": "br-federal-decreto-2016-05-05-8744",
+      "capturado_em": "2026-11-04T20:28:37Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8744-5-maio-2016-783017-publicacaooriginal-150272-pe.html"
+    },
+    "8760": {
+      "slug": "br-federal-decreto-2016-05-10-8760",
+      "capturado_em": "2026-11-04T20:28:55Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8760-10-maio-2016-783059-publicacaooriginal-150320-pe.html"
+    },
+    "8766": {
+      "slug": "br-federal-decreto-2016-05-11-8766",
+      "capturado_em": "2026-11-04T20:29:07Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8766-11-maio-2016-783091-publicacaooriginal-150355-pe.html"
+    },
+    "8772": {
+      "slug": "br-federal-decreto-2016-05-11-8772",
+      "capturado_em": "2026-11-04T20:29:18Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8772-11-maio-2016-783077-publicacaooriginal-150340-pe.html"
+    },
+    "8781": {
+      "slug": "br-federal-decreto-2016-05-30-8781",
+      "capturado_em": "2026-11-04T20:29:27Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8781-30-maio-2016-783155-publicacaooriginal-150443-pe.html"
+    },
+    "8782": {
+      "slug": "br-federal-decreto-2016-06-01-8782",
+      "capturado_em": "2026-11-04T20:29:33Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8782-1-junho-2016-783174-publicacaooriginal-150474-pe.html"
+    },
+    "8784": {
+      "slug": "br-federal-decreto-2016-06-07-8784",
+      "capturado_em": "2026-11-04T20:29:38Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8784-7-junho-2016-783213-publicacaooriginal-150514-pe.html"
+    },
+    "8791": {
+      "slug": "br-federal-decreto-2016-06-29-8791",
+      "capturado_em": "2026-11-04T20:29:48Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8791-29-junho-2016-783287-publicacaooriginal-150678-pe.html"
+    },
+    "8793": {
+      "slug": "br-federal-decreto-2016-06-29-8793",
+      "capturado_em": "2026-11-04T20:29:54Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8793-29-junho-2016-783289-publicacaooriginal-150681-pe.html"
+    },
+    "8797": {
+      "slug": "br-federal-decreto-2016-06-30-8797",
+      "capturado_em": "2026-11-04T20:29:59Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8797-30-junho-2016-783295-publicacaooriginal-150687-pe.html"
+    },
+    "8799": {
+      "slug": "br-federal-decreto-2016-07-06-8799",
+      "capturado_em": "2026-11-04T20:30:05Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8799-6-julho-2016-783322-publicacaooriginal-150725-pe.html"
+    },
+    "8801": {
+      "slug": "br-federal-decreto-2016-07-06-8801",
+      "capturado_em": "2026-11-04T20:30:10Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8801-6-julho-2016-783324-publicacaooriginal-150727-pe.html"
+    },
+    "8802": {
+      "slug": "br-federal-decreto-2016-07-06-8802",
+      "capturado_em": "2026-11-04T20:30:15Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8802-6-julho-2016-783326-publicacaooriginal-150729-pe.html"
+    },
+    "8808": {
+      "slug": "br-federal-decreto-2016-07-15-8808",
+      "capturado_em": "2026-11-04T20:30:21Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8808-15-julho-2016-783374-publicacaooriginal-150794-pe.html"
+    },
+    "8811": {
+      "slug": "br-federal-decreto-2016-07-18-8811",
+      "capturado_em": "2026-11-04T20:30:27Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8811-18-julho-2016-783377-publicacaooriginal-150799-pe.html"
+    },
+    "8812": {
+      "slug": "br-federal-decreto-2016-07-18-8812",
+      "capturado_em": "2026-11-04T20:30:33Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8812-18-julho-2016-783378-publicacaooriginal-150800-pe.html"
+    },
+    "8813": {
+      "slug": "br-federal-decreto-2016-07-18-8813",
+      "capturado_em": "2026-11-04T20:30:39Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8813-18-julho-2016-783379-publicacaooriginal-150801-pe.html"
+    },
+    "8814": {
+      "slug": "br-federal-decreto-2016-07-18-8814",
+      "capturado_em": "2026-11-04T20:30:44Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8814-18-julho-2016-783380-publicacaooriginal-150802-pe.html"
+    },
+    "8817": {
+      "slug": "br-federal-decreto-2016-07-21-8817",
+      "capturado_em": "2026-11-04T20:30:49Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8817-21-julho-2016-783393-publicacaooriginal-150820-pe.html"
+    },
+    "8818": {
+      "slug": "br-federal-decreto-2016-07-21-8818",
+      "capturado_em": "2026-11-04T20:30:54Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8818-21-julho-2016-783394-publicacaooriginal-150822-pe.html"
+    },
+    "8819": {
+      "slug": "br-federal-decreto-2016-07-21-8819",
+      "capturado_em": "2026-11-04T20:30:59Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8819-21-julho-2016-783395-publicacaooriginal-150824-pe.html"
+    },
+    "8822": {
+      "slug": "br-federal-decreto-2016-07-27-8822",
+      "capturado_em": "2026-11-04T20:31:03Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8822-27-julho-2016-783446-publicacaooriginal-150876-pe.html"
+    },
+    "8823": {
+      "slug": "br-federal-decreto-2016-07-28-8823",
+      "capturado_em": "2026-11-04T20:31:07Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8823-28-julho-2016-783450-publicacaooriginal-150883-pe.html"
+    },
+    "8824": {
+      "slug": "br-federal-decreto-2016-07-29-8824",
+      "capturado_em": "2026-11-04T20:31:11Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8824-29-julho-2016-783459-publicacaooriginal-150897-pe.html"
+    },
+    "8825": {
+      "slug": "br-federal-decreto-2016-07-29-8825",
+      "capturado_em": "2026-11-04T20:31:14Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8825-29-julho-2016-783455-publicacaooriginal-150890-pe.html"
+    },
+    "8826": {
+      "slug": "br-federal-decreto-2016-07-29-8826",
+      "capturado_em": "2026-11-04T20:31:18Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8826-29-julho-2016-783456-publicacaooriginal-150891-pe.html"
+    },
+    "8827": {
+      "slug": "br-federal-decreto-2016-08-01-8827",
+      "capturado_em": "2026-11-04T20:31:22Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8827-1-agosto-2016-783467-publicacaooriginal-150916-pe.html"
+    },
+    "8829": {
+      "slug": "br-federal-decreto-2016-08-03-8829",
+      "capturado_em": "2026-11-04T20:31:26Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8829-3-agosto-2016-783479-publicacaooriginal-150928-pe.html"
+    },
+    "8831": {
+      "slug": "br-federal-decreto-2016-08-04-8831",
+      "capturado_em": "2026-11-04T20:31:29Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8831-4-agosto-2016-783481-publicacaooriginal-150933-pe.html"
+    },
+    "8833": {
+      "slug": "br-federal-decreto-2016-08-04-8833",
+      "capturado_em": "2026-11-04T20:31:32Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8833-4-agosto-2016-783483-publicacaooriginal-150935-pe.html"
+    },
+    "8836": {
+      "slug": "br-federal-decreto-2016-08-15-8836",
+      "capturado_em": "2026-11-04T20:31:36Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8836-15-agosto-2016-783502-publicacaooriginal-150957-pe.html"
+    },
+    "8837": {
+      "slug": "br-federal-decreto-2016-08-17-8837",
+      "capturado_em": "2026-11-04T20:31:41Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8837-17-agosto-2016-783506-publicacaooriginal-150963-pe.html"
+    },
+    "8838": {
+      "slug": "br-federal-decreto-2016-08-17-8838",
+      "capturado_em": "2026-11-04T20:31:45Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8838-17-agosto-2016-783507-publicacaooriginal-150965-pe.html"
+    },
+    "8839": {
+      "slug": "br-federal-decreto-2016-08-17-8839",
+      "capturado_em": "2026-11-04T20:31:48Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8839-17-agosto-2016-783508-publicacaooriginal-150966-pe.html"
+    },
+    "8842": {
+      "slug": "br-federal-decreto-2016-08-29-8842",
+      "capturado_em": "2026-11-04T20:31:51Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8842-29-agosto-2016-783545-publicacaooriginal-150996-pe.html"
+    },
+    "8844": {
+      "slug": "br-federal-decreto-2016-09-01-8844",
+      "capturado_em": "2026-11-04T20:31:53Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8844-1-setembro-2016-783561-publicacaooriginal-151012-pe.html"
+    },
+    "8845": {
+      "slug": "br-federal-decreto-2016-09-01-8845",
+      "capturado_em": "2026-11-04T20:31:56Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8845-1-setembro-2016-783562-publicacaooriginal-151013-pe.html"
+    },
+    "8847": {
+      "slug": "br-federal-decreto-2016-09-06-8847",
+      "capturado_em": "2026-11-04T20:32:00Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8847-6-setembro-2016-783584-publicacaooriginal-151034-pe.html"
+    },
+    "8852": {
+      "slug": "br-federal-decreto-2016-09-20-8852",
+      "capturado_em": "2026-11-04T20:32:09Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8852-20-setembro-2016-783634-publicacaooriginal-151102-pe.html"
+    },
+    "8854": {
+      "slug": "br-federal-decreto-2016-09-22-8854",
+      "capturado_em": "2026-11-04T20:32:13Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8854-22-setembro-2016-783651-publicacaooriginal-151118-pe.html"
+    },
+    "8856": {
+      "slug": "br-federal-decreto-2016-09-26-8856",
+      "capturado_em": "2026-11-04T20:32:18Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8856-26-setembro-2016-783656-publicacaooriginal-151128-pe.html"
+    },
+    "8857": {
+      "slug": "br-federal-decreto-2016-09-26-8857",
+      "capturado_em": "2026-11-04T20:32:23Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8857-26-setembro-2016-783657-publicacaooriginal-151129-pe.html"
+    },
+    "8864": {
+      "slug": "br-federal-decreto-2016-09-29-8864",
+      "capturado_em": "2026-11-04T20:32:29Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8864-29-setembro-2016-783669-publicacaooriginal-151146-pe.html"
+    },
+    "8866": {
+      "slug": "br-federal-decreto-2016-10-03-8866",
+      "capturado_em": "2026-11-04T20:32:36Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8866-3-outubro-2016-783690-publicacaooriginal-151168-pe.html"
+    },
+    "8867": {
+      "slug": "br-federal-decreto-2016-10-03-8867",
+      "capturado_em": "2026-11-04T20:32:43Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8867-3-outubro-2016-783691-publicacaooriginal-151170-pe.html"
+    },
+    "8868": {
+      "slug": "br-federal-decreto-2016-10-04-8868",
+      "capturado_em": "2026-11-04T20:32:49Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8868-4-outubro-2016-783698-publicacaooriginal-151175-pe.html"
+    },
+    "8871": {
+      "slug": "br-federal-decreto-2016-10-06-8871",
+      "capturado_em": "2026-11-04T20:32:55Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8871-6-outubro-2016-783709-publicacaooriginal-151188-pe.html"
+    },
+    "8872": {
+      "slug": "br-federal-decreto-2016-10-10-8872",
+      "capturado_em": "2026-11-04T20:33:00Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8872-10-outubro-2016-783733-publicacaooriginal-151213-pe.html"
+    },
+    "8877": {
+      "slug": "br-federal-decreto-2016-10-18-8877",
+      "capturado_em": "2026-11-04T20:33:06Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8877-18-outubro-2016-783793-publicacaooriginal-151265-pe.html"
+    },
+    "8878": {
+      "slug": "br-federal-decreto-2016-10-19-8878",
+      "capturado_em": "2026-11-04T20:33:10Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8878-19-outubro-2016-783796-publicacaooriginal-151268-pe.html"
+    },
+    "8879": {
+      "slug": "br-federal-decreto-2016-10-19-8879",
+      "capturado_em": "2026-11-04T20:33:15Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8879-19-outubro-2016-783797-publicacaooriginal-151270-pe.html"
+    },
+    "8880": {
+      "slug": "br-federal-decreto-2016-10-19-8880",
+      "capturado_em": "2026-11-04T20:33:18Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8880-19-outubro-2016-783798-publicacaooriginal-151272-pe.html"
+    },
+    "8882": {
+      "slug": "br-federal-decreto-2016-10-19-8882",
+      "capturado_em": "2026-11-04T20:33:22Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8882-19-outubro-2016-783800-publicacaooriginal-151275-pe.html"
+    },
+    "8883": {
+      "slug": "br-federal-decreto-2016-10-19-8883",
+      "capturado_em": "2026-11-04T20:33:26Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8883-19-outubro-2016-783801-publicacaooriginal-151277-pe.html"
+    },
+    "8885": {
+      "slug": "br-federal-decreto-2016-10-24-8885",
+      "capturado_em": "2026-11-04T20:33:30Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8885-24-outubro-2016-783829-publicacaooriginal-151309-pe.html"
+    },
+    "8886": {
+      "slug": "br-federal-decreto-2016-10-24-8886",
+      "capturado_em": "2026-11-04T20:33:33Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8886-24-outubro-2016-783830-publicacaooriginal-151310-pe.html"
+    },
+    "8888": {
+      "slug": "br-federal-decreto-2016-10-26-8888",
+      "capturado_em": "2026-11-04T20:33:36Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8888-26-outubro-2016-783837-publicacaooriginal-151319-pe.html"
+    },
+    "8889": {
+      "slug": "br-federal-decreto-2016-10-26-8889",
+      "capturado_em": "2026-11-04T20:33:39Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8889-26-outubro-2016-783838-publicacaooriginal-151321-pe.html"
+    },
+    "8890": {
+      "slug": "br-federal-decreto-2016-10-27-8890",
+      "capturado_em": "2026-11-04T20:33:42Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8890-27-outubro-2016-783852-publicacaooriginal-151332-pe.html"
+    },
+    "8891": {
+      "slug": "br-federal-decreto-2016-10-27-8891",
+      "capturado_em": "2026-11-04T20:33:44Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8891-27-outubro-2016-783853-publicacaooriginal-151335-pe.html"
+    },
+    "8894": {
+      "slug": "br-federal-decreto-2016-11-03-8894",
+      "capturado_em": "2026-11-04T20:33:46Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8894-3-novembro-2016-783880-publicacaooriginal-151353-pe.html"
+    },
+    "8896": {
+      "slug": "br-federal-decreto-2016-11-04-8896",
+      "capturado_em": "2026-11-04T20:33:48Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8896-4-novembro-2016-783882-publicacaooriginal-151357-pe.html"
+    },
+    "8901": {
+      "slug": "br-federal-decreto-2016-11-10-8901",
+      "capturado_em": "2026-11-04T20:33:50Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8901-10-novembro-2016-783905-publicacaooriginal-151388-pe.html"
+    },
+    "8902": {
+      "slug": "br-federal-decreto-2016-11-10-8902",
+      "capturado_em": "2026-11-04T20:33:51Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8902-10-novembro-2016-783906-publicacaooriginal-151390-pe.html"
+    },
+    "8904": {
+      "slug": "br-federal-decreto-2016-11-17-8904",
+      "capturado_em": "2026-11-04T20:33:54Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8904-17-novembro-2016-783916-publicacaooriginal-151402-pe.html"
+    },
+    "8905": {
+      "slug": "br-federal-decreto-2016-11-17-8905",
+      "capturado_em": "2026-11-04T20:33:56Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8905-17-novembro-2016-783917-publicacaooriginal-151404-pe.html"
+    },
+    "8907": {
+      "slug": "br-federal-decreto-2016-11-22-8907",
+      "capturado_em": "2026-11-04T20:33:59Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8907-22-novembro-2016-783919-publicacaooriginal-151407-pe.html"
+    },
+    "8908": {
+      "slug": "br-federal-decreto-2016-11-22-8908",
+      "capturado_em": "2026-11-04T20:34:02Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8908-22-novembro-2016-783920-publicacaooriginal-151409-pe.html"
+    },
+    "8909": {
+      "slug": "br-federal-decreto-2016-11-22-8909",
+      "capturado_em": "2026-11-04T20:34:05Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8909-22-novembro-2016-783923-publicacaooriginal-151412-pe.html"
+    },
+    "8910": {
+      "slug": "br-federal-decreto-2016-11-22-8910",
+      "capturado_em": "2026-11-04T20:34:08Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8910-22-novembro-2016-783927-publicacaooriginal-151417-pe.html"
+    },
+    "8912": {
+      "slug": "br-federal-decreto-2016-11-22-8912",
+      "capturado_em": "2026-11-04T20:34:10Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8912-22-novembro-2016-783931-publicacaooriginal-151422-pe.html"
+    },
+    "8913": {
+      "slug": "br-federal-decreto-2016-11-23-8913",
+      "capturado_em": "2026-11-04T20:34:12Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8913-23-novembro-2016-783935-publicacaooriginal-151428-pe.html"
+    },
+    "8917": {
+      "slug": "br-federal-decreto-2016-11-29-8917",
+      "capturado_em": "2026-11-04T20:34:15Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8917-29-novembro-2016-783959-publicacaooriginal-151461-pe.html"
+    },
+    "8919": {
+      "slug": "br-federal-decreto-2016-11-30-8919",
+      "capturado_em": "2026-11-04T20:34:18Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8919-30-novembro-2016-783967-publicacaooriginal-151470-pe.html"
+    },
+    "8920": {
+      "slug": "br-federal-decreto-2016-11-30-8920",
+      "capturado_em": "2026-11-04T20:34:21Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8920-30-novembro-2016-783971-publicacaooriginal-151474-pe.html"
+    },
+    "8921": {
+      "slug": "br-federal-decreto-2016-11-30-8921",
+      "capturado_em": "2026-11-04T20:34:25Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8921-30-novembro-2016-783972-publicacaooriginal-151476-pe.html"
+    },
+    "8922": {
+      "slug": "br-federal-decreto-2016-11-30-8922",
+      "capturado_em": "2026-11-04T20:34:29Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8922-30-novembro-2016-783973-publicacaooriginal-151477-pe.html"
+    },
+    "8923": {
+      "slug": "br-federal-decreto-2016-11-30-8923",
+      "capturado_em": "2026-11-04T20:34:35Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8923-30-novembro-2016-783976-publicacaooriginal-151482-pe.html"
+    },
+    "8926": {
+      "slug": "br-federal-decreto-2016-12-08-8926",
+      "capturado_em": "2026-11-04T20:34:41Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8926-8-dezembro-2016-784003-publicacaooriginal-151511-pe.html"
+    },
+    "8927": {
+      "slug": "br-federal-decreto-2016-12-08-8927",
+      "capturado_em": "2026-11-04T20:34:47Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8927-8-dezembro-2016-784004-publicacaooriginal-151513-pe.html"
+    },
+    "8931": {
+      "slug": "br-federal-decreto-2016-12-14-8931",
+      "capturado_em": "2026-11-04T20:34:54Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8931-14-dezembro-2016-784020-publicacaooriginal-151546-pe.html"
+    },
+    "8932": {
+      "slug": "br-federal-decreto-2016-12-14-8932",
+      "capturado_em": "2026-11-04T20:35:01Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8932-14-dezembro-2016-784021-publicacaooriginal-151548-pe.html"
+    },
+    "8933": {
+      "slug": "br-federal-decreto-2016-12-16-8933",
+      "capturado_em": "2026-11-04T20:35:07Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8933-16-dezembro-2016-784053-publicacaooriginal-151593-pe.html"
+    },
+    "8937": {
+      "slug": "br-federal-decreto-2016-12-19-8937",
+      "capturado_em": "2026-11-04T20:35:14Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8937-19-dezembro-2016-784066-publicacaooriginal-151610-pe.html"
+    },
+    "8944": {
+      "slug": "br-federal-decreto-2016-12-27-8944",
+      "capturado_em": "2026-11-04T20:35:21Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8944-27-dezembro-2016-784145-publicacaooriginal-151749-pe.html"
+    },
+    "8946": {
+      "slug": "br-federal-decreto-2016-12-28-8946",
+      "capturado_em": "2026-11-04T20:35:28Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8946-28-dezembro-2016-784152-publicacaooriginal-151762-pe.html"
+    },
+    "8947": {
+      "slug": "br-federal-decreto-2016-12-28-8947",
+      "capturado_em": "2026-11-04T20:35:34Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8947-28-dezembro-2016-784153-publicacaooriginal-151764-pe.html"
+    },
+    "8949": {
+      "slug": "br-federal-decreto-2016-12-29-8949",
+      "capturado_em": "2026-11-04T20:35:41Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8949-29-dezembro-2016-784161-publicacaooriginal-151779-pe.html"
+    },
+    "8950": {
+      "slug": "br-federal-decreto-2016-12-29-8950",
+      "capturado_em": "2026-11-04T20:35:47Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8950-29-dezembro-2016-784157-publicacaooriginal-151772-pe.html"
+    },
+    "8956": {
+      "slug": "br-federal-decreto-2017-01-12-8956",
+      "capturado_em": "2026-11-04T20:35:57Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8956-12-janeiro-2017-784173-publicacaooriginal-151805-pe.html"
+    },
+    "8959": {
+      "slug": "br-federal-decreto-2017-01-16-8959",
+      "capturado_em": "2026-11-04T20:36:09Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8959-16-janeiro-2017-784176-publicacaooriginal-151815-pe.html"
+    },
+    "8964": {
+      "slug": "br-federal-decreto-2017-01-18-8964",
+      "capturado_em": "2026-11-04T20:36:21Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8964-18-janeiro-2017-784183-publicacaooriginal-151829-pe.html"
+    },
+    "8965": {
+      "slug": "br-federal-decreto-2017-01-19-8965",
+      "capturado_em": "2026-11-04T20:36:27Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8965-19-janeiro-2017-784188-publicacaooriginal-151833-pe.html"
+    },
+    "8968": {
+      "slug": "br-federal-decreto-2017-01-23-8968",
+      "capturado_em": "2026-11-04T20:36:33Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8968-23-janeiro-2017-784197-publicacaooriginal-151849-pe.html"
+    },
+    "8969": {
+      "slug": "br-federal-decreto-2017-01-23-8969",
+      "capturado_em": "2026-11-04T20:36:39Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8969-23-janeiro-2017-784201-publicacaooriginal-151854-pe.html"
+    },
+    "8973": {
+      "slug": "br-federal-decreto-2017-01-24-8973",
+      "capturado_em": "2026-11-04T20:36:45Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8973-24-janeiro-2017-784204-publicacaooriginal-151856-pe.html"
+    },
+    "8974": {
+      "slug": "br-federal-decreto-2017-01-24-8974",
+      "capturado_em": "2026-11-04T20:36:49Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8974-24-janeiro-2017-784205-publicacaooriginal-151858-pe.html"
+    },
+    "8975": {
+      "slug": "br-federal-decreto-2017-01-24-8975",
+      "capturado_em": "2026-11-04T20:36:55Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8975-24-janeiro-2017-784206-publicacaooriginal-151860-pe.html"
+    },
+    "8976": {
+      "slug": "br-federal-decreto-2017-01-24-8976",
+      "capturado_em": "2026-11-04T20:36:59Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8976-24-janeiro-2017-784207-publicacaooriginal-151862-pe.html"
+    },
+    "8977": {
+      "slug": "br-federal-decreto-2017-01-30-8977",
+      "capturado_em": "2026-11-04T20:37:05Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8977-30-janeiro-2017-784210-publicacaooriginal-151867-pe.html"
+    },
+    "8979": {
+      "slug": "br-federal-decreto-2017-02-01-8979",
+      "capturado_em": "2026-11-04T20:37:10Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8979-1-fevereiro-2017-784216-publicacaooriginal-151873-pe.html"
+    },
+    "8980": {
+      "slug": "br-federal-decreto-2017-02-01-8980",
+      "capturado_em": "2026-11-04T20:37:15Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8980-1-fevereiro-2017-784217-publicacaooriginal-151874-pe.html"
+    },
+    "8985": {
+      "slug": "br-federal-decreto-2017-02-08-8985",
+      "capturado_em": "2026-11-04T20:37:24Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8985-8-fevereiro-2017-784286-publicacaooriginal-151949-pe.html"
+    },
+    "8988": {
+      "slug": "br-federal-decreto-2017-02-13-8988",
+      "capturado_em": "2026-11-04T20:37:30Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8988-13-fevereiro-2017-784308-publicacaooriginal-151974-pe.html"
+    },
+    "8990": {
+      "slug": "br-federal-decreto-2017-02-15-8990",
+      "capturado_em": "2026-11-04T20:37:34Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8990-15-fevereiro-2017-784332-publicacaooriginal-151996-pe.html"
+    },
+    "8992": {
+      "slug": "br-federal-decreto-2017-02-20-8992",
+      "capturado_em": "2026-11-04T20:37:37Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8992-20-fevereiro-2017-784339-publicacaooriginal-152009-pe.html"
+    },
+    "8993": {
+      "slug": "br-federal-decreto-2017-02-23-8993",
+      "capturado_em": "2026-11-04T20:37:41Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8993-23-fevereiro-2017-784389-publicacaooriginal-152049-pe.html"
+    },
+    "8995": {
+      "slug": "br-federal-decreto-2017-03-02-8995",
+      "capturado_em": "2026-11-04T20:37:43Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8995-2-marco-2017-784398-publicacaooriginal-152059-pe.html"
+    },
+    "8996": {
+      "slug": "br-federal-decreto-2017-03-02-8996",
+      "capturado_em": "2026-11-04T20:37:46Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8996-2-marco-2017-784399-publicacaooriginal-152061-pe.html"
+    },
+    "8998": {
+      "slug": "br-federal-decreto-2017-03-06-8998",
+      "capturado_em": "2026-11-04T20:37:48Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8998-6-marco-2017-784402-publicacaooriginal-152067-pe.html"
+    },
+    "9000": {
+      "slug": "br-federal-decreto-2017-03-08-9000",
+      "capturado_em": "2026-11-04T20:37:50Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-9000-8-marco-2017-784420-publicacaooriginal-152083-pe.html"
+    },
+    "8344": {
+      "slug": "br-federal-decreto-2014-11-13-8344",
+      "capturado_em": "2026-11-04T20:43:33Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8344-13-novembro-2014-779579-publicacaooriginal-145385-pe.html",
+      "via": "camara"
+    },
+    "8347": {
+      "slug": "br-federal-decreto-2014-11-13-8347",
+      "capturado_em": "2026-11-04T20:43:35Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8347-13-novembro-2014-779581-publicacaooriginal-145388-pe.html",
+      "via": "camara"
+    },
+    "8371": {
+      "slug": "br-federal-decreto-2014-12-11-8371",
+      "capturado_em": "2026-11-04T20:43:39Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/D8371.htm",
+      "via": "planalto"
+    },
+    "8706": {
+      "slug": "br-federal-decreto-2016-04-07-8706",
+      "capturado_em": "2026-11-04T20:43:43Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8706.htm",
+      "via": "planalto"
+    },
+    "8748": {
+      "slug": "br-federal-decreto-2016-05-06-8748",
+      "capturado_em": "2026-11-04T20:43:46Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8748.htm",
+      "via": "planalto"
+    },
+    "8751": {
+      "slug": "br-federal-decreto-2016-05-09-8751",
+      "capturado_em": "2026-11-04T20:43:50Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8751.htm",
+      "via": "planalto"
+    },
+    "8765": {
+      "slug": "br-federal-decreto-2016-05-10-8765",
+      "capturado_em": "2026-11-04T20:43:54Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8765.htm",
+      "via": "planalto"
+    },
+    "8767": {
+      "slug": "br-federal-decreto-2016-05-11-8767",
+      "capturado_em": "2026-11-04T20:43:57Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8767.htm",
+      "via": "planalto"
+    },
+    "8774": {
+      "slug": "br-federal-decreto-2016-05-11-8774",
+      "capturado_em": "2026-11-04T20:44:01Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8774.htm",
+      "via": "planalto"
+    },
+    "8785": {
+      "slug": "br-federal-decreto-2016-06-10-8785",
+      "capturado_em": "2026-11-04T20:44:06Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8785.htm",
+      "via": "planalto"
+    },
+    "8848": {
+      "slug": "br-federal-decreto-2016-09-12-8848",
+      "capturado_em": "2026-11-04T20:44:10Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8848.htm",
+      "via": "planalto"
+    },
+    "8849": {
+      "slug": "br-federal-decreto-2016-09-12-8849",
+      "capturado_em": "2026-11-04T20:44:15Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8849.htm",
+      "via": "planalto"
+    },
+    "8952": {
+      "slug": "br-federal-decreto-2017-01-09-8952",
+      "capturado_em": "2026-11-04T20:44:19Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D8952.htm",
+      "via": "planalto"
+    },
+    "8958": {
+      "slug": "br-federal-decreto-2017-01-16-8958",
+      "capturado_em": "2026-11-04T20:44:21Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8958-16-janeiro-2017-784175-publicacaooriginal-151812-pe.html",
+      "via": "camara"
+    },
+    "8960": {
+      "slug": "br-federal-decreto-2017-01-16-8960",
+      "capturado_em": "2026-11-04T20:44:23Z",
+      "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8960-16-janeiro-2017-784177-publicacaooriginal-151821-pe.html",
+      "via": "camara"
+    },
+    "8984": {
+      "slug": "br-federal-decreto-2017-02-08-8984",
+      "capturado_em": "2026-11-04T20:44:27Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D8984.htm",
+      "via": "planalto"
+    },
+    "8986": {
+      "slug": "br-federal-decreto-2017-02-09-8986",
+      "capturado_em": "2026-11-04T20:44:30Z",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D8986.htm",
+      "via": "planalto"
+    }
+  },
+  "failed": {},
+  "updated_em": "2026-11-04T20:44:31Z"
+}

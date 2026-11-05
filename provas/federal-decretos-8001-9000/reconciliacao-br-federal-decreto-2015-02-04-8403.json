@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-02-04-8403",
+  "fonte_principal": "camara-D8403",
+  "sha256_fonte_principal": "22b2d79a2304870a9b27f86136b899163243e14d65c070c2e1fc56ab34b9118d",
+  "sha256_conteudo": "22b2d79a2304870a9b27f86136b899163243e14d65c070c2e1fc56ab34b9118d",
+  "capturado_em": "2026-11-04T20:21:24Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8403-4-fevereiro-2015-780115-publicacaooriginal-146055-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8403.htm.xz",
+  "sha256_snapshot_armazenado": "26c885c8122f5dac87ec713173e46d6794dca9e56f1d33be63e5b9d2e858588c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-02-04-8403",
+    "numero": "8403",
+    "data": "2015-02-04",
+    "titulo_fonte": "DECRETO Nº 8403, DE 4 DE FEVEREIRO DE 2015",
+    "ementa": "FIXA, PARA O EXÉRCITO, OS QUANTITATIVOS DE VAGAS PARA PROMOÇÕES OBRIGATÓRIAS DE OFICIAIS DAS ARMAS, QUADROS E SERVIÇOS QUE MENCIONA, NO ANO-BASE DE 2014.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593823"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

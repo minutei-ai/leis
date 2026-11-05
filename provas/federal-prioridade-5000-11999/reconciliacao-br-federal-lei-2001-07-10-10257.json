@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-2001-07-10-10257",
+  "fonte_principal": "planalto-L10257",
+  "sha256_fonte_principal": "cddda88a05801f9fdd21314fe86a6fa150448f024e753c319193b1ab2765a511",
+  "sha256_conteudo": "490a3c026d7d57d08afcf27ddf5049bf4bacdf48c4f1f52774cc3fdbd0b33027",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10257.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L10257.htm.xz",
+  "sha256_snapshot_armazenado": "92086906d099d91acf07054036cbe6daa9c333c4704385552b1a8fe170a06ee5",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 42040,
+    "caracteres_normalizados_markdown": 42040,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 33,
+    "links": 107,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 389,
+    "artigos": 62,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "55",
+      "56",
+      "57",
+      "57-A",
+      "58"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2001-07-10-10257",
+    "numero": "10257",
+    "data": "2001-07-10",
+    "titulo_fonte": "LEI Nº 10257, DE 10 DE JULHO DE 2001",
+    "ementa": "Regulamenta os arts. 182 e 183 da Constituição Federal, estabelece diretrizes gerais da política urbana e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "552133"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

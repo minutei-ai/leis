@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-02-04-8402",
+  "fonte_principal": "camara-D8402",
+  "sha256_fonte_principal": "250cf849ab5f40c57004b8666f8d3ea314f15ed171c9f08297fd8cc3357b0103",
+  "sha256_conteudo": "250cf849ab5f40c57004b8666f8d3ea314f15ed171c9f08297fd8cc3357b0103",
+  "capturado_em": "2026-11-04T20:21:23Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8402-4-fevereiro-2015-780114-publicacaooriginal-146054-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8402.htm.xz",
+  "sha256_snapshot_armazenado": "cea14d5bc52666fbd869d8625e432b4c37e48c1dae02f2bb787cc7fd4be83e7a",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-02-04-8402",
+    "numero": "8402",
+    "data": "2015-02-04",
+    "titulo_fonte": "DECRETO Nº 8402, DE 4 DE FEVEREIRO DE 2015",
+    "ementa": "FIXA, PARA A AERONÁUTICA, OS QUANTITATIVOS DE VAGAS PARA PROMOÇÕES OBRIGATÓRIAS DE OFICIAIS, PARA OS QUADROS QUE MENCIONA, NO ANO-BASE DE 2014.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593820"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

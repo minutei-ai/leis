@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2013-12-27-12942",
+  "fonte_principal": "planalto-L12942-2013-12-27",
+  "sha256_fonte_principal": "4fa7bf667501cfda628fb5b563c35fdeaabb8c850ece560abd4389ab3cd8b230",
+  "sha256_conteudo": "a2c873c8b3e67e267993fc30e8dd42d190a01e928a7f8c7bceb0b83adca53163",
+  "capturado_em": "2026-11-04T20:51:49Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12942.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12942-2013-12-27.htm.xz",
+  "sha256_snapshot_armazenado": "895ad3f455ddf8caa7e6e29c7e13d3b05c71bcc8ab4b41239936befc1647d87c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 115,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 17,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-12-27-12942",
+    "numero": "12942",
+    "data": "2013-12-27",
+    "titulo_fonte": "LEI Nº 12942, DE 27 DE DEZEMBRO DE 2013",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Fazenda e do Turismo e de Encargos Financeiros da União, crédito especial no valor de R$ 367.260.302,00, para os fins que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591390"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

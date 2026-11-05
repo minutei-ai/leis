@@ -1,0 +1,65 @@
+{
+  "documento": "br-federal-lei-2014-09-24-13031",
+  "fonte_principal": "planalto-L13031-2014-09-24",
+  "sha256_fonte_principal": "e06cbd60dcf47300e21062f9676b30d1a2c00bdf7edd1b580e189b8eda0ceba1",
+  "sha256_conteudo": "8f8d8ec8a360eadf04aa2da313c75c3e62b9173e6e632c1724138ec925967f0d",
+  "capturado_em": "2026-11-04T20:52:14Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13031.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13031-2014-09-24.htm.xz",
+  "sha256_snapshot_armazenado": "0350a07fab3f09491e29d5b0fdb388c0c0f306515c90a22a3565ad4398b39656",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 1,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "desconhecido",
+        "largura": "desconhecido",
+        "altura": "desconhecido",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L130311.jpg",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 15,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-09-24-13031",
+    "numero": "13031",
+    "data": "2014-09-24",
+    "titulo_fonte": "LEI Nº 13031, DE 24 DE SETEMBRO DE 2014",
+    "ementa": "Dispõe sobre a caracterização de símbolo que permita a identificação de local ou serviço habilitado ao uso por pessoas com ostomia, denominado Símbolo Nacional de Pessoa Ostomizada.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584842"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

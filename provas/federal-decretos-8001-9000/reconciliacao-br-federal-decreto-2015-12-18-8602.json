@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-12-18-8602",
+  "fonte_principal": "camara-D8602",
+  "sha256_fonte_principal": "8e552d39c9c6e431a6949a3457a7b2d86567290b07f46ac1e13684c6c095303b",
+  "sha256_conteudo": "8e552d39c9c6e431a6949a3457a7b2d86567290b07f46ac1e13684c6c095303b",
+  "capturado_em": "2026-11-04T20:24:39Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8602-18-dezembro-2015-782134-publicacaooriginal-149004-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8602.htm.xz",
+  "sha256_snapshot_armazenado": "b8c2d461c7d580d677c38c6aed4ce1e8acceed1f9735481571bd5075b59a1e55",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 58,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-12-18-8602",
+    "numero": "8602",
+    "data": "2015-12-18",
+    "titulo_fonte": "DECRETO Nº 8602, DE 18 DE DEZEMBRO DE 2015",
+    "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO EM MATÉRIA DE COMUNICAÇÃO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ORIENTAL DO URUGUAI, FIRMADO EM BRASÍLIA, EM 1º DE ABRIL DE 2005.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414323"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

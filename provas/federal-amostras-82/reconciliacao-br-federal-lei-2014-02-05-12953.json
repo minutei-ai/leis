@@ -1,0 +1,54 @@
+{
+  "documento": "br-federal-lei-2014-02-05-12953",
+  "fonte_principal": "planalto-L12953-2014-02-05",
+  "sha256_fonte_principal": "35bacd6c93931f331cb9bb8c20cb0f3b1402268229eabf2b5c5ba038e3ada2b9",
+  "sha256_conteudo": "90b7e18af728d0f1fd23e8918c761ad0641239f289e2af41354ebdb62726199c",
+  "capturado_em": "2026-11-04T20:52:01Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L12953.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12953-2014-02-05.htm.xz",
+  "sha256_snapshot_armazenado": "8bb7f477e2754ab9ac5c598dc03aba443424362e923fc12145f0c6df11b11c7f",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 5,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 15,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-02-05-12953",
+    "numero": "12953",
+    "data": "2014-02-05",
+    "titulo_fonte": "LEI Nº 12953, DE 5 DE FEVEREIRO DE 2014",
+    "ementa": "Altera o Anexo I à Lei nº 12.593, de 18 de janeiro de 2012, que institui o Plano Plurianual da União para o período de 2012 a 2015.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591401"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

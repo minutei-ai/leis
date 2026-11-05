@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-08-04-8831",
+  "fonte_principal": "camara-D8831",
+  "sha256_fonte_principal": "ff3addc50983f51e5cd6c161c036181a0188e192e21a6b6226a5951579d59ece",
+  "sha256_conteudo": "ff3addc50983f51e5cd6c161c036181a0188e192e21a6b6226a5951579d59ece",
+  "capturado_em": "2026-11-04T20:31:29Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8831-4-agosto-2016-783481-publicacaooriginal-150933-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8831.htm.xz",
+  "sha256_snapshot_armazenado": "c403ad825c7efcb8061ac6ba285030bc80993a702319ca98aa5f96dd5c51e6a6",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 20,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-08-04-8831",
+    "numero": "8831",
+    "data": "2016-08-04",
+    "titulo_fonte": "DECRETO Nº 8831, DE 4 DE AGOSTO DE 2016",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2283 (2016), DE 28 DE ABRIL DE 2016, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE REVOGA O EMBARGO DE ARMAS E O REGIME DE SANÇÕES APLICÁVEIS À COSTA DO MARFIM.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414727"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

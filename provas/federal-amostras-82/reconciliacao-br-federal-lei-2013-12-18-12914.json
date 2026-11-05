@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2013-12-18-12914",
+  "fonte_principal": "planalto-L12914-2013-12-18",
+  "sha256_fonte_principal": "4497970aa5e45716d350241a1430aa58c2a31e65fa74b4ea8c91dea1b01bde97",
+  "sha256_conteudo": "cc68e21e303f28070cf83c3ced32ff18ec123f45023597a03d5b1871498e87a5",
+  "capturado_em": "2026-11-04T20:51:23Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12914.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12914-2013-12-18.htm.xz",
+  "sha256_snapshot_armazenado": "73e09fee6f933697f6fa1562984fb09e8632b22a1b7748978cc7f277f6c0f321",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 378,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 15,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-12-18-12914",
+    "numero": "12914",
+    "data": "2013-12-18",
+    "titulo_fonte": "LEI Nº 12914, DE 18 DE DEZEMBRO DE 2013",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho, do Ministério Público da União e da Secretaria de Portos da Presidência da República, crédito especial no valor de R$ 46.743.678,00, para os fins que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591362"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

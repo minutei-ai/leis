@@ -1,0 +1,100 @@
+{
+  "documento": "br-federal-decreto-2013-09-04-8100",
+  "fonte_principal": "planalto-D8100",
+  "sha256_fonte_principal": "a57755c72fafd88b84b46647c00106bb3cdea1d2c8b2e76e4b83750afe720ddb",
+  "sha256_conteudo": "3b4a72fa2ed84f57898b4c71d016c21965baf786dae4c73c22f59731a52a6cc2",
+  "capturado_em": "2026-11-04T19:28:37Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/D8100.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/D8100.htm.xz",
+  "sha256_snapshot_armazenado": "9f315a7871a7e21a0255c5509e092aea712081c248bfd2e952387a3391e58781",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 789,
+    "links": 10,
+    "tabelas_markdown": 2,
+    "tabelas_html": 6,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 132,
+        "colunas_max": 4,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 14,
+        "colunas_max": 6,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 8,
+        "colunas_max": 6,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 5,
+        "colunas_max": 6,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 12,
+        "colunas_max": 4,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 8,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 208,
+    "artigos": 19,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "15",
+      "16",
+      "17",
+      "18",
+      "19"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-09-04-8100",
+    "numero": "8100",
+    "data": "2013-09-04",
+    "titulo_fonte": "DECRETO Nº 8100, DE 4 DE SETEMBRO DE 2013",
+    "ementa": "Decreto nº 8.100, de 4 de setembro de 2013.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": null
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

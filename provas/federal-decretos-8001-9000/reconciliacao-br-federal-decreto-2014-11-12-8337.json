@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-12-8337",
+  "fonte_principal": "camara-D8337",
+  "sha256_fonte_principal": "d4949a403e6314d572149a44ba9dd9069cb7ac604e0fc3983f0d6879a97d20d0",
+  "sha256_conteudo": "d4949a403e6314d572149a44ba9dd9069cb7ac604e0fc3983f0d6879a97d20d0",
+  "capturado_em": "2026-11-04T20:18:21Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8337-12-novembro-2014-779538-publicacaooriginal-145338-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8337.htm.xz",
+  "sha256_snapshot_armazenado": "4dc23d3a1437ebd2b1625334fe6b524c085c04bd651da4c22704b1e5d007cff3",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 73,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-12-8337",
+    "numero": "8337",
+    "data": "2014-11-12",
+    "titulo_fonte": "DECRETO Nº 8337, DE 12 DE NOVEMBRO DE 2014",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO  DA REPUBLICA FRANCESA NA AREA DA LUTA  CONTRA A EXPLORAÇÃO ILEGAL DO OURO EM ZONAS  PROTEGIDAS OU DE INTERESSE PATRIMONIAL, FIRMADO NO RIO DE JANEIRO, EM 12 DE DEZEMBRO DE 2008.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589157"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

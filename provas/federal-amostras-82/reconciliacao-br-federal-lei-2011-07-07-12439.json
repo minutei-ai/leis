@@ -1,0 +1,65 @@
+{
+  "documento": "br-federal-lei-2011-07-07-12439",
+  "fonte_principal": "planalto-L12439-2011-07-07",
+  "sha256_fonte_principal": "13c13d28df684b057b52144683eb3e3071ef2b70133e7d3ab3db3e0e5d84f14f",
+  "sha256_conteudo": "843da7ed25e2b642d4ff9bf0ab96e8999dff3d41f752b99d909f95c194a09fe8",
+  "capturado_em": "2026-11-04T20:50:32Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12439.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12439-2011-07-07.htm.xz",
+  "sha256_snapshot_armazenado": "87387f2c23d967a6c46d67ed74a950510d3c08b125a410ff49b15bd8b2e3e01c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 1,
+    "tabelas_markdown": 2,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 3,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 22,
+        "colunas_max": 3,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 21,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2011-07-07-12439",
+    "numero": "12439",
+    "data": "2011-07-07",
+    "titulo_fonte": "LEI Nº 12439, DE 7 DE JULHO DE 2011",
+    "ementa": "Cria Cargos em Comissão e Funções Comissionadas no Tribunal Regional do Trabalho da 2ª Região e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585436"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

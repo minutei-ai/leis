@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-05-03-8736",
+  "fonte_principal": "camara-D8736",
+  "sha256_fonte_principal": "84e2c8bc6e87f3a8dee5c7ba221c29e1ba27834fec88ae281369f3daf6c6b350",
+  "sha256_conteudo": "84e2c8bc6e87f3a8dee5c7ba221c29e1ba27834fec88ae281369f3daf6c6b350",
+  "capturado_em": "2026-11-04T20:28:31Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8736-3-maio-2016-782992-publicacaooriginal-150240-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8736.htm.xz",
+  "sha256_snapshot_armazenado": "e3d0bab56527d6e3b5908307cc77a07860bceae7d801b784c326f9bedbbfb7c0",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-05-03-8736",
+    "numero": "8736",
+    "data": "2016-05-03",
+    "titulo_fonte": "DECRETO Nº 8736, DE 3 DE MAIO DE 2016",
+    "ementa": "INSTITUI O PLANO NACIONAL DE JUVENTUDE E SUCESSÃO RURAL.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590371"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

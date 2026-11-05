@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1985-07-24-7347",
+  "fonte_principal": "planalto-L7347",
+  "sha256_fonte_principal": "174b712f960d7300912e62d2647e01e573ba197c303b88e2d90cf36ab142c891",
+  "sha256_conteudo": "c9c79dcacac9260920d66d34ce4f51b92d279a8d1573e9aff8c56a512a8a7e45",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L7347compilada.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L7347.htm.xz",
+  "sha256_snapshot_armazenado": "ef3c61f374ff6bf98a92a78b8169d99bf72589620e9f199e6a208eb58a21c288",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 9309,
+    "caracteres_normalizados_markdown": 9309,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 46,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 68,
+    "artigos": 23,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "19",
+      "20",
+      "21",
+      "22",
+      "23"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1985-07-24-7347",
+    "numero": "7347",
+    "data": "1985-07-24",
+    "titulo_fonte": "LEI Nº 7347, DE 24 DE JULHO DE 1985",
+    "ementa": "Disciplina a ação civil pública de responsabilidade por danos causados ao meio-ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico e dá outras providências.",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "compilado-planalto",
+      "integral": true
+    },
+    "senado_id": null
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

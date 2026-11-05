@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2015-11-26-8578",
+  "fonte_principal": "camara-D8578",
+  "sha256_fonte_principal": "4509a97b8de8638e2d2b3d243c424ef2e88013ba6bf06646d0334d32cdf448c3",
+  "sha256_conteudo": "4509a97b8de8638e2d2b3d243c424ef2e88013ba6bf06646d0334d32cdf448c3",
+  "capturado_em": "2026-11-04T20:24:26Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8578-26-novembro-2015-781964-publicacaooriginal-148753-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8578.htm.xz",
+  "sha256_snapshot_armazenado": "e9a34dc63224add27ac1e0866e6a200402b5a2874190b515edde4190c248f6be",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 42,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "3"
+    ],
+    "ultimos_artigos": [
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-11-26-8578",
+    "numero": "8578",
+    "data": "2015-11-26",
+    "titulo_fonte": "DECRETO Nº 8578, DE 26 DE NOVEMBRO DE 2015",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO E DISPÕE SOBRE A CRIAÇÃO DA COMISSÃO DE TRANSIÇÃO E INVENTARIANÇA DA EXTINTA SECRETARIA DE ASSUNTOS ESTRATÉGICOS DA PRESIDÊNCIA DA REPÚBLICA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593336"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

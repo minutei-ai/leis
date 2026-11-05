@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-02-04-8398",
+  "fonte_principal": "camara-D8398",
+  "sha256_fonte_principal": "c9831d3148797d48de2ffe9d6a0981a52634f1b7c9990724787e71029b27a4d6",
+  "sha256_conteudo": "c9831d3148797d48de2ffe9d6a0981a52634f1b7c9990724787e71029b27a4d6",
+  "capturado_em": "2026-11-04T20:21:16Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8398-4-fevereiro-2015-780110-publicacaooriginal-146050-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8398.htm.xz",
+  "sha256_snapshot_armazenado": "f2f3ab34a37e98103ee17c02f13916725a4bfa51d3b30ed9a3b60e4ce0850406",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-02-04-8398",
+    "numero": "8398",
+    "data": "2015-02-04",
+    "titulo_fonte": "DECRETO Nº 8398, DE 4 DE FEVEREIRO DE 2015",
+    "ementa": "DISTRIBUI O EFETIVO DE OFICIAIS DA AERONÁUTICA EM TEMPO DE PAZ PARA 2015.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593808"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

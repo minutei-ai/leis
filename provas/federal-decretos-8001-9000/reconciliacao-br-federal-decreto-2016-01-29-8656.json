@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2016-01-29-8656",
+  "fonte_principal": "camara-D8656",
+  "sha256_fonte_principal": "f4d54b14b349da03ef210596aa80411f65a2eb3eeeabf4639ed923f4e5a8d43c",
+  "sha256_conteudo": "f4d54b14b349da03ef210596aa80411f65a2eb3eeeabf4639ed923f4e5a8d43c",
+  "capturado_em": "2026-11-04T20:25:15Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8656-29-janeiro-2016-782316-publicacaooriginal-149338-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8656.htm.xz",
+  "sha256_snapshot_armazenado": "8d5c4c68e720c0b8577ed60a7fc8c2d41415774e3ce84d373b81f81a4a5f449c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 13,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "8"
+    ],
+    "ultimos_artigos": [
+      "8"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-01-29-8656",
+    "numero": "8656",
+    "data": "2016-01-29",
+    "titulo_fonte": "DECRETO Nº 8656, DE 29 DE JANEIRO DE 2016",
+    "ementa": "EXCLUI PRODUTOS DO REGIME TRIBUTÁRIO DE QUE TRATA O ART. 1º DA LEI Nº 7.798, DE 10 DE JULHO DE 1989, ALTERA A TABELA DE INCIDÊNCIA DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - TIPI, APROVADA PELO DECRETO Nº 7.660, DE 23 DE DEZEMBRO DE 2011, E ALTERA O DECRETO Nº 7.555, DE 19 DE AGOSTO DE 2011.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584719"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

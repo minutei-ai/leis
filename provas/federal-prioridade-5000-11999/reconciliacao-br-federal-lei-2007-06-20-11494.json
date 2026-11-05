@@ -1,0 +1,352 @@
+{
+  "documento": "br-federal-lei-2007-06-20-11494",
+  "fonte_principal": "planalto-L11494",
+  "sha256_fonte_principal": "f3821678d3c5fe4664c4a3dca95de28bb0e99739a09b76dd05d882a8dc503caf",
+  "sha256_conteudo": "9fa296c34cdf31244c9d7f0d119292705d83c2d486e98aada260c3a79e2e18ed",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L11494.htm.xz",
+  "sha256_snapshot_armazenado": "c4d982374e7ad075174f17e1e8aa35c6d7bdf6c1f74b0ff32cfcc86dcf1a8588",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 51238,
+    "caracteres_normalizados_markdown": 51238,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 391,
+    "links": 109,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "73",
+        "altura": "47",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image002.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "108",
+        "altura": "48",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image004.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "25",
+        "altura": "24",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image006.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "17",
+        "altura": "24",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image008.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "28",
+        "altura": "24",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image010.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "17",
+        "altura": "25",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image012.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "25",
+        "altura": "25",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image014.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "91",
+        "altura": "24",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image016.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "85",
+        "altura": "48",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image018.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "*",
+        "largura": "37",
+        "altura": "23",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image020.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "23",
+        "altura": "25",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image022.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "91",
+        "altura": "24",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image016.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "56",
+        "altura": "25",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image025.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "137",
+        "altura": "27",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image027.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "25",
+        "altura": "27",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image029.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "23",
+        "altura": "25",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image022.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "23",
+        "altura": "25",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image022.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "172",
+        "altura": "25",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image033.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "32",
+        "altura": "25",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image035.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "32",
+        "altura": "24",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image037.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "32",
+        "altura": "24",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image037.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "251",
+        "altura": "49",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image040.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "81",
+        "altura": "49",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image042.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "16",
+        "altura": "24",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image044.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "23",
+        "altura": "25",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image022.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "36",
+        "altura": "25",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image047.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "36",
+        "altura": "24",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image049.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "36",
+        "altura": "24",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image049.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "169",
+        "altura": "51",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image052.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "269",
+        "altura": "51",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image054.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "137",
+        "altura": "27",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image027.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "23",
+        "altura": "27",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image057.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "16",
+        "altura": "15",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image059.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "73",
+        "altura": "23",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image061.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "desconhecido",
+        "largura": "71",
+        "altura": "23",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2007/Lei/L11494_arquivos/image063.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 407,
+    "artigos": 49,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2007-06-20-11494",
+    "numero": "11494",
+    "data": "2007-06-20",
+    "titulo_fonte": "LEI Nº 11494, DE 20 DE JUNHO DE 2007",
+    "ementa": "Regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, de que trata o art. 60 do Ato das Disposições Consti",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "572646"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

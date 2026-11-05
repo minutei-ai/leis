@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2013-06-05-12826",
+  "fonte_principal": "planalto-L12826-2013-06-05",
+  "sha256_fonte_principal": "1ca58273bade78ff9ecccd18b1cc12b86a2da15020202102cf2e22e2a18e87d8",
+  "sha256_conteudo": "75edc3f0091805c5c6404d68b6ee504dbd8d78e47a5b01eea2633704b05791e0",
+  "capturado_em": "2026-11-04T20:50:51Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12826.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12826-2013-06-05.htm.xz",
+  "sha256_snapshot_armazenado": "273b397265f92226ed33abc9b7c16e3009f19937a8fb5a961dac31c7d98ef70f",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 4,
+    "tabelas_markdown": 2,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 28,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 12,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 58,
+    "artigos": 14,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-06-05-12826",
+    "numero": "12826",
+    "data": "2013-06-05",
+    "titulo_fonte": "LEI Nº 12826, DE 5 DE JUNHO DE 2013",
+    "ementa": "Dispõe sobre a criação da Universidade Federal do Cariri - UFCA, por desmembramento da Universidade Federal do Ceará - UFC, e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "588202"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

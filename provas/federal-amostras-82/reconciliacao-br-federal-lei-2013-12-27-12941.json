@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2013-12-27-12941",
+  "fonte_principal": "planalto-L12941-2013-12-27",
+  "sha256_fonte_principal": "3fd1478ff040330655db93d8e31db4d285bb1021d20f21b9e21993768f0c68cd",
+  "sha256_conteudo": "2127aade6433809c42d7665e664a1cf3bf432c1c551a9441b614830114ee82d5",
+  "capturado_em": "2026-11-04T20:51:46Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12941.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12941-2013-12-27.htm.xz",
+  "sha256_snapshot_armazenado": "83b4a31555df0464253434118437fae182df98cb7498b4d01c209055b0529790",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 234,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 15,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-12-27-12941",
+    "numero": "12941",
+    "data": "2013-12-27",
+    "titulo_fonte": "LEI Nº 12941, DE 27 DE DEZEMBRO DE 2013",
+    "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Previdência Social, do Trabalho e Emprego e do Desenvolvimento Social e Combate à Fome, crédito suplementar no valor de R$ 174.731.771,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591389"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

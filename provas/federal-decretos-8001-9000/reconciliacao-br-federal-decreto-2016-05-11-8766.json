@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-05-11-8766",
+  "fonte_principal": "camara-D8766",
+  "sha256_fonte_principal": "70244d2b87dd0aac58bdd2905c25e2cd61ae312647e6db27d09f6a5f7e867bf2",
+  "sha256_conteudo": "70244d2b87dd0aac58bdd2905c25e2cd61ae312647e6db27d09f6a5f7e867bf2",
+  "capturado_em": "2026-11-04T20:29:07Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8766-11-maio-2016-783091-publicacaooriginal-150355-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8766.htm.xz",
+  "sha256_snapshot_armazenado": "fa8f36d23fcac38b0e193086c16245ca8f35655228093bfdad88ae43e5402bdd",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 82,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-05-11-8766",
+    "numero": "8766",
+    "data": "2016-05-11",
+    "titulo_fonte": "DECRETO Nº 8766, DE 11 DE MAIO DE 2016",
+    "ementa": "PROMULGA A CONVENÇÃO INTERAMERICANA SOBRE O DESAPARECIMENTO FORÇADO DE PESSOAS, FIRMADA PELA REPÚBLICA FEDERATIVA DO BRASIL, EM BELÉM, EM 10 DE JUNHO DE 1994.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414644"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

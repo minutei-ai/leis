@@ -1,0 +1,67 @@
+{
+  "documento": "br-federal-lei-2015-09-16-13164",
+  "fonte_principal": "planalto-L13164-2015-09-16",
+  "sha256_fonte_principal": "8e80072a28e992e7f5de4ad2d072753fc45f750a96d21eae52630b279aac5a17",
+  "sha256_conteudo": "f1c627996f3e9db91cc42f3f9320a264afeb5d88208895b1ea98697fd5ec9840",
+  "capturado_em": "2026-11-04T20:52:46Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13164.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13164-2015-09-16.htm.xz",
+  "sha256_snapshot_armazenado": "35c833707725c8ac9777bd3b712ba0537a0bbd745602eb48ca203c2a25ffafc3",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 43,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 14,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2015-09-16-13164",
+    "numero": "13164",
+    "data": "2015-09-16",
+    "titulo_fonte": "LEI Nº 13164, DE 16 DE SETEMBRO DE 2015",
+    "ementa": "Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário, da Defesa e da Integração Nacional, no valor de R$ 904.756.882,00, para os fins que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584976"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

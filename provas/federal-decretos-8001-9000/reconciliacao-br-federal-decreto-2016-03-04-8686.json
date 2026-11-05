@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2016-03-04-8686",
+  "fonte_principal": "camara-D8686",
+  "sha256_fonte_principal": "6da3f0d5f72919bfd2d9f9881a34691c172834860aa490e6bd96de93d67629a3",
+  "sha256_conteudo": "6da3f0d5f72919bfd2d9f9881a34691c172834860aa490e6bd96de93d67629a3",
+  "capturado_em": "2026-11-04T20:26:12Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8686-4-marco-2016-782477-publicacaooriginal-149612-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8686.htm.xz",
+  "sha256_snapshot_armazenado": "6e0e6cba1d310a6e603fff244eabfc91f01ed5844a248888152a0c67f89249ee",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 7,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "3"
+    ],
+    "ultimos_artigos": [
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-03-04-8686",
+    "numero": "8686",
+    "data": "2016-03-04",
+    "titulo_fonte": "DECRETO Nº 8686, DE 4 DE MARÇO DE 2016",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL - INPI.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414491"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}
