@@ -131,10 +131,10 @@
     "federal/br-federal-emenda-constitucional-1995-08-15-6.md": "89498952cf3b1fbde2d49239286ce0e2bcb4944fb2d31852e66f8f8dea64b615",
     "federal/br-federal-emenda-constitucional-1995-08-15-7.md": "67faf608cccbc6b61adbe77b91d96a49fd1bd4a9e9f64c86821f30b843fa27b3",
     "federal/br-federal-emenda-constitucional-1995-08-15-8.md": "d96036d5f94ea96b7ce46cf8d452ff5f739a4db46dcb33049345bdd3a3e8c42c",
-    "federal/br-federal-emenda-constitucional-1995-11-09-9.md": "e7ad0e3e44bdc72b3901d6386a09d44e65fadbb272d797d4845116d90ead40ac",
+    "federal/br-federal-emenda-constitucional-1995-11-09-9.md": "285f33b51017962d8acdea2a0e97edeb6047cf9b5e55bed580bda98564158cfa",
     "federal/br-federal-emenda-constitucional-1996-03-04-10.md": "f9ffaa64afacd2f72dbad148321b66e3aaf4158509f628c839389738eaf45610",
     "federal/br-federal-emenda-constitucional-1996-04-30-11.md": "01065890028f51cfc0f88a4c9e374ca085d1c64c1595265b509b54a379bc4e77",
-    "federal/br-federal-emenda-constitucional-1996-08-15-12.md": "71a408fc6804db7055a1072c6b584b403e0e2421a8e71228611cfd36ccedc27c",
+    "federal/br-federal-emenda-constitucional-1996-08-15-12.md": "b7dd99b4a9eaaf0fd6f7f01a30169ab84406d02cb062fe44bb992b6393009a83",
     "federal/br-federal-emenda-constitucional-1996-08-21-13.md": "ca372cbce6e27e080408f916c3d0f7d7db2ad091ff051a094e5a1e64531e30c9",
     "federal/br-federal-emenda-constitucional-1996-09-12-14.md": "d840aafaedfd81e5e2e8b16c75e55dc808b4e98920e6000a4e65d0d91923187f",
     "federal/br-federal-emenda-constitucional-1996-09-12-15.md": "b7df5e296ddaae09a0e6b31251028859c6a87bc672b9ff2bef577ba6230d840b",
@@ -1327,5 +1327,19 @@
     "municipais/4106902/br-municipal-4106902-lei-organica-1990-consolidada-cmc-2014.md": "5dccf518fe188e932888982faf5a4d50a3ac40a1bfaec541905e33ef60129e9f",
     "municipais/4314902/br-municipal-4314902-decreto-2023-05-11-21978.md": "20cfcc95d23c3cac89c5fda4d3c299ccb850d86a7b3aba0ad7f49baaf18cc567",
     "municipais/5208707/br-municipal-5208707-decreto-2024-06-25-2469.md": "9f92b54546ccef0fbf2110f8758c58eb0f4198ed9862d02a12125eb720b03419"
+  },
+  "hashes_atualizados_com_prova_de_conferencia": {
+    "federal/br-federal-emenda-constitucional-1995-11-09-9.md": {
+      "motivo": "Atualizado somente o metadado fonte_conferencia após captura oficial atual; corpo jurídico e proveniência/captura original permanecem inalterados/desconhecidos.",
+      "prova": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/fontes-conferencia.json"
+    },
+    "federal/br-federal-emenda-constitucional-1996-08-15-12.md": {
+      "motivo": "Atualizado somente o metadado fonte_conferencia após captura oficial atual; corpo jurídico e proveniência/captura original permanecem inalterados/desconhecidos.",
+      "prova": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/fontes-conferencia.json"
+    },
+    "federal/br-federal-emenda-constitucional-2004-06-30-44.md": {
+      "motivo": "Atualizado somente o metadado fonte_conferencia após captura oficial atual; corpo jurídico e proveniência/captura original permanecem inalterados/desconhecidos.",
+      "prova": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/fontes-conferencia.json"
+    }
   }
 }

@@ -2,6 +2,8 @@
 from __future__ import annotations
 
 import json
+import hashlib
+import lzma
 import re
 import sys
 import unittest
@@ -88,6 +90,9 @@ class TestEmendasCf1988Serie1141(unittest.TestCase):
         self.assertEqual(ids['nao-recontar-consolidada']['estado'], 'satisfeito')
         self.assertEqual(ids['vinculos-constituicao-adct']['estado'], 'satisfeito')
         self.assertEqual(ids['metadados-edicao-fonte-hashes']['estado'], 'satisfeito')
+        self.assertEqual(ids['textos-integrais-com-dispositivos-autonomos']['estado'], 'satisfeito')
+        self.assertEqual(ids['classificacao-literal-sem-inferencia']['estado'], 'parcial')
+        self.assertEqual(ids['conferencia-atual-das-edicoes-sem-substituicao']['estado'], 'satisfeito')
         # Contagem sozinha não fecha: issue_fechavel permanece false.
         self.assertGreaterEqual(self.criterios['resumo']['satisfeitos'], 5)
 
@@ -140,6 +145,162 @@ class TestEmendasCf1988Serie1141(unittest.TestCase):
         self.assertEqual(sample['estado'], 'mapeado')
         self.assertTrue(sample['arquivo'])
         self.assertTrue(isinstance(sample.get('dispositivos_do_ato'), list))
+        all_articles = [a for item in mapa['itens'] for a in item.get('dispositivos_do_ato', [])]
+        self.assertTrue(all(a.get('trecho_auditado') and a.get('regra_classificacao') for a in all_articles))
+        self.assertTrue(all(
+            a['hierarquia'] == 'texto-exterior-a-citacao'
+            for a in all_articles if a['papel'] in {
+                'altera-cf-ou-adct', 'producao-efeitos-ou-vigencia-textual',
+                'revogacao', 'proibicao-autonoma', 'transitorio-autonomo',
+            }
+        ))
+        self.assertTrue(all(
+            a['hierarquia'] == 'revisao-explicita-sem-inferencia-de-efeito'
+            for a in all_articles if a['papel'] == 'dispositivo-autonomo-regra-nao-classificada'
+        ))
+        review = [a for a in all_articles if a['papel'] == 'dispositivo-autonomo-regra-nao-classificada']
+        self.assertEqual(len(review), 177)
+        self.assertTrue(all(a.get('trecho_auditado') and a.get('regra_classificacao') for a in review))
+        ec31 = next(i for i in mapa['itens'] if i['emenda'] == 31)
+        main_labels = [a['dispositivo'] for a in ec31['dispositivos_do_ato']]
+        self.assertEqual(main_labels, ['Art. 1º', 'Art. 2º'])
+        self.assertEqual(
+            [a['dispositivo'] for a in ec31['dispositivos_do_ato'][0]['redacao_inserida_citada']],
+            ['Art. 79', 'Art. 80', 'Art. 81', 'Art. 82', 'Art. 83'],
+        )
+
+    def test_conferencias_oficiais_cobrem_serie_sem_substituir_legados(self):
+        self.assertEqual(lote.load_reconciled_source_numbers(), set(range(1, 142)))
+        fontes = PROVAS / 'fontes-conferencia'
+        manifesto = json.loads((fontes / 'fontes-conferencia-legados-1-106.json').read_text(encoding='utf-8'))
+        reconciliacao = json.loads((fontes / 'reconciliacao-artigos-legados-1-106.json').read_text(encoding='utf-8'))
+        self.assertEqual(len(manifesto['fontes']), 54)
+        self.assertEqual(reconciliacao['resumo']['emendas_conferidas'], 55)
+        comparisons = {item['emenda']: item for item in reconciliacao['items']}
+        ec1 = comparisons[1]
+        self.assertEqual(ec1['artigos_markdown'], 3)
+        self.assertEqual(ec1['artigos_fonte'], 3)
+        self.assertEqual(
+            {part['componente'] for part in ec1['componentes_comparados']},
+            {'epigrafe', 'ementa', 'preambulo', 'Art. 1', 'Art. 2', 'Art. 3', 'fecho', 'assinaturas'},
+        )
+        self.assertTrue(all(part['sha256_markdown_normalizado'] and part['sha256_fonte_normalizado'] for part in ec1['componentes_comparados']))
+        self.assertTrue(all(part['proveniencia_original_markdown'] == 'desconhecida' for part in manifesto['fontes']))
+
+
+    def test_segmentacao_artigos_ec9_ec12_ec44_e_proibicoes_autonomas(self):
+        expected_articles = {
+            9: ['Art. 1º', 'Art. 2º', 'Art. 3º'],
+            12: ['Art. Único'],
+            44: ['Art. 1º', 'Art. 2º'],
+        }
+        by_number = {item['numero']: item for item in self.matriz['itens']}
+        extracted = {}
+        for number, expected in expected_articles.items():
+            body = lote.body_of((ROOT / by_number[number]['arquivo']).read_text(encoding='utf-8'))
+            extracted[number] = lote.extract_dispositivos_emenda(body)
+            self.assertEqual(
+                [a['dispositivo'] for a in extracted[number]['artigos']],
+                expected,
+                f'EC {number} article heads must survive source indentation and inline HTML',
+            )
+        # Article 8(2) and EC 9(3) state standalone MP prohibitions. EC 7(2)
+        # contains similar wording only inside the CF art. 246 insertion.
+        all_bodies = {}
+        for number in (7, 8):
+            body = lote.body_of((ROOT / by_number[number]['arquivo']).read_text(encoding='utf-8'))
+            all_bodies[number] = lote.extract_dispositivos_emenda(body)
+        ec7 = all_bodies[7]
+        self.assertEqual([a['dispositivo'] for a in ec7['artigos']], ['Art. 1º', 'Art. 2º'])
+        self.assertEqual([a['dispositivo'] for a in ec7['artigos'][0]['redacao_inserida_citada']], ['Art. 178'])
+        self.assertEqual([a['dispositivo'] for a in ec7['artigos'][1]['redacao_inserida_citada']], ['Art. 246'])
+        ec9_art3 = next(a for a in extracted[9]['artigos'] if a['dispositivo'] == 'Art. 3º')
+        ec8_art2 = next(a for a in all_bodies[8]['artigos'] if a['dispositivo'] == 'Art. 2º')
+        ec7_art2 = next(a for a in all_bodies[7]['artigos'] if a['dispositivo'] == 'Art. 2º')
+        self.assertEqual(ec9_art3['papel'], 'proibicao-autonoma')
+        self.assertEqual(ec8_art2['papel'], 'proibicao-autonoma')
+        self.assertNotEqual(ec7_art2['papel'], 'proibicao-autonoma')
+        autonomes9 = lote.extract_dispositivos_autonomos(extracted[9])
+        autonomes8 = lote.extract_dispositivos_autonomos(all_bodies[8])
+        autonomes7 = lote.extract_dispositivos_autonomos(all_bodies[7])
+        self.assertIn('Art. 3º', [a['dispositivo'] for a in autonomes9])
+        self.assertIn('Art. 2º', [a['dispositivo'] for a in autonomes8])
+        self.assertNotIn('Art. 2º', [a['dispositivo'] for a in autonomes7])
+        self.assertEqual(
+            next(a['papel'] for a in extracted[44]['artigos'] if a['dispositivo'] == 'Art. 2º'),
+            'producao-efeitos-ou-vigencia-textual',
+        )
+
+    def test_hierarquia_ec2_ec24_ec31_sem_default_de_efeito(self):
+        by_number = {item['numero']: item for item in self.matriz['itens']}
+        bodies = {
+            n: lote.body_of((ROOT / by_number[n]['arquivo']).read_text(encoding='utf-8'))
+            for n in (2, 10, 24, 31)
+        }
+        ec2 = lote.extract_dispositivos_emenda(bodies[2])
+        ec10 = lote.extract_dispositivos_emenda(bodies[10])
+        ec24 = lote.extract_dispositivos_emenda(bodies[24])
+        ec31 = lote.extract_dispositivos_emenda(bodies[31])
+        self.assertEqual([a['dispositivo'] for a in ec2['artigos']], ['Art. único'])
+        self.assertEqual([a['dispositivo'] for a in ec10['artigos']], ['Art. 1°', 'Art. 2°', 'Art. 3°'])
+        self.assertEqual([a['dispositivo'] for a in ec10['artigos'][0]['redacao_inserida_citada']], ['Art. 71'])
+        self.assertEqual([a['dispositivo'] for a in ec10['artigos'][1]['redacao_inserida_citada']], ['Art. 72'])
+        self.assertEqual([a['dispositivo'] for a in ec24['artigos']], ['Art. 1º', 'Art. 2º', 'Art. 3º', 'Art. 4º'])
+        self.assertEqual([a['dispositivo'] for a in ec31['artigos']], ['Art. 1º', 'Art. 2º'])
+        ec31_art1 = ec31['artigos'][0]
+        self.assertEqual(ec31_art1['papel'], 'altera-cf-ou-adct')
+        self.assertEqual(
+            [a['dispositivo'] for a in ec31_art1['redacao_inserida_citada']],
+            ['Art. 79', 'Art. 80', 'Art. 81', 'Art. 82', 'Art. 83'],
+        )
+        self.assertTrue(all(a['papel'] == 'texto-de-redacao-inserida-citada' for a in ec31_art1['redacao_inserida_citada']))
+        ec24_article1 = next(a for a in ec24['artigos'] if a['dispositivo'] == 'Art. 1º')
+        ec24_article2 = next(a for a in ec24['artigos'] if a['dispositivo'] == 'Art. 2º')
+        self.assertEqual(ec24_article1['papel'], 'altera-cf-ou-adct')
+        self.assertIn('passam a vigorar', ec24_article1['regra_classificacao'])
+        for item in [ec2['artigos'][0], ec24_article2]:
+            self.assertEqual(item['papel'], 'dispositivo-autonomo-regra-nao-classificada')
+            self.assertEqual(item['hierarquia'], 'revisao-explicita-sem-inferencia-de-efeito')
+            self.assertTrue(item['trecho_auditado'])
+            self.assertTrue(item['regra_classificacao'])
+
+    def test_conferencias_atuais_preservam_proveniencia_original_desconhecida(self):
+        conf_dir = PROVAS / 'fontes-conferencia'
+        fontes = json.loads((conf_dir / 'fontes-conferencia.json').read_text(encoding='utf-8'))
+        reconciliacao = json.loads((conf_dir / 'reconciliacao-artigos.json').read_text(encoding='utf-8'))
+        self.assertEqual([f['emenda'] for f in fontes['fontes']], [9, 12, 44])
+        expected_devices = {
+            9: ['Art. 1º', 'Art. 2º', 'Art. 3º'],
+            12: ['Artigo único'],
+            44: ['Art. 1º', 'Art. 2º'],
+        }
+        expected_literal_equality = {9: [False, False, True], 12: [False], 44: [True, True]}
+        comparisons = {item['emenda']: item for item in reconciliacao['items']}
+        for fonte in fontes['fontes']:
+            with self.subTest(emenda=fonte['emenda']):
+                snapshot = ROOT / fonte['snapshot']
+                self.assertTrue(snapshot.is_file())
+                stored = snapshot.read_bytes()
+                self.assertEqual(hashlib.sha256(stored).hexdigest(), fonte['sha256_snapshot_armazenado'])
+                raw = lzma.decompress(stored)
+                self.assertEqual(len(raw), fonte['bytes_fonte'])
+                self.assertEqual(hashlib.sha256(raw).hexdigest(), fonte['sha256_fonte'])
+                self.assertEqual(fonte['proveniencia_original_markdown'], 'desconhecida')
+                comparison = comparisons[fonte['emenda']]
+                self.assertEqual(
+                    [item['dispositivo'] for item in comparison['artigos_comparados']],
+                    expected_devices[fonte['emenda']],
+                )
+                self.assertEqual(
+                    [item['igual_literal'] for item in comparison['artigos_comparados']],
+                    expected_literal_equality[fonte['emenda']],
+                )
+                markdown = ROOT / comparison['arquivo_markdown']
+                metadata = lote.parse_frontmatter(markdown.read_text(encoding='utf-8'))
+                self.assertEqual(metadata['fonte_url'], 'desconhecido')
+                self.assertEqual(metadata['capturado_em'], 'desconhecido')
+                self.assertEqual(metadata['sha256_fonte'], 'desconhecido')
+                self.assertNotEqual(metadata['fonte_conferencia'], 'desconhecido')
 
 
 if __name__ == '__main__':

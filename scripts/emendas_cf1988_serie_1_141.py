@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import html
 import json
 import re
 import sys
@@ -27,6 +28,7 @@ MATRIZ = OUT / 'matriz-serie.json'
 CRITERIOS = OUT / 'matriz-criterios-aceite.json'
 MAPA = OUT / 'mapa-constituicao-adct-dispositivos.json'
 MANIFESTO_FM = OUT / 'manifesto-frontmatter.json'
+FONTES_CONFERENCIA = OUT / 'fontes-conferencia/fontes-conferencia.json'
 CONSTITUICAO = FED / 'br-federal-constituicao-1988-10-05.md'
 LOTE = 'emendas-cf1988-serie-1-141'
 CONTRACT_VERSION = 1
@@ -114,6 +116,8 @@ def has_autonomous_markers(body: str) -> bool:
         return True
     if re.search(r'art\.\s*\d+º?\s*[.—-].{0,100}(vigor|revog|aplica|efeito|transit)', low):
         return True
+    if re.search(r'\bvedad[ao]\b.{0,160}medida provis[oó]ria|\bproibid[ao]\b.{0,160}medida provis[oó]ria', low):
+        return True
     if re.search(r'artigo\s+único|artigo\s+unico|art\.\s*único|art\.\s*unico', low):
         return True
     return False
@@ -135,30 +139,158 @@ def split_cf_adct(text: str) -> tuple[str, str]:
     return text[:m.start()], text[m.start():]
 
 
+def _autonomous_device_role(article_text: str) -> str | None:
+    """Classifica proibições expressas fora de uma cláusula de alteração CF/ADCT."""
+    low = article_text.lower()
+    prohibition = re.search(
+        r'\bvedad[ao]\b.{0,180}medida provis[oó]ria|'
+        r'\bproibid[ao]\b.{0,180}medida provis[oó]ria',
+        low,
+    )
+    if not prohibition:
+        return None
+    # A proibição do EC 7/Art. 2º está dentro do art. 246 incluído na CF. O
+    # mesmo vale para qualquer cláusula que introduz redação constitucional.
+    introduces_cf_text = re.search(
+        r'passa(?:m)? a vigorar|fica(?:m)? inclu[ií]d[oa]s?|inclua-se|'
+        r'acrescent(?:a|e)(?:-se)?|introduz(?:ido|ida)|com a seguinte redação',
+        low,
+    )
+    return None if introduces_cf_text else 'proibicao-autonoma'
+
+
+def extract_dispositivos_autonomos(dispositivos: dict) -> list[dict]:
+    return [
+        artigo for artigo in dispositivos['artigos']
+        if artigo['papel'] in {
+            'producao-efeitos-ou-vigencia-textual',
+            'revogacao',
+            'transitorio-autonomo',
+            'proibicao-autonoma',
+            'dispositivo-autonomo-regra-nao-classificada',
+        }
+    ] + [
+        {'dispositivo': anexo['dispositivo'], 'papel': 'anexo', 'trecho_inicial': anexo['trecho_inicial']}
+        for anexo in dispositivos['anexos']
+    ]
+
+
+def _mask_quoted_text(text: str) -> str:
+    """Masks paired quoted spans while preserving offsets and line boundaries."""
+    chars = list(text)
+    i = 0
+    while i < len(text):
+        opener = text[i]
+        preferred, fallback = {
+            '“': ('”', '"'),
+            '"': ('"', '”'),
+            '‘': ('’', "'"),
+        }.get(opener, (None, None))
+        if preferred is None:
+            i += 1
+            continue
+        j = text.find(preferred, i + 1)
+        if j < 0 and fallback is not None:
+            j = text.find(fallback, i + 1)
+        if j < 0 or j >= len(text):
+            i += 1
+            continue
+        for k in range(i, j + 1):
+            if chars[k] != '\n':
+                chars[k] = ' '
+        i = j + 1
+    return ''.join(chars)
+
+
+def _classify_article(article_text: str) -> tuple[str, str, str]:
+    """Classifies only from literal, unquoted wording; does not infer legal effects."""
+    outer = _mask_quoted_text(article_text)
+    low = outer.lower()
+    amendment = re.search(
+        r'passa(?:m)?\s+a\s+vigorar|fica(?:m)?\s+inclu[ií]d[oa]s?|'
+        r'acrescent(?:a|e)(?:-se)?|é\s+acrescid[oa]|'
+        r'dá\s+nova\s+redação|alter(?:a|am)\s+(?:o|a|os|as)\s+', low,
+    )
+    if amendment:
+        return ('altera-cf-ou-adct', 'expressão operacional literal: ' + outer[amendment.start():amendment.end()].strip(), 'texto-exterior-a-citacao')
+    if re.search(r'entra(?:r)?\s+em\s+vigor|produ[cç][aã]o\s+de\s+efeitos|aplica-se', low):
+        return ('producao-efeitos-ou-vigencia-textual', 'regra literal de vigência/efeitos no artigo', 'texto-exterior-a-citacao')
+    if re.search(r'\brevog(?:a|am|ado|ada|ados|adas)\b', low):
+        return ('revogacao', 'regra literal de revogação no artigo', 'texto-exterior-a-citacao')
+    if re.search(r'\bvedad[ao]\b.{0,180}medida provis[oó]ria|\bproibid[ao]\b.{0,180}medida provis[oó]ria', low):
+        return ('proibicao-autonoma', 'proibição de medida provisória expressa fora de redação inserida', 'texto-exterior-a-citacao')
+    if re.search(r'disposi[cç][oõ]es?\s+transit', low):
+        return ('transitorio-autonomo', 'referência literal a disposições transitórias no artigo', 'texto-exterior-a-citacao')
+    return ('dispositivo-autonomo-regra-nao-classificada', 'artigo principal segmentado fora de aspas; nenhuma regra de classificação literal reconhecida', 'revisao-explicita-sem-inferencia-de-efeito')
+
+
 def extract_dispositivos_emenda(body: str) -> dict:
-    """Extrai dispositivos do ato autônomo sem inferir vigência."""
-    plain = re.sub(r'<[^>]+>', ' ', body)
+    """Segmenta artigos e marca classes literais, sem inferir vigência."""
+    # Inline formatting must not split an article label (`<strong>Art</strong>.`)
+    # or insert spaces into `Artigo Único`. Preserve block boundaries and strip
+    # indentation, which occurs in the inherited EC 9/12/44 bodies.
+    plain = re.sub(r'(?i)<br\b[^>]*>', '\n', body)
+    plain = re.sub(r'(?i)</?(?:p|div|tr|table|li|h[1-6])\b[^>]*>', '\n', plain)
+    plain = re.sub(r'<[^>]+>', '', plain)
+    plain = html.unescape(plain)
     plain = re.sub(r'\*\*|__|`', '', plain)
-    arts = []
-    for m in re.finditer(
-        r'(?im)^(?:#+\s*)?(?:Art(?:igo)?\.?\s*)(único|unico|\d+[ºo°]?)(.*?)(?=^(?:#+\s*)?(?:Art(?:igo)?\.?\s*)(?:único|unico|\d+)|^(?:#+\s*)?ANEXO\b|\Z)',
+    # Some captured HTML places the next main article on the same line as a
+    # closing quotation. Restore that structural boundary before masking the
+    # inserted text, so Article 3 after a quoted Article 1 is still found.
+    plain = re.sub(
+        r'([”"])(?:[ \t]*\([A-Z]+\))?\s+(?=Art(?:igo)?[ \t]*\.?[ \t]*(?:único|unico|\d+[ºo°]?)(?:[ \t]*\.)?\b)',
+        r'\1\n',
         plain,
-        re.S,
-    ):
+    )
+    # Legacy HTML sometimes joins the promulgation preamble and Article 1 in
+    # one paragraph without a block tag.
+    plain = re.sub(
+        r'(?i)(promulgam[^\n]{0,240}:)[ \t]+(?=Art(?:igo)?[ \t]*\.?[ \t]*(?:único|unico|\d+[ºo°]?)(?:[ \t]*\.)?\b)',
+        r'\1\n',
+        plain,
+    )
+    plain = '\n'.join(line.strip() for line in plain.splitlines())
+    article_start = r'(?:Art(?:igo)?[ \t]*\.?[ \t]*)(único|unico|\d+[ºo°]?)'
+    outside_quotes = _mask_quoted_text(plain)
+    starts = list(re.finditer(rf'(?im)^[ \t]*(?:#+[ \t]*)?{article_start}[ \t]*\.?', outside_quotes))
+    annex_starts = [m.start() for m in re.finditer(r'(?im)^[ \t]*(?:#+[ \t]*)?ANEXO\b', outside_quotes)]
+    arts = []
+    for index, m in enumerate(starts):
+        end = starts[index + 1].start() if index + 1 < len(starts) else len(plain)
+        next_annex = next((pos for pos in annex_starts if pos > m.start()), None)
+        if next_annex is not None:
+            end = min(end, next_annex)
+        article_text = plain[m.start():end].strip()
         num = m.group(1)
-        trecho = re.sub(r'\s+', ' ', m.group(0)).strip()[:400]
-        low = trecho.lower()
-        papel = 'altera-cf-ou-adct'
-        if re.search(r'entra(?:r)?\s+em\s+vigor|produ[cç][aã]o\s+de\s+efeitos|aplica-se', low):
-            papel = 'producao-efeitos-ou-vigencia-textual'
-        elif re.search(r'revog|fica(?:m)?\s+revogad', low):
-            papel = 'revogacao'
-        elif re.search(r'disposi[cç][oõ]es?\s+transit', low):
-            papel = 'transitorio-autonomo'
-        elif num.lower() in {'único', 'unico'} and 'passa a vigorar' not in low and 'acrescent' not in low:
-            # artigo único que só altera ainda é o ato; marcar como alteracao se houver redação
-            if 'passa a vigorar' in low or 'acrescent' in low or 'altera' in low:
-                papel = 'altera-cf-ou-adct'
+        trecho = re.sub(r'\s+', ' ', article_text).strip()[:400]
+        papel, regra, hierarquia = _classify_article(article_text)
+        low = article_text.lower()
+        nested_insertions = []
+        for quoted in re.finditer(r'[“\"](.*?)[”\"]', article_text, re.S):
+            introduction = article_text[:quoted.start()].lower()
+            insertion_rule = re.search(
+                r'(?:passa(?:m)?\s+a\s+vigorar|fica(?:m)?\s+inclu[ií]d[oa]s?|'
+                r'acrescent(?:a|e)(?:-se)?|é\s+acrescid[oa]|'
+                r'dá\s+nova\s+redação|com\s+a\s+seguinte\s+redação|'
+                r'(?:os|as)\s+seguintes\s+artigos)',
+                introduction,
+            )
+            if not insertion_rule:
+                continue
+            quoted_text = quoted.group(1)
+            nested_heads = list(re.finditer(
+                r'(?im)^[ \t]*(?:Art(?:igo)?[ \t]*\.?[ \t]*)(único|unico|\d+[ºo°]?)[ \t]*\.?',
+                quoted_text,
+            ))
+            for nested_index, nested in enumerate(nested_heads):
+                nested_end = nested_heads[nested_index + 1].start() if nested_index + 1 < len(nested_heads) else len(quoted_text)
+                nested_insertions.append({
+                    'dispositivo': f'Art. {nested.group(1)}',
+                    'papel': 'texto-de-redacao-inserida-citada',
+                    'hierarquia': 'conteudo-citado-dentro-do-artigo-principal',
+                    'trecho_auditado': re.sub(r'\s+', ' ', quoted_text[nested.start():nested_end]).strip()[:400],
+                    'regra_classificacao': 'cabeçalho dentro de aspas sob expressão literal introdutória: ' + article_text[insertion_rule.start():insertion_rule.end()],
+                })
         alvo = []
         if re.search(r'\bADCT\b|disposi[cç][oõ]es constitucionais transit', low):
             alvo.append('ADCT')
@@ -168,11 +300,15 @@ def extract_dispositivos_emenda(body: str) -> dict:
         arts.append({
             'dispositivo': f'Art. {num}',
             'papel': papel,
+            'regra_classificacao': regra,
+            'hierarquia': hierarquia,
             'alvos_mencionados': alvo or ['desconhecido'],
             'trecho_inicial': trecho[:240],
+            'trecho_auditado': trecho,
+            'redacao_inserida_citada': nested_insertions,
         })
     anexos = []
-    for m in re.finditer(r'(?im)^(?:#+\s*)?ANEXO\b(.*)$', plain):
+    for m in re.finditer(r'(?im)^[ \t]*(?:#+[ \t]*)?ANEXO\b(.*)$', plain):
         anexos.append({'dispositivo': 'ANEXO', 'trecho_inicial': re.sub(r'\s+', ' ', m.group(0)).strip()[:240]})
     return {
         'artigos': arts,
@@ -371,17 +507,7 @@ def build_mapa_vinculos(present: dict[int, dict]) -> dict:
             continue
         body = body_of((ROOT / info['arquivo']).read_text(encoding='utf-8'))
         disp = extract_dispositivos_emenda(body)
-        autonomos = [
-            a for a in disp['artigos']
-            if a['papel'] in {
-                'producao-efeitos-ou-vigencia-textual',
-                'revogacao',
-                'transitorio-autonomo',
-            }
-        ] + [
-            {'dispositivo': a['dispositivo'], 'papel': 'anexo', 'trecho_inicial': a['trecho_inicial']}
-            for a in disp['anexos']
-        ]
+        autonomos = extract_dispositivos_autonomos(disp)
         # Emenda é sempre o ato autônomo; dispositivos que só alteram CF/ADCT também vinculam.
         itens.append({
             'emenda': n,
@@ -413,6 +539,24 @@ def build_mapa_vinculos(present: dict[int, dict]) -> dict:
             'citadas_no_adct': len(cites_adct),
             'com_dispositivos_autonomos_detectados': sum(1 for i in itens if i.get('dispositivos_autonomos')),
             'com_lacuna_segmentacao': sum(1 for i in itens if i.get('lacunas')),
+            'dispositivos_com_revisao_explicita': sum(
+                1 for item in itens for artigo in item.get('dispositivos_do_ato', [])
+                if artigo.get('hierarquia') == 'revisao-explicita-sem-inferencia-de-efeito'
+            ),
+            'redacoes_inseridas_citadas': sum(
+                len(artigo.get('redacao_inserida_citada', []))
+                for item in itens for artigo in item.get('dispositivos_do_ato', [])
+            ),
+            'dispositivos_por_papel': {
+                papel: sum(
+                    1 for item in itens for artigo in item.get('dispositivos_do_ato', [])
+                    if artigo.get('papel') == papel
+                )
+                for papel in sorted({
+                    artigo.get('papel')
+                    for item in itens for artigo in item.get('dispositivos_do_ato', [])
+                })
+            },
         },
         'limites': [
             'Citação na Constituição/ADCT não substitui o texto autônomo da emenda.',
@@ -422,6 +566,75 @@ def build_mapa_vinculos(present: dict[int, dict]) -> dict:
         ],
         'itens': itens,
     }
+
+
+def load_fontes_conferencia_atual() -> dict[int, dict]:
+    """Retorna provas atuais de conferência, sem preencher origem histórica desconhecida."""
+    if not FONTES_CONFERENCIA.is_file():
+        return {}
+    data = json.loads(FONTES_CONFERENCIA.read_text(encoding='utf-8'))
+    return {int(item['emenda']): item for item in data.get('fontes', [])}
+
+
+def load_reconciled_source_numbers() -> set[int]:
+    """Numbers with preserved official captures and article reconciliation."""
+    import lzma
+
+    proven = set()
+    sources = [
+        (PROVAS / 'faixa-001-050/fontes.json', PROVAS / 'faixa-001-050/reconciliacao-camara-planalto.json'),
+        (PROVAS / 'faixa-051-100/fontes.json', PROVAS / 'faixa-051-100'),
+        (PROVAS / 'faixa-101-141/fontes.json', PROVAS / 'faixa-101-141'),
+    ]
+    for source_file, reconciliation in sources:
+        if not source_file.is_file():
+            continue
+        data = json.loads(source_file.read_text(encoding='utf-8'))
+        official_nums = set()
+        for key, value in data.items():
+            match = re.search(r'(?:planalto-emc|camara-ec-)(\d+)', key)
+            if match and value.get('snapshot') and (ROOT / value['snapshot']).is_file():
+                official_nums.add(int(match.group(1)))
+        if reconciliation.is_file():
+            reconciled = set(map(int, json.loads(reconciliation.read_text(encoding='utf-8'))))
+        else:
+            reconciled = {
+                int(match.group(1)) for path in reconciliation.glob('reconciliacao-*.json')
+                if (match := re.search(r'-(\d+)\.json$', path.name))
+            }
+        proven.update(official_nums & reconciled)
+    current = load_fontes_conferencia_atual()
+    rec_path = OUT / 'fontes-conferencia/reconciliacao-artigos.json'
+    if rec_path.is_file():
+        reconciled_current = {int(item['emenda']) for item in json.loads(rec_path.read_text(encoding='utf-8')).get('items', [])}
+        proven.update(n for n, item in current.items() if n in reconciled_current and (ROOT / item['snapshot']).is_file())
+    legacy_manifest_path = OUT / 'fontes-conferencia/fontes-conferencia-legados-1-106.json'
+    legacy_reconciliation_path = OUT / 'fontes-conferencia/reconciliacao-artigos-legados-1-106.json'
+    if legacy_manifest_path.is_file() and legacy_reconciliation_path.is_file():
+        legacy = json.loads(legacy_manifest_path.read_text(encoding='utf-8'))
+        recs = {int(item['emenda']) for item in json.loads(legacy_reconciliation_path.read_text(encoding='utf-8')).get('items', [])}
+        for entry in legacy.get('fontes', []):
+            n = int(entry['emenda'])
+            if n not in recs:
+                continue
+            capture = entry['fonte_legislativa']
+            stored = (ROOT / capture['snapshot']).read_bytes()
+            raw = lzma.decompress(stored)
+            if sha256_bytes(stored) == capture['sha256_snapshot_armazenado'] and sha256_bytes(raw) == capture['sha256_fonte']:
+                proven.add(n)
+    ec1_path = OUT / 'fontes-conferencia/conferencia-senado-ec1.json'
+    if ec1_path.is_file() and legacy_reconciliation_path.is_file():
+        ec1 = json.loads(ec1_path.read_text(encoding='utf-8'))
+        recs = {int(item['emenda']) for item in json.loads(legacy_reconciliation_path.read_text(encoding='utf-8')).get('items', [])}
+        if 1 in recs:
+            valid = True
+            for capture in ec1['capturas'].values():
+                stored = (ROOT / capture['snapshot']).read_bytes()
+                raw = lzma.decompress(stored)
+                valid &= sha256_bytes(stored) == capture['sha256_snapshot_armazenado'] and sha256_bytes(raw) == capture['sha256_fonte']
+            if valid:
+                proven.add(1)
+    return proven
 
 
 def scan() -> dict:
@@ -447,6 +660,7 @@ def scan() -> dict:
             'data': f'{year}-{month}-{day}',
             'arquivo': f'federal/{path.name}',
             'fonte_url': fonte,
+            'fonte_conferencia': meta.get('fonte_conferencia', 'desconhecido'),
             'sha256_markdown': meta.get('sha256_markdown') or sha256_text(body),
             'serie': 'cf-1988',
             'especie': 'emenda-constitucional',
@@ -479,6 +693,18 @@ def scan() -> dict:
     missing = sorted(set(range(1, 142)) - set(present))
 
     mapa = build_mapa_vinculos(present)
+    fontes_conferencia_atual = load_fontes_conferencia_atual()
+    for numero, item in present.items():
+        current = fontes_conferencia_atual.get(numero)
+        if current:
+            item['prova_conferencia_atual'] = {
+                'manifesto': str(FONTES_CONFERENCIA.relative_to(ROOT)),
+                'url': current['url'],
+                'snapshot': current['snapshot'],
+                'sha256_fonte': current['sha256_fonte'],
+                'sha256_snapshot_armazenado': current['sha256_snapshot_armazenado'],
+                'capturado_em': current['capturado_em'],
+            }
     cf_cites = sorted({i['emenda'] for i in mapa['itens'] if i.get('citada_na_constituicao')})
     adct_cites = sorted({i['emenda'] for i in mapa['itens'] if i.get('citada_no_adct')})
     pub = set(present)
@@ -511,11 +737,7 @@ def scan() -> dict:
         )
     )
     # Textos: 141 atos publicados; mapa de dispositivos estruturado.
-    textos_estado = 'satisfeito' if not missing and present else 'pendente'
-    if missing:
-        textos_estado = 'pendente'
-    elif any(i.get('lacunas') for i in mapa['itens']):
-        textos_estado = 'parcial'
+    textos_estado = 'satisfeito' if not missing and present and not mapa['contagem']['com_lacuna_segmentacao'] else 'pendente'
 
     criterios = {
         'issue': 63,
@@ -543,12 +765,53 @@ def scan() -> dict:
                     'arquivos_serie': len(present),
                     'com_marcadores_autonomos': len(present) - len(sem_auton),
                     'sem_marcadores_autonomos_heuristica': sem_auton,
+                    'lacunas_segmentacao': mapa['contagem']['com_lacuna_segmentacao'],
                     'mapa_dispositivos': str(MAPA.relative_to(ROOT)),
+                    'reconciliacao_artigos_fontes_conferidas': str(
+                        (OUT / 'fontes-conferencia/reconciliacao-artigos.json').relative_to(ROOT)
+                    ),
+                    'capturas_oficiais_legados_adicionais': str(
+                        (OUT / 'fontes-conferencia/fontes-conferencia-legados-1-106.json').relative_to(ROOT)
+                    ),
                 },
                 'notas': [
                     'Cada arquivo é o ato autônomo publicado (não só a redação incorporada à CF).',
                     'Dispositivos autônomos/anexos/revogações/efeitos estão no mapa por emenda.',
-                    'Lacunas de segmentação heurística permanecem explícitas no mapa.',
+                    'A conferência literal de EC 9, 12 e 44 está registrada por dispositivo; diferenças tipográficas não alteram o Markdown legado.',
+                    'Cobertura textual mede recuperação e mapeamento dos atos; não certifica equivalência a uma captura histórica.',
+                    'Nenhuma lacuna do mapa é convertida em afirmação de ausência legal sem prova.',
+                ],
+            },
+            {
+                'id': 'classificacao-literal-sem-inferencia',
+                'criterio': 'Expor os trechos e a regra literal de classificação por dispositivo, mantendo os casos não classificados disponíveis para revisão sem inferir efeito jurídico.',
+                'estado': 'parcial' if mapa['contagem']['dispositivos_com_revisao_explicita'] else 'satisfeito',
+                'evidencia': {
+                    'dispositivos_com_trecho_regra_e_hierarquia': sum(
+                        len(item.get('dispositivos_do_ato', [])) for item in mapa['itens']
+                    ),
+                    'revisao_explicita_sem_inferencia': mapa['contagem']['dispositivos_com_revisao_explicita'],
+                    'itens_disponiveis_no_mapa': True,
+                    'mapa': str(MAPA.relative_to(ROOT)),
+                },
+                'notas': [
+                    'Revisão de classificação não reduz a cobertura textual nem remove trechos do mapa.',
+                    'Trechos citados permanecem subordinados ao dispositivo introdutório; não são contados como artigos principais.',
+                ],
+            },
+            {
+                'id': 'conferencia-atual-das-edicoes-sem-substituicao',
+                'criterio': 'Preservar capturas oficiais atuais e confrontos literais sem atribuí-los à proveniência original desconhecida nem substituir silenciosamente textos legados.',
+                'estado': 'parcial' if len(load_reconciled_source_numbers()) < 141 else 'satisfeito',
+                'evidencia': {
+                    'atos_com_captura_oficial_e_reconciliacao_com_hash_validado': len(load_reconciled_source_numbers()),
+                    'total': 141,
+                    'conferencias_adicionais_legadas': str((OUT / 'fontes-conferencia/reconciliacao-artigos-legados-1-106.json').relative_to(ROOT)),
+                    'proveniencia_original_desconhecida_preservada': True,
+                },
+                'notas': [
+                    'Conferência atual é evidência separada; não preenche fonte_url, data ou hash originais desconhecidos.',
+                    'Diferenças literais e pareamentos pendentes permanecem registradas; nenhum corpo legado é substituído por equivalência presumida.',
                 ],
             },
             {
@@ -587,6 +850,7 @@ def scan() -> dict:
                     'sem_contrato_versao_1': sem_contrato,
                     'fonte_url_desconhecida': fonte_desconhecida,
                     'manifesto_frontmatter': str(MANIFESTO_FM.relative_to(ROOT)) if MANIFESTO_FM.is_file() else None,
+                    'conferencias_atuais': str(FONTES_CONFERENCIA.relative_to(ROOT)) if FONTES_CONFERENCIA.is_file() else None,
                     'provas_faixa': [
                         'provas/emendas-cf1988/faixa-001-050/',
                         'provas/emendas-cf1988/faixa-051-100/',
@@ -596,6 +860,7 @@ def scan() -> dict:
                 'notas': [
                     'Frontmatter contrato_versao=1 nos Markdown da série; corpo jurídico preservado.',
                     'Captura original desconhecida permanece explícita (não inventada).',
+                    'Capturas atuais de conferência têm hash próprio e não substituem a proveniência original desconhecida.',
                     'vigencia_certificada permanece false.',
                 ],
             },

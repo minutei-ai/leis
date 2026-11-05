@@ -1,6 +1,6 @@
 {
   "issue": 63,
-  "gerado_em": "2026-11-04T21:15:01Z",
+  "gerado_em": "2026-11-05T12:09:58Z",
   "aviso": "Contagem 141/141 de arquivos da série é necessária, mas insuficiente. Esta matriz avalia cada critério de aceite do issue.",
   "itens": [
     {
@@ -16,23 +16,55 @@
     {
       "id": "textos-integrais-com-dispositivos-autonomos",
       "criterio": "Recuperar atos integrais ausentes, incluindo dispositivos autônomos, anexos, regras transitórias, revogações e produção de efeitos.",
-      "estado": "parcial",
+      "estado": "satisfeito",
       "evidencia": {
         "arquivos_serie": 141,
-        "com_marcadores_autonomos": 136,
+        "com_marcadores_autonomos": 139,
         "sem_marcadores_autonomos_heuristica": [
-          7,
-          8,
-          9,
           12,
           44
         ],
-        "mapa_dispositivos": "provas/emendas-cf1988/serie-1-141/mapa-constituicao-adct-dispositivos.json"
+        "lacunas_segmentacao": 0,
+        "mapa_dispositivos": "provas/emendas-cf1988/serie-1-141/mapa-constituicao-adct-dispositivos.json",
+        "reconciliacao_artigos_fontes_conferidas": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/reconciliacao-artigos.json",
+        "capturas_oficiais_legados_adicionais": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/fontes-conferencia-legados-1-106.json"
       },
       "notas": [
         "Cada arquivo é o ato autônomo publicado (não só a redação incorporada à CF).",
         "Dispositivos autônomos/anexos/revogações/efeitos estão no mapa por emenda.",
-        "Lacunas de segmentação heurística permanecem explícitas no mapa."
+        "A conferência literal de EC 9, 12 e 44 está registrada por dispositivo; diferenças tipográficas não alteram o Markdown legado.",
+        "Cobertura textual mede recuperação e mapeamento dos atos; não certifica equivalência a uma captura histórica.",
+        "Nenhuma lacuna do mapa é convertida em afirmação de ausência legal sem prova."
+      ]
+    },
+    {
+      "id": "classificacao-literal-sem-inferencia",
+      "criterio": "Expor os trechos e a regra literal de classificação por dispositivo, mantendo os casos não classificados disponíveis para revisão sem inferir efeito jurídico.",
+      "estado": "parcial",
+      "evidencia": {
+        "dispositivos_com_trecho_regra_e_hierarquia": 560,
+        "revisao_explicita_sem_inferencia": 177,
+        "itens_disponiveis_no_mapa": true,
+        "mapa": "provas/emendas-cf1988/serie-1-141/mapa-constituicao-adct-dispositivos.json"
+      },
+      "notas": [
+        "Revisão de classificação não reduz a cobertura textual nem remove trechos do mapa.",
+        "Trechos citados permanecem subordinados ao dispositivo introdutório; não são contados como artigos principais."
+      ]
+    },
+    {
+      "id": "conferencia-atual-das-edicoes-sem-substituicao",
+      "criterio": "Preservar capturas oficiais atuais e confrontos literais sem atribuí-los à proveniência original desconhecida nem substituir silenciosamente textos legados.",
+      "estado": "satisfeito",
+      "evidencia": {
+        "atos_com_captura_oficial_e_reconciliacao_com_hash_validado": 141,
+        "total": 141,
+        "conferencias_adicionais_legadas": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/reconciliacao-artigos-legados-1-106.json",
+        "proveniencia_original_desconhecida_preservada": true
+      },
+      "notas": [
+        "Conferência atual é evidência separada; não preenche fonte_url, data ou hash originais desconhecidos.",
+        "Diferenças literais e pareamentos pendentes permanecem registradas; nenhum corpo legado é substituído por equivalência presumida."
       ]
     },
     {
@@ -41,7 +73,7 @@
       "estado": "satisfeito",
       "evidencia": {
         "serie_cf1988": 141,
-        "historicas_listadas_fora": 38,
+        "historicas_listadas_fora": 39,
         "revisao_no_acervo": []
       }
     },
@@ -130,6 +162,7 @@
           119
         ],
         "manifesto_frontmatter": "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json",
+        "conferencias_atuais": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/fontes-conferencia.json",
         "provas_faixa": [
           "provas/emendas-cf1988/faixa-001-050/",
           "provas/emendas-cf1988/faixa-051-100/",
@@ -139,6 +172,7 @@
       "notas": [
         "Frontmatter contrato_versao=1 nos Markdown da série; corpo jurídico preservado.",
         "Captura original desconhecida permanece explícita (não inventada).",
+        "Capturas atuais de conferência têm hash próprio e não substituem a proveniência original desconhecida.",
         "vigencia_certificada permanece false."
       ]
     },
@@ -153,7 +187,7 @@
     }
   ],
   "resumo": {
-    "satisfeitos": 5,
+    "satisfeitos": 7,
     "parciais": 1,
     "pendentes": 0,
     "issue_fechavel": false
