@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2021-07-12-110"
+norma_id: "br-federal-emenda-constitucional-2021-07-12-110"
+norma_tipo: "emenda-constitucional"
+norma_numero: "110"
+norma_data: "2021-07-12"
+titulo: "EMENDA CONSTITUCIONAL Nº 110"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2021-07-12-110@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc110.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "cc46f1a6e2daf8f556ce63f28946b0b8a215c36f5fb1ae6aaa40583f2f0459d5"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL Nº 110</strong>
 
 <em><strong>Acrescenta o art. 18-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre a convalidação de atos administrativos praticados no Estado do Tocantins entre 1º de janeiro de 1989 e 31 de dezembro de 1994.</strong></em>

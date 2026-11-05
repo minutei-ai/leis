@@ -112,7 +112,14 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                     'fonte_orgao': meta.get('fonte_orgao'),
                 }
                 md2, _ = lote.build_markdown(item, html)
-                self.assertEqual(md2, text)
+                if self.fontes[slug].get('anexo_fonte_alternativa'):
+                    _m2, body2 = nl.parse_frontmatter(md2)
+                    _mp, body_pub = nl.parse_frontmatter(text)
+                    marker = '<!-- anexo-fonte-alternativa:inicio -->'
+                    self.assertIn(marker, body_pub)
+                    self.assertEqual(body2.rstrip(), body_pub.split(marker, 1)[0].rstrip())
+                else:
+                    self.assertEqual(md2, text)
 
     def test_limites_rcd_pos_1991_declarados(self):
         rcd = self.limites['RCD']
@@ -217,6 +224,36 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                 self.assertIsNotNone(lote.html_rejection_reason(
                     b'<html><body>Verificacao de seguranca - faca login</body></html>'
                 ))
+
+
+    def test_rcn_anexos_recuperados_fontes_alternativas(self):
+        """HTTP 200+PDF 0 bytes no Senado não prova peça inacessível em todas as fontes."""
+        bloqueio = json.loads((PROVAS / 'bloqueio-anexos-rcn-pdf-vazio.json').read_text(encoding='utf-8'))
+        evidencia = json.loads(
+            (PROVAS / 'anexos-rcn/recuperacao-fontes-alternativas.json').read_text(encoding='utf-8')
+        )
+        self.assertEqual(len(evidencia['itens']), 6)
+        self.assertEqual(bloqueio.get('slugs_anexos_pendentes'), [])
+        self.assertIn('inacess', bloqueio.get('interpretacao', '').lower())
+        rec = self.recs['RCN']
+        self.assertEqual(rec['anexos_pendentes'], 0)
+        self.assertEqual(rec['publicados'], rec['catalogo_registros'])
+        for slug, item in evidencia['itens'].items():
+            with self.subTest(slug=slug):
+                alt = item['fonte_alternativa']
+                raw = lzma.decompress((ROOT / alt['snapshot']).read_bytes())
+                self.assertEqual(nl.sha256(raw), alt['sha256'])
+                self.assertGreater(alt['bytes'], 0)
+                path = ROOT / 'federal' / f'{slug}.md'
+                text = path.read_text(encoding='utf-8')
+                meta, body = nl.parse_frontmatter(text)
+                self.assertIn('anexo-fonte-alternativa', text)
+                self.assertRegex(body, re.compile(r'(?im)^#\s*ANEXO\b'))
+                self.assertEqual(meta['sha256_markdown'], nl.sha256(body.encode('utf-8')))
+                self.assertIs(meta['vigencia_certificada'], False)
+                # Estado reconciliado
+                rec_item = next(i for i in rec['itens'] if i['slug'] == slug)
+                self.assertEqual(rec_item['estado_coleta'], 'publicado')
 
 
 if __name__ == '__main__':

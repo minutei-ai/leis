@@ -1381,7 +1381,22 @@ def verify() -> None:
             'fonte_orgao': meta_fm.get('fonte_orgao'),
         }
         md2, _ = build_markdown(item, html)
-        assert md2 == text, f'{slug}: markdown diverge da reconversão'
+        if fontes[slug].get('anexo_fonte_alternativa') or meta_fm.get('anexo_fonte_alternativa_url'):
+            # Corpo reconvertido + anexo de fonte alternativa oficial (PDF Senado vazio).
+            _meta2, body2 = nl.parse_frontmatter(md2)
+            _meta_pub, body_pub = nl.parse_frontmatter(text)
+            # O prefixo do corpo publicado até o marcador de anexo alternativo deve
+            # corresponder ao markdown reconvertido do HTML do corpo.
+            marker = '<!-- anexo-fonte-alternativa:inicio -->'
+            if marker in body_pub:
+                corpo_pub = body_pub.split(marker, 1)[0].rstrip()
+            else:
+                corpo_pub = body_pub
+            assert body2.rstrip() == corpo_pub, f'{slug}: corpo diverge da reconversão (anexo alternativo)'
+            assert marker in body_pub, f'{slug}: marca de anexo alternativo ausente'
+            assert meta_fm.get('anexo_fonte_alternativa_sha256'), f'{slug}: hash do anexo alternativo ausente'
+        else:
+            assert md2 == text, f'{slug}: markdown diverge da reconversão'
         # Identidade semântica mínima independente do conversor.
         plain = re.sub(r'<[^>]+>', ' ', html.decode(fontes[slug]['charset'], 'replace'))
         plain = re.sub(r'\s+', ' ', plain)

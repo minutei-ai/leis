@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2014-05-14-78"
+norma_id: "br-federal-emenda-constitucional-2014-05-14-78"
+norma_tipo: "emenda-constitucional"
+norma_numero: "78"
+norma_data: "2014-05-14"
+titulo: "EMENDA CONSTITUCIONAL Nº 78"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2014-05-14-78@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc78.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "24f41a67af4e8c8fbbfcd3a01a1e073b75426b7185f1983f9dc4af2e6a48cd10"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL Nº 78</strong>
 
 <em><strong>Acrescenta art. 54-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre indenização devida aos seringueiros de que trata o art. 54 desse Ato.</strong></em>

@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2001-12-11-33"
+norma_id: "br-federal-emenda-constitucional-2001-12-11-33"
+norma_tipo: "emenda-constitucional"
+norma_numero: "33"
+norma_data: "2001-12-11"
+titulo: "EMENDA CONSTITUCIONAL Nº 33, DE 2001"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2001-12-11-33@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/2001/emendaconstitucional-33-11-dezembro-2001-426596-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc33.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "17022c00e54161a3e1beee5f09d70d18393053238c18fb11bbf6217df9dfb864"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 3
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "26800d19ad5c3532c7d6e2ca139cef25f864c7a3fc1d2a0da2f594f59371f361"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 33, DE 2001
 
 Altera os arts. 149, 155 e 177 da Constituição Federal

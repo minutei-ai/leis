@@ -9900,6 +9900,72 @@
       "tabelas": 0,
       "imagens": 0,
       "title_injected": true
+    },
+    "br-federal-resolucao-congresso-nacional-2025-06-23-2": {
+      "slug": "br-federal-resolucao-congresso-nacional-2025-06-23-2",
+      "fonte_fold_chars": 947,
+      "markdown_fold_chars": 1578,
+      "blocos": 12,
+      "tabelas": 1,
+      "imagens": 0,
+      "title_injected": true,
+      "anexo_chars": 60250,
+      "anexo_fonte_alternativa": "https://www2.camara.leg.br/legin/fed/rescon/2025/resolucao-2-23-junho-2025-797630-anexo-pl.pdf"
+    },
+    "br-federal-resolucao-congresso-nacional-2025-03-14-1": {
+      "slug": "br-federal-resolucao-congresso-nacional-2025-03-14-1",
+      "fonte_fold_chars": 8623,
+      "markdown_fold_chars": 9169,
+      "blocos": 78,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false,
+      "anexo_chars": 34356,
+      "anexo_fonte_alternativa": "https://www2.camara.leg.br/legin/fed/rescon/2025/resolucao-1-14-marco-2025-797194-anexo-pl.pdf"
+    },
+    "br-federal-resolucao-congresso-nacional-2014-01-16-2": {
+      "slug": "br-federal-resolucao-congresso-nacional-2014-01-16-2",
+      "fonte_fold_chars": 7356,
+      "markdown_fold_chars": 7922,
+      "blocos": 64,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false,
+      "anexo_chars": 15449,
+      "anexo_fonte_alternativa": "https://www2.camara.leg.br/legin/fed/rescon/2014/resolucao-2-16-janeiro-2014-778014-publicacaooriginal-142934-pl.html"
+    },
+    "br-federal-resolucao-congresso-nacional-2013-11-22-3": {
+      "slug": "br-federal-resolucao-congresso-nacional-2013-11-22-3",
+      "fonte_fold_chars": 1482,
+      "markdown_fold_chars": 2050,
+      "blocos": 36,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false,
+      "anexo_chars": 69920,
+      "anexo_fonte_alternativa": "https://www2.camara.leg.br/legin/fed/rescon/2013/resolucao-3-22-novembro-2013-777453-anexo-pl.pdf"
+    },
+    "br-federal-resolucao-congresso-nacional-2006-12-26-2": {
+      "slug": "br-federal-resolucao-congresso-nacional-2006-12-26-2",
+      "fonte_fold_chars": 678,
+      "markdown_fold_chars": 1171,
+      "blocos": 10,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false,
+      "anexo_chars": 7659,
+      "anexo_fonte_alternativa": "https://legis.senado.leg.br/norma/561147/publicacao/36751146"
+    },
+    "br-federal-resolucao-congresso-nacional-2006-12-22-1": {
+      "slug": "br-federal-resolucao-congresso-nacional-2006-12-22-1",
+      "fonte_fold_chars": 98591,
+      "markdown_fold_chars": 99171,
+      "blocos": 914,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false,
+      "anexo_chars": 22041,
+      "anexo_fonte_alternativa": "https://www2.camara.leg.br/legin/fed/rescon/2006/resolucao-1-22-dezembro-2006-548706-anexo-pl.pdf"
     }
   }
 }

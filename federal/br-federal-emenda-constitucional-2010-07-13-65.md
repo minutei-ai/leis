@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2010-07-13-65"
+norma_id: "br-federal-emenda-constitucional-2010-07-13-65"
+norma_tipo: "emenda-constitucional"
+norma_numero: "65"
+norma_data: "2010-07-13"
+titulo: "EMENDA CONSTITUCIONAL Nº 65"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2010-07-13-65@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc65.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "9bad28441d2388a2a952b63f556c491379e9df5d6bc1d4fb5c9abe06e2667b95"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000065-0-000-13-07-2010@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 65</strong>

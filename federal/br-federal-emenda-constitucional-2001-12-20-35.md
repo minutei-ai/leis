@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2001-12-20-35"
+norma_id: "br-federal-emenda-constitucional-2001-12-20-35"
+norma_tipo: "emenda-constitucional"
+norma_numero: "35"
+norma_data: "2001-12-20"
+titulo: "EMENDA CONSTITUCIONAL Nº 35, DE 2001"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2001-12-20-35@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/2001/emendaconstitucional-35-20-dezembro-2001-429311-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc35.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "9b1900aecf3e12e5bba36526f8532a792755d680a5e2b8b89ad73b0088d8076b"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 3
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "cfd641a3b88dee30b4038f1c07168c1313dcc8da72c1f6dd728ea1f6fe0f3613"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 35, DE 2001
 
 Dá nova redação ao art. 53 da Constituição Federal.

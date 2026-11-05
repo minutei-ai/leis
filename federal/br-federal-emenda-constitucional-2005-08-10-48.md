@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2005-08-10-48"
+norma_id: "br-federal-emenda-constitucional-2005-08-10-48"
+norma_tipo: "emenda-constitucional"
+norma_numero: "48"
+norma_data: "2005-08-10"
+titulo: "EMENDA CONSTITUCIONAL Nº 48, DE 10 DE AGOSTO DE 2005"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2005-08-10-48@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc48.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "556ed3fe95b5fb7585681e7f7d3575063e60df71432ca756fab16ac0b9198b5b"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000048-0-000-10-08-2005@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 48, DE 10 DE AGOSTO DE 2005</strong>
