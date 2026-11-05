@@ -1,3 +1,28 @@
+---
+id: "br-ac-norma-1121"
+norma_id: "br-ac-norma-1121"
+norma_tipo: "lei"
+norma_numero: "300"
+norma_data: "1969-11-21"
+titulo: "LEI Nº 300, DE 21 DE NOVEMBRO DE 1969"
+esfera: "estadual"
+uf: "AC"
+edicao_id: "br-ac-norma-1121@desconhecida"
+edicao_tipo: "desconhecida"
+edicao_integral: "desconhecido"
+provedor_id: "1121"
+provedor_id_namespace: "fonte-local-norma-id"
+numero_estado: "informado"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+estado_identidade: "provedor-id-nao-e-numero-legal"
+contrato_versao: 1
+manifesto: "metadados/acervo-geral-piloto.json"
+campo_fontes: {"norma_id": "caminho-opaco-provedor", "norma_tipo": "cabecalho-literal", "norma_numero": "cabecalho-literal", "norma_data": "cabecalho-literal", "titulo": "cabecalho-literal", "provedor_id": "caminho-opaco", "esfera": "caminho", "uf": "caminho", "fonte_url": "desconhecido-explicito"}
+---
 > **LEI Nº 300, DE 21 DE NOVEMBRO DE 1969**
 
 <table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a abertura de créditos suplementares e especiais e fixa anulações de dotações orçamentárias.</span></span></span></p></td></tr></tbody></table>

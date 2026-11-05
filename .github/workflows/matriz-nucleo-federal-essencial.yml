@@ -1,0 +1,29 @@
+name: Matriz núcleo federal essencial
+on:
+  push:
+    paths:
+      - '.github/workflows/matriz-nucleo-federal-essencial.yml'
+      - 'metadados/matriz-nucleo-federal-essencial.json'
+      - 'metadados/CONTRATO-matriz-nucleo-federal-essencial.md'
+      - 'provas/nucleo-federal-essencial/**'
+      - 'tests/test_matriz_nucleo_federal_essencial.py'
+  pull_request:
+    paths:
+      - '.github/workflows/matriz-nucleo-federal-essencial.yml'
+      - 'metadados/matriz-nucleo-federal-essencial.json'
+      - 'metadados/CONTRATO-matriz-nucleo-federal-essencial.md'
+      - 'provas/nucleo-federal-essencial/**'
+      - 'tests/test_matriz_nucleo_federal_essencial.py'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Gate por identidade e hashes
+        run: python3 -m unittest tests.test_matriz_nucleo_federal_essencial -v
