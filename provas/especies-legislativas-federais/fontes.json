@@ -20491,5 +20491,39 @@
     "numero": "39",
     "data": "2016-09-14",
     "urn": "urn:lex:br:senado.federal:resolucao:2016-09-14;39"
+  },
+  "br-federal-resolucao-senado-federal-2019-09-26-19": {
+    "url": "https://legis.senado.leg.br/norma/31442009/publicacao/43668860",
+    "capturado_em": "2026-11-05T12:15:46Z",
+    "sha256": "e910a44f68471ff0cef1710abadc3664bc6eea5527bfc8f4a1485233115bf7ad",
+    "sha256_snapshot_armazenado": "fab90321de05f0e0a81acd348a737ce3bd479c78ec15840bb1f5ab960dec5023",
+    "bytes": 12810,
+    "snapshot": "provas/especies-legislativas-federais/coletas/br-federal-resolucao-senado-federal-2019-09-26-19.html.xz",
+    "origem": "senado-publicacao-html",
+    "senado_id": "31442009",
+    "tipo": "RSF",
+    "charset": "utf-8",
+    "ementa": "Autoriza o Município de Criciúma (SC) a contratar operação de crédito externo, com garantia da República Federativa do Brasil, com o Fundo Financeiro para o Desenvolvimento da Bacia do Prata (Fonplata), no valor de até US$ 17.250.000,00 (dezessete milhões, duzentos e cinquenta mil dólares dos Estados Unidos da América).",
+    "normaNome": "Resolução do Senado Federal nº 19 de 26/09/2019",
+    "numero": "19",
+    "data": "2019-09-26",
+    "urn": "urn:lex:br:senado.federal:resolucao:2019-09-26;19"
+  },
+  "br-federal-resolucao-senado-federal-2018-12-12-35": {
+    "url": "https://legis.senado.leg.br/norma/30740583/publicacao/30740745",
+    "capturado_em": "2026-11-05T12:15:48Z",
+    "sha256": "d5f01e7bee1f8c6c3ec84d7c0aa9b6d950c8a389c7d68f020be5833ab86146b9",
+    "sha256_snapshot_armazenado": "cecdd6faf0d587c5f5e0b4a9a926ef88c61ec94e6e6d1f5c102747fb6d3e5983",
+    "bytes": 16443,
+    "snapshot": "provas/especies-legislativas-federais/coletas/br-federal-resolucao-senado-federal-2018-12-12-35.html.xz",
+    "origem": "senado-publicacao-html",
+    "senado_id": "30740583",
+    "tipo": "RSF",
+    "charset": "utf-8",
+    "ementa": "Autoriza o Estado do Piauí a contratar operação de crédito externo, com garantia da República Federativa do Brasil, com o Banco Interamericano de Desenvolvimento (BID), no valor de até US$ 44.935.000,00 (quarenta e quatro milhões, novecentos e trinta e cinco mil dólares dos Estados Unidos da América).",
+    "normaNome": "Resolução do Senado Federal nº 35 de 12/12/2018",
+    "numero": "35",
+    "data": "2018-12-12",
+    "urn": "urn:lex:br:senado.federal:resolucao:2018-12-12;35"
   }
 }
