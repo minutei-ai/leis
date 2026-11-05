@@ -12,7 +12,7 @@ senado_id: "43755367"
 urn: "urn:lex:br:federal:decreto.legislativo:2026-09-04;389"
 edicao_id: "br-federal-decreto-legislativo-2026-09-04-389@original"
 edicao_tipo: "historica"
-edicao_integral: true
+edicao_integral: false
 fonte_orgao: "normas.leg.br / Congresso Nacional"
 fonte_url: "https://normas.leg.br/api/public/binario/63e018a6-7aae-4ccc-a97e-b704a0dbe486/texto"
 fonte_formato: "html"
@@ -30,6 +30,10 @@ efeitos_diferidos: "preservados-nas-notas-do-texto"
 sha256_markdown: "7d42a877aea0ddbc86ea6fb146f3ff797f83b262eb313b49c2532f92d26b4b1b"
 manifesto: "provas/especies-legislativas-federais/manifesto.json"
 contrato_versao: 1
+status_publicacao: "publicado-corpo-parcial"
+corpo_status: "parcial-remissao-explicita"
+excluir_denominador_integra: true
+remissoes_literais: ["O texto do Acordo acima citado está publicado no Diário do Senado Federal de 14 de junho de 2025"]
 ---
 
 <!-- nota-edicao:inicio -->

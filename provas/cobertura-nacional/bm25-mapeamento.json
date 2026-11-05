@@ -18,6 +18,41 @@
     "especie": {
       "type": "keyword"
     },
+    "orgao_emissor": {
+      "type": "keyword"
+    },
+    "fonte_orgao": {
+      "type": "keyword"
+    },
+    "serie_historica": {
+      "type": "keyword"
+    },
+    "senado_id": {
+      "type": "keyword"
+    },
+    "urn": {
+      "type": "keyword"
+    },
+    "relacoes": {
+      "type": "nested",
+      "properties": {
+        "tipo": {
+          "type": "keyword"
+        },
+        "origem": {
+          "type": "keyword"
+        },
+        "destino": {
+          "type": "keyword"
+        },
+        "dispositivo": {
+          "type": "keyword"
+        },
+        "escopo_cobertura": {
+          "type": "keyword"
+        }
+      }
+    },
     "numero": {
       "type": "keyword"
     },
@@ -47,6 +82,27 @@
     },
     "cobertura_transcricao": {
       "type": "keyword"
+    },
+    "corpo_status": {
+      "type": "keyword"
+    },
+    "status_publicacao": {
+      "type": "keyword"
+    },
+    "edicao_integral": {
+      "type": "boolean"
+    },
+    "corpo_legal_integral_pendente": {
+      "type": "boolean"
+    },
+    "excluir_denominador_integra": {
+      "type": "boolean"
+    },
+    "texto_integral_pesquisavel": {
+      "type": "boolean"
+    },
+    "fonte_integral_preservada": {
+      "type": "boolean"
     },
     "vigencia_certificada": {
       "type": "boolean"
@@ -79,6 +135,23 @@
       {
         "term": {
           "edicao_tipo": "historica"
+        }
+      }
+    ],
+    "must_not": [
+      {
+        "term": {
+          "corpo_legal_integral_pendente": true
+        }
+      },
+      {
+        "term": {
+          "excluir_denominador_integra": true
+        }
+      },
+      {
+        "term": {
+          "texto_integral_pesquisavel": false
         }
       }
     ],

@@ -289,45 +289,47 @@ def rcn3_table_markdown() -> str:
 
 **ANEXO À RESOLUÇÃO DO CONGRESSO NACIONAL Nº 1, DE 2006-CN**
 
-| Comissão permanente | Área temática → subáreas temáticas (agrupadas como no impresso) | Apropriação | Remanejamento | Total |
-|---|---|---:|---:|---:|
-| CÂMARA DOS DEPUTADOS | | 76 | 76 | 152 |
-| Mesa Diretora | Poderes do Estado e Representação → Câmara dos Deputados | 4 | 4 | 8 |
-| Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR | Agricultura e Desenvolvimento Agrário → Ministério da Agricultura, Pecuária e Abastecimento; Ministério da Pesca e Aquicultura; Ministério do Desenvolvimento Agrário<br>Integração Nacional e Meio Ambiente → Ministério da Integração Nacional; Ministério do Meio Ambiente | 4 | 4 | 8 |
-| Amazônia, Integração Nacional e Desenvolvimento Regional - CAINDR | Fazenda, Desenvolvimento e Turismo → Ministério do Turismo<br>Integração Nacional e Meio Ambiente → Ministério da Integração Nacional; Ministério do Meio Ambiente<br>Justiça e Defesa → Ministério da Justiça | 4 | 4 | 8 |
-| Ciência e Tecnologia, Comunicação e Informática - CCTCI | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Ciência, Tecnologia e Inovação<br>Infraestrutura → Ministério das Comunicações<br>Justiça e Defesa → Ministério da Defesa | 4 | 4 | 8 |
-| Constituição e Justiça e de Cidadania - CCJC | Justiça e Defesa → Ministério da Justiça<br>Poderes do Estado e Representação → Órgãos do Ministério Público; Órgãos do Poder Judiciário; Presidência da República | 4 | 4 | 8 |
-| Defesa do Consumidor - CDC | Fazenda, Desenvolvimento e Turismo → Ministério da Fazenda; Ministério do Desenvolvimento, Indústria e Comércio Exterior<br>Justiça e Defesa → Ministério da Justiça | 4 | 4 | 8 |
-| Desenvolvimento Econômico, Indústria e Comércio - CDEIC | Agricultura e Desenvolvimento Agrário → Ministério da Agricultura, Pecuária e Abastecimento<br>Fazenda, Desenvolvimento e Turismo → Ministério da Fazenda; Ministério do Desenvolvimento, Indústria e Comércio Exterior | 4 | 4 | 8 |
-| Desenvolvimento Urbano - CDU | Integração Nacional e Meio Ambiente → Ministério da Integração Nacional; Ministério do Meio Ambiente<br>Planejamento e Desenvolvimento Urbano → Ministério das Cidades | 4 | 4 | 8 |
-| Direitos Humanos e Minorias - CDHM | Justiça e Defesa → Ministério da Justiça<br>Poderes do Estado e Representação → Presidência da República<br>Trabalho, Previdência e Assistência Social → Ministério do Desenvolvimento Social e Combate à Fome | 4 | 4 | 8 |
-| Educação-CE | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Educação; Ministério da Cultura; Ministério da Ciência, Tecnologia e Inovação; Ministério do Esporte<br>Justiça e Defesa → Ministério da Defesa<br>Trabalho, Previdência e Assistência Social → Ministério do Trabalho e Emprego | 3 | 3 | 6 |
-| Cultura -CCULT | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Cultura; Ministério da Educação; Ministério da Ciência, Tecnologia e Inovação; Ministério do Esporte<br>Justiça e Defesa → Ministério da Justiça | 3 | 3 | 6 |
-| Finanças e Tributação- CFT | Fazenda, Desenvolvimento e Turismo → Ministério da Fazenda<br>Planejamento e Desenvolvimento Urbano → Ministério do Planejamento, Orçamento e Gestão | 3 | 3 | 6 |
-| Fiscalização Financeira e Controle - CFFC | Poderes do Estado e Representação → Ministério do Planejamento, Orçamento e Gestão; Presidência da República; Tribunal de Contas da União | 4 | 4 | 8 |
-| Legislação Participativa - CLP | *(células de área e subárea em branco no impresso)* | 0 | 0 | 0 |
-| Meio Ambiente e Desenvolvimento Sustentável - CMADS | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Ciência, Tecnologia e Inovação<br>Integração Nacional e Meio Ambiente → Ministério do Meio Ambiente | 3 | 3 | 6 |
-| Minas e Energia - CME | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Ciência, Tecnologia e Inovação<br>Infraestrutura → Ministério de Minas e Energia<br>Integração Nacional e Meio Ambiente → Ministério do Meio Ambiente | 4 | 4 | 8 |
-| Relações Exteriores e de Defesa Nacional - CREDN | Justiça e Defesa → Ministério da Defesa<br>Poderes do Estado e Representação → Ministério das Relações Exteriores | 3 | 3 | 6 |
-| Segurança Pública e Combate ao Crime Organizado - CSPCCO | Justiça e Defesa → Ministério da Justiça | 2 | 2 | 4 |
-| Seguridade Social e Família - CSSF | Saúde → Ministério da Saúde<br>Trabalho, Previdência e Assistência Social → Ministério da Previdência Social; Ministério do Desenvolvimento Social e Combate à Fome | 4 | 4 | 8 |
-| Trabalho, de Administração e Serviço Público - CTASP | Planejamento e Desenvolvimento Urbano → Ministério do Planejamento, Orçamento e Gestão<br>Trabalho, Previdência e Assistência Social → Ministério da Previdência Social; Ministério do Trabalho e Emprego | 4 | 4 | 8 |
-| Turismo e Desporto - CTD | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério do Esporte<br>Fazenda, Desenvolvimento e Turismo → Ministério do Turismo | 3 | 3 | 6 |
-| Viação e Transporte - CVT | Infraestrutura → Ministério dos Transportes<br>Justiça e Defesa → Ministério da Defesa<br>Poderes do Estado e Representação → Presidência da República | 4 | 4 | 8 |
-| SENADO FEDERAL | | 45 | 45 | 90 |
-| Mesa Diretora | Poderes do Estado e Representação → Senado Federal | 4 | 4 | 8 |
-| Agricultura e Reforma Agrária - CRA | Agricultura e Desenvolvimento Agrário → Ministério da Agricultura, Pecuária e Abastecimento; Ministério da Pesca e Aquicultura; Ministério do Desenvolvimento Agrário<br>Integração Nacional e Meio Ambiente → Ministério do Meio Ambiente | 4 | 4 | 8 |
-| Assuntos Econômicos - CAE | Fazenda, Desenvolvimento e Turismo → Ministério da Fazenda; Ministério do Desenvolvimento, Indústria e Comércio Exterior<br>Planejamento e Desenvolvimento Urbano → Ministério do Planejamento, Orçamento e Gestão | 4 | 4 | 8 |
-| Assuntos Sociais -CAS | Saúde → Ministério da Saúde<br>Trabalho, Previdência e Assistência Social → Ministério da Previdência Social; Ministério do Desenvolvimento Social e Combate à Fome | 4 | 4 | 8 |
-| Ciência, Tecnologia, Inovação, Comunicação e Informática - CCT | Agricultura e Desenvolvimento Agrário → Ministério da Agricultura, Pecuária e Abastecimento<br>Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Ciência, Tecnologia e Inovação; Ministério da Educação<br>Infraestrutura → Ministério das Comunicações<br>Justiça e Defesa → Ministério da Defesa<br>Saúde → Ministério da Saúde | 3 | 3 | 6 |
-| Constituição, Justiça e Cidadania - CCJ | Justiça e Defesa → Ministério da Justiça<br>Planejamento e Desenvolvimento Urbano → Ministério do Planejamento, Orçamento e Gestão<br>Poderes do Estado e Representação → Órgãos do Ministério Público; Órgãos do Poder Judiciário; Tribunal de Contas da União | 4 | 4 | 8 |
-| Desenvolvimento Regional e Turismo - CDR | Fazenda, Desenvolvimento e Turismo → Ministério do Turismo<br>Integração Nacional e Meio Ambiente → Ministério da Integração Nacional<br>Planejamento e Desenvolvimento Urbano → Ministério das Cidades | 4 | 4 | 8 |
-| Direitos Humanos e Legislação Participativa- CDH | Poderes do Estado e Representação → Órgãos do Ministério Público; Presidência da República | 3 | 3 | 6 |
-| Educação, Cultura e Esporte- CE | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Ciência, Tecnologia e Inovação; Ministério da Cultura; Ministério da Educação; Ministério do Esporte | 4 | 4 | 8 |
-| Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle - CMA | Integração Nacional e Meio Ambiente → Ministério do Meio Ambiente<br>Poderes do Estado e Representação → Órgãos do Ministério Público; Tribunal de Contas da União | 4 | 4 | 8 |
-| Relações Exteriores e Defesa Nacional - CRE | Justiça e Defesa → Ministério da Defesa<br>Poderes do Estado e Representação → Ministério das Relações Exteriores | 3 | 3 | 6 |
-| Serviços de Infraestrutura-CI | Infraestrutura → Ministério das Comunicações; Ministério de Minas e Energia; Ministério dos Transportes<br>Poderes do Estado e Representação → Presidência da República | 4 | 4 | 8 |
-| TOTAL | | 121 | 121 | 242 |
+**Quantidade de emendas:** Apropriação, Remanejamento e Total.
+
+| Comissão Permanente | Área temática | Subárea Temática | Apropriação | Remanejamento | Total |
+|---|---|---|---:|---:|---:|
+| CÂMARA DOS DEPUTADOS | | | 76 | 76 | 152 |
+| Mesa Diretora | Poderes do Estado e Representação | Câmara dos Deputados | 4 | 4 | 8 |
+| Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR | Agricultura e Desenvolvimento Agrário<br>Integração Nacional e Meio Ambiente | Ministério da Agricultura, Pecuária e Abastecimento<br>Ministério da Pesca e Aquicultura<br>Ministério do Desenvolvimento Agrário<br>Ministério da Integração Nacional<br>Ministério do Meio Ambiente | 4 | 4 | 8 |
+| Amazônia, Integração Nacional e Desenvolvimento Regional - CAINDR | Fazenda, Desenvolvimento e Turismo<br>Integração Nacional e Meio Ambiente<br>Justiça e Defesa | Ministério do Turismo<br>Ministério da Integração Nacional<br>Ministério do Meio Ambiente<br>Ministério da Justiça | 4 | 4 | 8 |
+| Ciência e Tecnologia, Comunicação e Informática - CCTCI | Educação, Cultura, Ciência e Tecnologia e Esporte<br>Infraestrutura<br>Justiça e Defesa | Ministério da Ciência, Tecnologia e Inovação<br>Ministério das Comunicações<br>Ministério da Defesa | 4 | 4 | 8 |
+| Constituição e Justiça e de Cidadania - CCJC | Justiça e Defesa<br>Poderes do Estado e Representação | Ministério da Justiça<br>Órgãos do Ministério Público<br>Órgãos do Poder Judiciário<br>Presidência da República | 4 | 4 | 8 |
+| Defesa do Consumidor - CDC | Fazenda, Desenvolvimento e Turismo<br>Justiça e Defesa | Ministério da Fazenda<br>Ministério do Desenvolvimento, Indústria e Comércio Exterior<br>Ministério da Justiça | 4 | 4 | 8 |
+| Desenvolvimento Econômico, Indústria e Comércio - CDEIC | Agricultura e Desenvolvimento Agrário<br>Fazenda, Desenvolvimento e Turismo | Ministério da Agricultura, Pecuária e Abastecimento<br>Ministério da Fazenda<br>Ministério do Desenvolvimento, Indústria e Comércio Exterior | 4 | 4 | 8 |
+| Desenvolvimento Urbano - CDU | Integração Nacional e Meio Ambiente<br>Planejamento e Desenvolvimento Urbano | Ministério da Integração Nacional<br>Ministério do Meio Ambiente<br>Ministério das Cidades | 4 | 4 | 8 |
+| Direitos Humanos e Minorias - CDHM | Justiça e Defesa<br>Poderes do Estado e Representação<br>Trabalho, Previdência e Assistência Social | Ministério da Justiça<br>Presidência da República<br>Ministério do Desenvolvimento Social e Combate à Fome | 4 | 4 | 8 |
+| Educação-CE | Educação, Cultura, Ciência e Tecnologia e Esporte<br>Justiça e Defesa<br>Trabalho, Previdência e Assistência Social | Ministério da Educação<br>Ministério da Cultura<br>Ministério da Ciência, Tecnologia e Inovação<br>Ministério do Esporte<br>Ministério da Defesa<br>Ministério do Trabalho e Emprego | 3 | 3 | 6 |
+| Cultura -CCULT | Educação, Cultura, Ciência e Tecnologia e Esporte<br>Justiça e Defesa | Ministério da Cultura<br>Ministério da Educação<br>Ministério da Ciência, Tecnologia e Inovação<br>Ministério do Esporte<br>Ministério da Justiça | 3 | 3 | 6 |
+| Finanças e Tributação- CFT | Fazenda, Desenvolvimento e Turismo<br>Planejamento e Desenvolvimento Urbano | Ministério da Fazenda<br>Ministério do Planejamento, Orçamento e Gestão | 3 | 3 | 6 |
+| Fiscalização Financeira e Controle - CFFC | Poderes do Estado e Representação | Ministério do Planejamento, Orçamento e Gestão<br>Presidência da República<br>Tribunal de Contas da União | 4 | 4 | 8 |
+| Legislação Participativa - CLP | | | 0 | 0 | 0 |
+| Meio Ambiente e Desenvolvimento Sustentável - CMADS | Educação, Cultura, Ciência e Tecnologia e Esporte<br>Integração Nacional e Meio Ambiente | Ministério da Ciência, Tecnologia e Inovação<br>Ministério do Meio Ambiente | 3 | 3 | 6 |
+| Minas e Energia - CME | Educação, Cultura, Ciência e Tecnologia e Esporte<br>Infraestrutura<br>Integração Nacional e Meio Ambiente | Ministério da Ciência, Tecnologia e Inovação<br>Ministério de Minas e Energia<br>Ministério do Meio Ambiente | 4 | 4 | 8 |
+| Relações Exteriores e de Defesa Nacional - CREDN | Justiça e Defesa<br>Poderes do Estado e Representação | Ministério da Defesa<br>Ministério das Relações Exteriores | 3 | 3 | 6 |
+| Segurança Pública e Combate ao Crime Organizado - CSPCCO | Justiça e Defesa | Ministério da Justiça | 2 | 2 | 4 |
+| Seguridade Social e Família - CSSF | Saúde<br>Trabalho, Previdência e Assistência Social | Ministério da Saúde<br>Ministério da Previdência Social<br>Ministério do Desenvolvimento Social e Combate à Fome | 4 | 4 | 8 |
+| Trabalho, de Administração e Serviço Público - CTASP | Planejamento e Desenvolvimento Urbano<br>Trabalho, Previdência e Assistência Social | Ministério do Planejamento, Orçamento e Gestão<br>Ministério da Previdência Social<br>Ministério do Trabalho e Emprego | 4 | 4 | 8 |
+| Turismo e Desporto - CTD | Educação, Cultura, Ciência e Tecnologia e Esporte<br>Fazenda, Desenvolvimento e Turismo | Ministério do Esporte<br>Ministério do Turismo | 3 | 3 | 6 |
+| Viação e Transporte - CVT | Infraestrutura<br>Justiça e Defesa<br>Poderes do Estado e Representação | Ministério dos Transportes<br>Ministério da Defesa<br>Presidência da República | 4 | 4 | 8 |
+| SENADO FEDERAL | | | 45 | 45 | 90 |
+| Mesa Diretora | Poderes do Estado e Representação | Senado Federal | 4 | 4 | 8 |
+| Agricultura e Reforma Agrária - CRA | Agricultura e Desenvolvimento Agrário<br>Integração Nacional e Meio Ambiente | Ministério da Agricultura, Pecuária e Abastecimento<br>Ministério da Pesca e Aquicultura<br>Ministério do Desenvolvimento Agrário<br>Ministério do Meio Ambiente | 4 | 4 | 8 |
+| Assuntos Econômicos - CAE | Fazenda, Desenvolvimento e Turismo<br>Planejamento e Desenvolvimento Urbano | Ministério da Fazenda<br>Ministério do Desenvolvimento, Indústria e Comércio Exterior<br>Ministério do Planejamento, Orçamento e Gestão | 4 | 4 | 8 |
+| Assuntos Sociais -CAS | Saúde<br>Trabalho, Previdência e Assistência Social | Ministério da Saúde<br>Ministério da Previdência Social<br>Ministério do Desenvolvimento Social e Combate à Fome | 4 | 4 | 8 |
+| Ciência, Tecnologia, Inovação, Comunicação e Informática - CCT | Agricultura e Desenvolvimento Agrário<br>Educação, Cultura, Ciência e Tecnologia e Esporte<br>Infraestrutura<br>Justiça e Defesa<br>Saúde | Ministério da Agricultura, Pecuária e Abastecimento<br>Ministério da Ciência, Tecnologia e Inovação<br>Ministério da Educação<br>Ministério das Comunicações<br>Ministério da Defesa<br>Ministério da Saúde | 3 | 3 | 6 |
+| Constituição, Justiça e Cidadania - CCJ | Justiça e Defesa<br>Planejamento e Desenvolvimento Urbano<br>Poderes do Estado e Representação | Ministério da Justiça<br>Ministério do Planejamento, Orçamento e Gestão<br>Órgãos do Ministério Público<br>Órgãos do Poder Judiciário<br>Tribunal de Contas da União | 4 | 4 | 8 |
+| Desenvolvimento Regional e Turismo - CDR | Fazenda, Desenvolvimento e Turismo<br>Integração Nacional e Meio Ambiente<br>Planejamento e Desenvolvimento Urbano | Ministério do Turismo<br>Ministério da Integração Nacional<br>Ministério das Cidades | 4 | 4 | 8 |
+| Direitos Humanos e Legislação Participativa- CDH | Poderes do Estado e Representação | Órgãos do Ministério Público<br>Presidência da República | 3 | 3 | 6 |
+| Educação, Cultura e Esporte- CE | Educação, Cultura, Ciência e Tecnologia e Esporte | Ministério da Ciência, Tecnologia e Inovação<br>Ministério da Cultura<br>Ministério da Educação<br>Ministério do Esporte | 4 | 4 | 8 |
+| Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle - CMA | Integração Nacional e Meio Ambiente<br>Poderes do Estado e Representação | Ministério do Meio Ambiente<br>Órgãos do Ministério Público<br>Tribunal de Contas da União | 4 | 4 | 8 |
+| Relações Exteriores e Defesa Nacional - CRE | Justiça e Defesa<br>Poderes do Estado e Representação | Ministério da Defesa<br>Ministério das Relações Exteriores | 3 | 3 | 6 |
+| Serviços de Infraestrutura-CI | Infraestrutura<br>Poderes do Estado e Representação | Ministério das Comunicações<br>Ministério de Minas e Energia<br>Ministério dos Transportes<br>Presidência da República | 4 | 4 | 8 |
+| TOTAL | | | 121 | 121 | 242 |
 '''
 
 
@@ -560,6 +562,11 @@ def load_coleta_item(slug: str) -> dict:
     return item
 
 
+def remove_replaced_table_marker(body: str) -> str:
+    """Remove só o marcador da tabela recuperada e colacionada."""
+    return body.replace(r'\<\<TABELA\>\>', '').replace('<<TABELA>>', '')
+
+
 def build_one(slug: str, recovered: dict) -> dict:
     """Publica Markdown integral = corpo HTML já coletado + anexo da fonte alternativa."""
     col = load_coleta_item(slug)
@@ -577,7 +584,10 @@ def build_one(slug: str, recovered: dict) -> dict:
         annex_note = (
             'Tabela transcrita visualmente nos quatro painéis impressos das páginas 3–4 do DOU; '
             'o dump linear integral dessas páginas e o PDF original estão preservados nas provas. '
-            'A disposição explicita as células mescladas sem repetir o corpo operativo do ato.'
+            'Áreas e subáreas permanecem em colunas independentes, sem pareamento inferido entre itens. '
+            'As células vazias permanecem vazias. A tabela não repete o corpo operativo do ato. '
+            f"Fonte de colação: {recovered['verificacao_visual_independente']['url']} "
+            f"(SHA-256 {recovered['verificacao_visual_independente']['sha256_pdf']})."
         )
     anexo_md = annex_markdown(
         'ANEXO',
@@ -586,13 +596,9 @@ def build_one(slug: str, recovered: dict) -> dict:
         alt['sha256'],
         annex_note,
     )
-    # A conversão do corpo original deixa um marcador para a tabela não
-    # reconhecida. Remova o marcador e o cabeçalho vazio antes de anexar a
-    # transcrição recuperada. A composição tipográfica em colunas da fonte
-    # alternativa ainda exige repetir o preâmbulo/corpo para preservar células
-    # que aparecem antes do título do anexo na ordem linear do PDF.
+    # Substituir o marcador pela tabela isolada; o corpo operativo fica uma vez.
     if slug == 'br-federal-resolucao-congresso-nacional-2013-11-22-3':
-        body = body.replace(r'\<\<TABELA\>\>', '').replace('<<TABELA>>', '')
+        body = remove_replaced_table_marker(body)
         meta['tabelas'] = 1
     # Evitar duplicar se já houver ANEXO no corpo convertido
     if re.search(r'(?im)^#\s*ANEXO\b', body) and len(re.findall(r'(?im)^#\s*ANEXO\b', body)) >= 1:
@@ -802,6 +808,7 @@ def update_lote_state(built: list[dict], recovered: dict) -> None:
 def verify() -> None:
     if not EVIDENCIA.is_file():
         raise SystemExit(f'evidência ausente: {EVIDENCIA}')
+    load_recovered_snapshots()
     ev = json.loads(EVIDENCIA.read_text(encoding='utf-8'))
     bloqueio = json.loads(BLOQUEIO.read_text(encoding='utf-8'))
     rec = json.loads((PROVAS / 'reconciliacao-rcn.json').read_text(encoding='utf-8'))
@@ -860,6 +867,24 @@ def verify() -> None:
     })
 
 
+def load_recovered_snapshots() -> dict:
+    """Reutiliza a transcrição colacionada; o dump linear é prova, não substituto dela."""
+    ev = json.loads(EVIDENCIA.read_text(encoding='utf-8'))
+    recovered = {'itens': {}}
+    for slug, item in ev['itens'].items():
+        plain = lzma.decompress((ROOT / item['transcricao']['snapshot']).read_bytes()).decode('utf-8')
+        loaded = {**item, 'anexo_plain': plain}
+        table = item.get('transcricao_tabela_visual')
+        if table:
+            compressed = (ROOT / table['snapshot']).read_bytes()
+            raw = lzma.decompress(compressed)
+            if sha256(compressed) != table['sha256_snapshot_armazenado'] or sha256(raw) != table['sha256']:
+                raise ValueError(f'{slug}: transcrição visual não corresponde aos hashes')
+            loaded['anexo_table_plain'] = raw.decode('utf-8')
+        recovered['itens'][slug] = loaded
+    return recovered
+
+
 def main(argv: list[str] | None = None) -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('cmd', choices=('import-staged', 'build', 'verify', 'all'))
@@ -868,12 +893,7 @@ def main(argv: list[str] | None = None) -> None:
     if args.cmd in {'import-staged', 'all'}:
         recovered = import_staged()
     else:
-        # reload plains from txt snapshots
-        ev = json.loads(EVIDENCIA.read_text(encoding='utf-8'))
-        recovered = {'itens': {}}
-        for slug, item in ev['itens'].items():
-            plain = lzma.decompress((ROOT / item['transcricao']['snapshot']).read_bytes()).decode('utf-8')
-            recovered['itens'][slug] = {**item, 'anexo_plain': plain}
+        recovered = load_recovered_snapshots()
     if args.cmd in {'build', 'all'}:
         built = []
         for slug, item in recovered['itens'].items():

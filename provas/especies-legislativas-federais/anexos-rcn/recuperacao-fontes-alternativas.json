@@ -257,10 +257,11 @@
             "conteudo": "continuação do Senado, de CAE até CI, e total geral"
           }
         ],
-        "chars": 8085,
-        "sha256": "4711241464763c62cab82b3fb8e6fa5515b426b1fc96dfae657d5666ee922080",
+        "chars": 8182,
+        "sha256": "e49a8f91e1cbcc575a16b342ee7f0d3b4bb9f4625d6d2727716dad5b54289f45",
         "snapshot": "provas/especies-legislativas-federais/anexos-rcn/fontes/br-federal-resolucao-congresso-nacional-2013-11-22-3.anexo-tabela-visual.md.xz",
-        "sha256_snapshot_armazenado": "75feb3011f642f3c1e74929b07e374d9db7302d4e73f3d4962918d9ec3b25ae5"
+        "sha256_snapshot_armazenado": "c8f08ed5b98909a245545ea7f17ce485f6682c9ba00887d8c1f28910db3c52b5",
+        "estrutura": "seis-colunas; listas independentes de areas e subareas, sem pareamento inferido"
       },
       "facsimile": {
         "pagina": 1,

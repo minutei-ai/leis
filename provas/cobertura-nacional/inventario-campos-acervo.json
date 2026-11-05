@@ -1,128 +1,147 @@
 {
   "contrato_versao": 1,
-  "export_schema_versao": 1,
+  "export_schema_versao": 2,
   "regra": "Nenhum campo é coberto só porque apareceu em amostra. Contagens abaixo percorrem todas as edições publicadas no export.",
   "escolha_armazenamento": {
     "metadados_acervo_geral": "sidecar-export-jsonl",
     "frontmatter": "reutilizado-quando-ja-presente",
     "markdown_corpos": "nao-reescrevidos-em-massa"
   },
-  "total_edicoes": 232661,
+  "total_edicoes": 232846,
   "por_campo": {
     "norma_id": {
-      "conhecido": 232661
+      "conhecido": 232846
     },
     "edicao_id": {
-      "conhecido": 232661
+      "conhecido": 232846
     },
     "especie": {
-      "conhecido": 173833,
-      "desconhecido": 58828
+      "conhecido": 174020,
+      "desconhecido": 58826
     },
     "numero": {
-      "conhecido": 173128,
-      "desconhecido": 59383,
+      "conhecido": 173315,
+      "desconhecido": 59381,
       "nao-aplicavel": 150
     },
     "complemento": {
-      "nao-aplicavel": 232224,
+      "nao-aplicavel": 232409,
       "conhecido": 437
     },
     "numero_estado": {
-      "conhecido": 173278,
-      "desconhecido": 59383
+      "conhecido": 173465,
+      "desconhecido": 59381
     },
     "provedor_id": {
-      "ausente": 178902,
-      "conhecido": 53759
+      "ausente": 179089,
+      "conhecido": 53757
     },
     "provedor_token": {
-      "nao-aplicavel": 232511,
+      "nao-aplicavel": 232696,
       "conhecido": 150
     },
     "esfera": {
-      "conhecido": 232661
+      "conhecido": 232846
     },
     "uf": {
-      "nao-aplicavel": 99846,
+      "nao-aplicavel": 100033,
       "conhecido": 119964,
-      "desconhecido": 12851
+      "desconhecido": 12849
     },
     "ibge": {
-      "nao-aplicavel": 219810,
-      "conhecido": 12851
+      "nao-aplicavel": 219997,
+      "conhecido": 12849
     },
     "orgao_emissor": {
-      "conhecido": 2637,
-      "desconhecido": 230024
+      "desconhecido": 231442,
+      "conhecido": 1404
+    },
+    "fonte_orgao": {
+      "conhecido": 2824,
+      "desconhecido": 230022
     },
     "poder": {
-      "desconhecido": 232661
+      "desconhecido": 232846
     },
     "ambito_aplicacao": {
-      "desconhecido": 232661
+      "desconhecido": 232846
+    },
+    "serie_historica": {
+      "conhecido": 605,
+      "desconhecido": 232241
+    },
+    "senado_id": {
+      "conhecido": 1520,
+      "desconhecido": 231326
+    },
+    "urn": {
+      "conhecido": 1994,
+      "desconhecido": 230852
+    },
+    "relacoes": {
+      "desconhecido": 232846
     },
     "titulo": {
-      "conhecido": 230629,
+      "conhecido": 230814,
       "desconhecido": 2032
     },
     "ementa": {
-      "desconhecido": 232661
+      "desconhecido": 232846
     },
     "data_ato": {
-      "conhecido": 173300,
-      "desconhecido": 59361
+      "conhecido": 173487,
+      "desconhecido": 59359
     },
     "edicao_tipo": {
-      "conhecido": 2701,
-      "desconhecido": 229960
+      "conhecido": 2888,
+      "desconhecido": 229958
     },
     "situacao": {
-      "desconhecido": 232659,
+      "desconhecido": 232844,
       "conhecido": 2
     },
     "representacao": {
-      "conhecido": 232661
+      "conhecido": 232846
     },
     "cobertura_transcricao": {
-      "conhecido": 232661
+      "conhecido": 232846
     },
     "vigencia_certificada": {
-      "conhecido": 232661
+      "conhecido": 232846
     },
     "fonte_url": {
-      "conhecido": 2637,
-      "desconhecido": 230024
+      "conhecido": 2824,
+      "desconhecido": 230022
     },
     "sha256_markdown": {
-      "conhecido": 232661
+      "conhecido": 232846
     },
     "fonte_do_campo": {
-      "conhecido": 232661
+      "conhecido": 232846
     },
     "estado_identidade": {
-      "conhecido": 232661
+      "conhecido": 232846
     }
   },
   "por_estado_identidade": {
-    "registrada-no-cabecalho": 2886,
+    "registrada-no-cabecalho": 3073,
     "derivada-do-caminho-candidata": 171128,
     "candidata-nao-conferida": 4888,
-    "provedor-id-nao-e-numero-legal": 53759
+    "provedor-id-nao-e-numero-legal": 53757
   },
   "por_armazenamento_metadados": {
-    "frontmatter": 2888,
-    "sidecar-export": 229773
+    "frontmatter": 3075,
+    "sidecar-export": 229771
   },
   "por_esfera": {
-    "federal": 99846,
+    "federal": 100033,
     "estadual": 119954,
     "distrital": 10,
-    "municipal": 12851
+    "municipal": 12849
   },
   "por_numero_estado": {
-    "informado": 173128,
-    "desconhecido": 59383,
+    "informado": 173315,
+    "desconhecido": 59381,
     "sem-numero": 150
   },
   "anomalias": {

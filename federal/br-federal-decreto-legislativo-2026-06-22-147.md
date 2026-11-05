@@ -12,7 +12,7 @@ senado_id: "43446729"
 urn: "urn:lex:br:federal:decreto.legislativo:2026-06-22;147"
 edicao_id: "br-federal-decreto-legislativo-2026-06-22-147@original"
 edicao_tipo: "historica"
-edicao_integral: true
+edicao_integral: false
 fonte_orgao: "normas.leg.br / Congresso Nacional"
 fonte_url: "https://normas.leg.br/api/public/binario/3034d7a1-7355-442f-ae55-06966e046b8d/texto"
 fonte_formato: "html"
@@ -30,6 +30,10 @@ efeitos_diferidos: "preservados-nas-notas-do-texto"
 sha256_markdown: "9dfd16ca1dde1eab998e8d00f270e22679ec75d33f71c4286202cb31770ef13c"
 manifesto: "provas/especies-legislativas-federais/manifesto.json"
 contrato_versao: 1
+status_publicacao: "publicado-corpo-parcial"
+corpo_status: "parcial-remissao-explicita"
+excluir_denominador_integra: true
+remissoes_literais: ["O texto do Acordo acima citado está publicado no Diário do Senado Federal de 18 de junho de 2026"]
 ---
 
 <!-- nota-edicao:inicio -->

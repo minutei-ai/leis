@@ -6,7 +6,7 @@
     89,
     94
   ],
-  "gerado_em": "2026-11-05T12:15:52Z",
+  "gerado_em": "2026-11-05T13:43:06Z",
   "documentos": [
     {
       "id": "br-federal-decreto-legislativo-2026-09-16-433",
@@ -16569,7 +16569,7 @@
       },
       "fonte": "br-federal-resolucao-congresso-nacional-2013-11-22-3",
       "sha256_fonte": "f09c6981e7fabd5c8beb21af461f2373d3fc1d055cabac7dc141d9333192b1f6",
-      "sha256_markdown": "2eec415aaee1a45ad842106615db8f3b5d1a4605bd20c5ce6e2ef97271dd71c9",
+      "sha256_markdown": "9f85b62e9c1bb9aa7304bd2f8a11cf9d1cb76247df5b151925770d2ab1e790a8",
       "anexo_fonte_alternativa": true
     },
     {
@@ -18088,6 +18088,2781 @@
       "fonte": "br-federal-resolucao-senado-federal-2018-12-12-35",
       "sha256_fonte": "d5f01e7bee1f8c6c3ec84d7c0aa9b6d950c8a389c7d68f020be5833ab86146b9",
       "sha256_markdown": "5dd49ab44142bc9ffed03549288a741209118a7fd32f956ebb1491e56a175ae5"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-85",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-85.md",
+      "tipo": "DLG",
+      "senado_id": "43383396",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;85",
+      "norma": {
+        "numero": "85",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 85 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-85",
+      "sha256_fonte": "91a7bd7acc6f812afdb5d2597c65b46e23f6769ebedf0d35ab9bbf195e0994e0",
+      "sha256_markdown": "7e5005ca5c5ce9fc8965d7989552ecbaf92ad020ed1fd47279c0f5f1bcd27e62"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-134",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-134.md",
+      "tipo": "DLG",
+      "senado_id": "43381827",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;134",
+      "norma": {
+        "numero": "134",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 134 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-134",
+      "sha256_fonte": "f07bffd54467c6463ddf36f974397c26362f784e6ca2dfab99723ae64c6e9475",
+      "sha256_markdown": "997d5b3aeb878a070e5868572ea722ac45a92da41c63f7eb7e00cd6e85282d1a"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-66",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-66.md",
+      "tipo": "DLG",
+      "senado_id": "43382355",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;66",
+      "norma": {
+        "numero": "66",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 66 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-66",
+      "sha256_fonte": "d3d134ff1cec6087815892143c3a63b67cf6bcd6a16f076aec5499fd86297cfb",
+      "sha256_markdown": "e3299697da3261d6867f05692d453abcd68994f22209195cf562211d3a5599df"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-71",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-71.md",
+      "tipo": "DLG",
+      "senado_id": "43383087",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;71",
+      "norma": {
+        "numero": "71",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 71 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-71",
+      "sha256_fonte": "19ad2b7b7a1e755e162917923630fa0bc01dc5c4d50d526d9d2613d3d9d335be",
+      "sha256_markdown": "4d99613ab6f9b6df39eb46cb61b0f896332df8c92cbbfb5672ba08e7aee8f8eb"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-131",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-131.md",
+      "tipo": "DLG",
+      "senado_id": "43385834",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;131",
+      "norma": {
+        "numero": "131",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 131 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-131",
+      "sha256_fonte": "7ebdfd1b810404b29251427ac9dac14ac301223a70928f7530649e368328e4aa",
+      "sha256_markdown": "97caca761358a994090bb940dc54b52b9e73d680bfe53b8b701074d5ffc7f5eb"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-116",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-116.md",
+      "tipo": "DLG",
+      "senado_id": "43385241",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;116",
+      "norma": {
+        "numero": "116",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 116 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-116",
+      "sha256_fonte": "99ef8a6e27b2c0be67c0fb074362f417355e56e74c52b12088102d5a69deb5b0",
+      "sha256_markdown": "e868eda3a412ec842c27d8b4436d4bedad61d3f6bb86bccf744d7e7a3cb5cc62"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-78",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-78.md",
+      "tipo": "DLG",
+      "senado_id": "43383280",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;78",
+      "norma": {
+        "numero": "78",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 78 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-78",
+      "sha256_fonte": "7a4c9903105f1ff82952bb10ec7e30f4a330817f64cc89b8e570ed1680ecf509",
+      "sha256_markdown": "8f6cba127cda828b53758224a0fb01327a43dbc7b9736f9a9a4d1fa705e5f57d"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-137",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-137.md",
+      "tipo": "DLG",
+      "senado_id": "43382003",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;137",
+      "norma": {
+        "numero": "137",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 137 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-137",
+      "sha256_fonte": "22255f0d12207bc5c6e005596b1bb48196bffbc30a52ce6c609531b3359ec393",
+      "sha256_markdown": "aee7ae8226ba65be1910599a2d254be768f62804f70350b73fca03c1666de86f"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-130",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-130.md",
+      "tipo": "DLG",
+      "senado_id": "43386023",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;130",
+      "norma": {
+        "numero": "130",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 130 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-130",
+      "sha256_fonte": "c32f8de645d8b816acfb73aff7cbd6a658bfbf6a4b0746f3b7af3a0cf9534c14",
+      "sha256_markdown": "59366332de1bd64a9f7350428cd93da6d113f2a6528fd8de826b3d1b5485ec07"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-113",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-113.md",
+      "tipo": "DLG",
+      "senado_id": "43385121",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;113",
+      "norma": {
+        "numero": "113",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 113 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-113",
+      "sha256_fonte": "2de590023ceeb5516f281bb0dd5900ccdf837e220ea96413579fc70655c3f986",
+      "sha256_markdown": "16d1c62f196be4a727f72345b366fdd9291af68289ee3807d97c70e769b7c806"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-77",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-77.md",
+      "tipo": "DLG",
+      "senado_id": "43383183",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;77",
+      "norma": {
+        "numero": "77",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 77 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-77",
+      "sha256_fonte": "528a52da07e1dc44c1f483ee23fc25930ab48f976f18a640f442449293e22cde",
+      "sha256_markdown": "5651e1cf442f3e6947f0796874040adbcdf266c916726d9eb51521e2e1c4b207"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-115",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-115.md",
+      "tipo": "DLG",
+      "senado_id": "43385170",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;115",
+      "norma": {
+        "numero": "115",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 115 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-115",
+      "sha256_fonte": "33fe8dfb6de6aaba7db7c037f0d3089b1aa279942e1ab436e89e36db2445a60c",
+      "sha256_markdown": "c9dbde8dda2f6be7b78a1bd685dc09656ca78b7d597db592e97a745290227933"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-98",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-98.md",
+      "tipo": "DLG",
+      "senado_id": "43384414",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;98",
+      "norma": {
+        "numero": "98",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 98 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-98",
+      "sha256_fonte": "48ab79f4d84f74394afaf8f1aab422506d1bc35b39a2e72c10e6d74ed950c764",
+      "sha256_markdown": "79c345077bc746b870988be35adf44a3a00cf36597a09c5e8800b1711aee4a8c"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-106",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-106.md",
+      "tipo": "DLG",
+      "senado_id": "43384259",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;106",
+      "norma": {
+        "numero": "106",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 106 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-106",
+      "sha256_fonte": "1c740f59291d928b5b8f407a56695d626a9ccccc66232fcb742df8bf04ef198f",
+      "sha256_markdown": "ff4761e81af583e5d028fd9da1a24943e0b0b25ddef49a661e55f2b61bc194ff"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-65",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-65.md",
+      "tipo": "DLG",
+      "senado_id": "43381654",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;65",
+      "norma": {
+        "numero": "65",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 65 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-65",
+      "sha256_fonte": "ab0105096d3b1882d4861c4002a7f500a0e385daf755ac704fc93038657091de",
+      "sha256_markdown": "318adcf4d2974d27a501057fc7224cd77e04b5c3245674cd51e7e11f1c0a1021"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-93",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-93.md",
+      "tipo": "DLG",
+      "senado_id": "43383750",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;93",
+      "norma": {
+        "numero": "93",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 93 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-93",
+      "sha256_fonte": "04ed9723bf5248490643398efa75b78f83083899a51abac8bc615a65ad60fc59",
+      "sha256_markdown": "9564f66af85ad4ac6d2f8dbeca2390f421a6146499ee8984cd357db0531ce6b9"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-144",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-144.md",
+      "tipo": "DLG",
+      "senado_id": "43381725",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;144",
+      "norma": {
+        "numero": "144",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 144 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-144",
+      "sha256_fonte": "791d56b3d8401ec6a9b99b8faba39fa57a97f410bafbee9c1361e2deb006d0fa",
+      "sha256_markdown": "6f0cd05837667ee2908f046b0659e7ed2d0efd62ae50bfd7d3a52ddd767754d6"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-101",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-101.md",
+      "tipo": "DLG",
+      "senado_id": "43384565",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;101",
+      "norma": {
+        "numero": "101",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 101 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-101",
+      "sha256_fonte": "a4839cef2961a46bfbc512041e28cdac15d2673bc4aa78cc06d28973274ce8a9",
+      "sha256_markdown": "e29bc2b4836215c4f78a9faafe4db9d4a827d25be4b230688004683f69f4c25d"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-120",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-120.md",
+      "tipo": "DLG",
+      "senado_id": "43385473",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;120",
+      "norma": {
+        "numero": "120",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 120 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-120",
+      "sha256_fonte": "273689205b0cf2df7ab831eb2ba4e86350418e897635381710d7909646a8b3b9",
+      "sha256_markdown": "1a40a4a82d4b2578c5870e19103ada5478de616bc9761d13c3a272402d850635"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-125",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-125.md",
+      "tipo": "DLG",
+      "senado_id": "43385688",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;125",
+      "norma": {
+        "numero": "125",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 125 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-125",
+      "sha256_fonte": "1fae2e349a4e6de29e5fa54e62a551382cad429207b8064b30856d511adab403",
+      "sha256_markdown": "a3c2f454ada5aab0f11ab630d7214f037ef0bcea805c0b52bf852e912c415405"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-114",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-114.md",
+      "tipo": "DLG",
+      "senado_id": "43384890",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;114",
+      "norma": {
+        "numero": "114",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 114 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-114",
+      "sha256_fonte": "eb980ea3cdec946e052f6f79464f844b389ee5c71bfde3bcfaaf2de463d323e9",
+      "sha256_markdown": "baee6341ec5d4ce84e06d929914069af3f43ac112a8f256ae71996b5a54f9708"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-127",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-127.md",
+      "tipo": "DLG",
+      "senado_id": "43385061",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;127",
+      "norma": {
+        "numero": "127",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 127 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-127",
+      "sha256_fonte": "66b674d3bcfa6e56638ba89c7da71dcdff569e8d2fd3c8b8bbebd5fee6c9da69",
+      "sha256_markdown": "a2980db73eb665e64dd19b04f7eaf64d92f3daf67b984b43d2d89c476df1609e"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-90",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-90.md",
+      "tipo": "DLG",
+      "senado_id": "43384041",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;90",
+      "norma": {
+        "numero": "90",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 90 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-90",
+      "sha256_fonte": "1b86d5a8c795521e4f95d986fe3bcb6fae84b8e7003ff042529c80a879242140",
+      "sha256_markdown": "ee6fe98b5a2a4aedd13404f20b648088a03e654d24c8a44da6c134379236221f"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-87",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-87.md",
+      "tipo": "DLG",
+      "senado_id": "43383900",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;87",
+      "norma": {
+        "numero": "87",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 87 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-87",
+      "sha256_fonte": "56f5067693e2962173fe2733aed9b018b38b2e4aea449664dca596c3a147449d",
+      "sha256_markdown": "6bf932fc91a0d64aefb0d2702517171f0ad51cd62b33b77b267f4a2070c18282"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-136",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-136.md",
+      "tipo": "DLG",
+      "senado_id": "43381966",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;136",
+      "norma": {
+        "numero": "136",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 136 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-136",
+      "sha256_fonte": "bbefa3aa449e1757cbcddced17d4d2d7ed026de1022a57ad6c56629f915c3691",
+      "sha256_markdown": "1df79a1d7acdb88c48afb1271235c11a8a4eaf4d55a9bd12a9529a55f8c373c2"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-110",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-110.md",
+      "tipo": "DLG",
+      "senado_id": "43384716",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;110",
+      "norma": {
+        "numero": "110",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 110 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-110",
+      "sha256_fonte": "2794feb2e3a678c8f3232e73692a9f9eb6cbe2c7685b9cc237c93a0145405fab",
+      "sha256_markdown": "108476fab63b8b9599a85ccad5d93c0c471cdfa1eb6715ef1bf2ee1baa67d957"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-73",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-73.md",
+      "tipo": "DLG",
+      "senado_id": "43383477",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;73",
+      "norma": {
+        "numero": "73",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 73 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-73",
+      "sha256_fonte": "dc2f66e319260cdba4bc3f01092d06d1991e7c29e68ee8d2162bdf463e651cd4",
+      "sha256_markdown": "9a7473dc62a9e14e43f1812e62530cc1643cdc6bf0c710beb5de47c107d32bfc"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-94",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-94.md",
+      "tipo": "DLG",
+      "senado_id": "43383787",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;94",
+      "norma": {
+        "numero": "94",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 94 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-94",
+      "sha256_fonte": "e708b515c410c349a4b8aca2f108e9625cfeb5cfe83b5e4325408a90ae288089",
+      "sha256_markdown": "dd75fe8386096be1a9db382b38b1f44399018756e0158a6493dce4b1755cc558"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-100",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-100.md",
+      "tipo": "DLG",
+      "senado_id": "43384522",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;100",
+      "norma": {
+        "numero": "100",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 100 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-100",
+      "sha256_fonte": "25035b8c1c53289c28d273679c81b87cb9bc074ebf57f451353fb52c975e041b",
+      "sha256_markdown": "17940e6635ab52852c87b34931656d0b1875f1417b9cbc22157da06e512cf6be"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-72",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-72.md",
+      "tipo": "DLG",
+      "senado_id": "43382932",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;72",
+      "norma": {
+        "numero": "72",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 72 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-72",
+      "sha256_fonte": "e724889b517c4d6140736f629bc0d072d3db35a09bdc04f1ac8e2b5d53102b21",
+      "sha256_markdown": "c409d529da4171ea66263e62339f2c0c2280ce3a12e721aa883bf0d987948f0d"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-143",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-143.md",
+      "tipo": "DLG",
+      "senado_id": "43382463",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;143",
+      "norma": {
+        "numero": "143",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 143 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-143",
+      "sha256_fonte": "2646b750f92206c9f4b7a9c4a85c333ce7969a042cddfa84c7d5296c59c17058",
+      "sha256_markdown": "c8295ee518abc330ab7314fe03993f37d106eb5fbd38c121de92cfe20a883665"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-138",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-138.md",
+      "tipo": "DLG",
+      "senado_id": "43382775",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;138",
+      "norma": {
+        "numero": "138",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 138 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-138",
+      "sha256_fonte": "9d9c37d6c0d92e9863c5fa7c7b3c35f7f6981f1eabfcb199e35affebde1f6dcc",
+      "sha256_markdown": "5e0967982e3c17c12a8cb5263309a0ab8a2a62fa50ace206609e2d519e3a6d14"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-96",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-96.md",
+      "tipo": "DLG",
+      "senado_id": "43384341",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;96",
+      "norma": {
+        "numero": "96",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 96 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-96",
+      "sha256_fonte": "3042d4160a0ac4f6412479397238fb0bcbeadb600e453de413e943c1e0d723cb",
+      "sha256_markdown": "8d56e5b2d8f2fb01eaebe00046751f806ce65d0d8b78a182dd8aad55e1c43a3f"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-76",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-76.md",
+      "tipo": "DLG",
+      "senado_id": "43383003",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;76",
+      "norma": {
+        "numero": "76",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 76 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-76",
+      "sha256_fonte": "1d2ecc184f10df0fc12f7d1598184798ce53d4bfc05910063e1a2099b85bdc0e",
+      "sha256_markdown": "c5d9cbb1d6876299782267bddc063360585df884cf354e370f3bacd616637c92"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-67",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-67.md",
+      "tipo": "DLG",
+      "senado_id": "43381762",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;67",
+      "norma": {
+        "numero": "67",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 67 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-67",
+      "sha256_fonte": "5275ea65a17371ff9bbabdcc0c7b92ee3e093959ba9a458bf3a2ea1c5884c88a",
+      "sha256_markdown": "b3f18f38824d8ef8c22bab7fec4498b9e08bd0045b4c2697802160a474ac743c"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-74",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-74.md",
+      "tipo": "DLG",
+      "senado_id": "43385101",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;74",
+      "norma": {
+        "numero": "74",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 74 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-74",
+      "sha256_fonte": "0f132e00885f18f6ee04f7f6c046713b5659a3998cb3038b4547fa968cbac450",
+      "sha256_markdown": "7a3fd450efbc9a47f9e83c1db1b8c08485c1386da92a4e020a9be54be188edb2"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-121",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-121.md",
+      "tipo": "DLG",
+      "senado_id": "43385549",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;121",
+      "norma": {
+        "numero": "121",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 121 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-121",
+      "sha256_fonte": "0d278d70da1c04df0ed8b5f51ede5ad105512d3b8e3afbc0d4aa0b696639bd73",
+      "sha256_markdown": "82a971b5d82defa6b419b91f99ce0736585b501f8480521b5dd0149cb6c49f96"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-69",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-69.md",
+      "tipo": "DLG",
+      "senado_id": "43381864",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;69",
+      "norma": {
+        "numero": "69",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 69 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-69",
+      "sha256_fonte": "6460b32029aa1c47c5bbd96a17684ee5455ebb505435810e827007c819cc3080",
+      "sha256_markdown": "e8cb2be81207409cb613c4d19445d3ecd0feac8b61a6c51baaad350ea22100c5"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-123",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-123.md",
+      "tipo": "DLG",
+      "senado_id": "43385606",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;123",
+      "norma": {
+        "numero": "123",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 123 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-123",
+      "sha256_fonte": "c0db8cc685ca241525deee8a386b6f7982d45322b50c71ef0b3804259a26b182",
+      "sha256_markdown": "b7ba487de61e0ba95a8c4500e529f76c598c8326ed2ce4576a77351ca54983ef"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-107",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-107.md",
+      "tipo": "DLG",
+      "senado_id": "43384304",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;107",
+      "norma": {
+        "numero": "107",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 107 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-107",
+      "sha256_fonte": "3d3b6241a2925ae8cf0ff0f791b713f268c753067a72a9dc9cc05866c7a74c47",
+      "sha256_markdown": "7fa2ca17d55d8d7ce4bc984f96ad011a1fe40c1c588e385ddbaeb71df4955480"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-86",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-86.md",
+      "tipo": "DLG",
+      "senado_id": "43383463",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;86",
+      "norma": {
+        "numero": "86",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 86 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-86",
+      "sha256_fonte": "5a594efa0f02a1ff2ac70dd24dcf24367a9acf6b30412bc6a38e9547d4eadcc5",
+      "sha256_markdown": "2024a03b81c1172de6fb7b56670566aab9c0ecb010022d46a3851e939ddf493b"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-83",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-83.md",
+      "tipo": "DLG",
+      "senado_id": "43383359",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;83",
+      "norma": {
+        "numero": "83",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 83 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-83",
+      "sha256_fonte": "21fd0be87d8a0889a8ef51bd479db542116d1745f97cff4bee67fc9ad84ea357",
+      "sha256_markdown": "d13077b0072c7e3bfba4e4b7634fea7896ef53384ece49197293e30458078c5d"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-79",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-79.md",
+      "tipo": "DLG",
+      "senado_id": "43383220",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;79",
+      "norma": {
+        "numero": "79",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 79 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-79",
+      "sha256_fonte": "e64f77e25c26c4798cede83cdbb1926ebfb215d420b7674f0a6d07c959dce1f5",
+      "sha256_markdown": "2174f3bb34251ae408706a775d2ebea8b2197d08706a0dbe998016efd90fd864"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-139",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-139.md",
+      "tipo": "DLG",
+      "senado_id": "43382715",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;139",
+      "norma": {
+        "numero": "139",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 139 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-139",
+      "sha256_fonte": "799ab3d06bf9e02f60017644252d2f330827c19e880af892b607ac98b81af46a",
+      "sha256_markdown": "faacb789b2564da94b4becda2a283f47840b9408072fb6ea185fd894bf4f3944"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-06-08-119",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-06-08-119.md",
+      "tipo": "DLG",
+      "senado_id": "43385398",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;119",
+      "norma": {
+        "numero": "119",
+        "data": "2026-06-08",
+        "titulo": "Decreto Legislativo nº 119 de 08/06/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-06-08-119",
+      "sha256_fonte": "69b2578f945c3d06a7261b7a3fc9959855f83df40b3eecbd679c475022e55508",
+      "sha256_markdown": "663e953dbd438b80e9530e8ba853cd93fc8a2ddb13b0dc1fc3fd640e7a88d416"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-50",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-50.md",
+      "tipo": "DLG",
+      "senado_id": "43315455",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;50",
+      "norma": {
+        "numero": "50",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 50 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-50",
+      "sha256_fonte": "85cdfaf7d00ead00e5dc7ebf735e9c42d83bca05d18394b82f39c5925efadb22",
+      "sha256_markdown": "7ab88c5d44e805b1852f391fc2f3bdd33b26d3b48324b91b04ee02e33ce154ec"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-51",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-51.md",
+      "tipo": "DLG",
+      "senado_id": "43315492",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;51",
+      "norma": {
+        "numero": "51",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 51 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-51",
+      "sha256_fonte": "5e8350dcb1cdb7dfc6a2ed0d4229913f2140454bdcd355ce9018d06901e09e1a",
+      "sha256_markdown": "c5f06bb974b5aa550743c4c958966dfb18a7897e52de7571cd7408a1e467b9fc"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-46",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-46.md",
+      "tipo": "DLG",
+      "senado_id": "43315344",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;46",
+      "norma": {
+        "numero": "46",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 46 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-46",
+      "sha256_fonte": "67630ad3a7fc18dae0e7c44d5055033110129007596834d58f184b36da4f20b2",
+      "sha256_markdown": "7b7b00c47eefaff3acb5c02b230c5094e4e1ac31decc25ff06ff553f18b80c72"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-57",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-57.md",
+      "tipo": "DLG",
+      "senado_id": "43315659",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;57",
+      "norma": {
+        "numero": "57",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 57 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-57",
+      "sha256_fonte": "a49e9785236b46158e3037bb24890ca31a17cd99090eb54ae695744ad0e64e02",
+      "sha256_markdown": "5524b198a0953fe2af71f6d820c82e6a49476e6e2e639dd081d885bbd1789a1d"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-43",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-43.md",
+      "tipo": "DLG",
+      "senado_id": "43315108",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;43",
+      "norma": {
+        "numero": "43",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 43 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-43",
+      "sha256_fonte": "580c47aed09a57d96bf65881fc688f9cec7fc34a1ccb46460073b75f376834eb",
+      "sha256_markdown": "d1ec46ae85034b489b260aa445605a3133a43ef2e9fe4c62cd0cf3a0803bbbe8"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-47",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-47.md",
+      "tipo": "DLG",
+      "senado_id": "43315174",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;47",
+      "norma": {
+        "numero": "47",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 47 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-47",
+      "sha256_fonte": "5bf82747323f77362b27908eabebefda77e646320549e779eab4bb6921ab3e92",
+      "sha256_markdown": "b9932ddb552b6969773923afc182d3d1f8563ad72e7d50a8feae1a5f2c636e38"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-61",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-61.md",
+      "tipo": "DLG",
+      "senado_id": "43315770",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;61",
+      "norma": {
+        "numero": "61",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 61 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-61",
+      "sha256_fonte": "b06ba38b614ebb8b16538a7ba99de3e335c04712454586b0d2898994478b4b7b",
+      "sha256_markdown": "d1520abef42b5e1cbda356770c61e94296145d2ac836bf2ffea00ff92fd07cff"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-48",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-48.md",
+      "tipo": "DLG",
+      "senado_id": "43315381",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;48",
+      "norma": {
+        "numero": "48",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 48 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-48",
+      "sha256_fonte": "95ee62a53b60282c16f00fcc78ab96753f78c67a71950e42321c98fed721382d",
+      "sha256_markdown": "c04d129162d253767e14772f2c4b906431d7fbe1470f6fe58b718f14e72b2793"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-62",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-62.md",
+      "tipo": "DLG",
+      "senado_id": "43315807",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;62",
+      "norma": {
+        "numero": "62",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 62 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-62",
+      "sha256_fonte": "626e73ecee1fcd32a58e4082be2af82d1286de316fffef4770ab5c58010633f5",
+      "sha256_markdown": "31c3786ce6e1109092d4ec25f3ceecfcd0d421ca800005c9e819f8608953abe7"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-52",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-52.md",
+      "tipo": "DLG",
+      "senado_id": "43315529",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;52",
+      "norma": {
+        "numero": "52",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 52 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-52",
+      "sha256_fonte": "e73a16c0dd8ad71ec2f3d7f9881a64924343a16c889a76a956cb81cddf83bd07",
+      "sha256_markdown": "8ef9cb5b908bf23651cc9a056318887af74aec94a220092eeb15e7e568649e54"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-63",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-63.md",
+      "tipo": "DLG",
+      "senado_id": "43315844",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;63",
+      "norma": {
+        "numero": "63",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 63 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-63",
+      "sha256_fonte": "cb9ef88f66e665cbbcf68e0743ebd39392da6864f1cc6f4f85a07f85d6049ba5",
+      "sha256_markdown": "20ffd5ebd9f7e5248200869409cf7a149e4cef579517d451617c205e8e57fc1d"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-44",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-44.md",
+      "tipo": "DLG",
+      "senado_id": "43315307",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;44",
+      "norma": {
+        "numero": "44",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 44 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-44",
+      "sha256_fonte": "4104e3bbd6abf43b07cb31bf2f4e791766c322d7279e0ab1ee4e935aa5c4c5f7",
+      "sha256_markdown": "6e4a51121840e522b15d6c0f1f814b41923af491db7f4f4da4e72a154536b340"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-58",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-58.md",
+      "tipo": "DLG",
+      "senado_id": "43315696",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;58",
+      "norma": {
+        "numero": "58",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 58 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-58",
+      "sha256_fonte": "c000066f8409d13e9221c09eec9ca43ab24af1f6bd10f08596ba55e54ccb8b1a",
+      "sha256_markdown": "55dd6df2a01b7d26fee1715d1bc1c4e193cd44eb8db7ef094b8aeb178f127591"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-56",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-56.md",
+      "tipo": "DLG",
+      "senado_id": "43315248",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;56",
+      "norma": {
+        "numero": "56",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 56 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-56",
+      "sha256_fonte": "1cb7c537118a94cb993e5702befedc960901625a5f2d9024b03e291d023a1c08",
+      "sha256_markdown": "c56555d73af9e99c1fa7ebbef3d96d142806adbcdafc82efa8a910c957a0451c"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-54",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-54.md",
+      "tipo": "DLG",
+      "senado_id": "43315566",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;54",
+      "norma": {
+        "numero": "54",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 54 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-54",
+      "sha256_fonte": "abd907c7b8d7242e03d98a61669b4d0cb5bfa2cd81887a4a4354cb13804694df",
+      "sha256_markdown": "b272cae90499a6c693e0277237d24c4a0d14f8e34aef028bf766654ddb40f6e6"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-60",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-60.md",
+      "tipo": "DLG",
+      "senado_id": "43315733",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;60",
+      "norma": {
+        "numero": "60",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 60 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-60",
+      "sha256_fonte": "42945d7ce0db8fdacd09b805e7edb1cc80d4e91edeccc56ade63bbd80ffef53c",
+      "sha256_markdown": "7291082b7674bafe4d215dfe4bd9942abf7e85323ab9b0fdcbb4eac2d05c8263"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-49",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-49.md",
+      "tipo": "DLG",
+      "senado_id": "43315418",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;49",
+      "norma": {
+        "numero": "49",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 49 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-49",
+      "sha256_fonte": "ad6390c6ab290ad37309a8f7f5801ab70e8620444d0704fea3248c981ffc4e0f",
+      "sha256_markdown": "a902d564ac63a3ffef7df9a6f8584b21a0c076b6dac4f538b38ed1cd4b72c7a4"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-55",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-55.md",
+      "tipo": "DLG",
+      "senado_id": "43315603",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;55",
+      "norma": {
+        "numero": "55",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 55 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-55",
+      "sha256_fonte": "bceacb8ceda2cc28929edd0d11f799280ab79dadce3805742e049ca86419a0fa",
+      "sha256_markdown": "77aaa3c60b533116495d9815a0d6e78c0f9c2275c6b28123635afaaacb301455"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-45",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-45.md",
+      "tipo": "DLG",
+      "senado_id": "43315137",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;45",
+      "norma": {
+        "numero": "45",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 45 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-45",
+      "sha256_fonte": "fa4657b16ac6dfda1cdc7d141ed0b76c873ec12c67d8131ecea3b20bc41724fa",
+      "sha256_markdown": "9492d3ed944bff951d5fc65c80c2d3f22e94b6dff61ae130828fc45f9a5e6a37"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-59",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-59.md",
+      "tipo": "DLG",
+      "senado_id": "43315640",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;59",
+      "norma": {
+        "numero": "59",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 59 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-59",
+      "sha256_fonte": "2b7d32be4bafbd0b16f92a24b993a18cc77ba017bae864468a3df74fa1817ffe",
+      "sha256_markdown": "af69d1de022550fedabca8910ebb2347d69a98989b7412389a272a2d602eb288"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-21-53",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-21-53.md",
+      "tipo": "DLG",
+      "senado_id": "43315211",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;53",
+      "norma": {
+        "numero": "53",
+        "data": "2026-05-21",
+        "titulo": "Decreto Legislativo nº 53 de 21/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-21-53",
+      "sha256_fonte": "b5963834a79fd209f8ecac08d76a03ea01f446caf099d21740c91f800f882d67",
+      "sha256_markdown": "c88c521691af5ce58407de708d48ddb7ed695797c9218eb60a9326eda4f47d5e"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-41",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-41.md",
+      "tipo": "DLG",
+      "senado_id": "43240657",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;41",
+      "norma": {
+        "numero": "41",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 41 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-41",
+      "sha256_fonte": "53ec27770061fb74ae9c170c098975270256f6c5b624a7f8e0c6dd097c222139",
+      "sha256_markdown": "a53675a8a8bf36fc47edbdc721f2253843e54037f7be7a2b90d6f180b066d7de"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-42",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-42.md",
+      "tipo": "DLG",
+      "senado_id": "43240689",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;42",
+      "norma": {
+        "numero": "42",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 42 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-42",
+      "sha256_fonte": "ff80a1855be4de82b6603cf44c094db5f12a7cb582dc413de53087dbd2424a31",
+      "sha256_markdown": "acd6d2339414a88b7f0998a412d98addea8b7624c49e9fc61a7f708b8488264e"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-22",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-22.md",
+      "tipo": "DLG",
+      "senado_id": "43240371",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;22",
+      "norma": {
+        "numero": "22",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 22 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-22",
+      "sha256_fonte": "1636c454c30cba2a88e88b0ae3a9b5ceed6d52932900576247dd8776f750ad7a",
+      "sha256_markdown": "b1f2a33c7de9c93a850673d32bf7d4ae46be860b02547014fd4d2ee54eeb8984"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-32",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-32.md",
+      "tipo": "DLG",
+      "senado_id": "43248146",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;32",
+      "norma": {
+        "numero": "32",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 32 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-32",
+      "sha256_fonte": "18557867c77023ce738d7790daceba3fdb47e3c50a530e87bf0887928633b5bb",
+      "sha256_markdown": "489e2377d031c9f56a5cd552e9e995c36fc8e44ee203207373bc86cec9fc6cb7"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-30",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-30.md",
+      "tipo": "DLG",
+      "senado_id": "43248082",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;30",
+      "norma": {
+        "numero": "30",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 30 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-30",
+      "sha256_fonte": "d930a0d3ba4721c349b3aafe02fed252afd298c0f93368058fc8e55382e248de",
+      "sha256_markdown": "f2da221ba2f15199683329c51c3403a42fd9f82b9efe3b3a1fec5838ea912d79"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-40",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-40.md",
+      "tipo": "DLG",
+      "senado_id": "43240625",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;40",
+      "norma": {
+        "numero": "40",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 40 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-40",
+      "sha256_fonte": "b186f080decc408257e6d0733195beeea2bbcfe1ff79ecf1ac4795ffeb16e8e8",
+      "sha256_markdown": "07b84771ae64631590447ebb85f7c545aaf94dfdb7a4b57de2b5ef3faf6b0ba9"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-24",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-24.md",
+      "tipo": "DLG",
+      "senado_id": "43240721",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;24",
+      "norma": {
+        "numero": "24",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 24 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-24",
+      "sha256_fonte": "4e03adf026facad07d97442b62fecef084cf4d63dedbe10a2c79d8487fda8cee",
+      "sha256_markdown": "d30323992647f7a91068059b2d77d49772fa980c77a7cefb75caad01c9775d0a"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-21",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-21.md",
+      "tipo": "DLG",
+      "senado_id": "43247859",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;21",
+      "norma": {
+        "numero": "21",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 21 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-21",
+      "sha256_fonte": "7824df933df8bf5e3712c5dcba6a3043aa8e5c3f6823fa96d36a88a7e39aeb7a",
+      "sha256_markdown": "4c05eaaa3594aff72295e4fbc49d389c6140858d031679d5b6661f8c18d9ccc1"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-26",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-26.md",
+      "tipo": "DLG",
+      "senado_id": "43247954",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;26",
+      "norma": {
+        "numero": "26",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 26 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-26",
+      "sha256_fonte": "1457fc2aab3c236c41ac3abf101def9433fbb84adf44cd5f76750eb796acb3e0",
+      "sha256_markdown": "cc15b3d6625758a7bd5b5180f8dd4fcac3dabf080d4079ebf87d89bef78661e6"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-39",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-39.md",
+      "tipo": "DLG",
+      "senado_id": "43240593",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;39",
+      "norma": {
+        "numero": "39",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 39 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-39",
+      "sha256_fonte": "cdd1f7f835af77f35cdc828a15eb2fc2c95a4ca30363afe02bbf629917aa6ef8",
+      "sha256_markdown": "eb4ef275ed4d4e83dfdc0cb196b42a656f2696b411678c9ea7290ece5f10e0b9"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-38",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-38.md",
+      "tipo": "DLG",
+      "senado_id": "43248219",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;38",
+      "norma": {
+        "numero": "38",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 38 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-38",
+      "sha256_fonte": "675c03e899c9353cab55bf6a57857c228a227d05dbed729fbb97598c91ce3866",
+      "sha256_markdown": "4a37662fa2dc051ea99aa8483ba91b682e97be42bae054d91298fc72c1d0ae42"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-27",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-27.md",
+      "tipo": "DLG",
+      "senado_id": "43247986",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;27",
+      "norma": {
+        "numero": "27",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 27 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-27",
+      "sha256_fonte": "7f1b18aa32b372d47b5acf6a2624668b2e568a80e5ae9028ede0c2eaaf00da3a",
+      "sha256_markdown": "1ebeb60aa270d6fdf1757d3fd4e8b5ad040bd6c80f701548a5ac31b297b61a9b"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-23",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-23.md",
+      "tipo": "DLG",
+      "senado_id": "43247890",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;23",
+      "norma": {
+        "numero": "23",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 23 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-23",
+      "sha256_fonte": "8a374631f3f36db225ad87ab8020c0a2156f94636ab2628c32dfe6414a81c030",
+      "sha256_markdown": "b506056329207c965ebef51e7078be688b5ddf0d289127e23e556aeaa02d3285"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-33",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-33.md",
+      "tipo": "DLG",
+      "senado_id": "43240402",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;33",
+      "norma": {
+        "numero": "33",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 33 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-33",
+      "sha256_fonte": "9c4c537a1ab5ec777a065a36c4df48ad4851d2648b5ce329a28ea9950560d3f6",
+      "sha256_markdown": "76e200c7bf80a540c4bd215d79fd6dd272aa76cd838cad140e5217b44275078e"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-20",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-20.md",
+      "tipo": "DLG",
+      "senado_id": "43240340",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;20",
+      "norma": {
+        "numero": "20",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 20 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-20",
+      "sha256_fonte": "957b80553b03fde4e8878ea405345f9f0c95c958ad830202ffaa54767ca41812",
+      "sha256_markdown": "2b8fdfecec757ac7f317d487f273fafd217d609142d2fbf93bfce44e5a26f4fa"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-37",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-37.md",
+      "tipo": "DLG",
+      "senado_id": "43240530",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;37",
+      "norma": {
+        "numero": "37",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 37 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-37",
+      "sha256_fonte": "2ab278ebd3575c8b3ac0ce6a6b49e6c0629c8587bdeda08f96a95899d0644bb2",
+      "sha256_markdown": "b8905dbc6c27578afc92e24beb5e668bb9dfd6a515783f1f6a0ba0d864359bce"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-36",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-36.md",
+      "tipo": "DLG",
+      "senado_id": "43240498",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;36",
+      "norma": {
+        "numero": "36",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 36 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-36",
+      "sha256_fonte": "3ec3519e4027ab44b223949c0285176cf0954d96c19713c26c42387399374f1e",
+      "sha256_markdown": "a13ec7d5b10606be4d36aece8d3c326104ee3099a1ff7ba15c94ce490c820774"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-35",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-35.md",
+      "tipo": "DLG",
+      "senado_id": "43240466",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;35",
+      "norma": {
+        "numero": "35",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 35 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-35",
+      "sha256_fonte": "956edc47d20541f54bf6b5e281581eb469414139d048fe3e3f930f6482a2d271",
+      "sha256_markdown": "f8990cda637435d67545e1b253e8672728a67186e8b14115a79686f2fb63debb"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-25",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-25.md",
+      "tipo": "DLG",
+      "senado_id": "43247922",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;25",
+      "norma": {
+        "numero": "25",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 25 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-25",
+      "sha256_fonte": "8b3c4080a7135d5d171b0ddab9c3c979201d327d5fdddcca89fe9c4b3ff8834d",
+      "sha256_markdown": "bb5e9d22854e71ba943127ecf575640dbbf1e7e8ca9758d6f82458ee367bb356"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-31",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-31.md",
+      "tipo": "DLG",
+      "senado_id": "43248114",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;31",
+      "norma": {
+        "numero": "31",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 31 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-31",
+      "sha256_fonte": "43f552244082a5b29a205319cb54de26a2341276ea56fd15b8a5ade6ba8dc04b",
+      "sha256_markdown": "b63868edef5ec5803c6fb0c344b7678025b52a608315abd1935d714e75e90238"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-29",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-29.md",
+      "tipo": "DLG",
+      "senado_id": "43248050",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;29",
+      "norma": {
+        "numero": "29",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 29 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-29",
+      "sha256_fonte": "34ddec5e72c0605c8eeaf5a41dfc110e40322734c8658213684e09a2765d2b9b",
+      "sha256_markdown": "c2f04a1c26104a53b4fc36cf8c4c17c93568cdf54a93b845c755f93792751f43"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-28",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-28.md",
+      "tipo": "DLG",
+      "senado_id": "43248018",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;28",
+      "norma": {
+        "numero": "28",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 28 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-28",
+      "sha256_fonte": "7f30860cbbbc49caaa4c78195b9a75a701bef59b8f9c2bafb80a89e0be504242",
+      "sha256_markdown": "d22393e2a5af5442f480b3cf6b79eda85c37e79da952711ef4dbe1c6a5d27ba4"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-05-04-34",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-05-04-34.md",
+      "tipo": "DLG",
+      "senado_id": "43248178",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;34",
+      "norma": {
+        "numero": "34",
+        "data": "2026-05-04",
+        "titulo": "Decreto Legislativo nº 34 de 04/05/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-05-04-34",
+      "sha256_fonte": "0c63f4993110cdae1a6c39d9e1775c7838631855ea2012fc78f5c717e9f61deb",
+      "sha256_markdown": "52a4216f91334f84a21cde7db7339cf3c7be09bb2e50d36a42c360cd384540bb"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-04-15-19",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-04-15-19.md",
+      "tipo": "DLG",
+      "senado_id": "43053389",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-04-15;19",
+      "norma": {
+        "numero": "19",
+        "data": "2026-04-15",
+        "titulo": "Decreto Legislativo nº 19 de 15/04/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-04-15-19",
+      "sha256_fonte": "38b061d826923c7bb976b7a0eaf0452c8191f1f1e3d8d916fa412abebb8e61f9",
+      "sha256_markdown": "1a1a218c172d2f86684eb74b91a50d1af4958f78ed4a3fd419a99a96e92bdd80"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-02-26-4",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-02-26-4.md",
+      "tipo": "DLG",
+      "senado_id": "42848737",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;4",
+      "norma": {
+        "numero": "4",
+        "data": "2026-02-26",
+        "titulo": "Decreto Legislativo nº 4 de 26/02/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-02-26-4",
+      "sha256_fonte": "f4b70a278b91aad2e4a66b0f50b0f09b1cb2dc952bfc23fb10cfacab1dd950c8",
+      "sha256_markdown": "6b00caef6f86e529f9bfce970dcdbea7206f1d1d45811bfd003642e88de94daa"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-02-26-3",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-02-26-3.md",
+      "tipo": "DLG",
+      "senado_id": "42842371",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;3",
+      "norma": {
+        "numero": "3",
+        "data": "2026-02-26",
+        "titulo": "Decreto Legislativo nº 3 de 26/02/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-02-26-3",
+      "sha256_fonte": "02642634f468e7cddc2e650a621ebf5a7e1140cd19b4932a8aaaadd54e1ef1d1",
+      "sha256_markdown": "0deaa5503e9fd20793668c668369e469c22fa6382d02c53fc573fc4a1fee2d1e"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-02-26-8",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-02-26-8.md",
+      "tipo": "DLG",
+      "senado_id": "42842602",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;8",
+      "norma": {
+        "numero": "8",
+        "data": "2026-02-26",
+        "titulo": "Decreto Legislativo nº 8 de 26/02/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-02-26-8",
+      "sha256_fonte": "93baef6e373d419f8288e4258f0813d12329249c37fb8b4430f2fbbc398baf4c",
+      "sha256_markdown": "4483f53203407aaa94f2f1a7c4cead074bd7b41d612882ca420630937b6675fd"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-02-26-1",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-02-26-1.md",
+      "tipo": "DLG",
+      "senado_id": "42848591",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;1",
+      "norma": {
+        "numero": "1",
+        "data": "2026-02-26",
+        "titulo": "Decreto Legislativo nº 1 de 26/02/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-02-26-1",
+      "sha256_fonte": "cbcd0e8f1f00b814fa72956118eba68dec524ae66c182230000fcfd5b512753b",
+      "sha256_markdown": "6cec0179bbe0c80f0341cc65780f1026f1c03fac6b783a9faca06819f463686e"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-02-26-7",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-02-26-7.md",
+      "tipo": "DLG",
+      "senado_id": "42848935",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;7",
+      "norma": {
+        "numero": "7",
+        "data": "2026-02-26",
+        "titulo": "Decreto Legislativo nº 7 de 26/02/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-02-26-7",
+      "sha256_fonte": "d1ca03edf5a937adfd305b7cc02de5cd4d3f74f22fc249c26d38fe06f182a4a3",
+      "sha256_markdown": "72bd5f02a3ccb722f612af4c8f264747c49e95ed8c029faeef296897c48dfc1f"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-02-26-6",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-02-26-6.md",
+      "tipo": "DLG",
+      "senado_id": "42848816",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;6",
+      "norma": {
+        "numero": "6",
+        "data": "2026-02-26",
+        "titulo": "Decreto Legislativo nº 6 de 26/02/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-02-26-6",
+      "sha256_fonte": "e5f6cf94e4b4a0ffa823348de4f3049cf920eb6c4bf4d310723fdaa8cb00c010",
+      "sha256_markdown": "a0507b96393d73e12950929f5c8fc48a4d4b5b9decedac73763d71b7e9e93a82"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-02-26-5",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-02-26-5.md",
+      "tipo": "DLG",
+      "senado_id": "42842472",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;5",
+      "norma": {
+        "numero": "5",
+        "data": "2026-02-26",
+        "titulo": "Decreto Legislativo nº 5 de 26/02/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-02-26-5",
+      "sha256_fonte": "50a09b77de63297b39c372dc28e830bd903c7c74867db455951d30dbe7671724",
+      "sha256_markdown": "f23b1b013868666acbdfb6c764376aaa5e838ec06c0e02f2c3755da31e41eed3"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-02-26-2",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-02-26-2.md",
+      "tipo": "DLG",
+      "senado_id": "42848658",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;2",
+      "norma": {
+        "numero": "2",
+        "data": "2026-02-26",
+        "titulo": "Decreto Legislativo nº 2 de 26/02/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-02-26-2",
+      "sha256_fonte": "8b1f990796a178787d6c5faeb47f140edcbffb74d2d97a037dfb149f5a608550",
+      "sha256_markdown": "c82470b1c2f5b1229b87f7b03636483d3bb4612bffc7d36e508124b64b435c0d"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-297",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-297.md",
+      "tipo": "DLG",
+      "senado_id": "41882640",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;297",
+      "norma": {
+        "numero": "297",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 297 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-297",
+      "sha256_fonte": "a9d0e96b4832c7d27af13b57ee7edfa295a45bae8cc43cee753936aa60b8c013",
+      "sha256_markdown": "103a904a52de45908a4b236df1f8e59db9ce04f7ac07c4588e3278d38f01e9b3"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-295",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-295.md",
+      "tipo": "DLG",
+      "senado_id": "41882568",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;295",
+      "norma": {
+        "numero": "295",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 295 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-295",
+      "sha256_fonte": "9eb9a84413ccb836905b772ec590671791583be5b01ab1f85bbf710c59dcdee9",
+      "sha256_markdown": "65f61fb59a51f93adcef4f711862d4511b191218c5867b569858e3c2ddb10c1f"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-303",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-303.md",
+      "tipo": "DLG",
+      "senado_id": "41882712",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;303",
+      "norma": {
+        "numero": "303",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 303 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-303",
+      "sha256_fonte": "5dc8277740fcbed37f06d0e1ad923816892138421d90e5ef6f15f233a594d774",
+      "sha256_markdown": "a8c2997f508d4f2ac179d2b713947fdd91bd8a5d4967d42056c527a53594c1c8"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-310",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-310.md",
+      "tipo": "DLG",
+      "senado_id": "41883258",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;310",
+      "norma": {
+        "numero": "310",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 310 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-310",
+      "sha256_fonte": "fec35e5a5f1691d431b05c3b5de76f960007c72e6673bec6cb67e545759b81ef",
+      "sha256_markdown": "4f50754f289d35ab1b81a1cba0b6ee9184c8e901e541095f8aa822e09b9480d1"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-290",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-290.md",
+      "tipo": "DLG",
+      "senado_id": "41882254",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;290",
+      "norma": {
+        "numero": "290",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 290 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-290",
+      "sha256_fonte": "1b4715a7a199dadc9bcc642696d49a234148060e9f044952386739e5db1cc6e6",
+      "sha256_markdown": "9a0f86c6dcf681bc346d4d9631e53e1ada4884407e359100ce2939262498bb01"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-299",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-299.md",
+      "tipo": "DLG",
+      "senado_id": "41882822",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;299",
+      "norma": {
+        "numero": "299",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 299 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-299",
+      "sha256_fonte": "de165245b1ba113a2645e9b918daac11adb4fdce95515fe01020de18ba09ca25",
+      "sha256_markdown": "dddf18a6b8eabde98de67ea44407d16eb8a10c0d5cd05793b247cbfbf9230351"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-307",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-307.md",
+      "tipo": "DLG",
+      "senado_id": "41883040",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;307",
+      "norma": {
+        "numero": "307",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 307 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-307",
+      "sha256_fonte": "4d043146e66cf2be61559471b7f176b75cb50aa5f4e11c8c105ad8eefce3decd",
+      "sha256_markdown": "60eec0e6b16c4bde8b9d60eedbd7ca2e9ada1164d2956cc50f73f1b50e33c23b"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-305",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-305.md",
+      "tipo": "DLG",
+      "senado_id": "41882930",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;305",
+      "norma": {
+        "numero": "305",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 305 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-305",
+      "sha256_fonte": "2f7ee8a636dc98a54ea5ccb4b102006ad6d19c1da5c50910d040a22417944166",
+      "sha256_markdown": "6cffa0f2c9a055759b7260466a16c4b0e361f2b80e987e9b6201d2e628baaa88"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-309",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-309.md",
+      "tipo": "DLG",
+      "senado_id": "41883002",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;309",
+      "norma": {
+        "numero": "309",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 309 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-309",
+      "sha256_fonte": "9c194188c9c9f489fb214ad36067e69e4f6d54d498a65d3454395060d6a4675c",
+      "sha256_markdown": "8a311ed97fadb4871617c151940d7f8b93597127cea668f4f5436041de8e3541"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-300",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-300.md",
+      "tipo": "DLG",
+      "senado_id": "41882676",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;300",
+      "norma": {
+        "numero": "300",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 300 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-300",
+      "sha256_fonte": "bdbe8538922a50904030af3105b7837a0213f995fecb333d51eb6f05026bb727",
+      "sha256_markdown": "efd9e5ab5d3c0aa8f03d84da95dc4a91ad0feaec1918cbbc7896690525626096"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-288",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-288.md",
+      "tipo": "DLG",
+      "senado_id": "41882424",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;288",
+      "norma": {
+        "numero": "288",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 288 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-288",
+      "sha256_fonte": "f06a8588c33d65476d9aac1a7bc0fe946bf77e295a28dd6ddd662d4708036185",
+      "sha256_markdown": "00c64539f048cfaa5a11e1fe8f92e9bf9139f031ab1f2a1f7f0ee54a8788ca94"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-292",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-292.md",
+      "tipo": "DLG",
+      "senado_id": "41882496",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;292",
+      "norma": {
+        "numero": "292",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 292 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-292",
+      "sha256_fonte": "6d090a15803f2dd2d580f14b0da97a9d95b05102236c20bcc3e4f672983ceb4c",
+      "sha256_markdown": "20aff2ed12608097b95f5ad55b43b43ef6ed60c07cb7395ab4c10df5d1c109f2"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-308",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-308.md",
+      "tipo": "DLG",
+      "senado_id": "41882966",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;308",
+      "norma": {
+        "numero": "308",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 308 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-308",
+      "sha256_fonte": "905ccb539d9ef27ee5e8ebc237f26ad754a270e3da9f7a87efcd15dc64e2f7cb",
+      "sha256_markdown": "59f1050fd7bf72e818bcc33eb8614b9c541b04d920fa01fa514e09ad08c03454"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-306",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-306.md",
+      "tipo": "DLG",
+      "senado_id": "41882784",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;306",
+      "norma": {
+        "numero": "306",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 306 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-306",
+      "sha256_fonte": "0c04f78c23c474b4b5cdaf10cd307ee2ffca3766ae007ee5901acf4bec0f3fdd",
+      "sha256_markdown": "0a70b69618273de1c5b8fdfddb8793e285bfcbfde356d52bc7992628e34326ae"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-293",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-293.md",
+      "tipo": "DLG",
+      "senado_id": "41882532",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;293",
+      "norma": {
+        "numero": "293",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 293 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-293",
+      "sha256_fonte": "b62eefc7e1198f87fa48f7f8b2f116d154819846b00139a02d24a7ce4661b2b7",
+      "sha256_markdown": "1b41ee34636a777809437581cdd4b3210d234e4207fd0cd1fb3745dd7dc6797e"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-298",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-298.md",
+      "tipo": "DLG",
+      "senado_id": "41882326",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;298",
+      "norma": {
+        "numero": "298",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 298 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-298",
+      "sha256_fonte": "75cc98420c8bdad9361fcc9de8ecc4d8a638bccfa322bfc0b68f8fc858d0df19",
+      "sha256_markdown": "fbd2840b76d6b94eb732079ca18c957d04d7c229683119279c9487273667d79a"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-289",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-289.md",
+      "tipo": "DLG",
+      "senado_id": "41882218",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;289",
+      "norma": {
+        "numero": "289",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 289 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-289",
+      "sha256_fonte": "2ea514d2103ab0d4fb571e4782012d114a9a895d3414356f810b30439676bd6d",
+      "sha256_markdown": "a35699f6c9b98abd983b0349044db889b4705c7fe78b66d489015ce1b577c780"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-291",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-291.md",
+      "tipo": "DLG",
+      "senado_id": "41882460",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;291",
+      "norma": {
+        "numero": "291",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 291 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-291",
+      "sha256_fonte": "4735f7a7066044a3e0dcbdd4907d6d9e9d037c81bba89587ff3d7170306259a7",
+      "sha256_markdown": "6307a361ea9eaa06899f961ff7fd8d338a0de573b378329661ea611831c42baf"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-296",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-296.md",
+      "tipo": "DLG",
+      "senado_id": "41882604",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;296",
+      "norma": {
+        "numero": "296",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 296 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-296",
+      "sha256_fonte": "efc8eec7221cfd4c0f2d5650a2995b4feb0c7a9db60fe7442159399ccb56fbbe",
+      "sha256_markdown": "c3f706a60f4a6f8b325bb5399c235771764522796b80acb78b59ef5ce9812d8b"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-302",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-302.md",
+      "tipo": "DLG",
+      "senado_id": "41882894",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;302",
+      "norma": {
+        "numero": "302",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 302 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-302",
+      "sha256_fonte": "854f1ec8d85560e8cfeb906499806bb5a75226a70776e014b97c8be1c6da20d0",
+      "sha256_markdown": "3278a2f231ca34efef66e46eb9e0a6592ad6e41f2c693706d7c98daa434e264a"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-304",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-304.md",
+      "tipo": "DLG",
+      "senado_id": "41882748",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;304",
+      "norma": {
+        "numero": "304",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 304 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-304",
+      "sha256_fonte": "1d25385d4f4e1a3bf8544e3a812aafbae801af1e1e5704334ccefc519adb1280",
+      "sha256_markdown": "537acc5d592e01fc0f3b55c12cc6460976a6f000acf67efa478abe1c46b9ebe6"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-301",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-301.md",
+      "tipo": "DLG",
+      "senado_id": "41882858",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;301",
+      "norma": {
+        "numero": "301",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 301 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-301",
+      "sha256_fonte": "67384ab58e552d82cbd7f4b604367fe3286b0ab97c7092535bea7d9e26557512",
+      "sha256_markdown": "1a2a35151c4afba280596733293a0e5d00fe6f6143e3389853881e8399ae20aa"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-23-294",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-23-294.md",
+      "tipo": "DLG",
+      "senado_id": "41882290",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;294",
+      "norma": {
+        "numero": "294",
+        "data": "2025-12-23",
+        "titulo": "Decreto Legislativo nº 294 de 23/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-23-294",
+      "sha256_fonte": "a40bd2c98688bcf6e4a76a2008bc801f65de0f8ca9b207cd9c5683936718c9e9",
+      "sha256_markdown": "231376c4b32fbaa4c4b51162512e1485c487f6588fe9530096e449023ef879b8"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-279",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-279.md",
+      "tipo": "DLG",
+      "senado_id": "41817997",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;279",
+      "norma": {
+        "numero": "279",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 279 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-279",
+      "sha256_fonte": "f11dc80122b0bcea41684e63584cfb6b095477318dd6f100585fc66d475878b5",
+      "sha256_markdown": "6c35e023d8afe5bb2363b4eacc4e47554bb748a19c24413eb51833e800d6c692"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-277",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-277.md",
+      "tipo": "DLG",
+      "senado_id": "41818176",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;277",
+      "norma": {
+        "numero": "277",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 277 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-277",
+      "sha256_fonte": "c9afa839c2ddf8218bc8eae3063e96e1200372894908dc2b899ed59df42f8cf7",
+      "sha256_markdown": "a82fbf1e3ad00de22c46e611e6117c004dc996aa9b8f013f653a5babc0747ff6"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-276",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-276.md",
+      "tipo": "DLG",
+      "senado_id": "41818129",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;276",
+      "norma": {
+        "numero": "276",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 276 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-276",
+      "sha256_fonte": "2f00933b690fa5db17ddb77eea98539e2fe05cac187e63a5c5983197ba33fc9a",
+      "sha256_markdown": "91ea49f79924700edd620c1a42fe03946ae492426d212c6dd2cc1baf0ce87a2c"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-282",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-282.md",
+      "tipo": "DLG",
+      "senado_id": "41818294",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;282",
+      "norma": {
+        "numero": "282",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 282 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-282",
+      "sha256_fonte": "b5e791ea3463a301fd1a7ae56ee2e3379dea9cc4c520bff74a8a8d416e41cfb1",
+      "sha256_markdown": "6f472a8aa9718fae68e0ea326e1a33f06916bf4ef82228404db17675c80eda72"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-281",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-281.md",
+      "tipo": "DLG",
+      "senado_id": "41818258",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;281",
+      "norma": {
+        "numero": "281",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 281 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-281",
+      "sha256_fonte": "59a138492453f947e22129a0b270c2f340298ec60caa8e02ca2641b40a985c85",
+      "sha256_markdown": "d2ded892934a9fa4cad8ed480bad24a606ff5f2ef2d9a8fff594fab7bee3d7d0"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-270",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-270.md",
+      "tipo": "DLG",
+      "senado_id": "41817724",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;270",
+      "norma": {
+        "numero": "270",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 270 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-270",
+      "sha256_fonte": "a7de70909dbc78a8448328aa94329b8a7fe707ca6dfe79105ddf2a3b08211460",
+      "sha256_markdown": "a8eece4dc927931e0ffba278e71f354ab4ddd4f0210a59d3b6b043f250b2e096"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-274",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-274.md",
+      "tipo": "DLG",
+      "senado_id": "41817845",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;274",
+      "norma": {
+        "numero": "274",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 274 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-274",
+      "sha256_fonte": "9206a421a38a9853f12455e6aff1b8696b4c5b4fd992b778501fe82ea369ee63",
+      "sha256_markdown": "c739e0923b71148f2fbc74b4d0bdf10a2c32cd1cf2b47e0d2f34fa3679a40741"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-271",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-271.md",
+      "tipo": "DLG",
+      "senado_id": "41817776",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;271",
+      "norma": {
+        "numero": "271",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 271 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-271",
+      "sha256_fonte": "5f0ac4e43530f19d11742e89b425d9f3ee51beff20bade292fe1a513a4d6b407",
+      "sha256_markdown": "31c61bf75a878d51781db35534c5c157abba4d7419bc764f18d40080fa797c5a"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-269",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-269.md",
+      "tipo": "DLG",
+      "senado_id": "41817674",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;269",
+      "norma": {
+        "numero": "269",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 269 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-269",
+      "sha256_fonte": "b57f04319b393ba17a9caa6c4c343a728bc735ce722f9a07396e366351efcb38",
+      "sha256_markdown": "64b50f52957f4ac55cf80c33da0544ca965d6b452d48295b64d4bc4117713fd2"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-283",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-283.md",
+      "tipo": "DLG",
+      "senado_id": "41818038",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;283",
+      "norma": {
+        "numero": "283",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 283 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-283",
+      "sha256_fonte": "bea531068d2e3b6f4d516931cd7c9cff146256c0cb7ee9d4bb48c72be94a3bbb",
+      "sha256_markdown": "50ac89f4aec4c2b7c895e8ced1e42e489137aef01891332015bb88d23d30a972"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-278",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-278.md",
+      "tipo": "DLG",
+      "senado_id": "41817955",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;278",
+      "norma": {
+        "numero": "278",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 278 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-278",
+      "sha256_fonte": "0d5a02309c6c5c124634a622562c8e34a46a76a8105b1b44e76c0a3c33d16988",
+      "sha256_markdown": "9dcec1bad49586613d2eff460a4968937e1796aea1493209f9c5c697e51ed515"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-273",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-273.md",
+      "tipo": "DLG",
+      "senado_id": "41817867",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;273",
+      "norma": {
+        "numero": "273",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 273 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-273",
+      "sha256_fonte": "1ad5aecde6fe96e262af90dc11395597c41a23672624997b0a5bda2acd34befd",
+      "sha256_markdown": "1e9f451b78fd4446be31ee7350d6f4f9993e21e912d53a3960747bba5a855f15"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-280",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-280.md",
+      "tipo": "DLG",
+      "senado_id": "41818218",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;280",
+      "norma": {
+        "numero": "280",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 280 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-280",
+      "sha256_fonte": "8eb626b3ca550c510de3b94aa12651271ccca2ba230bf9a7299c420e31b9bfdf",
+      "sha256_markdown": "f5edd4a80cbe59fd214a2afbba74ab200ab153d5b3698eaaa1cd525eef6eec9f"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-268",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-268.md",
+      "tipo": "DLG",
+      "senado_id": "41817414",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;268",
+      "norma": {
+        "numero": "268",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 268 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-268",
+      "sha256_fonte": "b8bc32902ba31a8983cdb7c7c0186b161761919922e418cb5bbd5fefcf3a8b27",
+      "sha256_markdown": "140208843dbc5ac6af6e685847a94fe124053752b401cc72c09464d139a18785"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-272",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-272.md",
+      "tipo": "DLG",
+      "senado_id": "41817753",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;272",
+      "norma": {
+        "numero": "272",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 272 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-272",
+      "sha256_fonte": "4589e824c04de2aab415f51ec7347abcd0325580356c87fea3cccda10af9ea26",
+      "sha256_markdown": "09b310196be73629a8260fba18e40513fc1f0cc5261ff844f8fe00be3be8b36a"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-08-275",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-08-275.md",
+      "tipo": "DLG",
+      "senado_id": "41818097",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;275",
+      "norma": {
+        "numero": "275",
+        "data": "2025-12-08",
+        "titulo": "Decreto Legislativo nº 275 de 08/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-08-275",
+      "sha256_fonte": "95a2b254bf203f89ae8826312afe8f262c4965226b52b100fb71d8e6ba625278",
+      "sha256_markdown": "0d279920a4154042c4611ba3ac7baf0d85c6335dc857774df49f5a405783432e"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-237",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-237.md",
+      "tipo": "DLG",
+      "senado_id": "41796994",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;237",
+      "norma": {
+        "numero": "237",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 237 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-237",
+      "sha256_fonte": "304bba706fc43cdb1bba59c61cf45c9e7c02d66734a6a4c9122acfa9807023df",
+      "sha256_markdown": "a5ed76c0a50e549390f8b1bc2e53bfb8c1a0aab989703fa28e28158ad0c0a831"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-233",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-233.md",
+      "tipo": "DLG",
+      "senado_id": "41795968",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;233",
+      "norma": {
+        "numero": "233",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 233 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-233",
+      "sha256_fonte": "4422cebb2badc669782f2aaf43cdbd402f53dd8dc15a0bebbe46d28470852020",
+      "sha256_markdown": "4d48e8d5c470c213494e65a8455a6cd24e182edc572c5696ea652741a80f83ea"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-263",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-263.md",
+      "tipo": "DLG",
+      "senado_id": "41796742",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;263",
+      "norma": {
+        "numero": "263",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 263 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-263",
+      "sha256_fonte": "b4afadcc3395f3667005b068b1b209187f2628264ade462a9a7bb2b19ae481a3",
+      "sha256_markdown": "ef616745e8c4d3954167dac2567b9ade15b8382ca7bda4bbd4b286a7240db0d7"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-246",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-246.md",
+      "tipo": "DLG",
+      "senado_id": "41796472",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;246",
+      "norma": {
+        "numero": "246",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 246 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-246",
+      "sha256_fonte": "00a4ce6e47e6ba6560305c238b108d89ba64b79916c680e2d8416ed26d7c5304",
+      "sha256_markdown": "bc63b5e234f10d1d77fb4e573b17ab08d5d43100a0294f61d7b74f8bee8ebc77"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-249",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-249.md",
+      "tipo": "DLG",
+      "senado_id": "41797282",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;249",
+      "norma": {
+        "numero": "249",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 249 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-249",
+      "sha256_fonte": "3916b27cbe2198aa757530143e626638a0773aca1a0db44ef9065c5267b44275",
+      "sha256_markdown": "317a771a3a774ebd985031bc81e5914ee0da4800103fc646d801d5233e566ceb"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-254",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-254.md",
+      "tipo": "DLG",
+      "senado_id": "41796256",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;254",
+      "norma": {
+        "numero": "254",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 254 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-254",
+      "sha256_fonte": "15dc5a5e821982d9f86909770106d56b520276f18f91212212e6711b61aa99d9",
+      "sha256_markdown": "23f88a4ae0dade73d2b0973fd5e86ff0cc4c4bc2c144e699c964b5dd27d046fd"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-239",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-239.md",
+      "tipo": "DLG",
+      "senado_id": "41796148",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;239",
+      "norma": {
+        "numero": "239",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 239 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-239",
+      "sha256_fonte": "40685d01c425aef1a50c3c49ff221d6da955a3d4ba71538069569d286151bd16",
+      "sha256_markdown": "5cf3ab3b57c41510364ff8750b3dca8915a6a794df58a797f48a0751a9040804"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-230",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-230.md",
+      "tipo": "DLG",
+      "senado_id": "41796706",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;230",
+      "norma": {
+        "numero": "230",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 230 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-230",
+      "sha256_fonte": "6726fbe8ab26668e7abfbb113d6a5087aa9e62122f515b5ba1d8402afaa47ac7",
+      "sha256_markdown": "231ad5183aeca69ad90ca0b12673d84226ea1783c3cd53645336d8bb0d71523f"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-258",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-258.md",
+      "tipo": "DLG",
+      "senado_id": "41796436",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;258",
+      "norma": {
+        "numero": "258",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 258 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-258",
+      "sha256_fonte": "0db065b9a1408a3a058627539819917a6a922774e9879a58d6aa130061d1bd69",
+      "sha256_markdown": "7bf24ad4edafe6d6349bf7d78816be558faee65b6c740a00ddd665bcfba3814e"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-260",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-260.md",
+      "tipo": "DLG",
+      "senado_id": "41796508",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;260",
+      "norma": {
+        "numero": "260",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 260 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-260",
+      "sha256_fonte": "954c60470f219fe706e9ffb8653a0be5065114c927322bcb3a72bc8cd434be89",
+      "sha256_markdown": "42df7692d71453de4fb981cb9309f707571bd6cdbf36e4c69bb8c23d15cbdd99"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-240",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-240.md",
+      "tipo": "DLG",
+      "senado_id": "41796220",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;240",
+      "norma": {
+        "numero": "240",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 240 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-240",
+      "sha256_fonte": "a84c601f45bbd7f794d726330153fe1bc744976761de45d42ff12ad305a5cede",
+      "sha256_markdown": "31aafd1cb488e004a5127044dc19d33d1425ab722c38695106252392125f5730"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-243",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-243.md",
+      "tipo": "DLG",
+      "senado_id": "41796364",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;243",
+      "norma": {
+        "numero": "243",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 243 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-243",
+      "sha256_fonte": "dcc8b27cf605f1c8edca91c0f98c801a4b40405bbfb4b49d8c48bd2ca3c2a22f",
+      "sha256_markdown": "c18e59b2527f1aacb6d884286529faa165a9290a795ebc9d7b2f352c607f7f8a"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-236",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-236.md",
+      "tipo": "DLG",
+      "senado_id": "41796076",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;236",
+      "norma": {
+        "numero": "236",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 236 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-236",
+      "sha256_fonte": "18c255b0c30b175c9ae974850167aa9a220cb9c524253d96b195391e759b1d56",
+      "sha256_markdown": "70fce32e90ba4258327191058563541811164f95bcd3d6b32713ca9542732b41"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-229",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-229.md",
+      "tipo": "DLG",
+      "senado_id": "41796670",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;229",
+      "norma": {
+        "numero": "229",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 229 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-229",
+      "sha256_fonte": "4e1ccc520a6025b9c00439ae9b72d28caa6d746a8fe48396055ab348071505c7",
+      "sha256_markdown": "c690d5783cfe336c90f9b843a860b75242962fe6089bbc4b5080e4187b92eaa5"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-261",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-261.md",
+      "tipo": "DLG",
+      "senado_id": "41796634",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;261",
+      "norma": {
+        "numero": "261",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 261 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-261",
+      "sha256_fonte": "cd2b0c0592ca605feb1092e9bd02cb702cbc46408c48a8b38e3930964c87d4c2",
+      "sha256_markdown": "bb187916dfd71655907a26821ca0b7e95a6319811501a3fe9534884ebf05f75e"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-232",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-232.md",
+      "tipo": "DLG",
+      "senado_id": "41796814",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;232",
+      "norma": {
+        "numero": "232",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 232 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-232",
+      "sha256_fonte": "b9f8ab3b4d5d7a071e65bd2bcae67a0e392cd0c5e585b9e1d11689a5e884ead8",
+      "sha256_markdown": "7f3e7e5361a0925c77269ad69666185185a839cddf6139d182d2fd80341d6b1d"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-241",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-241.md",
+      "tipo": "DLG",
+      "senado_id": "41796292",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;241",
+      "norma": {
+        "numero": "241",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 241 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-241",
+      "sha256_fonte": "334ba7f9c70433fc434a91cef6d6c625d0da573266d8008c310fcc2fe8fad22d",
+      "sha256_markdown": "d8b679b50ae281a7df765ce9da3d24af75587bec6cc37a7c9f4e520771b04978"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-257",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-257.md",
+      "tipo": "DLG",
+      "senado_id": "41796400",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;257",
+      "norma": {
+        "numero": "257",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 257 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-257",
+      "sha256_fonte": "616a628c750fd9a2892dbda673bf251725c182898b65874fd62fd9bd4e9c62b3",
+      "sha256_markdown": "448b672e59a8790049fd7b581ab50c5300f19bce77bc64bb67f8615528e4496a"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-251",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-251.md",
+      "tipo": "DLG",
+      "senado_id": "41796958",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;251",
+      "norma": {
+        "numero": "251",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 251 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-251",
+      "sha256_fonte": "290acbbe8e1e2eb1b257e4436f75ca148a751d403f6b95a95545270ed5dc6052",
+      "sha256_markdown": "798759020fcc64b3a36236d58944149738560d77136784f5ab4a51b8f2f10fcc"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-242",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-242.md",
+      "tipo": "DLG",
+      "senado_id": "41797102",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;242",
+      "norma": {
+        "numero": "242",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 242 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-242",
+      "sha256_fonte": "97cef4dcc0b2b1a7f65b6da1e77e396ed570789ea0afff7e43096799e722d904",
+      "sha256_markdown": "23a72b549881f963d454d44678ce4451830f9b9b1cf2eae90307dd0a0962d640"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-244",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-244.md",
+      "tipo": "DLG",
+      "senado_id": "41797138",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;244",
+      "norma": {
+        "numero": "244",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 244 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-244",
+      "sha256_fonte": "7a36f920dc741143d09fbcaa8d703722f1e60d500e8bf14e1a23407ff5ee3ad1",
+      "sha256_markdown": "455af62496f511a39cf9ba269d139f37a1f2d66ee6bed53bcc1cbc719a57b2f3"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-245",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-245.md",
+      "tipo": "DLG",
+      "senado_id": "41797174",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;245",
+      "norma": {
+        "numero": "245",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 245 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-245",
+      "sha256_fonte": "7a330fe72b18fba8f629f2607060f89dee06648049551a1561c34bb6463c78a5",
+      "sha256_markdown": "6150a894e1a589aad26b991ef08bcabccb427a7ce48957c04c3090032a50676a"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-231",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-231.md",
+      "tipo": "DLG",
+      "senado_id": "41796778",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;231",
+      "norma": {
+        "numero": "231",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 231 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-231",
+      "sha256_fonte": "5b417cba55c7d4884d9b1061f64e063eff4d6608278d7ececb5e3a3c8c9c4eb7",
+      "sha256_markdown": "9406f9e902789cbf4c19d2f3441ab5f26e9fe0c3c69f5377c31175ad6a62d3df"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-252",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-252.md",
+      "tipo": "DLG",
+      "senado_id": "41797030",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;252",
+      "norma": {
+        "numero": "252",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 252 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-252",
+      "sha256_fonte": "82cb6d00c61b726a93065eac23d81014ce8371862468e6cd7afdc4fe0a826330",
+      "sha256_markdown": "9cc8f2cc752e55e1c5187169afb3a1dcf2c6d693387b11ce2832a55e033f3dc5"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-234",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-234.md",
+      "tipo": "DLG",
+      "senado_id": "41796004",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;234",
+      "norma": {
+        "numero": "234",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 234 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-234",
+      "sha256_fonte": "e70e1c3afa1cc06b8d82b6a5e94d2ab3b11115f689b7a1c748a890f33f7e92b9",
+      "sha256_markdown": "4631669739efd71b29f59e457ae1ef78b43ff6e02faa4bb971f077a096b68ccf"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-259",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-259.md",
+      "tipo": "DLG",
+      "senado_id": "41797210",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;259",
+      "norma": {
+        "numero": "259",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 259 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-259",
+      "sha256_fonte": "3556048118e2f217e18c190235ad1f2ff8aa6904500215bfe283439c3b65a1ef",
+      "sha256_markdown": "c2a955160af5122c465638fb68911ff5e8b770e4e6abec8dda05dcd9fd823767"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-253",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-253.md",
+      "tipo": "DLG",
+      "senado_id": "41796184",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;253",
+      "norma": {
+        "numero": "253",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 253 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-253",
+      "sha256_fonte": "4dfbfe8b321a86929e9e6720afadb8bc1645e7b963915686012643b0765b9d50",
+      "sha256_markdown": "666d5737a14d2595a615a12c30c02168d2d2ff5a8fae2105d08d8c62c5cd8387"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-248",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-248.md",
+      "tipo": "DLG",
+      "senado_id": "41797407",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;248",
+      "norma": {
+        "numero": "248",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 248 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-248",
+      "sha256_fonte": "a7fe6b16f1f4b88ac91b183aaef9055ee551bde8b883301fcf932f3d836c49bc",
+      "sha256_markdown": "9bd7049a33fe83e084ce81860f6ae2e7d59840530399f2bdfd174e37585395e2"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-238",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-238.md",
+      "tipo": "DLG",
+      "senado_id": "41796112",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;238",
+      "norma": {
+        "numero": "238",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 238 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-238",
+      "sha256_fonte": "65233a76c8b5b70842d33cadc656b026e878fe35c0bd750ce7cd7c7cc18e1840",
+      "sha256_markdown": "cefba653c55af58488f2a0fd19bfe31819fbd7aa1623d782c7819ff46b9bdb40"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-250",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-250.md",
+      "tipo": "DLG",
+      "senado_id": "41797318",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;250",
+      "norma": {
+        "numero": "250",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 250 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-250",
+      "sha256_fonte": "dda5d9bc9f83b6b08d986942acd391562e38a3d2864213e3352057f429db97af",
+      "sha256_markdown": "3c746ec45841d0b77c48ac9519a51b440ae4f350a48f6508f2cae3de6020e22f"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-255",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-255.md",
+      "tipo": "DLG",
+      "senado_id": "41797066",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;255",
+      "norma": {
+        "numero": "255",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 255 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-255",
+      "sha256_fonte": "5647c580a301d65ddb907b56efbfe4b499f724777e590b1fcf3632173e2e1aea",
+      "sha256_markdown": "83141886a563344be950dd8cc9b153009f2f01e9cf6f53a8d86e61c4d1851368"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-262",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-262.md",
+      "tipo": "DLG",
+      "senado_id": "41795896",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;262",
+      "norma": {
+        "numero": "262",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 262 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-262",
+      "sha256_fonte": "dbb5cabcd4496d88cd89fb1a445b3ca7943728577ed41a3093eb1ef52c7b95d6",
+      "sha256_markdown": "51014688c0209ea8a0e85cf037349cfd949f3469693d322dca376a4d7e211b64"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-247",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-247.md",
+      "tipo": "DLG",
+      "senado_id": "41797246",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;247",
+      "norma": {
+        "numero": "247",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 247 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-247",
+      "sha256_fonte": "4b92c3c69bd70d38e5661e58cb6009277ab115b7b791c8e89a31f2ae390dcf13",
+      "sha256_markdown": "a1f85cb4c3b8b726c26c7ff34474a19dcdfed550296d9ef1be0904cedc5f3c53"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-228",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-228.md",
+      "tipo": "DLG",
+      "senado_id": "41796598",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;228",
+      "norma": {
+        "numero": "228",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 228 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-228",
+      "sha256_fonte": "b67525cf212571c3dcc3bd8a612abf0f57eb902fc29258021f486a3262c1c846",
+      "sha256_markdown": "484e3da95748ca35e0f402f380f912e7e90c3512e96d308843b6f2db3b056b11"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-256",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-256.md",
+      "tipo": "DLG",
+      "senado_id": "41796328",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;256",
+      "norma": {
+        "numero": "256",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 256 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-256",
+      "sha256_fonte": "f87c6668ab958f14610dc21f6ccec9cb7846ff4073f9afaea1e3765a6d843bee",
+      "sha256_markdown": "5e663c1a235e402b1890c3c0150ebe80b8fab1dd28cffb584c999bf0285fa829"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-12-01-235",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-12-01-235.md",
+      "tipo": "DLG",
+      "senado_id": "41796922",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;235",
+      "norma": {
+        "numero": "235",
+        "data": "2025-12-01",
+        "titulo": "Decreto Legislativo nº 235 de 01/12/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-12-01-235",
+      "sha256_fonte": "e41d71deac70c06de70bfa09fea3badf4a8e15fce38dc88a54142a06951d9d37",
+      "sha256_markdown": "601fca35fd41ce8ae3be11f12a00abda183c51a309e205d2ddf43cccd3da604c"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-11-04-218",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-11-04-218.md",
+      "tipo": "DLG",
+      "senado_id": "41669610",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;218",
+      "norma": {
+        "numero": "218",
+        "data": "2025-11-04",
+        "titulo": "Decreto Legislativo nº 218 de 04/11/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-11-04-218",
+      "sha256_fonte": "06b5a92c0ee7cd5c24651b9af87260bd4b20a556ecaf7ae03f95ddcdf523e0de",
+      "sha256_markdown": "83f7b3562977c69ccce85fee3f3ec4ff5bcecaff29862af83a578919a9693073"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-11-04-220",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-11-04-220.md",
+      "tipo": "DLG",
+      "senado_id": "41661329",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;220",
+      "norma": {
+        "numero": "220",
+        "data": "2025-11-04",
+        "titulo": "Decreto Legislativo nº 220 de 04/11/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-11-04-220",
+      "sha256_fonte": "6124f52df27725dabede7c705a0db3d07dfc4d3b84dba608089c131af2a1ecbb",
+      "sha256_markdown": "b6283eca7317f37ce2ab1a0c3fc025b347defa02f317cf2b043cf2b5c516ff28"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-11-04-223",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-11-04-223.md",
+      "tipo": "DLG",
+      "senado_id": "41661393",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;223",
+      "norma": {
+        "numero": "223",
+        "data": "2025-11-04",
+        "titulo": "Decreto Legislativo nº 223 de 04/11/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-11-04-223",
+      "sha256_fonte": "42e2f07a8bf60145e56b8f0bfa9b5d5b6120dae24e8fa730418b6e14cbf09e32",
+      "sha256_markdown": "4e38a01b875055bfad8ecf1c1c438d50fc31a974cb5b068aad367281eb296dcb"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-11-04-221",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-11-04-221.md",
+      "tipo": "DLG",
+      "senado_id": "41669906",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;221",
+      "norma": {
+        "numero": "221",
+        "data": "2025-11-04",
+        "titulo": "Decreto Legislativo nº 221 de 04/11/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-11-04-221",
+      "sha256_fonte": "5aa801e82d1723c7ec65d789d947c1d7abaa206243d151a0ff5fc05d4a9cf006",
+      "sha256_markdown": "39a9cceaeb4c96e54994ba2aa30e6293c3349ec4f630685d1a4f51dbaa9d18b4"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-11-04-214",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-11-04-214.md",
+      "tipo": "DLG",
+      "senado_id": "41661093",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;214",
+      "norma": {
+        "numero": "214",
+        "data": "2025-11-04",
+        "titulo": "Decreto Legislativo nº 214 de 04/11/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-11-04-214",
+      "sha256_fonte": "5db10280ca381890f2216771caf1d9ed4bb6af1afeb2d033f664d5700f09bb0e",
+      "sha256_markdown": "974b3db62b75f911a79e6bf78bfe5c7d558e50b24761007b64e8b84e725f84a6"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-11-04-225",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-11-04-225.md",
+      "tipo": "DLG",
+      "senado_id": "41670461",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;225",
+      "norma": {
+        "numero": "225",
+        "data": "2025-11-04",
+        "titulo": "Decreto Legislativo nº 225 de 04/11/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-11-04-225",
+      "sha256_fonte": "0379761afde596cba6816825db685f4693bd9b0d7400c4144dad1dda8e504a8a",
+      "sha256_markdown": "96d63f99b229547f91c94db08d75f2acdd1004e667a517c04baf7ec29df6e9d0"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-11-04-215",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-11-04-215.md",
+      "tipo": "DLG",
+      "senado_id": "41661163",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;215",
+      "norma": {
+        "numero": "215",
+        "data": "2025-11-04",
+        "titulo": "Decreto Legislativo nº 215 de 04/11/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-11-04-215",
+      "sha256_fonte": "21cc13b783684e81d1d207f9243a6491412e425045f2b6df8fe8b9683922f6cc",
+      "sha256_markdown": "42bef0018eadf0ca0971c82ed81bdeed5f8ca923567042e5a5e155934ba59263"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-11-04-222",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-11-04-222.md",
+      "tipo": "DLG",
+      "senado_id": "41669976",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;222",
+      "norma": {
+        "numero": "222",
+        "data": "2025-11-04",
+        "titulo": "Decreto Legislativo nº 222 de 04/11/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-11-04-222",
+      "sha256_fonte": "32efbf44177584f96c5fd761b81795ccc919551024f7ba9ef212b34a03b578ff",
+      "sha256_markdown": "422d46c05b59cf98a45471f5c1f152d40d400eb4954767d94850b5af4985e673"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-11-04-219",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-11-04-219.md",
+      "tipo": "DLG",
+      "senado_id": "41669724",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;219",
+      "norma": {
+        "numero": "219",
+        "data": "2025-11-04",
+        "titulo": "Decreto Legislativo nº 219 de 04/11/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-11-04-219",
+      "sha256_fonte": "5b88f8890021276dc72af63fa620176aa7d515929e470b627697014d95c2beef",
+      "sha256_markdown": "377a7b17727bceaf13ef6aa31b045e797f8fa7fc982f14432015e23b76c44b99"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-11-04-224",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-11-04-224.md",
+      "tipo": "DLG",
+      "senado_id": "41661463",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;224",
+      "norma": {
+        "numero": "224",
+        "data": "2025-11-04",
+        "titulo": "Decreto Legislativo nº 224 de 04/11/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-11-04-224",
+      "sha256_fonte": "cfaceeca5f3af3133306c8278eff47393705e25bf3eba5cff0d115b41cf2d2f4",
+      "sha256_markdown": "83b23ccd292a29bc19bd2fdcb68eb9d18c48ccb309412e90d13819ff4e879e67"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-11-04-217",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-11-04-217.md",
+      "tipo": "DLG",
+      "senado_id": "41669510",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;217",
+      "norma": {
+        "numero": "217",
+        "data": "2025-11-04",
+        "titulo": "Decreto Legislativo nº 217 de 04/11/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-11-04-217",
+      "sha256_fonte": "a193ebae05c7170663b683f046df4096ccb8fee7455743384379a8531cdc5c36",
+      "sha256_markdown": "885edad93aad9b184a031d72487f84febac3a1e903f2be965cab3411c80c41b9"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2025-11-04-216",
+      "arquivo": "federal/br-federal-decreto-legislativo-2025-11-04-216.md",
+      "tipo": "DLG",
+      "senado_id": "41661233",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;216",
+      "norma": {
+        "numero": "216",
+        "data": "2025-11-04",
+        "titulo": "Decreto Legislativo nº 216 de 04/11/2025"
+      },
+      "fonte": "br-federal-decreto-legislativo-2025-11-04-216",
+      "sha256_fonte": "35291cc0dfdc31c67f8ddb03ce9452723460dac2af5471f46b58590fe3075131",
+      "sha256_markdown": "0f877e9b74120b6eaf8920285ef3bd6fa2d9f127f2abe3cf1e71776fff55b06c"
     }
   ]
 }

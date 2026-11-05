@@ -12,7 +12,7 @@ senado_id: "43446974"
 urn: "urn:lex:br:federal:decreto.legislativo:2026-06-22;146"
 edicao_id: "br-federal-decreto-legislativo-2026-06-22-146@original"
 edicao_tipo: "historica"
-edicao_integral: true
+edicao_integral: false
 fonte_orgao: "normas.leg.br / Congresso Nacional"
 fonte_url: "https://normas.leg.br/api/public/binario/03395ec3-f59e-4f5f-a2cf-201eb60502dc/texto"
 fonte_formato: "html"
@@ -30,6 +30,10 @@ efeitos_diferidos: "preservados-nas-notas-do-texto"
 sha256_markdown: "9cf40b5d7d5848be1ed201762cb6b519f6cf5d9238c9ee502ef3d7081e2a505b"
 manifesto: "provas/especies-legislativas-federais/manifesto.json"
 contrato_versao: 1
+status_publicacao: "publicado-corpo-parcial"
+corpo_status: "parcial-remissao-explicita"
+excluir_denominador_integra: true
+remissoes_literais: ["O texto do Acordo acima citado está publicado no Diário do Senado Federal de 18 de junho de 2026"]
 ---
 
 <!-- nota-edicao:inicio -->
