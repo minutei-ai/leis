@@ -8,6 +8,8 @@ from __future__ import annotations
 import json
 import sys
 import unittest
+import tempfile
+from unittest.mock import patch
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -258,6 +260,26 @@ class CoberturaNacionalTest(unittest.TestCase):
             self.assertTrue(recovered_doc['markdown_integral'])
             self.assertNotIn('excluir_denominador_integra', recovered_doc)
             self.assertEqual(cn.apply_bm25_filters([recovered_doc], {}), [recovered_doc])
+
+    def test_partial_frontmatter_overrides_older_acervo_comment(self):
+        rel = 'federal/br-federal-lei-2020-01-01-1.md'
+        body = ('LEI Nº 1, DE 1 DE JANEIRO DE 2020\n\nArt. 1º Texto preservado.\n'
+                '<!-- metadados-acervo\n'
+                '{"tipo_conteudo":"texto_normativo", "edicao_integral":true, '
+                '"excluir_denominador_integra":false}\n-->\n')
+        with tempfile.TemporaryDirectory() as directory:
+            fixture_root = Path(directory)
+            path = fixture_root / rel
+            path.parent.mkdir()
+            path.write_text('---\nedicao_integral: false\n---\n' + body, encoding='utf-8')
+            with patch.object(cn, 'ROOT', fixture_root):
+                doc = cn.export_document(rel)
+        self.assertFalse(doc['edicao_integral'])
+        self.assertTrue(doc['corpo_legal_integral_pendente'])
+        self.assertTrue(doc['excluir_denominador_integra'])
+        self.assertFalse(doc['texto_integral_pesquisavel'])
+        self.assertEqual(doc['markdown_integral'], body)
+        self.assertEqual(cn.apply_bm25_filters([doc], {}), [])
 
     def test_frontmatter_partial_retains_body_but_excludes_integral_search(self):
         ledger = cn.load_json(
