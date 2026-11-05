@@ -1,0 +1,204 @@
+{
+  "filtro_combinado_resultado": [
+    {
+      "arquivo": "federal/br-federal-lei-2021-04-01-14133.md",
+      "edicao_id": "br-federal-lei-2021-04-01-14133@historica-fonte-desconhecida",
+      "sha256_markdown": "2acf58e0837f070dbf46ccfc27c27e305d5696702121650728cf6e2ced90cd60"
+    }
+  ],
+  "ranking_demonstracao": [
+    {
+      "arquivo": "federal/br-federal-lei-2021-04-01-14133.md",
+      "score": 4.133139,
+      "alerta_cobertura_textual": true,
+      "cobertura_transcricao": "desconhecida",
+      "vigencia_certificada": false,
+      "sha256_markdown": "2acf58e0837f070dbf46ccfc27c27e305d5696702121650728cf6e2ced90cd60",
+      "fonte_url": "desconhecido",
+      "bytes_markdown_integral": 269213
+    },
+    {
+      "arquivo": "federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md",
+      "score": 4.085601,
+      "alerta_cobertura_textual": true,
+      "cobertura_transcricao": "desconhecida",
+      "vigencia_certificada": false,
+      "sha256_markdown": "7a32ad9ea4ce8710afd4afd5481c256607fcc069575a79a2b59f536a93adbaa5",
+      "fonte_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+      "bytes_markdown_integral": 311697
+    },
+    {
+      "arquivo": "municipais/3550308/br-municipal-3550308-decreto-2022-12-27-62100.md",
+      "score": 3.767059,
+      "alerta_cobertura_textual": true,
+      "cobertura_transcricao": "desconhecida",
+      "vigencia_certificada": false,
+      "sha256_markdown": "bed11a6059cf5fd2661f35fff3b13fe6c8a7203106bbb3ccd55cabb1fe269291",
+      "fonte_url": "desconhecido",
+      "bytes_markdown_integral": 127406
+    },
+    {
+      "arquivo": "federal/br-federal-lei-complementar-1967-11-09-1.md",
+      "score": 0.0,
+      "alerta_cobertura_textual": true,
+      "cobertura_transcricao": "desconhecida",
+      "vigencia_certificada": false,
+      "sha256_markdown": "589f5976a0800fb7de3af018f1a691ad99380a6fdd8dfc814c802bf1680f1fb7",
+      "fonte_url": "desconhecido",
+      "bytes_markdown_integral": 22396
+    },
+    {
+      "arquivo": "federal/br-federal-decreto-1954-02-25-35110.md",
+      "score": 0.0,
+      "alerta_cobertura_textual": true,
+      "cobertura_transcricao": "ausente",
+      "vigencia_certificada": false,
+      "sha256_markdown": "07029a5432af074af6172be9a5ff1e14880a57aa30f073c078d3ca19ef85ff50",
+      "fonte_url": "desconhecido",
+      "bytes_markdown_integral": 3612
+    },
+    {
+      "arquivo": "estaduais/AC/br-ac-norma-1121.md",
+      "score": 0.0,
+      "alerta_cobertura_textual": true,
+      "cobertura_transcricao": "desconhecida",
+      "vigencia_certificada": false,
+      "sha256_markdown": "dcb4d31470a4ad4f5d9edfba8ca821b10f38cc151bef5dd663b95e13a53598e6",
+      "fonte_url": "desconhecido",
+      "bytes_markdown_integral": 14212
+    }
+  ],
+  "caso_negativo_facsimile": {
+    "arquivo": "federal/br-federal-decreto-1954-02-25-35110.md",
+    "termo_editorial": "Fac-símile oficial",
+    "presente_no_markdown": true,
+    "termo_de_ato_vizinho_exemplo": "ALL America Cables",
+    "presente_nas_notas": true,
+    "corpo_normativo_pesquisavel": false,
+    "leitura": "Termos das notas/limites de página podem ranquear sem que as cláusulas da imagem estejam transcritas; alerta_cobertura_textual deve permanecer."
+  },
+  "integridade_export": [
+    {
+      "arquivo": "federal/br-federal-lei-2021-04-01-14133.md",
+      "export_sha256": "2acf58e0837f070dbf46ccfc27c27e305d5696702121650728cf6e2ced90cd60",
+      "recomputado": "2acf58e0837f070dbf46ccfc27c27e305d5696702121650728cf6e2ced90cd60",
+      "igual": true,
+      "bytes": 269213,
+      "truncado": false
+    },
+    {
+      "arquivo": "federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md",
+      "export_sha256": "7a32ad9ea4ce8710afd4afd5481c256607fcc069575a79a2b59f536a93adbaa5",
+      "recomputado": "7a32ad9ea4ce8710afd4afd5481c256607fcc069575a79a2b59f536a93adbaa5",
+      "igual": true,
+      "bytes": 311697,
+      "truncado": false
+    },
+    {
+      "arquivo": "federal/br-federal-lei-complementar-1967-11-09-1.md",
+      "export_sha256": "589f5976a0800fb7de3af018f1a691ad99380a6fdd8dfc814c802bf1680f1fb7",
+      "recomputado": "589f5976a0800fb7de3af018f1a691ad99380a6fdd8dfc814c802bf1680f1fb7",
+      "igual": true,
+      "bytes": 22396,
+      "truncado": false
+    },
+    {
+      "arquivo": "federal/br-federal-decreto-1954-02-25-35110.md",
+      "export_sha256": "07029a5432af074af6172be9a5ff1e14880a57aa30f073c078d3ca19ef85ff50",
+      "recomputado": "07029a5432af074af6172be9a5ff1e14880a57aa30f073c078d3ca19ef85ff50",
+      "igual": true,
+      "bytes": 3612,
+      "truncado": false
+    },
+    {
+      "arquivo": "estaduais/AC/br-ac-norma-1121.md",
+      "export_sha256": "dcb4d31470a4ad4f5d9edfba8ca821b10f38cc151bef5dd663b95e13a53598e6",
+      "recomputado": "dcb4d31470a4ad4f5d9edfba8ca821b10f38cc151bef5dd663b95e13a53598e6",
+      "igual": true,
+      "bytes": 14212,
+      "truncado": false
+    },
+    {
+      "arquivo": "municipais/3550308/br-municipal-3550308-decreto-2022-12-27-62100.md",
+      "export_sha256": "bed11a6059cf5fd2661f35fff3b13fe6c8a7203106bbb3ccd55cabb1fe269291",
+      "recomputado": "bed11a6059cf5fd2661f35fff3b13fe6c8a7203106bbb3ccd55cabb1fe269291",
+      "igual": true,
+      "bytes": 127406,
+      "truncado": false
+    }
+  ],
+  "casos_identidade": [
+    {
+      "id": "lc1-1962-vs-1967",
+      "descricao": "LC 1/1962 e LC 1/1967 são normas distintas apesar do mesmo número.",
+      "entradas": [
+        {
+          "norma_id": "br-federal-lei-complementar-1962-??-1",
+          "numero": "1",
+          "complemento": null,
+          "data_ato": {
+            "valor": "1962",
+            "precisao": "ano",
+            "estado": "parcial"
+          },
+          "arquivo": null,
+          "estado_arquivo": "ausente-no-acervo-publicado",
+          "nota": "Identidade exigida pelo contrato; publicação integral fica em lote próprio (#68)."
+        },
+        {
+          "norma_id": "br-federal-lei-complementar-1967-11-09-1",
+          "numero": "1",
+          "complemento": null,
+          "data_ato": {
+            "valor": "1967-11-09",
+            "precisao": "dia",
+            "estado": "informado"
+          },
+          "arquivo": "federal/br-federal-lei-complementar-1967-11-09-1.md",
+          "estado_arquivo": "publicado"
+        }
+      ]
+    },
+    {
+      "id": "complemento-1599-a",
+      "descricao": "numero=1599 + complemento=A não se funde com 1599.",
+      "entradas": [
+        {
+          "numero": "1599",
+          "complemento": null,
+          "chave_identidade": "lei:1599"
+        },
+        {
+          "numero": "1599",
+          "complemento": "A",
+          "chave_identidade": "lei:1599-A"
+        }
+      ]
+    },
+    {
+      "id": "ato-sem-numero-1823-10-20",
+      "descricao": "Espécie+data não basta; seis registros distintos em 20/10/1823.",
+      "numero": null,
+      "numero_estado": "sem-numero",
+      "provedor_token_namespace": "seq-sf"
+    },
+    {
+      "id": "caminho-opaco-acre",
+      "descricao": "ID do provedor no caminho não é número legal.",
+      "entradas": [
+        {
+          "arquivo": "estaduais/AC/br-ac-norma-1121.md",
+          "provedor_id": "1121",
+          "numero_legal_no_cabecalho": "300",
+          "data_cabecalho": "1969-11-21"
+        },
+        {
+          "arquivo": "estaduais/AC/br-ac-norma-120.md",
+          "provedor_id": "120",
+          "numero_legal_no_cabecalho": "3628",
+          "data_cabecalho": "2020-05-26"
+        }
+      ]
+    }
+  ]
+}
