@@ -620,39 +620,6 @@
     "tipo": "DEL"
   },
   {
-    "data": "1946-01-08",
-    "id": "br-federal-decreto-lei-1946-01-08-8583",
-    "norma": "DEL-8583-1946-01-08",
-    "normaNome": "Decreto-Lei nº 8.583 de 08/01/1946",
-    "numero": 8583,
-    "senado_id": "30821523",
-    "status": "sem-contentUrl",
-    "tipo": "DEL",
-    "urn": "urn:lex:br:federal:decreto.lei:1946-01-08;8583"
-  },
-  {
-    "data": "1946-01-07",
-    "id": "br-federal-decreto-lei-1946-01-07-8567",
-    "norma": "DEL-8567-1946-01-07",
-    "normaNome": "Decreto-Lei nº 8.567 de 07/01/1946",
-    "numero": 8567,
-    "senado_id": "533606",
-    "status": "sem-contentUrl",
-    "tipo": "DEL",
-    "urn": "urn:lex:br:federal:decreto.lei:1946-01-07;8567"
-  },
-  {
-    "data": "1945-12-31",
-    "id": "br-federal-decreto-lei-1945-12-31-8528",
-    "norma": "DEL-8528-1945-12-31",
-    "normaNome": "Decreto-Lei nº 8.528 de 31/12/1945",
-    "numero": 8528,
-    "senado_id": "30832805",
-    "status": "sem-contentUrl",
-    "tipo": "DEL",
-    "urn": "urn:lex:br:federal:decreto.lei:1945-12-31;8528"
-  },
-  {
     "data": "1945-12-28",
     "id": "br-federal-decreto-lei-1945-12-28-8496",
     "norma": "DEL-8496-1945-12-28",
@@ -683,17 +650,6 @@
     "tipo": "DEL"
   },
   {
-    "data": "1945-12-17",
-    "id": "br-federal-decreto-lei-1945-12-17-8384",
-    "norma": "DEL-8384-1945-12-17",
-    "normaNome": "Decreto-Lei nº 8.384 de 17/12/1945",
-    "numero": 8384,
-    "senado_id": "30821582",
-    "status": "sem-contentUrl",
-    "tipo": "DEL",
-    "urn": "urn:lex:br:federal:decreto.lei:1945-12-17;8384"
-  },
-  {
     "data": "1945-11-19",
     "id": "br-federal-decreto-lei-1945-11-19-8179",
     "norma": "DEL-8179-1945-11-19",
@@ -722,17 +678,6 @@
     "senado_id": "533090",
     "status": "capturado",
     "tipo": "DEL"
-  },
-  {
-    "data": "1945-10-01",
-    "id": "br-federal-decreto-lei-1945-10-01-8022",
-    "norma": "DEL-8022-1945-10-01",
-    "normaNome": "Decreto-Lei nº 8.022 de 01/10/1945",
-    "numero": 8022,
-    "senado_id": "30832865",
-    "status": "sem-contentUrl",
-    "tipo": "DEL",
-    "urn": "urn:lex:br:federal:decreto.lei:1945-10-01;8022"
   },
   {
     "data": "1945-09-21",
@@ -785,17 +730,6 @@
     "tipo": "DEL"
   },
   {
-    "data": "1945-08-27",
-    "erro": "IncompleteRead(235873 bytes read)",
-    "id": "br-federal-decreto-lei-1945-08-27-7903",
-    "norma": "DEL-7903-1945-08-27",
-    "normaNome": "Decreto-Lei nº 7.903 de 27/08/1945",
-    "numero": 7903,
-    "senado_id": "532950",
-    "status": "falha-download",
-    "tipo": "DEL"
-  },
-  {
     "data": "1945-08-25",
     "id": "br-federal-decreto-lei-1945-08-25-7900",
     "norma": "DEL-7900-1945-08-25",
@@ -804,17 +738,6 @@
     "senado_id": "532947",
     "status": "capturado",
     "tipo": "DEL"
-  },
-  {
-    "data": "1945-08-16",
-    "id": "br-federal-decreto-lei-1945-08-16-7871",
-    "norma": "DEL-7871-1945-08-16",
-    "normaNome": "Decreto-Lei nº 7.871 de 16/08/1945",
-    "numero": 7871,
-    "senado_id": "529940",
-    "status": "sem-contentUrl",
-    "tipo": "DEL",
-    "urn": "urn:lex:br:federal:decreto.lei:1945-08-16;7871"
   },
   {
     "data": "1945-08-14",
@@ -837,6 +760,432 @@
     "tipo": "DEL"
   },
   {
+    "data": "1945-06-22",
+    "id": "br-federal-decreto-lei-1945-06-22-7666",
+    "norma": "DEL-7666-1945-06-22",
+    "normaNome": "Decreto-Lei nº 7.666 de 22/06/1945",
+    "numero": 7666,
+    "senado_id": "532716",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1945-05-28",
+    "id": "br-federal-decreto-lei-1945-05-28-7586",
+    "norma": "DEL-7586-1945-05-28",
+    "normaNome": "Decreto-Lei nº 7.586 de 28/05/1945",
+    "numero": 7586,
+    "senado_id": "532683",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1945-04-25",
+    "id": "br-federal-decreto-lei-1945-04-25-7490",
+    "norma": "DEL-7490-1945-04-25",
+    "normaNome": "Decreto-Lei nº 7.490 de 25/04/1945",
+    "numero": 7490,
+    "senado_id": "532588",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1945-04-11",
+    "id": "br-federal-decreto-lei-1945-04-11-7457",
+    "norma": "DEL-7457-1945-04-11",
+    "normaNome": "Decreto-Lei nº 7.457 de 11/04/1945",
+    "numero": 7457,
+    "senado_id": "532555",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1945-02-08",
+    "id": "br-federal-decreto-lei-1945-02-08-7315",
+    "norma": "DEL-7315-1945-02-08",
+    "normaNome": "Decreto-Lei nº 7.315 de 08/02/1945",
+    "numero": 7315,
+    "senado_id": "532417",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-12-23",
+    "id": "br-federal-decreto-lei-1944-12-23-7191",
+    "norma": "DEL-7191-1944-12-23",
+    "normaNome": "Decreto-Lei nº 7.191 de 23/12/1944",
+    "numero": 7191,
+    "senado_id": "532292",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-12-19",
+    "id": "br-federal-decreto-lei-1944-12-19-7170",
+    "norma": "DEL-7170-1944-12-19",
+    "normaNome": "Decreto-Lei nº 7.170 de 19/12/1944",
+    "numero": 7170,
+    "senado_id": "532271",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-12-04",
+    "id": "br-federal-decreto-lei-1944-12-04-7123",
+    "norma": "DEL-7123-1944-12-04",
+    "normaNome": "Decreto-Lei nº 7.123 de 04/12/1944",
+    "numero": 7123,
+    "senado_id": "532223",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-12-04",
+    "id": "br-federal-decreto-lei-1944-12-04-7110",
+    "norma": "DEL-7110-1944-12-04",
+    "normaNome": "Decreto-Lei nº 7.110 de 04/12/1944",
+    "numero": 7110,
+    "senado_id": "532210",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-10-25",
+    "id": "br-federal-decreto-lei-1944-10-25-6987",
+    "norma": "DEL-6987-1944-10-25",
+    "normaNome": "Decreto-Lei nº 6.987 de 25/10/1944",
+    "numero": 6987,
+    "senado_id": "532087",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-10-24",
+    "id": "br-federal-decreto-lei-1944-10-24-6979",
+    "norma": "DEL-6979-1944-10-24",
+    "normaNome": "Decreto-Lei nº 6.979 de 24/10/1944",
+    "numero": 6979,
+    "senado_id": "532079",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-10-23",
+    "id": "br-federal-decreto-lei-1944-10-23-6978",
+    "norma": "DEL-6978-1944-10-23",
+    "normaNome": "Decreto-Lei nº 6.978 de 23/10/1944",
+    "numero": 6978,
+    "senado_id": "532078",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-08-31",
+    "id": "br-federal-decreto-lei-1944-08-31-6842",
+    "norma": "DEL-6842-1944-08-31",
+    "normaNome": "Decreto-Lei nº 6.842 de 31/08/1944",
+    "numero": 6842,
+    "senado_id": "531942",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-06-19",
+    "id": "br-federal-decreto-lei-1944-06-19-6600",
+    "norma": "DEL-6600-1944-06-19",
+    "normaNome": "Decreto-Lei nº 6.600 de 19/06/1944",
+    "numero": 6600,
+    "senado_id": "531697",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-06-09",
+    "id": "br-federal-decreto-lei-1944-06-09-6578",
+    "norma": "DEL-6578-1944-06-09",
+    "normaNome": "Decreto-Lei nº 6.578 de 09/06/1944",
+    "numero": 6578,
+    "senado_id": "531675",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-05-09",
+    "id": "br-federal-decreto-lei-1944-05-09-6481",
+    "norma": "DEL-6481-1944-05-09",
+    "normaNome": "Decreto-Lei nº 6.481 de 09/05/1944",
+    "numero": 6481,
+    "senado_id": "531578",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-05-02",
+    "id": "br-federal-decreto-lei-1944-05-02-6458",
+    "norma": "DEL-6458-1944-05-02",
+    "normaNome": "Decreto-Lei nº 6.458 de 02/05/1944",
+    "numero": 6458,
+    "senado_id": "531555",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-03-28",
+    "id": "br-federal-decreto-lei-1944-03-28-6378",
+    "norma": "DEL-6378-1944-03-28",
+    "normaNome": "Decreto-Lei nº 6.378 de 28/03/1944",
+    "numero": 6378,
+    "senado_id": "531476",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1944-01-18",
+    "id": "br-federal-decreto-lei-1944-01-18-6205",
+    "norma": "DEL-6205-1944-01-18",
+    "normaNome": "Decreto-Lei nº 6.205 de 18/01/1944",
+    "numero": 6205,
+    "senado_id": "531303",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-12-29",
+    "id": "br-federal-decreto-lei-1943-12-29-6145",
+    "norma": "DEL-6145-1943-12-29",
+    "normaNome": "Decreto-Lei nº 6.145 de 29/12/1943",
+    "numero": 6145,
+    "senado_id": "531241",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-12-29",
+    "id": "br-federal-decreto-lei-1943-12-29-6143",
+    "norma": "DEL-6143-1943-12-29",
+    "normaNome": "Decreto-Lei nº 6.143 de 29/12/1943",
+    "numero": 6143,
+    "senado_id": "531239",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-12-28",
+    "id": "br-federal-decreto-lei-1943-12-28-6141",
+    "norma": "DEL-6141-1943-12-28",
+    "normaNome": "Decreto-Lei nº 6.141 de 28/12/1943",
+    "numero": 6141,
+    "senado_id": "531237",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-12-08",
+    "id": "br-federal-decreto-lei-1943-12-08-6075",
+    "norma": "DEL-6075-1943-12-08",
+    "normaNome": "Decreto-Lei nº 6.075 de 08/12/1943",
+    "numero": 6075,
+    "senado_id": "531171",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-10-21",
+    "id": "br-federal-decreto-lei-1943-10-21-5907",
+    "norma": "DEL-5907-1943-10-21",
+    "normaNome": "Decreto-Lei nº 5.907 de 21/10/1943",
+    "numero": 5907,
+    "senado_id": "531002",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-10-20",
+    "id": "br-federal-decreto-lei-1943-10-20-5894",
+    "norma": "DEL-5894-1943-10-20",
+    "normaNome": "Decreto-Lei nº 5.894 de 20/10/1943",
+    "numero": 5894,
+    "senado_id": "530989",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-09-27",
+    "id": "br-federal-decreto-lei-1943-09-27-5856",
+    "norma": "DEL-5856-1943-09-27",
+    "normaNome": "Decreto-Lei nº 5.856 de 27/09/1943",
+    "numero": 5856,
+    "senado_id": "530951",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-06-22",
+    "id": "br-federal-decreto-lei-1943-06-22-5609",
+    "norma": "DEL-5609-1943-06-22",
+    "normaNome": "Decreto-Lei nº 5.609 de 22/06/1943",
+    "numero": 5609,
+    "senado_id": "530705",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-06-18",
+    "id": "br-federal-decreto-lei-1943-06-18-5592",
+    "norma": "DEL-5592-1943-06-18",
+    "normaNome": "Decreto-Lei nº 5.592 de 18/06/1943",
+    "numero": 5592,
+    "senado_id": "530688",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-06-16",
+    "id": "br-federal-decreto-lei-1943-06-16-5580",
+    "norma": "DEL-5580-1943-06-16",
+    "normaNome": "Decreto-Lei nº 5.580 de 16/06/1943",
+    "numero": 5580,
+    "senado_id": "530676",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-06-01",
+    "id": "br-federal-decreto-lei-1943-06-01-5536",
+    "norma": "DEL-5536-1943-06-01",
+    "normaNome": "Decreto-Lei nº 5.536 de 01/06/1943",
+    "numero": 5536,
+    "senado_id": "530632",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-04-26",
+    "id": "br-federal-decreto-lei-1943-04-26-5423",
+    "norma": "DEL-5423-1943-04-26",
+    "normaNome": "Decreto-Lei nº 5.423 de 26/04/1943",
+    "numero": 5423,
+    "senado_id": "530518",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-04-12",
+    "id": "br-federal-decreto-lei-1943-04-12-5389",
+    "norma": "DEL-5389-1943-04-12",
+    "normaNome": "Decreto-Lei nº 5.389 de 12/04/1943",
+    "numero": 5389,
+    "senado_id": "530484",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-04-05",
+    "id": "br-federal-decreto-lei-1943-04-05-5378",
+    "norma": "DEL-5378-1943-04-05",
+    "normaNome": "Decreto-Lei nº 5.378 de 05/04/1943",
+    "numero": 5378,
+    "senado_id": "530473",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-03-25",
+    "id": "br-federal-decreto-lei-1943-03-25-5345",
+    "norma": "DEL-5345-1943-03-25",
+    "normaNome": "Decreto-Lei nº 5.345 de 25/03/1943",
+    "numero": 5345,
+    "senado_id": "530440",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1943-03-18",
+    "id": "br-federal-decreto-lei-1943-03-18-5331",
+    "norma": "DEL-5331-1943-03-18",
+    "normaNome": "Decreto-Lei nº 5.331 de 18/03/1943",
+    "numero": 5331,
+    "senado_id": "530426",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1946-01-08",
+    "id": "br-federal-decreto-lei-1946-01-08-8583",
+    "norma": "DEL-8583-1946-01-08",
+    "normaNome": "Decreto-Lei nº 8.583 de 08/01/1946",
+    "numero": 8583,
+    "senado_id": "30821523",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1946-01-08;8583"
+  },
+  {
+    "data": "1946-01-07",
+    "id": "br-federal-decreto-lei-1946-01-07-8567",
+    "norma": "DEL-8567-1946-01-07",
+    "normaNome": "Decreto-Lei nº 8.567 de 07/01/1946",
+    "numero": 8567,
+    "senado_id": "533606",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1946-01-07;8567"
+  },
+  {
+    "data": "1945-12-31",
+    "id": "br-federal-decreto-lei-1945-12-31-8528",
+    "norma": "DEL-8528-1945-12-31",
+    "normaNome": "Decreto-Lei nº 8.528 de 31/12/1945",
+    "numero": 8528,
+    "senado_id": "30832805",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1945-12-31;8528"
+  },
+  {
+    "data": "1945-12-17",
+    "id": "br-federal-decreto-lei-1945-12-17-8384",
+    "norma": "DEL-8384-1945-12-17",
+    "normaNome": "Decreto-Lei nº 8.384 de 17/12/1945",
+    "numero": 8384,
+    "senado_id": "30821582",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1945-12-17;8384"
+  },
+  {
+    "data": "1945-10-01",
+    "id": "br-federal-decreto-lei-1945-10-01-8022",
+    "norma": "DEL-8022-1945-10-01",
+    "normaNome": "Decreto-Lei nº 8.022 de 01/10/1945",
+    "numero": 8022,
+    "senado_id": "30832865",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1945-10-01;8022"
+  },
+  {
+    "data": "1945-08-27",
+    "id": "br-federal-decreto-lei-1945-08-27-7903",
+    "norma": "DEL-7903-1945-08-27",
+    "normaNome": "Decreto-Lei nº 7.903 de 27/08/1945",
+    "numero": 7903,
+    "senado_id": "532950",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1945-08-16",
+    "id": "br-federal-decreto-lei-1945-08-16-7871",
+    "norma": "DEL-7871-1945-08-16",
+    "normaNome": "Decreto-Lei nº 7.871 de 16/08/1945",
+    "numero": 7871,
+    "senado_id": "529940",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1945-08-16;7871"
+  },
+  {
     "data": "1945-08-02",
     "id": "br-federal-decreto-lei-1945-08-02-7821",
     "norma": "DEL-7821-1945-08-02",
@@ -857,16 +1206,6 @@
     "status": "sem-contentUrl",
     "tipo": "DEL",
     "urn": "urn:lex:br:federal:decreto.lei:1945-06-26;7675"
-  },
-  {
-    "data": "1945-06-22",
-    "id": "br-federal-decreto-lei-1945-06-22-7666",
-    "norma": "DEL-7666-1945-06-22",
-    "normaNome": "Decreto-Lei nº 7.666 de 22/06/1945",
-    "numero": 7666,
-    "senado_id": "532716",
-    "status": "capturado",
-    "tipo": "DEL"
   },
   {
     "data": "1945-06-21",
@@ -1375,16 +1714,6 @@
     "urn": "urn:lex:br:federal:decreto.lei:1945-05-31;7598"
   },
   {
-    "data": "1945-05-28",
-    "id": "br-federal-decreto-lei-1945-05-28-7586",
-    "norma": "DEL-7586-1945-05-28",
-    "normaNome": "Decreto-Lei nº 7.586 de 28/05/1945",
-    "numero": 7586,
-    "senado_id": "532683",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
     "data": "1945-05-14",
     "id": "br-federal-decreto-lei-1945-05-14-7550",
     "norma": "DEL-7550-1945-05-14",
@@ -1394,26 +1723,6 @@
     "status": "sem-contentUrl",
     "tipo": "DEL",
     "urn": "urn:lex:br:federal:decreto.lei:1945-05-14;7550"
-  },
-  {
-    "data": "1945-04-25",
-    "id": "br-federal-decreto-lei-1945-04-25-7490",
-    "norma": "DEL-7490-1945-04-25",
-    "normaNome": "Decreto-Lei nº 7.490 de 25/04/1945",
-    "numero": 7490,
-    "senado_id": "532588",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1945-04-11",
-    "id": "br-federal-decreto-lei-1945-04-11-7457",
-    "norma": "DEL-7457-1945-04-11",
-    "normaNome": "Decreto-Lei nº 7.457 de 11/04/1945",
-    "numero": 7457,
-    "senado_id": "532555",
-    "status": "capturado",
-    "tipo": "DEL"
   },
   {
     "data": "1945-04-05",
@@ -1483,16 +1792,6 @@
   },
   {
     "data": "1945-02-08",
-    "id": "br-federal-decreto-lei-1945-02-08-7315",
-    "norma": "DEL-7315-1945-02-08",
-    "normaNome": "Decreto-Lei nº 7.315 de 08/02/1945",
-    "numero": 7315,
-    "senado_id": "532417",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1945-02-08",
     "id": "br-federal-decreto-lei-1945-02-08-7306",
     "norma": "DEL-7306-1945-02-08",
     "normaNome": "Decreto-Lei nº 7.306 de 08/02/1945",
@@ -1501,16 +1800,6 @@
     "status": "sem-contentUrl",
     "tipo": "DEL",
     "urn": "urn:lex:br:federal:decreto.lei:1945-02-08;7306"
-  },
-  {
-    "data": "1944-12-23",
-    "id": "br-federal-decreto-lei-1944-12-23-7191",
-    "norma": "DEL-7191-1944-12-23",
-    "normaNome": "Decreto-Lei nº 7.191 de 23/12/1944",
-    "numero": 7191,
-    "senado_id": "532292",
-    "status": "capturado",
-    "tipo": "DEL"
   },
   {
     "data": "1944-12-22",
@@ -1524,126 +1813,6 @@
     "urn": "urn:lex:br:federal:decreto.lei:1944-12-22;7190"
   },
   {
-    "data": "1944-12-19",
-    "id": "br-federal-decreto-lei-1944-12-19-7170",
-    "norma": "DEL-7170-1944-12-19",
-    "normaNome": "Decreto-Lei nº 7.170 de 19/12/1944",
-    "numero": 7170,
-    "senado_id": "532271",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1944-12-04",
-    "id": "br-federal-decreto-lei-1944-12-04-7123",
-    "norma": "DEL-7123-1944-12-04",
-    "normaNome": "Decreto-Lei nº 7.123 de 04/12/1944",
-    "numero": 7123,
-    "senado_id": "532223",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1944-12-04",
-    "id": "br-federal-decreto-lei-1944-12-04-7110",
-    "norma": "DEL-7110-1944-12-04",
-    "normaNome": "Decreto-Lei nº 7.110 de 04/12/1944",
-    "numero": 7110,
-    "senado_id": "532210",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1944-10-25",
-    "id": "br-federal-decreto-lei-1944-10-25-6987",
-    "norma": "DEL-6987-1944-10-25",
-    "normaNome": "Decreto-Lei nº 6.987 de 25/10/1944",
-    "numero": 6987,
-    "senado_id": "532087",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1944-10-24",
-    "id": "br-federal-decreto-lei-1944-10-24-6979",
-    "norma": "DEL-6979-1944-10-24",
-    "normaNome": "Decreto-Lei nº 6.979 de 24/10/1944",
-    "numero": 6979,
-    "senado_id": "532079",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1944-10-23",
-    "id": "br-federal-decreto-lei-1944-10-23-6978",
-    "norma": "DEL-6978-1944-10-23",
-    "normaNome": "Decreto-Lei nº 6.978 de 23/10/1944",
-    "numero": 6978,
-    "senado_id": "532078",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1944-08-31",
-    "id": "br-federal-decreto-lei-1944-08-31-6842",
-    "norma": "DEL-6842-1944-08-31",
-    "normaNome": "Decreto-Lei nº 6.842 de 31/08/1944",
-    "numero": 6842,
-    "senado_id": "531942",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1944-06-19",
-    "id": "br-federal-decreto-lei-1944-06-19-6600",
-    "norma": "DEL-6600-1944-06-19",
-    "normaNome": "Decreto-Lei nº 6.600 de 19/06/1944",
-    "numero": 6600,
-    "senado_id": "531697",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1944-06-09",
-    "id": "br-federal-decreto-lei-1944-06-09-6578",
-    "norma": "DEL-6578-1944-06-09",
-    "normaNome": "Decreto-Lei nº 6.578 de 09/06/1944",
-    "numero": 6578,
-    "senado_id": "531675",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1944-05-09",
-    "id": "br-federal-decreto-lei-1944-05-09-6481",
-    "norma": "DEL-6481-1944-05-09",
-    "normaNome": "Decreto-Lei nº 6.481 de 09/05/1944",
-    "numero": 6481,
-    "senado_id": "531578",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1944-05-02",
-    "id": "br-federal-decreto-lei-1944-05-02-6458",
-    "norma": "DEL-6458-1944-05-02",
-    "normaNome": "Decreto-Lei nº 6.458 de 02/05/1944",
-    "numero": 6458,
-    "senado_id": "531555",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1944-03-28",
-    "id": "br-federal-decreto-lei-1944-03-28-6378",
-    "norma": "DEL-6378-1944-03-28",
-    "normaNome": "Decreto-Lei nº 6.378 de 28/03/1944",
-    "numero": 6378,
-    "senado_id": "531476",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
     "data": "1944-03-28",
     "id": "br-federal-decreto-lei-1944-03-28-6379",
     "norma": "DEL-6379-1944-03-28",
@@ -1653,56 +1822,6 @@
     "status": "sem-contentUrl",
     "tipo": "DEL",
     "urn": "urn:lex:br:federal:decreto.lei:1944-03-28;6379"
-  },
-  {
-    "data": "1944-01-18",
-    "id": "br-federal-decreto-lei-1944-01-18-6205",
-    "norma": "DEL-6205-1944-01-18",
-    "normaNome": "Decreto-Lei nº 6.205 de 18/01/1944",
-    "numero": 6205,
-    "senado_id": "531303",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1943-12-29",
-    "id": "br-federal-decreto-lei-1943-12-29-6145",
-    "norma": "DEL-6145-1943-12-29",
-    "normaNome": "Decreto-Lei nº 6.145 de 29/12/1943",
-    "numero": 6145,
-    "senado_id": "531241",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1943-12-29",
-    "id": "br-federal-decreto-lei-1943-12-29-6143",
-    "norma": "DEL-6143-1943-12-29",
-    "normaNome": "Decreto-Lei nº 6.143 de 29/12/1943",
-    "numero": 6143,
-    "senado_id": "531239",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1943-12-28",
-    "id": "br-federal-decreto-lei-1943-12-28-6141",
-    "norma": "DEL-6141-1943-12-28",
-    "normaNome": "Decreto-Lei nº 6.141 de 28/12/1943",
-    "numero": 6141,
-    "senado_id": "531237",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1943-12-08",
-    "id": "br-federal-decreto-lei-1943-12-08-6075",
-    "norma": "DEL-6075-1943-12-08",
-    "normaNome": "Decreto-Lei nº 6.075 de 08/12/1943",
-    "numero": 6075,
-    "senado_id": "531171",
-    "status": "capturado",
-    "tipo": "DEL"
   },
   {
     "data": "1943-11-27",
@@ -1716,66 +1835,6 @@
     "urn": "urn:lex:br:federal:decreto.lei:1943-11-27;6045"
   },
   {
-    "data": "1943-10-21",
-    "id": "br-federal-decreto-lei-1943-10-21-5907",
-    "norma": "DEL-5907-1943-10-21",
-    "normaNome": "Decreto-Lei nº 5.907 de 21/10/1943",
-    "numero": 5907,
-    "senado_id": "531002",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1943-10-20",
-    "id": "br-federal-decreto-lei-1943-10-20-5894",
-    "norma": "DEL-5894-1943-10-20",
-    "normaNome": "Decreto-Lei nº 5.894 de 20/10/1943",
-    "numero": 5894,
-    "senado_id": "530989",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1943-09-27",
-    "id": "br-federal-decreto-lei-1943-09-27-5856",
-    "norma": "DEL-5856-1943-09-27",
-    "normaNome": "Decreto-Lei nº 5.856 de 27/09/1943",
-    "numero": 5856,
-    "senado_id": "530951",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1943-06-22",
-    "id": "br-federal-decreto-lei-1943-06-22-5609",
-    "norma": "DEL-5609-1943-06-22",
-    "normaNome": "Decreto-Lei nº 5.609 de 22/06/1943",
-    "numero": 5609,
-    "senado_id": "530705",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1943-06-18",
-    "id": "br-federal-decreto-lei-1943-06-18-5592",
-    "norma": "DEL-5592-1943-06-18",
-    "normaNome": "Decreto-Lei nº 5.592 de 18/06/1943",
-    "numero": 5592,
-    "senado_id": "530688",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1943-06-16",
-    "id": "br-federal-decreto-lei-1943-06-16-5580",
-    "norma": "DEL-5580-1943-06-16",
-    "normaNome": "Decreto-Lei nº 5.580 de 16/06/1943",
-    "numero": 5580,
-    "senado_id": "530676",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
     "data": "1943-06-10",
     "id": "br-federal-decreto-lei-1943-06-10-5568",
     "norma": "DEL-5568-1943-06-10",
@@ -1785,16 +1844,6 @@
     "status": "sem-contentUrl",
     "tipo": "DEL",
     "urn": "urn:lex:br:federal:decreto.lei:1943-06-10;5568"
-  },
-  {
-    "data": "1943-06-01",
-    "id": "br-federal-decreto-lei-1943-06-01-5536",
-    "norma": "DEL-5536-1943-06-01",
-    "normaNome": "Decreto-Lei nº 5.536 de 01/06/1943",
-    "numero": 5536,
-    "senado_id": "530632",
-    "status": "capturado",
-    "tipo": "DEL"
   },
   {
     "data": "1943-05-11",
@@ -1808,46 +1857,6 @@
     "urn": "urn:lex:br:federal:decreto.lei:1943-05-11;5473"
   },
   {
-    "data": "1943-04-26",
-    "id": "br-federal-decreto-lei-1943-04-26-5423",
-    "norma": "DEL-5423-1943-04-26",
-    "normaNome": "Decreto-Lei nº 5.423 de 26/04/1943",
-    "numero": 5423,
-    "senado_id": "530518",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1943-04-12",
-    "id": "br-federal-decreto-lei-1943-04-12-5389",
-    "norma": "DEL-5389-1943-04-12",
-    "normaNome": "Decreto-Lei nº 5.389 de 12/04/1943",
-    "numero": 5389,
-    "senado_id": "530484",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1943-04-05",
-    "id": "br-federal-decreto-lei-1943-04-05-5378",
-    "norma": "DEL-5378-1943-04-05",
-    "normaNome": "Decreto-Lei nº 5.378 de 05/04/1943",
-    "numero": 5378,
-    "senado_id": "530473",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
-    "data": "1943-03-25",
-    "id": "br-federal-decreto-lei-1943-03-25-5345",
-    "norma": "DEL-5345-1943-03-25",
-    "normaNome": "Decreto-Lei nº 5.345 de 25/03/1943",
-    "numero": 5345,
-    "senado_id": "530440",
-    "status": "capturado",
-    "tipo": "DEL"
-  },
-  {
     "data": "1943-03-22",
     "id": "br-federal-decreto-lei-1943-03-22-5335",
     "norma": "DEL-5335-1943-03-22",
@@ -1859,12 +1868,825 @@
     "urn": "urn:lex:br:federal:decreto.lei:1943-03-22;5335"
   },
   {
-    "data": "1943-03-18",
-    "id": "br-federal-decreto-lei-1943-03-18-5331",
-    "norma": "DEL-5331-1943-03-18",
-    "normaNome": "Decreto-Lei nº 5.331 de 18/03/1943",
-    "numero": 5331,
-    "senado_id": "530426",
+    "data": "1943-02-12",
+    "id": "br-federal-decreto-lei-1943-02-12-5245",
+    "norma": "DEL-5245-1943-02-12",
+    "normaNome": "Decreto-Lei nº 5.245 de 12/02/1943",
+    "numero": 5245,
+    "senado_id": "530340",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-12-22",
+    "id": "br-federal-decreto-lei-1942-12-22-5125",
+    "norma": "DEL-5125-1942-12-22",
+    "normaNome": "Decreto-Lei nº 5.125 de 22/12/1942",
+    "numero": 5125,
+    "senado_id": "30825158",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1942-12-22;5125"
+  },
+  {
+    "data": "1942-12-19",
+    "id": "br-federal-decreto-lei-1942-12-19-5120",
+    "norma": "DEL-5120-1942-12-19",
+    "normaNome": "Decreto-Lei nº 5.120 de 19/12/1942",
+    "numero": 5120,
+    "senado_id": "530216",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-12-04",
+    "id": "br-federal-decreto-lei-1942-12-04-5030",
+    "norma": "DEL-5030-1942-12-04",
+    "normaNome": "Decreto-Lei nº 5.030 de 04/12/1942",
+    "numero": 5030,
+    "senado_id": "530124",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-11-27",
+    "id": "br-federal-decreto-lei-1942-11-27-5000",
+    "norma": "DEL-5000-1942-11-27",
+    "normaNome": "Decreto-Lei nº 5.000 de 27/11/1942",
+    "numero": 5000,
+    "senado_id": "530094",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-11-25",
+    "id": "br-federal-decreto-lei-1942-11-25-4991",
+    "norma": "DEL-4991-1942-11-25",
+    "normaNome": "Decreto-Lei nº 4.991 de 25/11/1942",
+    "numero": 4991,
+    "senado_id": "530085",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-10-31",
+    "id": "br-federal-decreto-lei-1942-10-31-4904",
+    "norma": "DEL-4904-1942-10-31",
+    "normaNome": "Decreto-Lei nº 4.904 de 31/10/1942",
+    "numero": 4904,
+    "senado_id": "529998",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-10-08",
+    "id": "br-federal-decreto-lei-1942-10-08-4812",
+    "norma": "DEL-4812-1942-10-08",
+    "normaNome": "Decreto-Lei nº 4.812 de 08/10/1942",
+    "numero": 4812,
+    "senado_id": "529904",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-10-05",
+    "id": "br-federal-decreto-lei-1942-10-05-4786",
+    "norma": "DEL-4786-1942-10-05",
+    "normaNome": "Decreto-Lei nº 4.786 de 05/10/1942",
+    "numero": 4786,
+    "senado_id": "529878",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-09-25",
+    "id": "br-federal-decreto-lei-1942-09-25-4741",
+    "norma": "DEL-4741-1942-09-25",
+    "normaNome": "Decreto-Lei nº 4.741 de 25/09/1942",
+    "numero": 4741,
+    "senado_id": "529832",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-09-03",
+    "id": "br-federal-decreto-lei-1942-09-03-4655",
+    "norma": "DEL-4655-1942-09-03",
+    "normaNome": "Decreto-Lei nº 4.655 de 03/09/1942",
+    "numero": 4655,
+    "senado_id": "529742",
+    "status": "retido-marcador-anexo-tabela",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-08-20",
+    "id": "br-federal-decreto-lei-1942-08-20-4599",
+    "norma": "DEL-4599-1942-08-20",
+    "normaNome": "Decreto-Lei nº 4.599 de 20/08/1942",
+    "numero": 4599,
+    "senado_id": "529686",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1942-08-20;4599"
+  },
+  {
+    "data": "1942-08-03",
+    "id": "br-federal-decreto-lei-1942-08-03-4547",
+    "norma": "DEL-4547-1942-08-03",
+    "normaNome": "Decreto-Lei nº 4.547 de 03/08/1942",
+    "numero": 4547,
+    "senado_id": "529634",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-07-30",
+    "id": "br-federal-decreto-lei-1942-07-30-4534",
+    "norma": "DEL-4534-1942-07-30",
+    "normaNome": "Decreto-Lei nº 4.534 de 30/07/1942",
+    "numero": 4534,
+    "senado_id": "529621",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-07-10",
+    "id": "br-federal-decreto-lei-1942-07-10-4465",
+    "norma": "DEL-4465-1942-07-10",
+    "normaNome": "Decreto-Lei nº 4.465 de 10/07/1942",
+    "numero": 4465,
+    "senado_id": "529552",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-07-03",
+    "id": "br-federal-decreto-lei-1942-07-03-4437",
+    "norma": "DEL-4437-1942-07-03",
+    "normaNome": "Decreto-Lei nº 4.437 de 03/07/1942",
+    "numero": 4437,
+    "senado_id": "529523",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1942-07-03;4437"
+  },
+  {
+    "data": "1942-05-21",
+    "id": "br-federal-decreto-lei-1942-05-21-4321",
+    "norma": "DEL-4321-1942-05-21",
+    "normaNome": "Decreto-Lei nº 4.321 de 21/05/1942",
+    "numero": 4321,
+    "senado_id": "529407",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-05-21",
+    "id": "br-federal-decreto-lei-1942-05-21-4326",
+    "norma": "DEL-4326-1942-05-21",
+    "normaNome": "Decreto-Lei nº 4.326 de 21/05/1942",
+    "numero": 4326,
+    "senado_id": "529412",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-05-21",
+    "id": "br-federal-decreto-lei-1942-05-21-4324",
+    "norma": "DEL-4324-1942-05-21",
+    "normaNome": "Decreto-Lei nº 4.324 de 21/05/1942",
+    "numero": 4324,
+    "senado_id": "529410",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-05-21",
+    "id": "br-federal-decreto-lei-1942-05-21-4322",
+    "norma": "DEL-4322-1942-05-21",
+    "normaNome": "Decreto-Lei nº 4.322 de 21/05/1942",
+    "numero": 4322,
+    "senado_id": "529408",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-05-21",
+    "id": "br-federal-decreto-lei-1942-05-21-4325",
+    "norma": "DEL-4325-1942-05-21",
+    "normaNome": "Decreto-Lei nº 4.325 de 21/05/1942",
+    "numero": 4325,
+    "senado_id": "529411",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-05-21",
+    "id": "br-federal-decreto-lei-1942-05-21-4323",
+    "norma": "DEL-4323-1942-05-21",
+    "normaNome": "Decreto-Lei nº 4.323 de 21/05/1942",
+    "numero": 4323,
+    "senado_id": "529409",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-05-20",
+    "id": "br-federal-decreto-lei-1942-05-20-4313",
+    "norma": "DEL-4313-1942-05-20",
+    "normaNome": "Decreto-Lei nº 4.313 de 20/05/1942",
+    "numero": 4313,
+    "senado_id": "529399",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1942-05-20;4313"
+  },
+  {
+    "data": "1942-05-04",
+    "id": "br-federal-decreto-lei-1942-05-04-4290",
+    "norma": "DEL-4290-1942-05-04",
+    "normaNome": "Decreto-Lei nº 4.290 de 04/05/1942",
+    "numero": 4290,
+    "senado_id": "529376",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-04-17",
+    "id": "br-federal-decreto-lei-1942-04-17-4274",
+    "norma": "DEL-4274-1942-04-17",
+    "normaNome": "Decreto-Lei nº 4.274 de 17/04/1942",
+    "numero": 4274,
+    "senado_id": "529360",
+    "status": "retido-marcador-anexo-tabela",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-04-15",
+    "id": "br-federal-decreto-lei-1942-04-15-4254",
+    "norma": "DEL-4254-1942-04-15",
+    "normaNome": "Decreto-Lei nº 4.254 de 15/04/1942",
+    "numero": 4254,
+    "senado_id": "529340",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-04-10",
+    "id": "br-federal-decreto-lei-1942-04-10-4246",
+    "norma": "DEL-4246-1942-04-10",
+    "normaNome": "Decreto-Lei nº 4.246 de 10/04/1942",
+    "numero": 4246,
+    "senado_id": "529332",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-04-09",
+    "id": "br-federal-decreto-lei-1942-04-09-4244",
+    "norma": "DEL-4244-1942-04-09",
+    "normaNome": "Decreto-Lei nº 4.244 de 09/04/1942",
+    "numero": 4244,
+    "senado_id": "529330",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-03-06",
+    "id": "br-federal-decreto-lei-1942-03-06-4156",
+    "norma": "DEL-4156-1942-03-06",
+    "normaNome": "Decreto-Lei nº 4.156 de 06/03/1942",
+    "numero": 4156,
+    "senado_id": "529242",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-02-26",
+    "id": "br-federal-decreto-lei-1942-02-26-4138",
+    "norma": "DEL-4138-1942-02-26",
+    "normaNome": "Decreto-Lei nº 4.138 de 26/02/1942",
+    "numero": 4138,
+    "senado_id": "529224",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1942-02-26",
+    "id": "br-federal-decreto-lei-1942-02-26-4130",
+    "norma": "DEL-4130-1942-02-26",
+    "normaNome": "Decreto-Lei nº 4.130 de 26/02/1942",
+    "numero": 4130,
+    "senado_id": "529216",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-12-19",
+    "id": "br-federal-decreto-lei-1941-12-19-3960",
+    "norma": "DEL-3960-1941-12-19",
+    "normaNome": "Decreto-Lei nº 3.960 de 19/12/1941",
+    "numero": 3960,
+    "senado_id": "529047",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-12-09",
+    "id": "br-federal-decreto-lei-1941-12-09-3914",
+    "norma": "DEL-3914-1941-12-09",
+    "normaNome": "Decreto-Lei nº 3.914 de 09/12/1941",
+    "numero": 3914,
+    "senado_id": "529001",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-11-29",
+    "id": "br-federal-decreto-lei-1941-11-29-3868",
+    "norma": "DEL-3868-1941-11-29",
+    "normaNome": "Decreto-Lei nº 3.868 de 29/11/1941",
+    "numero": 3868,
+    "senado_id": "528955",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-11-07",
+    "id": "br-federal-decreto-lei-1941-11-07-3809",
+    "norma": "DEL-3809-1941-11-07",
+    "normaNome": "Decreto-Lei nº 3.809 de 07/11/1941",
+    "numero": 3809,
+    "senado_id": "528896",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-10-25",
+    "id": "br-federal-decreto-lei-1941-10-25-3757",
+    "norma": "DEL-3757-1941-10-25",
+    "normaNome": "Decreto-Lei nº 3.757 de 25/10/1941",
+    "numero": 3757,
+    "senado_id": "528844",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-10-23",
+    "id": "br-federal-decreto-lei-1941-10-23-3752",
+    "norma": "DEL-3752-1941-10-23",
+    "normaNome": "Decreto-Lei nº 3.752 de 23/10/1941",
+    "numero": 3752,
+    "senado_id": "528839",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-07-17",
+    "id": "br-federal-decreto-lei-1941-07-17-3434",
+    "norma": "DEL-3434-1941-07-17",
+    "normaNome": "Decreto-Lei nº 3.434 de 17/07/1941",
+    "numero": 3434,
+    "senado_id": "528521",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-07-08",
+    "id": "br-federal-decreto-lei-1941-07-08-3395",
+    "norma": "DEL-3395-1941-07-08",
+    "normaNome": "Decreto-Lei nº 3.395 de 08/07/1941",
+    "numero": 3395,
+    "senado_id": "528482",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-07-08",
+    "id": "br-federal-decreto-lei-1941-07-08-3400",
+    "norma": "DEL-3400-1941-07-08",
+    "normaNome": "Decreto-Lei nº 3.400 de 08/07/1941",
+    "numero": 3400,
+    "senado_id": "528487",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-07-08",
+    "id": "br-federal-decreto-lei-1941-07-08-3397",
+    "norma": "DEL-3397-1941-07-08",
+    "normaNome": "Decreto-Lei nº 3.397 de 08/07/1941",
+    "numero": 3397,
+    "senado_id": "528484",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-07-08",
+    "id": "br-federal-decreto-lei-1941-07-08-3399",
+    "norma": "DEL-3399-1941-07-08",
+    "normaNome": "Decreto-Lei nº 3.399 de 08/07/1941",
+    "numero": 3399,
+    "senado_id": "528486",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-07-08",
+    "id": "br-federal-decreto-lei-1941-07-08-3404",
+    "norma": "DEL-3404-1941-07-08",
+    "normaNome": "Decreto-Lei nº 3.404 de 08/07/1941",
+    "numero": 3404,
+    "senado_id": "528491",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-07-08",
+    "id": "br-federal-decreto-lei-1941-07-08-3403",
+    "norma": "DEL-3403-1941-07-08",
+    "normaNome": "Decreto-Lei nº 3.403 de 08/07/1941",
+    "numero": 3403,
+    "senado_id": "528490",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-07-08",
+    "id": "br-federal-decreto-lei-1941-07-08-3402",
+    "norma": "DEL-3402-1941-07-08",
+    "normaNome": "Decreto-Lei nº 3.402 de 08/07/1941",
+    "numero": 3402,
+    "senado_id": "528489",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-07-08",
+    "id": "br-federal-decreto-lei-1941-07-08-3398",
+    "norma": "DEL-3398-1941-07-08",
+    "normaNome": "Decreto-Lei nº 3.398 de 08/07/1941",
+    "numero": 3398,
+    "senado_id": "528485",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-07-08",
+    "id": "br-federal-decreto-lei-1941-07-08-3401",
+    "norma": "DEL-3401-1941-07-08",
+    "normaNome": "Decreto-Lei nº 3.401 de 08/07/1941",
+    "numero": 3401,
+    "senado_id": "528488",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-07-08",
+    "id": "br-federal-decreto-lei-1941-07-08-3396",
+    "norma": "DEL-3396-1941-07-08",
+    "normaNome": "Decreto-Lei nº 3.396 de 08/07/1941",
+    "numero": 3396,
+    "senado_id": "528483",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-05-16",
+    "id": "br-federal-decreto-lei-1941-05-16-3281",
+    "norma": "DEL-3281-1941-05-16",
+    "normaNome": "Decreto-Lei nº 3.281 de 16/05/1941",
+    "numero": 3281,
+    "senado_id": "528368",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-05-16",
+    "id": "br-federal-decreto-lei-1941-05-16-3282",
+    "norma": "DEL-3282-1941-05-16",
+    "normaNome": "Decreto-Lei nº 3.282 de 16/05/1941",
+    "numero": 3282,
+    "senado_id": "528369",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-05-14",
+    "id": "br-federal-decreto-lei-1941-05-14-3270",
+    "norma": "DEL-3270-1941-05-14",
+    "normaNome": "Decreto-Lei nº 3.270 de 14/05/1941",
+    "numero": 3270,
+    "senado_id": "528357",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1941-05-14;3270"
+  },
+  {
+    "data": "1941-04-26",
+    "id": "br-federal-decreto-lei-1941-04-26-3212",
+    "norma": "DEL-3212-1941-04-26",
+    "normaNome": "Decreto-Lei nº 3.212 de 26/04/1941",
+    "numero": 3212,
+    "senado_id": "528299",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-04-10",
+    "id": "br-federal-decreto-lei-1941-04-10-3190",
+    "norma": "DEL-3190-1941-04-10",
+    "normaNome": "Decreto-Lei nº 3.190 de 10/04/1941",
+    "numero": 3190,
+    "senado_id": "30824434",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1941-04-10;3190"
+  },
+  {
+    "data": "1941-03-31",
+    "id": "br-federal-decreto-lei-1941-03-31-3158",
+    "norma": "DEL-3158-1941-03-31",
+    "normaNome": "Decreto-Lei nº 3.158 de 31/03/1941",
+    "numero": 3158,
+    "senado_id": "30824521",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1941-03-31;3158"
+  },
+  {
+    "data": "1941-03-31",
+    "id": "br-federal-decreto-lei-1941-03-31-3157",
+    "norma": "DEL-3157-1941-03-31",
+    "normaNome": "Decreto-Lei nº 3.157 de 31/03/1941",
+    "numero": 3157,
+    "senado_id": "30834987",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1941-03-31;3157"
+  },
+  {
+    "data": "1941-03-31",
+    "id": "br-federal-decreto-lei-1941-03-31-3156",
+    "norma": "DEL-3156-1941-03-31",
+    "normaNome": "Decreto-Lei nº 3.156 de 31/03/1941",
+    "numero": 3156,
+    "senado_id": "30824608",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1941-03-31;3156"
+  },
+  {
+    "data": "1941-03-31",
+    "id": "br-federal-decreto-lei-1941-03-31-3164",
+    "norma": "DEL-3164-1941-03-31",
+    "normaNome": "Decreto-Lei nº 3.164 de 31/03/1941",
+    "numero": 3164,
+    "senado_id": "30834472",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1941-03-31;3164"
+  },
+  {
+    "data": "1941-03-31",
+    "id": "br-federal-decreto-lei-1941-03-31-3163",
+    "norma": "DEL-3163-1941-03-31",
+    "normaNome": "Decreto-Lei nº 3.163 de 31/03/1941",
+    "numero": 3163,
+    "senado_id": "30824667",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1941-03-31;3163"
+  },
+  {
+    "data": "1941-03-31",
+    "id": "br-federal-decreto-lei-1941-03-31-3161",
+    "norma": "DEL-3161-1941-03-31",
+    "normaNome": "Decreto-Lei nº 3.161 de 31/03/1941",
+    "numero": 3161,
+    "senado_id": "30834925",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1941-03-31;3161"
+  },
+  {
+    "data": "1941-03-21",
+    "id": "br-federal-decreto-lei-1941-03-21-3130",
+    "norma": "DEL-3130-1941-03-21",
+    "normaNome": "Decreto-Lei nº 3.130 de 21/03/1941",
+    "numero": 3130,
+    "senado_id": "528224",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-03-12",
+    "id": "br-federal-decreto-lei-1941-03-12-3108",
+    "norma": "DEL-3108-1941-03-12",
+    "normaNome": "Decreto-Lei nº 3.108 de 12/03/1941",
+    "numero": 3108,
+    "senado_id": "528202",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1941-02-01",
+    "id": "br-federal-decreto-lei-1941-02-01-3023",
+    "norma": "DEL-3023-1941-02-01",
+    "normaNome": "Decreto-Lei nº 3.023 de 01/02/1941",
+    "numero": 3023,
+    "senado_id": "30835057",
+    "status": "sem-contentUrl",
+    "tipo": "DEL",
+    "urn": "urn:lex:br:federal:decreto.lei:1941-02-01;3023"
+  },
+  {
+    "data": "1941-01-24",
+    "id": "br-federal-decreto-lei-1941-01-24-2981",
+    "norma": "DEL-2981-1941-01-24",
+    "normaNome": "Decreto-Lei nº 2.981 de 24/01/1941",
+    "numero": 2981,
+    "senado_id": "528075",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-31",
+    "id": "br-federal-decreto-lei-1940-12-31-2928",
+    "norma": "DEL-2928-1940-12-31",
+    "normaNome": "Decreto-Lei nº 2.928 de 31/12/1940",
+    "numero": 2928,
+    "senado_id": "528022",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-31",
+    "id": "br-federal-decreto-lei-1940-12-31-2936",
+    "norma": "DEL-2936-1940-12-31",
+    "normaNome": "Decreto-Lei nº 2.936 de 31/12/1940",
+    "numero": 2936,
+    "senado_id": "528030",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-31",
+    "id": "br-federal-decreto-lei-1940-12-31-2933",
+    "norma": "DEL-2933-1940-12-31",
+    "normaNome": "Decreto-Lei nº 2.933 de 31/12/1940",
+    "numero": 2933,
+    "senado_id": "528027",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-31",
+    "id": "br-federal-decreto-lei-1940-12-31-2932",
+    "norma": "DEL-2932-1940-12-31",
+    "normaNome": "Decreto-Lei nº 2.932 de 31/12/1940",
+    "numero": 2932,
+    "senado_id": "528026",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-31",
+    "id": "br-federal-decreto-lei-1940-12-31-2929",
+    "norma": "DEL-2929-1940-12-31",
+    "normaNome": "Decreto-Lei nº 2.929 de 31/12/1940",
+    "numero": 2929,
+    "senado_id": "528023",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-31",
+    "id": "br-federal-decreto-lei-1940-12-31-2927",
+    "norma": "DEL-2927-1940-12-31",
+    "normaNome": "Decreto-Lei nº 2.927 de 31/12/1940",
+    "numero": 2927,
+    "senado_id": "528021",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-31",
+    "id": "br-federal-decreto-lei-1940-12-31-2934",
+    "norma": "DEL-2934-1940-12-31",
+    "normaNome": "Decreto-Lei nº 2.934 de 31/12/1940",
+    "numero": 2934,
+    "senado_id": "528028",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-31",
+    "id": "br-federal-decreto-lei-1940-12-31-2925",
+    "norma": "DEL-2925-1940-12-31",
+    "normaNome": "Decreto-Lei nº 2.925 de 31/12/1940",
+    "numero": 2925,
+    "senado_id": "528019",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-31",
+    "id": "br-federal-decreto-lei-1940-12-31-2926",
+    "norma": "DEL-2926-1940-12-31",
+    "normaNome": "Decreto-Lei nº 2.926 de 31/12/1940",
+    "numero": 2926,
+    "senado_id": "528020",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-31",
+    "id": "br-federal-decreto-lei-1940-12-31-2930",
+    "norma": "DEL-2930-1940-12-31",
+    "normaNome": "Decreto-Lei nº 2.930 de 31/12/1940",
+    "numero": 2930,
+    "senado_id": "528024",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-31",
+    "id": "br-federal-decreto-lei-1940-12-31-2935",
+    "norma": "DEL-2935-1940-12-31",
+    "normaNome": "Decreto-Lei nº 2.935 de 31/12/1940",
+    "numero": 2935,
+    "senado_id": "528029",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-31",
+    "id": "br-federal-decreto-lei-1940-12-31-2931",
+    "norma": "DEL-2931-1940-12-31",
+    "normaNome": "Decreto-Lei nº 2.931 de 31/12/1940",
+    "numero": 2931,
+    "senado_id": "528025",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-30",
+    "id": "br-federal-decreto-lei-1940-12-30-2924",
+    "norma": "DEL-2924-1940-12-30",
+    "normaNome": "Decreto-Lei nº 2.924 de 30/12/1940",
+    "numero": 2924,
+    "senado_id": "528018",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-30",
+    "id": "br-federal-decreto-lei-1940-12-30-2916",
+    "norma": "DEL-2916-1940-12-30",
+    "normaNome": "Decreto-Lei nº 2.916 de 30/12/1940",
+    "numero": 2916,
+    "senado_id": "528010",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-30",
+    "id": "br-federal-decreto-lei-1940-12-30-2917",
+    "norma": "DEL-2917-1940-12-30",
+    "normaNome": "Decreto-Lei nº 2.917 de 30/12/1940",
+    "numero": 2917,
+    "senado_id": "528011",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-30",
+    "id": "br-federal-decreto-lei-1940-12-30-2915",
+    "norma": "DEL-2915-1940-12-30",
+    "normaNome": "Decreto-Lei nº 2.915 de 30/12/1940",
+    "numero": 2915,
+    "senado_id": "528009",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-30",
+    "id": "br-federal-decreto-lei-1940-12-30-2919",
+    "norma": "DEL-2919-1940-12-30",
+    "normaNome": "Decreto-Lei nº 2.919 de 30/12/1940",
+    "numero": 2919,
+    "senado_id": "528013",
+    "status": "capturado",
+    "tipo": "DEL"
+  },
+  {
+    "data": "1940-12-30",
+    "id": "br-federal-decreto-lei-1940-12-30-2921",
+    "norma": "DEL-2921-1940-12-30",
+    "normaNome": "Decreto-Lei nº 2.921 de 30/12/1940",
+    "numero": 2921,
+    "senado_id": "528015",
     "status": "capturado",
     "tipo": "DEL"
   }

@@ -36,7 +36,7 @@ tipo_catalogo: "MPV-cs"
 
 > **Medida Provisória nº 2129, reedição 6 de 2001-02-23 — publicação original.** Fonte: https://normas.leg.br/api/public/binario/07a3cca8-f9af-4a52-ab63-36e441b768b8/texto (capturada em 2026-11-04T19:21:05Z, SHA-256 `28afeb5d5f768d8a4ff5f9fba988a9b2879f3c5fc35b14ccf53bb85f137f0c29`). Snapshot: `provas/mps-pre-ec32/fontes/br-federal-medida-provisoria-2001-02-23-2129-6.html.xz`. O acervo não certifica vigência.
 >
-> Série histórica pré-EC 32/2001 (issue #95). Tipo de catálogo: `MPV-cs`. Não fundir com a numeração contínua pós-11/09/2001 (#84).
+> Série histórica pré-EC 32/2001 (issue #95). Tipo de catálogo: `MPV-cs`. Identidade `numero[-reedicao]` preservada; não fundir com a numeração contínua pós-11/09/2001 (#84).
 >
 > Conversão/efeitos somente com evidência documentada; filtros #70 / rastreador #83.
 

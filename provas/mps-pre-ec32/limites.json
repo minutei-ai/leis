@@ -9,15 +9,16 @@
     "presentes": 3547,
     "revisao_mesmo_numero": 654
   },
-  "n_publicados": 4,
-  "n_retidos": 176,
-  "nota": "Amostra 180/1900 ausências; 4 íntegras publicadas; 176 retidos por anexo. Restante do catálogo pendente.",
+  "n_publicados": 272,
+  "n_retidos": 108,
+  "nota": "Série pré-EC32 distinta da #84. Marcadores são placeholders oficiais; anexos .doc Câmara publicados; PDF multicoluna retido. Catálogo restante pendente de fetch.",
   "regras": [
-    "Não inferir vigência/completude de presença de arquivo ou HTTP.",
-    "<<ANEXO>>/<<TABELA>> na conversão retêm a norma (sem publicar corpo incompleto).",
-    "Provas privadas fora do repo público; divergências literais preservadas."
+    "Preservar numero+reedicao; não fundir com pós-EC32.",
+    "Não inferir vigência de HTTP/arquivo.",
+    "<<ANEXO>> retém até peça oficial recuperada."
   ],
   "retidos_por_status": {
-    "retido-marcador-anexo-tabela": 176
+    "retido-anexo-pdf-layout-pendente": 77,
+    "retido-sem-anexo-camara": 31
   }
 }

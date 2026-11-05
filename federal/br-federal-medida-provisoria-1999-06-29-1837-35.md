@@ -36,7 +36,7 @@ tipo_catalogo: "MPV-cs"
 
 > **Medida Provisória nº 1837, reedição 35 de 1999-06-29 — publicação original.** Fonte: https://normas.leg.br/api/public/binario/cd56ee74-9184-40b0-a5b6-e26d9d058708/texto (capturada em 2026-11-04T19:31:39Z, SHA-256 `8fdb0c746827370ea3ad004a1d8d8a4fe9ac8e864dff1ad409969453d197ff13`). Snapshot: `provas/mps-pre-ec32/fontes/br-federal-medida-provisoria-1999-06-29-1837-35.html.xz`. O acervo não certifica vigência.
 >
-> Série histórica pré-EC 32/2001 (issue #95). Tipo de catálogo: `MPV-cs`. Não fundir com a numeração contínua pós-11/09/2001 (#84).
+> Série histórica pré-EC 32/2001 (issue #95). Tipo de catálogo: `MPV-cs`. Identidade `numero[-reedicao]` preservada; não fundir com a numeração contínua pós-11/09/2001 (#84).
 >
 > Conversão/efeitos somente com evidência documentada; filtros #70 / rastreador #83.
 

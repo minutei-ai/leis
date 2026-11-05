@@ -36,7 +36,7 @@ tipo_catalogo: "MPV-cs"
 
 > **Medida Provisória nº 1981, reedição 46 de 2000-04-06 — publicação original.** Fonte: https://normas.leg.br/api/public/binario/347dc5de-4523-4d7c-8742-2aa956b371f9/texto (capturada em 2026-11-04T19:21:28Z, SHA-256 `4a53becd72269c428406cc602469f0ce0f072d275b05f84ab9d6ecd2ea537c8c`). Snapshot: `provas/mps-pre-ec32/fontes/br-federal-medida-provisoria-2000-04-06-1981-46.html.xz`. O acervo não certifica vigência.
 >
-> Série histórica pré-EC 32/2001 (issue #95). Tipo de catálogo: `MPV-cs`. Não fundir com a numeração contínua pós-11/09/2001 (#84).
+> Série histórica pré-EC 32/2001 (issue #95). Tipo de catálogo: `MPV-cs`. Identidade `numero[-reedicao]` preservada; não fundir com a numeração contínua pós-11/09/2001 (#84).
 >
 > Conversão/efeitos somente com evidência documentada; filtros #70 / rastreador #83.
 

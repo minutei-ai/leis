@@ -36,7 +36,7 @@ tipo_catalogo: "MPV-cs"
 
 > **Medida Provisória nº 2134, reedição 27 de 2001-02-23 — publicação original.** Fonte: https://normas.leg.br/api/public/binario/28b8e09a-9415-4ce5-a78a-7b0b11a69fc4/texto (capturada em 2026-11-04T19:21:06Z, SHA-256 `f4bf787e16f241c8e33753c8de91d170e87b8934148aeb6130d3941c3b469039`). Snapshot: `provas/mps-pre-ec32/fontes/br-federal-medida-provisoria-2001-02-23-2134-27.html.xz`. O acervo não certifica vigência.
 >
-> Série histórica pré-EC 32/2001 (issue #95). Tipo de catálogo: `MPV-cs`. Não fundir com a numeração contínua pós-11/09/2001 (#84).
+> Série histórica pré-EC 32/2001 (issue #95). Tipo de catálogo: `MPV-cs`. Identidade `numero[-reedicao]` preservada; não fundir com a numeração contínua pós-11/09/2001 (#84).
 >
 > Conversão/efeitos somente com evidência documentada; filtros #70 / rastreador #83.
 
