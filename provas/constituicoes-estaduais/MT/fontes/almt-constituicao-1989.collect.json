@@ -1,0 +1,13 @@
+{
+  "uf": "MT",
+  "chave": "almt-constituicao-1989",
+  "url": "https://storage.al.mt.gov.br/api/v1/download/default/639107",
+  "url_final": "https://storage.al.mt.gov.br/api/v1/download/default/639107",
+  "content_type": "application/pdf",
+  "bytes": 1965415,
+  "sha256_conteudo": "34bbe086a660b2fc8a090020c85a72b4390a9e8faf56cf2eeced46914e1317c8",
+  "sha256_arquivo_xz": "cc30729038d48869e1c774fcbdb913d9add67c750dde60e2e9224eae301fab0b",
+  "capturado_em": "2026-11-04T20:18:28Z",
+  "status": "ok",
+  "arquivo": "provas/constituicoes-estaduais/MT/fontes/almt-constituicao-1989.pdf.xz"
+}

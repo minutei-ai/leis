@@ -1,0 +1,13 @@
+{
+  "uf": "PA",
+  "chave": "alepa-constituicao-1989-simples",
+  "url": "https://alepa.pa.gov.br/Servicos/Download?Id=33",
+  "url_final": "https://alepa.pa.gov.br/Servicos/Download?Id=33",
+  "content_type": "application/pdf",
+  "bytes": 935758,
+  "sha256_conteudo": "c21f1e8d0eadd52e64ddf8bc8bc344fa0bea17f16e2718bbb86446a6dfe80923",
+  "sha256_arquivo_xz": "ba0040b85406ed7d65ee18b4c99e59cdf2a8e4c73ce36140705da859e493c451",
+  "capturado_em": "2026-11-04T21:24:51Z",
+  "status": "ok",
+  "arquivo": "provas/constituicoes-estaduais/PA/fontes/alepa-constituicao-1989-simples.pdf.xz"
+}

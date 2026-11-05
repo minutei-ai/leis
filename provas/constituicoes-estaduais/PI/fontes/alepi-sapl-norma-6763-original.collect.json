@@ -1,0 +1,14 @@
+{
+  "uf": "PI",
+  "chave": "alepi-sapl-norma-6763-original",
+  "url": "https://sapl.al.pi.leg.br/media/sapl/public/normajuridica/1989/6763/constituicao_estadual_do_piaui_de_5_de_outubro_de_1989.pdf",
+  "url_final": "https://sapl.al.pi.leg.br/media/sapl/public/normajuridica/1989/6763/constituicao_estadual_do_piaui_de_5_de_outubro_de_1989.pdf",
+  "bytes": 46829309,
+  "sha256_conteudo": "a664a7df44a278b3278a144c6e48dd4edba3d0d83a0d67f11ad0d34c6b57b599",
+  "sha256_arquivo_xz": "340bf9e6636e5f5afb48651484c8adaae662f267aa17a11ab3e7337540985218",
+  "capturado_em": "2026-11-04T21:28:58Z",
+  "status": "ok",
+  "arquivo": "provas/constituicoes-estaduais/PI/fontes/alepi-sapl-norma-6763-original.pdf.xz",
+  "content_type": "application/pdf",
+  "nota": "PDF original SAPL ~46MiB capturado com download retomável; edição publicada usa HTML ta/42."
+}
