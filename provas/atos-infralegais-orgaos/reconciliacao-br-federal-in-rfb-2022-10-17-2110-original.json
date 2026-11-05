@@ -1,0 +1,17 @@
+{
+  "id": "br-federal-in-rfb-2022-10-17-2110-original",
+  "fonte": "rfb-2110-original-json",
+  "sha256_fonte": "7a004a4963b1e2ccf8729c849c142ed80c23ef645a68650edefb6909de8bc6f2",
+  "sha256_markdown": "30e9ee6d7c9e603c1bf5294881855cd15b75bf4515995d28d2efc800686688d0",
+  "edicao_tipo": "original",
+  "visao_fonte": "original",
+  "cobertura_marcadores": {
+    "tem_titulo": true,
+    "tem_art_1": true,
+    "aviso_edicao": true,
+    "tem_tributacao_previdenciaria": true
+  },
+  "vigencia_certificada": false,
+  "notas": "Identidade e edição preservadas; sem certificação de vigência.",
+  "segmentos_fonte": 2156
+}

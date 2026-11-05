@@ -1,0 +1,202 @@
+{
+  "capturado_em": "2026-11-04T22:00:00Z",
+  "leitura": "Catálogos oficiais por órgão com parâmetros de paginação/período e estados de acesso. Lista vazia, shell JS ou HTTP de erro ≠ inexistência do ato. Amostra dos três lotes ≠ cobertura completa.",
+  "por_orgao": {
+    "anvisa": {
+      "especies": [
+        "rdc",
+        "in",
+        "portaria"
+      ],
+      "fontes_catalogo": [
+        {
+          "sistema": "BVS Saúde Legis — RDC 50 (ato)",
+          "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/rdc0050_21_02_2002.html",
+          "periodo_amostra": "2002",
+          "id_oficial": "rdc0050_21_02_2002",
+          "estado_acesso": "ok",
+          "http_status": 200,
+          "capturado_em": "2026-11-04T19:31:55Z",
+          "nota": "Íntegra do primeiro lote; índice anual BVS /anvisa/2002/ retornou HTTP 403 nesta rodada."
+        },
+        {
+          "sistema": "BVS índice anual ANVISA 2002",
+          "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/",
+          "periodo": "2002",
+          "paginacao": "índice por ano (sem API de página numérica nesta fonte)",
+          "estado_acesso": "http-403",
+          "http_status": 403,
+          "capturado_em": "2026-11-04T22:00:00Z",
+          "leitura": "403 no índice ≠ inexistência das RDCs do ano; ato individual da RDC 50 permanece acessível."
+        },
+        {
+          "sistema": "Portal ANVISA — Legislação",
+          "url": "https://www.gov.br/anvisa/pt-br/assuntos/regulamentacao/legislacao",
+          "estado_acesso": "ok-hub",
+          "http_status": 200,
+          "capturado_em": "2026-11-04T22:00:00Z",
+          "classificacao_hub": [
+            "atos normativos (RDC/IN/Portaria)",
+            "bibliotecas temáticas",
+            "consultas públicas / participação",
+            "ANVISAlegis (Atos Normativos vs Atos Históricos)"
+          ],
+          "nota": "Hub distingue atos normativos de consultas públicas; ANVISAlegis/datalegis retornou 403/404 nas URLs tentadas nesta captura."
+        }
+      ]
+    },
+    "rfb": {
+      "especies": [
+        "in"
+      ],
+      "fontes_catalogo": [
+        {
+          "sistema": "SIJUT2 API indexação",
+          "url": "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar",
+          "metodo": "POST",
+          "paginacao_parametros_tentados": [
+            {
+              "page": 0,
+              "size": 20
+            },
+            {
+              "pagina": 0,
+              "tamanhoPagina": 20
+            },
+            {
+              "paginaAtual": 1,
+              "itensPorPagina": 20,
+              "termo": "IN"
+            },
+            {
+              "termo": "2110",
+              "anoPublicacaoInicio": "2022",
+              "anoPublicacaoFim": "2022",
+              "page": 0,
+              "size": 20
+            },
+            {
+              "termo": "",
+              "dataPublicacaoInicio": "2022-01-01",
+              "dataPublicacaoFim": "2022-12-31",
+              "page": 0,
+              "size": 20
+            }
+          ],
+          "respostas_observadas": [
+            {
+              "termo": "IN",
+              "quantidadeTotal": 69052,
+              "atos_retornados": 0,
+              "estado": "total-com-lista-vazia"
+            },
+            {
+              "termo": "2110",
+              "periodo": "2022",
+              "quantidadeTotal": 50,
+              "atos_retornados": 0,
+              "estado": "total-com-lista-vazia"
+            },
+            {
+              "termo": "",
+              "quantidadeTotal": 21,
+              "atos_retornados": 0,
+              "estado": "total-com-lista-vazia"
+            }
+          ],
+          "ids_oficiais_preservados": [
+            {
+              "idAto": 126687,
+              "numero": "2110",
+              "data": "2022-10-17",
+              "orgao": "RFB",
+              "especie": "IN"
+            },
+            {
+              "idAto_modificador": 137160,
+              "rotulo": "IN RFB 2185/2024"
+            },
+            {
+              "idAto_modificador": 147671,
+              "rotulo": "IN RFB 2289/2025"
+            },
+            {
+              "idAto_modificador": 150565,
+              "rotulo": "IN RFB 2321/2026"
+            }
+          ],
+          "estado_acesso": "api-responde-totais-lista-vazia-nesta-captura",
+          "capturado_em": "2026-11-04T22:00:00Z",
+          "leitura": "quantidadeTotal/paginação presentes; array atos vazio nesta captura ≠ inexistência. idAto 126687 preservado via consulta-externa."
+        },
+        {
+          "sistema": "SIJUT2 API consulta-externa (visões)",
+          "url_padrao": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/{idAto}/visao/{visao}",
+          "idAto": 126687,
+          "visoes": {
+            "original": {
+              "url_path": "original",
+              "campo_visao_payload": "conjunta",
+              "nota": "O path /visao/original devolve JSON com visao=\"conjunta\".",
+              "n_segmentos": 2156,
+              "sha256_segmentos": "77802cc17ac62f4722cecb10ee28eb36784a938cd2f25ea5530075d184de7620"
+            },
+            "vigente": {
+              "url_path": "vigente",
+              "campo_visao_payload": "vigente",
+              "n_segmentos": 2156,
+              "sha256_segmentos": "2d16718c512dae492463f9c3324cf8e8cbad5f3395b108dac42da43734a22074"
+            },
+            "multivigente": {
+              "url_path": "multivigente",
+              "campo_visao_payload": "multivigente",
+              "n_segmentos": 2156,
+              "sha256_segmentos": "b5f862ef659b90f6ff25a404d2a9a60dfdc931e4562b252c2731ce708eaf3a32",
+              "publicado_como_markdown": false,
+              "prova": "provas/atos-infralegais-orgaos/fontes/rfb-2110-multivigente.json.xz"
+            }
+          },
+          "estado_acesso": "ok",
+          "capturado_em": "2026-11-04T21:30:00Z"
+        }
+      ]
+    },
+    "cmn-bcb": {
+      "especies": [
+        "resolucao-cmn"
+      ],
+      "fontes_catalogo": [
+        {
+          "sistema": "BCB Busca Normas",
+          "url": "https://www.bcb.gov.br/estabilidadefinanceira/buscanormas?numero=4966&tipoDocumento=Resolu%C3%A7%C3%A3o%20CMN",
+          "periodo_filtro": null,
+          "numero_pesquisado": "4966",
+          "tipoDocumento": "Resolução CMN",
+          "estado_acesso": "shell-javascript",
+          "http_status": 200,
+          "capturado_em": "2026-11-04T22:00:00Z",
+          "leitura": "Resultado da busca é SPA; número 4966 sozinho não é chave (pode haver Comunicado/Resolução BCB com mesmo número)."
+        },
+        {
+          "sistema": "BCB Exibe Normativo (consolidada)",
+          "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4966",
+          "estado_acesso": "shell-javascript",
+          "http_status": 200,
+          "capturado_em": "2026-11-04T21:30:00Z",
+          "edicao_esperada": "consolidada",
+          "leitura": "Consolidada BCB não recuperada (shell JS). Não equivale à edição original do DOU já publicada."
+        },
+        {
+          "sistema": "DOU Imprensa Nacional",
+          "url": "https://www.in.gov.br/web/dou/-/resolucao-cmn-n-4.966-de-25-de-novembro-de-2021-362755044",
+          "id_oficial_dou": "362755044",
+          "data_publicacao_dou": "2021-11-26",
+          "estado_acesso": "ok",
+          "http_status": 200,
+          "edicao": "original",
+          "capturado_em": "2026-11-04T21:30:00Z"
+        }
+      ]
+    }
+  }
+}
