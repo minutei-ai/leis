@@ -36,18 +36,43 @@
       "nota": "Delta inclui atos admitidos após o snapshot da errata e não prova cobertura do catálogo Senado nem ausência de candidatos sem arquivo."
     }
   ],
-  "blockers_concretos": [
+  "casos_colacionados": [
     {
       "id": "#102",
       "tema": "divergência cabeçalho 1.014-A vs identidade 4.014-A/1942",
-      "estado": "identidade-ambigua",
-      "acao": "colação oficial da origem da divergência; sem correção editorial silenciosa"
+      "estado": "variante-da-fonte-preservada; edicao-Camara-publicada",
+      "escopo": "4.014-A e lote delimitado dos três exemplos; demais candidatos não certificados",
+      "provas": [
+        "provas/identidade-federal-99-102-103/NOTA-DIVERGENCIA-4014-A.md",
+        "provas/identidade-federal-99-102-103/divergencias-cabecalho-lote.md"
+      ],
+      "pr": 111
     },
     {
       "id": "#103",
       "tema": "conteúdos reciprocamente trocados Leis 12.985 e 12.988/2014",
-      "estado": "publicado-nao-colacionado",
-      "acao": "corrigir associação texto/identidade com provas; presença do arquivo não certifica conteúdo"
+      "estado": "corpos-corrigidos; conversao-integral-recalculada",
+      "escopo": "somente as duas identidades; não certifica outras normas ou vigência",
+      "provas": [
+        "provas/identidade-federal-99-102-103/prova-conversao-12985-12988.json"
+      ],
+      "pr": 128
+    }
+  ],
+  "blockers_concretos": [
+    {
+      "id": "#96",
+      "tema": "demais lacunas e divergências de identidade dos decretos-leis",
+      "estado": "reconciliacao-incompleta",
+      "acao": "colação por identidade, complemento, data e série; não forçar título ao caminho"
+    },
+    {
+      "id": "#99",
+      "tema": "17 corpos MG ainda não recuperados e duplicatas com ressalvas",
+      "corpos_mg_pendentes": 17,
+      "inventario": "provas/identidade-federal-99-102-103/mg-orfaos-inventario.json",
+      "estado": "corpos-pendentes; notas-nao-equivalem-a-integra",
+      "acao": "recuperar fonte oficial e conferir corpo; preservar exclusões do denominador integral"
     },
     {
       "id": "#77",

@@ -217,7 +217,13 @@ class CoberturaNacionalTest(unittest.TestCase):
         leitura = next(x for x in recon['leituras'] if x['especie'] == 'decreto-lei')
         self.assertEqual(leitura['delta_arquivos_vs_errata'], leitura['publicados'] - 9647)
         ids = {b['id'] for b in recon['blockers_concretos']}
-        self.assertEqual(ids & {'#70', '#74', '#77', '#102', '#103'}, {'#70', '#74', '#77', '#102', '#103'})
+        self.assertTrue({'#70', '#74', '#77', '#96', '#99'} <= ids)
+        self.assertFalse(ids & {'#102', '#103'})
+        resolved = {b['id']: b for b in recon['casos_colacionados']}
+        self.assertEqual(set(resolved), {'#102', '#103'})
+        for case in resolved.values():
+            self.assertTrue(case['escopo'])
+            self.assertTrue(all((ROOT / p).is_file() for p in case['provas']))
 
     def test_verify_command(self):
         cn.cmd_verify()
