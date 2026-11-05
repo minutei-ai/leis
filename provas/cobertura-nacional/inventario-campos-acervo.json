@@ -7,140 +7,141 @@
     "frontmatter": "reutilizado-quando-ja-presente",
     "markdown_corpos": "nao-reescrevidos-em-massa"
   },
-  "total_edicoes": 232847,
+  "total_edicoes": 232848,
   "por_campo": {
     "norma_id": {
-      "conhecido": 232847
+      "conhecido": 232848
     },
     "edicao_id": {
-      "conhecido": 232847
+      "conhecido": 232848
     },
     "especie": {
-      "conhecido": 174021,
+      "conhecido": 174022,
       "desconhecido": 58826
     },
     "numero": {
-      "conhecido": 173316,
+      "conhecido": 173317,
       "desconhecido": 59381,
       "nao-aplicavel": 150
     },
     "complemento": {
-      "nao-aplicavel": 232410,
+      "nao-aplicavel": 232411,
       "conhecido": 437
     },
     "numero_estado": {
-      "conhecido": 173466,
+      "conhecido": 173467,
       "desconhecido": 59381
     },
     "provedor_id": {
-      "ausente": 179090,
+      "ausente": 179091,
       "conhecido": 53757
     },
     "provedor_token": {
-      "nao-aplicavel": 232697,
+      "nao-aplicavel": 232698,
       "conhecido": 150
     },
     "esfera": {
-      "conhecido": 232847
+      "conhecido": 232848
     },
     "uf": {
-      "nao-aplicavel": 100034,
+      "nao-aplicavel": 100035,
       "conhecido": 119964,
       "desconhecido": 12849
     },
     "ibge": {
-      "nao-aplicavel": 219998,
+      "nao-aplicavel": 219999,
       "conhecido": 12849
     },
     "orgao_emissor": {
-      "desconhecido": 231442,
-      "conhecido": 1405
+      "desconhecido": 231440,
+      "conhecido": 1408
     },
     "fonte_orgao": {
-      "conhecido": 2825,
+      "conhecido": 2826,
       "desconhecido": 230022
     },
     "poder": {
-      "desconhecido": 232847
+      "desconhecido": 232848
     },
     "ambito_aplicacao": {
-      "desconhecido": 232847
+      "desconhecido": 232848
     },
     "serie_historica": {
-      "conhecido": 605,
-      "desconhecido": 232242
+      "conhecido": 607,
+      "desconhecido": 232241
     },
     "senado_id": {
-      "conhecido": 1521,
-      "desconhecido": 231326
+      "conhecido": 1525,
+      "desconhecido": 231323
     },
     "urn": {
-      "conhecido": 1995,
+      "conhecido": 1996,
       "desconhecido": 230852
     },
     "relacoes": {
-      "desconhecido": 232847
+      "desconhecido": 232846,
+      "conhecido": 2
     },
     "titulo": {
-      "conhecido": 230815,
+      "conhecido": 230816,
       "desconhecido": 2032
     },
     "ementa": {
-      "desconhecido": 232847
+      "desconhecido": 232848
     },
     "data_ato": {
-      "conhecido": 173488,
+      "conhecido": 173489,
       "desconhecido": 59359
     },
     "edicao_tipo": {
-      "conhecido": 2889,
+      "conhecido": 2890,
       "desconhecido": 229958
     },
     "situacao": {
-      "desconhecido": 232845,
+      "desconhecido": 232846,
       "conhecido": 2
     },
     "representacao": {
-      "conhecido": 232847
+      "conhecido": 232848
     },
     "cobertura_transcricao": {
-      "conhecido": 232847
+      "conhecido": 232848
     },
     "vigencia_certificada": {
-      "conhecido": 232847
+      "conhecido": 232848
     },
     "fonte_url": {
-      "conhecido": 2825,
+      "conhecido": 2826,
       "desconhecido": 230022
     },
     "sha256_markdown": {
-      "conhecido": 232847
+      "conhecido": 232848
     },
     "fonte_do_campo": {
-      "conhecido": 232847
+      "conhecido": 232848
     },
     "estado_identidade": {
-      "conhecido": 232847
+      "conhecido": 232848
     }
   },
   "por_estado_identidade": {
-    "registrada-no-cabecalho": 3074,
-    "derivada-do-caminho-candidata": 171128,
+    "registrada-no-cabecalho": 3076,
+    "derivada-do-caminho-candidata": 171127,
     "candidata-nao-conferida": 4888,
     "provedor-id-nao-e-numero-legal": 53757
   },
   "por_armazenamento_metadados": {
-    "frontmatter": 3076,
-    "sidecar-export": 229771
+    "frontmatter": 3078,
+    "sidecar-export": 229770
   },
   "por_esfera": {
-    "federal": 100034,
+    "federal": 100035,
     "estadual": 119954,
     "distrital": 10,
     "municipal": 12849
   },
   "por_numero_estado": {
-    "informado": 173316,
+    "informado": 173317,
     "desconhecido": 59381,
     "sem-numero": 150
   },

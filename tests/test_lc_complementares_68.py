@@ -9,10 +9,14 @@ import sys
 import unittest
 from pathlib import Path
 
+from bs4 import BeautifulSoup
+
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / 'scripts'))
 sys.dont_write_bytecode = True
 import nucleo_licitacoes as nl  # noqa: E402
+import cobertura_nacional as cn  # noqa: E402
+import lc_complementares_68 as lc68  # noqa: E402
 
 PROVAS = ROOT / 'provas/lc-complementares-68'
 FONTES = json.loads((PROVAS / 'fontes.json').read_text(encoding='utf-8'))
@@ -134,6 +138,100 @@ class TestLcComplementares68(unittest.TestCase):
         rebuilt = nl.blocks_to_markdown(conv.blocks, r'^LEI COMPLEMENTAR')
         src = nl.strip_fold(nl.source_text_chars_from_html(raw, 'cp1252'))
         self.assertEqual(src, nl.strip_fold(nl.md_text_all(rebuilt)))
+
+    def test_lc1_1962_publicacao_original_retificacao_e_planalto_atual(self):
+        record = FONTES[IDS['1-1962']]
+        original = record['publicacao_original_camara']
+        correction = record['retificacao_camara']
+        data = record['dados_norma_camara']
+        for source in (original, correction, data):
+            stored = (ROOT / source['snapshot_html']).read_bytes()
+            raw = lzma.decompress(stored)
+            self.assertEqual(hashlib.sha256(raw).hexdigest(), source['sha256_fonte'])
+            self.assertEqual(hashlib.sha256(stored).hexdigest(), source['sha256_snapshot_html'])
+        self.assertIn('17/07/1962, p. 7597', original['publicacao_dou'])
+        self.assertIn('24/07/1962, p. 7837', correction['publicacao_dou'])
+        self.assertEqual(correction['fonte_url'], lc68.CAMARA_RETIFICACAO_URL)
+        self.assertEqual(data['fonte_url'], lc68.CAMARA_DADOS_URL)
+
+        original_text = lc68._source_text(lzma.decompress((ROOT / original['snapshot_html']).read_bytes()))
+        correction_text = lc68._source_text(lzma.decompress((ROOT / correction['snapshot_html']).read_bytes()))
+        self.assertIn('Faço saber que o Congresso Nacional decreta e eu sanciono', original_text)
+        self.assertIn('O Congresso Nacional decreta:', original_text)
+        self.assertIn('Na página 7.597, 1ª coluna, após a ementa, inclua-se:', correction_text)
+        self.assertIn('O Presidente da República - Em seguida ao preâmbulo, exclua-se:', correction_text)
+        self.assertIn('O congresso Nacional decreta:', correction_text)
+        data_text = BeautifulSoup(
+            lzma.decompress((ROOT / data['snapshot_html']).read_bytes()), 'lxml'
+        ).get_text(' ', strip=True)
+        self.assertIn('Origem: Poder Legislativo', data_text)
+        self.assertIn('Publicada no DO como Lei Complementar ao Ato Adicional.', data_text)
+
+        ret_path = ROOT / correction['edicao_markdown']
+        ret_meta, ret_body = nl.parse_frontmatter(ret_path.read_text(encoding='utf-8'))
+        base_meta, _ = nl.parse_frontmatter(
+            (ROOT / f'federal/{IDS["1-1962"]}.md').read_text(encoding='utf-8')
+        )
+        self.assertEqual(ret_meta['norma_id'], base_meta['norma_id'])
+        self.assertNotEqual(ret_meta['edicao_id'], base_meta['edicao_id'])
+        self.assertEqual(ret_meta['edicao_tipo'], 'retificacao')
+        self.assertEqual(ret_meta['sha256_markdown'], hashlib.sha256(ret_body.encode()).hexdigest())
+        _export_parser_meta, exporter_parser_body = cn.parse_frontmatter(ret_path.read_text(encoding='utf-8'))
+        self.assertEqual(exporter_parser_body, ret_body)
+        self.assertIn('Na página 7.597', ret_body)
+        self.assertIn('O Presidente da República', ret_body)
+        self.assertIn('O congresso Nacional decreta:', ret_body)
+        exported_ret = cn.export_document(correction['edicao_markdown'])
+        self.assertEqual(exported_ret['norma_id'], base_meta['norma_id'])
+        self.assertNotEqual(exported_ret['edicao_id'], base_meta['edicao_id'])
+        self.assertEqual(exported_ret['edicao_tipo'], 'retificacao')
+        self.assertEqual(exported_ret['orgao_emissor'], 'desconhecido')
+        self.assertEqual(exported_ret['fonte_orgao'], 'Câmara dos Deputados — Legislação Informatizada')
+        _export_meta, export_body = cn.parse_frontmatter(ret_path.read_text(encoding='utf-8'))
+        self.assertEqual(exported_ret['markdown_integral'], export_body)
+        self.assertEqual(exported_ret['sha256_markdown'], ret_meta['sha256_markdown'])
+
+        planalto_raw = lzma.decompress((ROOT / record['snapshot_html']).read_bytes())
+        planalto_text = re.sub(r'\s+', ' ', BeautifulSoup(planalto_raw, 'lxml').get_text(' ', strip=True))
+        self.assertIn('O Presidente da República Faço saber que o Congresso Nacional decreta', planalto_text)
+        self.assertNotIn('O congresso Nacional decreta:', planalto_text)
+
+    def test_lc_emissor_serie_proveniencia_e_export_filters(self):
+        exports = {
+            key: cn.export_document(f'federal/{slug}.md')
+            for key, slug in IDS.items()
+        }
+        for key in ('115', '147', '1-1962'):
+            doc = exports[key]
+            self.assertEqual(doc['orgao_emissor'], 'Congresso Nacional')
+            self.assertNotEqual(doc['orgao_emissor'], doc['fonte_orgao'])
+            self.assertIn('Congresso Nacional decreta', doc['fonte_do_campo']['orgao_emissor'])
+            self.assertIn('eu sanciono', doc['fonte_do_campo']['orgao_emissor'])
+        self.assertEqual(exports['115']['fonte_orgao'], 'Senado Federal — normas.leg.br')
+        self.assertEqual(exports['147']['fonte_orgao'], 'Presidência da República — Planalto')
+        self.assertEqual(exports['1-1962']['serie_historica'], 'lei-complementar-ao-ato-adicional')
+        self.assertEqual(exports['115']['serie_historica'], 'desconhecido')
+        self.assertEqual(exports['147']['serie_historica'], 'desconhecido')
+        self.assertEqual(exports['1-1967']['serie_historica'], 'desconhecido')
+        self.assertEqual(exports['1-1967']['orgao_emissor'], 'desconhecido')
+        self.assertEqual(exports['115']['edicao_tipo'], 'original')
+        self.assertIn('https://www2.camara.leg.br/legin/fed/leicom/1960-1969/leicomplementar-1-17-julho-1962-541564-norma-pl.html', exports['1-1962']['fonte_do_campo']['serie_historica'])
+        self.assertIn('desconhecido-explicito', exports['1-1967']['fonte_do_campo']['serie_historica'])
+        self.assertIn('sha256=', exports['1-1962']['fonte_do_campo']['relacoes'])
+
+        matching = cn.apply_bm25_filters(
+            [exports['1-1962'], exports['1-1967']],
+            {
+                'serie_historica': 'lei-complementar-ao-ato-adicional',
+                'numero': '1',
+                'data_ato': '1962-07-17',
+            },
+        )
+        self.assertEqual(matching, [exports['1-1962']])
+        relation = exports['1-1962']['relacoes'][0]
+        self.assertEqual(relation['tipo'], 'retificacao')
+        self.assertEqual(relation['escopo_cobertura'], 'parcial')
+        self.assertIn('24/07/1962', relation['dispositivo'])
 
     def test_reconciliacao_catalogo_completa_por_identidade(self):
         cat = RECON['catalogo_senado_lista']

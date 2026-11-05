@@ -82,6 +82,7 @@ CASOS_IDENTIDADE = [
                 'complemento': None,
                 'data_ato': {'valor': '1962', 'precisao': 'ano', 'estado': 'parcial'},
                 'arquivo': 'federal/br-federal-lei-complementar-1962-07-17-1.md',
+                'serie_historica': {'valor': 'lei-complementar-ao-ato-adicional', 'estado': 'informado'},
                 'estado_arquivo': 'publicado',
             },
             {
@@ -90,6 +91,7 @@ CASOS_IDENTIDADE = [
                 'complemento': None,
                 'data_ato': {'valor': '1967-11-09', 'precisao': 'dia', 'estado': 'informado'},
                 'arquivo': 'federal/br-federal-lei-complementar-1967-11-09-1.md',
+                'serie_historica': {'valor': 'desconhecido', 'estado': 'desconhecido'},
                 'estado_arquivo': 'publicado',
             },
         ],
@@ -170,7 +172,12 @@ def parse_frontmatter(text: str) -> tuple[dict[str, Any] | None, str]:
             meta[key] = json.loads(raw)
         except json.JSONDecodeError:
             meta[key] = raw
-    return meta, text[m.end() :]
+    body = text[m.end() :]
+    if body.startswith('\n'):
+        # Exclude the blank separator line after frontmatter, matching the
+        # owner parser and the sha256_markdown semantics used in Markdown files.
+        body = body[1:]
+    return meta, body
 
 
 ACERVO_COMMENT = re.compile(r'<!--\s*metadados-acervo\s*\n(.*?)\n\s*-->', re.S)
@@ -1981,6 +1988,19 @@ def verify_bm25_filters_integrated(out_dir: Path | None = None) -> dict[str, Any
             'must_exclude_norma_id_substring': '1962',
         },
         {
+            'id': 'lc1-1962-serie-data-distintas-da-lc1-1967',
+            'filters': {
+                'esfera': 'federal',
+                'especie': 'lei-complementar',
+                'serie_historica': 'lei-complementar-ao-ato-adicional',
+                'numero': '1',
+                'data_ato': '1962-07-17',
+            },
+            'expect_min': 1,
+            'must_include_arquivo': 'federal/br-federal-lei-complementar-1962-07-17-1.md',
+            'must_exclude_arquivo': 'federal/br-federal-lei-complementar-1967-11-09-1.md',
+        },
+        {
             'id': 'acre-opaco-provedor-nao-e-numero',
             'filters': {
                 'esfera': 'estadual',
@@ -2032,6 +2052,8 @@ def verify_bm25_filters_integrated(out_dir: Path | None = None) -> dict[str, Any
             'federal/br-federal-decreto-1823-01-09-seq-sf-1.md',
             'federal/br-federal-resolucao-congresso-nacional-1983-10-20-1.md',
             'federal/br-federal-resolucao-senado-federal-2019-11-01-29.md',
+            'federal/br-federal-lei-complementar-1962-07-17-1.md',
+            'federal/br-federal-lei-complementar-1967-11-09-1.md',
         }
     )
     docs_by_arquivo = {}
@@ -2076,6 +2098,10 @@ def verify_bm25_filters_integrated(out_dir: Path | None = None) -> dict[str, Any
             if exclude:
                 entry['must_exclude_ok'] = not any(exclude in rel for rel in arquivos)
                 entry['ok'] = entry['ok'] and entry['must_exclude_ok']
+            exclude_file = case.get('must_exclude_arquivo')
+            if exclude_file:
+                entry['must_exclude_file_ok'] = exclude_file not in arquivos
+                entry['ok'] = entry['ok'] and entry['must_exclude_file_ok']
             if must in docs_by_arquivo:
                 doc = docs_by_arquivo[must]
                 meta, body, body_hash = markdown_body_hash(ROOT / must)
