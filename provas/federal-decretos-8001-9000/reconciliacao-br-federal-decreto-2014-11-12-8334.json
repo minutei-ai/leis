@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-12-8334",
+  "fonte_principal": "camara-D8334",
+  "sha256_fonte_principal": "660e3b0e3731c841b5a8415373b2f5a3819aadc302ffdfc4684f77607c431e7a",
+  "sha256_conteudo": "660e3b0e3731c841b5a8415373b2f5a3819aadc302ffdfc4684f77607c431e7a",
+  "capturado_em": "2026-11-04T20:18:09Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8334-12-novembro-2014-779532-publicacaooriginal-145328-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8334.htm.xz",
+  "sha256_snapshot_armazenado": "d4e40a8da771b411702a1555aa3491ad1a7d48b6c64a508ee53140ce484cb5cf",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 73,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-12-8334",
+    "numero": "8334",
+    "data": "2014-11-12",
+    "titulo_fonte": "DECRETO Nº 8334, DE 12 DE NOVEMBRO DE 2014",
+    "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO CULTURAL E EDUCACIONAL ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPUBLICA FEDERAL DA NIGERIA, FIRMADO EM BRASILIA, EM 8 DE NOVEMBRO DE 2000.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589145"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

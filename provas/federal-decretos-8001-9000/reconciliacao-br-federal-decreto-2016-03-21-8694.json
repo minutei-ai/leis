@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-03-21-8694",
+  "fonte_principal": "camara-D8694",
+  "sha256_fonte_principal": "1e4a381bcfad158d373ec00950b0798528a12939878b3c6b60b6474a316bc309",
+  "sha256_conteudo": "1e4a381bcfad158d373ec00950b0798528a12939878b3c6b60b6474a316bc309",
+  "capturado_em": "2026-11-04T20:26:22Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8694-21-marco-2016-782603-publicacaooriginal-149790-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8694.htm.xz",
+  "sha256_snapshot_armazenado": "9deb34be97e104c0cb9860d6a1390fc73dfa11efcd8168beaeb24c6791701b3e",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 10,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-03-21-8694",
+    "numero": "8694",
+    "data": "2016-03-21",
+    "titulo_fonte": "DECRETO Nº 8694, DE 21 DE MARÇO DE 2016",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DOS ESTADOS UNIDOS DA AMÉRICA RELATIVO A MEDIDAS DE SEGURANÇA PARA A PROTEÇÃO DE INFORMAÇÕES MILITARES SIGILOSAS, FIRMADO EM SANTA CRUZ, BOLÍVIA, EM 21 DE NOVEMBRO DE 2010, E A EMENDA, FIRMADA EM BRASÍLIA, EM 9 DE JUNHO DE 2015.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414525"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

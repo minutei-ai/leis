@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-12-18-8609",
+  "fonte_principal": "camara-D8609",
+  "sha256_fonte_principal": "b133a33862dd97709da63d3cafc0bb2f5ec1df3acd9d84e49457ad459e033dcc",
+  "sha256_conteudo": "b133a33862dd97709da63d3cafc0bb2f5ec1df3acd9d84e49457ad459e033dcc",
+  "capturado_em": "2026-11-04T20:24:50Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8609-18-dezembro-2015-782141-publicacaooriginal-149016-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8609.htm.xz",
+  "sha256_snapshot_armazenado": "de1cc4f8ebabdb4ba181d652b52096ae6de53b67f6b8297c417aac9935ee19c7",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 78,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-12-18-8609",
+    "numero": "8609",
+    "data": "2015-12-18",
+    "titulo_fonte": "DECRETO Nº 8609, DE 18 DE DEZEMBRO DE 2015",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DOS ESTADOS UNIDOS DA AMÉRICA SOBRE COOPERAÇÃO EM MATÉRIA DE DEFESA, FIRMADO EM WASHINGTON, EM 12 DE ABRIL DE 2010.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414349"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

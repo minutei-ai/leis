@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-03-28-8216",
+  "fonte_principal": "camara-D8216",
+  "sha256_fonte_principal": "6ade8a52d07c638bb7cb232e319e32490acb85f4e456100ed4c768c94bf4ea25",
+  "sha256_conteudo": "6ade8a52d07c638bb7cb232e319e32490acb85f4e456100ed4c768c94bf4ea25",
+  "capturado_em": "2026-11-04T20:15:36Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8216-28-marco-2014-778330-publicacaooriginal-143671-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8216.htm.xz",
+  "sha256_snapshot_armazenado": "13decdd3a912eddf823bb6ad87d9f9aae586375a2dac8bee7f361a26010a9163",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-03-28-8216",
+    "numero": "8216",
+    "data": "2014-03-28",
+    "titulo_fonte": "DECRETO Nº 8216, DE 28 DE MARÇO DE 2014",
+    "ementa": "ALTERA OS ANEXOS VII, VIII E X AO DECRETO  8.197, DE 20 DE FEVEREIRO DE 2014, QUE DISPÕE SOBRE A PROGRAMAÇÃO ORÇAMENTARIA E FINANCEIRA, E ESTABELECE O CRONOGRAMA MENSAL DE DESEMBOLSO DO PODER EXECUTIVO PARA O EXERCICIO DE 2014.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413670"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

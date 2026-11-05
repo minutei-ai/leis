@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-09-23-8309",
+  "fonte_principal": "camara-D8309",
+  "sha256_fonte_principal": "1c59873bfcb054ffb4a3bea2654aa22a4c7590473ab9861192ced0f0662d7e7f",
+  "sha256_conteudo": "1c59873bfcb054ffb4a3bea2654aa22a4c7590473ab9861192ced0f0662d7e7f",
+  "capturado_em": "2026-11-04T20:17:14Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8309-23-setembro-2014-779361-publicacaooriginal-145025-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8309.htm.xz",
+  "sha256_snapshot_armazenado": "5ad64529910304b11d8fd76ea18b8206833d5ca2b4b4198542272aadc66275b1",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 47,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-09-23-8309",
+    "numero": "8309",
+    "data": "2014-09-23",
+    "titulo_fonte": "DECRETO Nº 8309, DE 23 DE SETEMBRO DE 2014",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O CONSELHO  FEDERAL SUIÇO SOBRE O EXERCICIO DE  ATIVIDADES REMUNERADAS POR PARTE DE FAMILIARES  DOS MEMBROS DE MISSÕES DIPLOMATICAS, REPARTIÇÕES CONSULARES E MISSÕES  PERMANENTES, FIRMADO EM BRASILIA, EM 15 DE JUNHO DE 2009.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589045"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

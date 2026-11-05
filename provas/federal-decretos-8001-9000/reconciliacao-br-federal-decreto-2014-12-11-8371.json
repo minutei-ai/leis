@@ -1,0 +1,53 @@
+{
+  "documento": "br-federal-decreto-2014-12-11-8371",
+  "fonte_principal": "planalto-D8371",
+  "sha256_fonte_principal": "2a2b642b47d8c28c68892e165f42c958558679d0cc693be8cc80926db967732e",
+  "sha256_conteudo": "da54bf407026d25bbba7610fe4732ded7aa9ae939439fbf4f76974359a223bcc",
+  "capturado_em": "2026-11-04T20:43:39Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/D8371.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/planalto-D8371.htm.xz",
+  "sha256_snapshot_armazenado": "f6ae82215f22fceb4081c389e4d766afee6e2957853333fe1bf8472f7b67680e",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 91,
+    "links": 4,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 91,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-12-11-8371",
+    "numero": "8371",
+    "data": "2014-12-11",
+    "titulo_fonte": "DECRETO Nº 8371, DE 11 DE DEZEMBRO DE 2014",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITORIO NACIONAL, DA RESOLUÇÃO 2153 (2014), DE 29 DE ABRIL DE 2014, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE ALTERA E RENOVA O REGIME DE SANÇÕES APLICAVEIS A COSTA DO  MARFIM ATE 30 DE ABRIL DE 2015.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413945"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "documento": "br-federal-decreto-2016-05-11-8767",
+  "fonte_principal": "planalto-D8767",
+  "sha256_fonte_principal": "cc8929eea6fedd1e3023c45a7ae438491334b10b37244e0dfdcd618cada89c1c",
+  "sha256_conteudo": "9808fe4872df4f523d1046382a9ff8997ed249c85d2bc35a258ef74b725c4037",
+  "capturado_em": "2026-11-04T20:43:57Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8767.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/planalto-D8767.htm.xz",
+  "sha256_snapshot_armazenado": "ffe0a190194cd3f1349491c6bfcb2bb68f8c824955c446e0ecaa0876c63ef7e0",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 259,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-05-11-8767",
+    "numero": "8767",
+    "data": "2016-05-11",
+    "titulo_fonte": "DECRETO Nº 8767, DE 11 DE MAIO DE 2016",
+    "ementa": "PROMULGA A CONVENÇÃO INTERNACIONAL PARA A PROTEÇÃO DE TODAS AS PESSOAS CONTRA O DESAPARECIMENTO FORÇADO, FIRMADA PELA REPÚBLICA FEDERATIVA DO BRASIL EM 6 DE FEVEREIRO DE 2007.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414648"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2013-08-01-8063",
+  "fonte_principal": "camara-D8063",
+  "sha256_fonte_principal": "706f7aee9fd96487f8fee6e1d15acca487c23cb3ffdeb09e81dd468d9e887d7c",
+  "sha256_conteudo": "706f7aee9fd96487f8fee6e1d15acca487c23cb3ffdeb09e81dd468d9e887d7c",
+  "capturado_em": "2026-11-04T20:14:12Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8063-1-agosto-2013-776668-publicacaooriginal-140652-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8063.htm.xz",
+  "sha256_snapshot_armazenado": "a4dfa79e8578d97abd7ff3f3dc5f1b8089b5c4cc5dcc1686c814a604c5f9f11f",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 41,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "21"
+    ],
+    "ultimos_artigos": [
+      "21"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-08-01-8063",
+    "numero": "8063",
+    "data": "2013-08-01",
+    "titulo_fonte": "DECRETO Nº 8063, DE 1 DE AGOSTO DE 2013",
+    "ementa": "CRIA A EMPRESA PUBLICA DENOMINADA EMPRESA BRASILEIRA DE ADMINISTRAÇÃO DE PETROLEO  E GAS NATURAL S.A. - PRE-SAL PETROLEO  S.A. - PPSA, APROVA O SEU ESTATUTO SOCIAL, E DA OUTRAS PROVIDENCIAS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413394"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

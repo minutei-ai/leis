@@ -1,0 +1,52 @@
+{
+  "documento": "br-federal-decreto-2014-05-23-8248",
+  "fonte_principal": "camara-D8248",
+  "sha256_fonte_principal": "5a519497d909bbd3c6bc9997d5f796bd4f336b6d9201f7287582f9ef054e5f41",
+  "sha256_conteudo": "5a519497d909bbd3c6bc9997d5f796bd4f336b6d9201f7287582f9ef054e5f41",
+  "capturado_em": "2026-11-04T20:16:01Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8248-23-maio-2014-778789-publicacaooriginal-144191-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8248.htm.xz",
+  "sha256_snapshot_armazenado": "a8c04e4d2308197abfea88185f10faab205b62b310095463faacf4d44c8a0ed1",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 17,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "2",
+      "7"
+    ],
+    "ultimos_artigos": [
+      "2",
+      "7"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-05-23-8248",
+    "numero": "8248",
+    "data": "2014-05-23",
+    "titulo_fonte": "DECRETO Nº 8248, DE 23 DE MAIO DE 2014",
+    "ementa": "ALTERA O DECRETO  6.812, DE 3 DE ABRIL DE 2009, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRARIA - INCRA, E REMANEJA CARGOS EM COMISSÃO.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "592056"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

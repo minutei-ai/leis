@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2012-07-30-12699",
+  "fonte_principal": "planalto-L12699-2012-07-30",
+  "sha256_fonte_principal": "9f0886a96db334b8254ca713370657745698291ac03a0b481f0a4603a672488c",
+  "sha256_conteudo": "5d0cd436d493e005f6e5f7bd1bc26d9980ac3a8aaf8e8b755ea3221b3085642a",
+  "capturado_em": "2026-11-04T20:50:42Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12699.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12699-2012-07-30.htm.xz",
+  "sha256_snapshot_armazenado": "79d736c5d6dc05c3508a4cc6c605d1d78c55f5280494cb6331d3440f151e6054",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 17,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 13,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2012-07-30-12699",
+    "numero": "12699",
+    "data": "2012-07-30",
+    "titulo_fonte": "LEI Nº 12699, DE 30 DE JULHO DE 2012",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 1.355.000.000,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589622"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

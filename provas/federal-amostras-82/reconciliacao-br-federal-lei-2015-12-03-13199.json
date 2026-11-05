@@ -1,0 +1,81 @@
+{
+  "documento": "br-federal-lei-2015-12-03-13199",
+  "fonte_principal": "planalto-L13199-2015-12-03",
+  "sha256_fonte_principal": "681dd672168897aa747d0aa1a3a607c0d1ed3ad9f83345767f1fc3560d8b64c0",
+  "sha256_conteudo": "3b13c86a6b738795cd40bda387a86dda91e74fc4f94e86161b8d4e57da1436d5",
+  "capturado_em": "2026-11-04T20:52:53Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13199.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13199-2015-12-03.htm.xz",
+  "sha256_snapshot_armazenado": "a86d289382f7af16e25003b7512c8b04957ad702e43d1b0e18225b5788e0091b",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 13,
+    "tabelas_markdown": 2,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 5,
+        "colunas_max": 4,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 6,
+        "colunas_max": 4,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 29,
+        "colunas_max": 7,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 56,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2015-12-03-13199",
+    "numero": "13199",
+    "data": "2015-12-03",
+    "titulo_fonte": "LEI Nº 13199, DE 3 DE DEZEMBRO DE 2015",
+    "ementa": "Altera os dispositivos que menciona da Lei nº 13.080, de 2 de janeiro de 2015, que dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2015.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585011"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

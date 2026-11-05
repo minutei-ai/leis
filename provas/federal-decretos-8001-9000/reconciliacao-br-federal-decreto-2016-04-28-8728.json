@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-04-28-8728",
+  "fonte_principal": "camara-D8728",
+  "sha256_fonte_principal": "fe02fe7d988cae5cf8d39cde43ab47a4f217db9d2388b7334a5e4d78c1f7e827",
+  "sha256_conteudo": "fe02fe7d988cae5cf8d39cde43ab47a4f217db9d2388b7334a5e4d78c1f7e827",
+  "capturado_em": "2026-11-04T20:28:04Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8728-28-abril-2016-782952-publicacaooriginal-150198-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8728.htm.xz",
+  "sha256_snapshot_armazenado": "3e46cfbb067e2df6d459ac07d8af6231e106197e30359311f67df0ac1d5f25b3",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-04-28-8728",
+    "numero": "8728",
+    "data": "2016-04-28",
+    "titulo_fonte": "DECRETO Nº 8728, DE 28 DE ABRIL DE 2016",
+    "ementa": "ALTERA O PROGRAMA DE DISPÊNDIOS GLOBAIS - PDG PARA 2016 DAS EMPRESAS ESTATAIS FEDERAIS, APROVADO PELO DECRETO Nº 8.632, DE 30 DE DEZEMBRO DE 2015, E DÁ OUTRAS PROVIDÊNCIAS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590339"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

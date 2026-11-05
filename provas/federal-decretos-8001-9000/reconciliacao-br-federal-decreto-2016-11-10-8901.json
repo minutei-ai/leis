@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-11-10-8901",
+  "fonte_principal": "camara-D8901",
+  "sha256_fonte_principal": "5d60a1c43720a1f655f67b18bb381e66eff5b6ddeaa41206bbfd76834cdb672e",
+  "sha256_conteudo": "5d60a1c43720a1f655f67b18bb381e66eff5b6ddeaa41206bbfd76834cdb672e",
+  "capturado_em": "2026-11-04T20:33:50Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8901-10-novembro-2016-783905-publicacaooriginal-151388-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8901.htm.xz",
+  "sha256_snapshot_armazenado": "12bcd7926605200f3626e2a3ac3d8114fd75adb41eea299d66dd572d58f2a353",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 29,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-11-10-8901",
+    "numero": "8901",
+    "data": "2016-11-10",
+    "titulo_fonte": "DECRETO Nº 8901, DE 10 DE NOVEMBRO DE 2016",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DA SAÚDE, REMANEJA CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "604109"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

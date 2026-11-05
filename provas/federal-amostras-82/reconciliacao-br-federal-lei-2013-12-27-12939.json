@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2013-12-27-12939",
+  "fonte_principal": "planalto-L12939-2013-12-27",
+  "sha256_fonte_principal": "425f7cf3ceda77ec1b8a628fc0e4e038fb34ff3031f6c1a9c9808841dae64156",
+  "sha256_conteudo": "ba530a175ed36b10d65c9fdbab48253f4294cb8aeb80155b0bf4ede864fbaa18",
+  "capturado_em": "2026-11-04T20:51:44Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12939.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12939-2013-12-27.htm.xz",
+  "sha256_snapshot_armazenado": "955fdf5f1ae5c0ffc2380cb1a11556a5985aad0be69e52682e85a6c0857bc275",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 44,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 15,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-12-27-12939",
+    "numero": "12939",
+    "data": "2013-12-27",
+    "titulo_fonte": "LEI Nº 12939, DE 27 DE DEZEMBRO DE 2013",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito suplementar no valor de R$ 17.200.000,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591387"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

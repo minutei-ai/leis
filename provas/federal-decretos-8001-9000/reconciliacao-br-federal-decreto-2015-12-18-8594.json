@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2015-12-18-8594",
+  "fonte_principal": "camara-D8594",
+  "sha256_fonte_principal": "4e55aa07d545360c3fc656b8fd5264d36f46aa7623338669c133aa53639144ba",
+  "sha256_conteudo": "4e55aa07d545360c3fc656b8fd5264d36f46aa7623338669c133aa53639144ba",
+  "capturado_em": "2026-11-04T20:24:32Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8594-18-dezembro-2015-782126-publicacaooriginal-148993-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8594.htm.xz",
+  "sha256_snapshot_armazenado": "64aceac3d6e35c0f5ebe8a3639c7f24037e0422e657ff6cc8a17e60981d9980b",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 8,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "2"
+    ],
+    "ultimos_artigos": [
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-12-18-8594",
+    "numero": "8594",
+    "data": "2015-12-18",
+    "titulo_fonte": "DECRETO Nº 8594, DE 18 DE DEZEMBRO DE 2015",
+    "ementa": "ALTERA O DECRETO Nº 71.733, DE 18 DE JANEIRO DE 1973, QUE REGULAMENTA A LEI Nº 5.809, DE 10 DE OUTUBRO DE 1972, QUE DISPÕE SOBRE RETRIBUIÇÃO E DIREITOS DO PESSOAL CIVIL E MILITAR EM SERVIÇO DA UNIÃO NO EXTERIOR.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414291"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

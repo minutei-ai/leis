@@ -1,0 +1,63 @@
+{
+  "documento": "br-federal-lei-2024-08-02-14950",
+  "fonte_principal": "planalto-L14950",
+  "sha256_fonte_principal": "0ed91f35111c2522f21d6af85b12ca5507c1bb62dfdcd126fe0d656dbdc07dc5",
+  "sha256_conteudo": "056e8a5eeb54fcb6411a9a68ec312258ff4797635c2cab89b166c8ec1752d4fc",
+  "capturado_em": "2026-11-04T19:15:08Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14950.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L14950.htm.xz",
+  "sha256_snapshot_armazenado": "f685dcba3b06ca726c8c9c5c26192105a60ae8784927fd93c3eeeb10d32e096b",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 4,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/LEIS/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 14,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2024-08-02-14950",
+    "numero": "14950",
+    "data": "2024-08-02",
+    "titulo_fonte": "LEI Nº 14950, DE 2 DE AGOSTO DE 2024",
+    "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre o direito da criança e do adolescente de visitação à mãe ou ao pai internados em instituição de saúde",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "39410175"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

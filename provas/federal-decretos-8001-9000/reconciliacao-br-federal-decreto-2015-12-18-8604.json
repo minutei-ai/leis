@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-12-18-8604",
+  "fonte_principal": "camara-D8604",
+  "sha256_fonte_principal": "1c4c28ac2464090d670dc54cb8beb9a403242cfa1773628a806546def5219669",
+  "sha256_conteudo": "1c4c28ac2464090d670dc54cb8beb9a403242cfa1773628a806546def5219669",
+  "capturado_em": "2026-11-04T20:24:42Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8604-18-dezembro-2015-782136-publicacaooriginal-149007-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8604.htm.xz",
+  "sha256_snapshot_armazenado": "3ef83d1c7ed563586cf1c2c2ab1994d4f36042b7d0418d14a78669890b24f0c0",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 308,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-12-18-8604",
+    "numero": "8604",
+    "data": "2015-12-18",
+    "titulo_fonte": "DECRETO Nº 8604, DE 18 DE DEZEMBRO DE 2015",
+    "ementa": "PROMULGA O ACORDO SOBRE PRIVILÉGIOS E IMUNIDADES DO TRIBUNAL PENAL INTERNACIONAL, FIRMADO DURANTE A PRIMEIRA ASSEMBLEIA DE ESTADOS PARTES NO ESTATUTO DE ROMA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414330"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

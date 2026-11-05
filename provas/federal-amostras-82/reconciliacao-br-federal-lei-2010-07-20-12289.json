@@ -1,0 +1,78 @@
+{
+  "documento": "br-federal-lei-2010-07-20-12289",
+  "fonte_principal": "planalto-L12289-2010-07-20",
+  "sha256_fonte_principal": "ec11528ac1ee722808f0c87dc7c27e2b856b6e40e0f4dc953a055adbebeb0e0f",
+  "sha256_conteudo": "c0f3811ff69374972342ae1cb1668759d788b38c4c99a42d0ce11e26634771a1",
+  "capturado_em": "2026-11-04T20:49:13Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/L12289.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12289-2010-07-20.htm.xz",
+  "sha256_snapshot_armazenado": "969c08eeb9cc034434b9e05d7b62807aa74526834f8e245f46ab291590a47544",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 10,
+    "tabelas_markdown": 2,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "desconhecido",
+        "largura": "76",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/Decreto/Image4.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 24,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 8,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 57,
+    "artigos": 15,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "11",
+      "12",
+      "13",
+      "14",
+      "15"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2010-07-20-12289",
+    "numero": "12289",
+    "data": "2010-07-20",
+    "titulo_fonte": "LEI Nº 12289, DE 20 DE JULHO DE 2010",
+    "ementa": "Dispõe sobre a criação da Universidade da Integração Internacional da Lusofonia Afro-Brasileira - UNILAB e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "575931"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

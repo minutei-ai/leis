@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-02-24-8411",
+  "fonte_principal": "camara-D8411",
+  "sha256_fonte_principal": "4f8e90216854c8f37790c4446bf72a3942d824e392d32b01340167eeb8fb759b",
+  "sha256_conteudo": "4f8e90216854c8f37790c4446bf72a3942d824e392d32b01340167eeb8fb759b",
+  "capturado_em": "2026-11-04T20:21:35Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8411-24-fevereiro-2015-780160-publicacaooriginal-146160-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8411.htm.xz",
+  "sha256_snapshot_armazenado": "8070fb4221829d01a582f3f6180c147d02e69c0aa4696a1caeaa74bb259513be",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-02-24-8411",
+    "numero": "8411",
+    "data": "2015-02-24",
+    "titulo_fonte": "DECRETO Nº 8411, DE 24 DE FEVEREIRO DE 2015",
+    "ementa": "DISPÕE SOBRE A EXTINÇÃO DO CONSULADO DO BRASIL EM PUERTO SUAREZ E A CRIAÇÃO DO CONSULADO DO BRASIL EM PUERTO QUIJARRO, NO ESTADO PLURINACIONAL DA BOLÍVIA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593849"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

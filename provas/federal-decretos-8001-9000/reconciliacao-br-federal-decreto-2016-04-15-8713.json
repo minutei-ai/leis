@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-04-15-8713",
+  "fonte_principal": "camara-D8713",
+  "sha256_fonte_principal": "3ba7a3121eba79748de95fa27360e78d92ba2972162b624c40f30f1fe8d92cc3",
+  "sha256_conteudo": "3ba7a3121eba79748de95fa27360e78d92ba2972162b624c40f30f1fe8d92cc3",
+  "capturado_em": "2026-11-04T20:27:18Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8713-15-abril-2016-782902-publicacaooriginal-150113-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8713.htm.xz",
+  "sha256_snapshot_armazenado": "658df26bfad9e9fbdeed0ebedf59d5ec9890620ef0f382cc6741aa06d65eaf88",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 22,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-04-15-8713",
+    "numero": "8713",
+    "data": "2016-04-15",
+    "titulo_fonte": "DECRETO Nº 8713, DE 15 DE ABRIL DE 2016",
+    "ementa": "REGULAMENTA A LEI Nº 10.304, DE 5 DE NOVEMBRO DE 2001, NO QUE SE REFERE À TRANSFERÊNCIA AO DOMÍNIO DO ESTADO DO AMAPÁ DE TERRAS PERTENCENTES À UNIÃO.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590278"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

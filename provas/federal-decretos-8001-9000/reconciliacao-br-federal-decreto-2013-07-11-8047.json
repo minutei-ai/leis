@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2013-07-11-8047",
+  "fonte_principal": "camara-D8047",
+  "sha256_fonte_principal": "6cb31129064cfae1bae0e11069fffd5067884f0054d750531124362ca51e67be",
+  "sha256_conteudo": "6cb31129064cfae1bae0e11069fffd5067884f0054d750531124362ca51e67be",
+  "capturado_em": "2026-11-04T20:14:05Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8047-11-julho-2013-776499-publicacaooriginal-140432-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8047.htm.xz",
+  "sha256_snapshot_armazenado": "541089e4c55e070ffba2f4e2f3595dbf96c05f755a03eb61f77b206b8a42d75c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 235,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-07-11-8047",
+    "numero": "8047",
+    "data": "2013-07-11",
+    "titulo_fonte": "DECRETO Nº 8047, DE 11 DE JULHO DE 2013",
+    "ementa": "PROMULGA O TRATADO DE ASSISTENCIA JURIDICA MUTUA EM MATERIA PENAL ENTRE O GOVERNO  DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO  DO REINO UNIDO DA GRÃ-BRETANHA E  IRLANDA DO NORTE, FIRMADO EM LONDRES, EM 7 DE ABRIL DE 2005.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413330"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

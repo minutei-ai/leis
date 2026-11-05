@@ -1,0 +1,28 @@
+{
+  "gerado_em": "2026-11-04T20:56:12Z",
+  "issue": 81,
+  "fonte_catalogo": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=DEC&ano=AAAA",
+  "anos": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017
+  ],
+  "criterio_identidade": "especie+numero/complemento+data",
+  "totais": {
+    "identidades_catalogo": 1000,
+    "presentes_local": 1000,
+    "ausentes_local": 0,
+    "inteiros_faixa_sem_identidade_catalogo": 0,
+    "arquivos_locais_faixa": 1000
+  },
+  "inteiros_sem_identidade_catalogo": [],
+  "ausentes": [],
+  "limites": [
+    "Ausência de arquivo canônico não prova inexistência fora do catálogo capturado.",
+    "Falha de transporte na coleta não implica inexistência da norma.",
+    "DEC-sn (não numerados) ficam fora do denominador da faixa 8001–9000.",
+    "Presença de arquivo não certifica íntegra/atualização nem vigência."
+  ]
+}

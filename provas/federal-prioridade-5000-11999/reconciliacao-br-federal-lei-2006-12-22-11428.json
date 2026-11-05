@@ -1,0 +1,63 @@
+{
+  "documento": "br-federal-lei-2006-12-22-11428",
+  "fonte_principal": "planalto-L11428",
+  "sha256_fonte_principal": "46ad32da0a6628e47f6a53dd69b2e01d7e7fa29da59b7b9c8d42d820d7ffffb2",
+  "sha256_conteudo": "7e109ba790dfeeb6d6d857671b92e95a33c10a07e9936db922c8ed9fa2a39905",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11428.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L11428.htm.xz",
+  "sha256_snapshot_armazenado": "a9c4360e0291dd9b00c63f49c9b6e11090f1d4a6b2a61e12dd73d0bdee9f2c27",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 23691,
+    "caracteres_normalizados_markdown": 23691,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 3,
+    "links": 36,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 210,
+    "artigos": 51,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "47",
+      "48",
+      "49",
+      "50",
+      "51"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2006-12-22-11428",
+    "numero": "11428",
+    "data": "2006-12-22",
+    "titulo_fonte": "LEI Nº 11428, DE 22 DE DEZEMBRO DE 2006",
+    "ementa": "Dispõe sobre a utilização e proteção da vegetação nativa do Bioma Mata Atlântica, e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "572580"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

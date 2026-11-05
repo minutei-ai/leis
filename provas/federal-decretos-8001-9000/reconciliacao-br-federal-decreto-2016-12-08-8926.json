@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-12-08-8926",
+  "fonte_principal": "camara-D8926",
+  "sha256_fonte_principal": "e0389b423bd97805824dade4209354e1be89af1e5f9d2edcb6ae3b8b8c2ea1ce",
+  "sha256_conteudo": "e0389b423bd97805824dade4209354e1be89af1e5f9d2edcb6ae3b8b8c2ea1ce",
+  "capturado_em": "2026-11-04T20:34:41Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8926-8-dezembro-2016-784003-publicacaooriginal-151511-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8926.htm.xz",
+  "sha256_snapshot_armazenado": "690bb050181a6ddc1931218cd88c7ad99a710e3c43f531a87f7ef8a05e908847",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-12-08-8926",
+    "numero": "8926",
+    "data": "2016-12-08",
+    "titulo_fonte": "DECRETO Nº 8926, DE 8 DE DEZEMBRO DE 2016",
+    "ementa": "DISCRIMINA AÇÕES DO PROGRAMA DE ACELERAÇÃO DO CRESCIMENTO - PAC A SEREM EXECUTADAS POR MEIO DE TRANSFERÊNCIA OBRIGATÓRIA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414928"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2013-07-11-8050",
+  "fonte_principal": "camara-D8050",
+  "sha256_fonte_principal": "ed7549f5f0f9cf1e97e87fe64432e37eef4da2a0c1b4400f8bb2c2a7ddf659d3",
+  "sha256_conteudo": "ed7549f5f0f9cf1e97e87fe64432e37eef4da2a0c1b4400f8bb2c2a7ddf659d3",
+  "capturado_em": "2026-11-04T20:14:10Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8050-11-julho-2013-776495-publicacaooriginal-140426-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8050.htm.xz",
+  "sha256_snapshot_armazenado": "ccd3aa9cb1d02d54675e7354e00bd61a456b66fbd784bdfaf41543a5d8a84357",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 74,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-07-11-8050",
+    "numero": "8050",
+    "data": "2013-07-11",
+    "titulo_fonte": "DECRETO Nº 8050, DE 11 DE JULHO DE 2013",
+    "ementa": "PROMULGA O TRATADO SOBRE TRANSFERENCIA DE PESSOAS CONDENADAS OU SUJEITAS A REGIMES  ESPECIAIS, ENTRE A REPUBLICA FEDERATIVA DO BRASIL E A REPUBLICA DO PANAMA, FIRMADO NA CIDADE DO PANAMA, EM 10 DE AGOSTO DE 2007.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413342"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

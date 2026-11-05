@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-09-24-8318",
+  "fonte_principal": "camara-D8318",
+  "sha256_fonte_principal": "d1c971a9ca553a54fa6250202a70f3ca7d62273e8231203ce4b5bd835cb066bb",
+  "sha256_conteudo": "d1c971a9ca553a54fa6250202a70f3ca7d62273e8231203ce4b5bd835cb066bb",
+  "capturado_em": "2026-11-04T20:17:41Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8318-24-setembro-2014-779380-publicacaooriginal-145049-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8318.htm.xz",
+  "sha256_snapshot_armazenado": "46aded44692a6eab57a1031ce12b8c39f7a127d99e2c3219f8fad17b77455454",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 60,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-09-24-8318",
+    "numero": "8318",
+    "data": "2014-09-24",
+    "titulo_fonte": "DECRETO Nº 8318, DE 24 DE SETEMBRO DE 2014",
+    "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO CULTURAL ENTRE O GOVERNO DA REPUBLICA FEDERATIVA  DO BRASIL E O GABINETE DE MINISTROS DA  UCRANIA, FIRMADO EM KIEV, EM 2 DE DEZEMBRO DE 2009.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589081"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

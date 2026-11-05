@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2015-12-22-13212",
+  "fonte_principal": "planalto-L13212-2015-12-22",
+  "sha256_fonte_principal": "1d4ea398b962740a385e5a696784ab128e86022908ded9e2ebcb3ceee6cea9e9",
+  "sha256_conteudo": "d780f650ab756716e4c6d341e6a589244c29d8f4a007d584988cd3218430f363",
+  "capturado_em": "2026-11-04T20:53:08Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13212.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13212-2015-12-22.htm.xz",
+  "sha256_snapshot_armazenado": "3119f6d95fea34aea9e1916014ab99d3002054c22fa1c430a7982f731465ca58",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 31,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 12,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2015-12-22-13212",
+    "numero": "13212",
+    "data": "2015-12-22",
+    "titulo_fonte": "LEI Nº 13212, DE 22 DE DEZEMBRO DE 2015",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Justiça, crédito suplementar no valor de R$ 1.900.000,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585024"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

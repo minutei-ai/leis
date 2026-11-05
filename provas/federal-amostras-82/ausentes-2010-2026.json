@@ -1,0 +1,139 @@
+{
+  "gerado_em": "2026-11-04T20:56:10Z",
+  "criterio_identidade": "especie+numero/complemento+data",
+  "total": 12,
+  "itens": [
+    {
+      "especie": "LEI-n",
+      "numero": "12237",
+      "complemento": "",
+      "data": "2010-05-19",
+      "senado_id": "575879",
+      "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito especial no valor de R$ 1.000.000,00, para o fim que especifica.",
+      "normaNome": "Lei nº 12.237 de 19/05/2010",
+      "ano_catalogo": 2010,
+      "metadados_versao": "04/11/2026 09:15:03"
+    },
+    {
+      "especie": "LEI-n",
+      "numero": "12239",
+      "complemento": "",
+      "data": "2010-05-19",
+      "senado_id": "575881",
+      "ementa": "Abre crédito extraordinário, em favor da Presidência da República, dos Ministérios da Agricultura, Pecuária e Abastecimento, das Relações Exteriores, da Saúde, da Defesa, da Integração Nacional e das Cidades e de Transferências a Estados, Distrito Federal e Municípios, no valor global de R$ 1.374.057.000,00, para os fins que especifica.",
+      "normaNome": "Lei nº 12.239 de 19/05/2010",
+      "ano_catalogo": 2010,
+      "metadados_versao": "04/11/2026 09:15:03"
+    },
+    {
+      "especie": "LEI-n",
+      "numero": "12240",
+      "complemento": "",
+      "data": "2010-05-20",
+      "senado_id": "575882",
+      "ementa": "Abre crédito extraordinário, em favor de diversos órgãos e entidades do Poder Executivo, no valor global de R$ 18.191.723.573,00 (dezoito bilhões, cento e noventa e um milhões, setecentos e vinte e três mil, quinhentos e setenta e três reais), e reduz o Orçamento de Investimento de diversas empresas no valor global de R$ 5.736.743.280,00 (cinco bilhões, setecentos e trinta e seis milhões, sete - centos e quarenta e três mil, duzentos e oitenta reais), para os fins que especifica.",
+      "normaNome": "Lei nº 12.240 de 20/05/2010",
+      "ano_catalogo": 2010,
+      "metadados_versao": "04/11/2026 09:15:03"
+    },
+    {
+      "especie": "LEI-n",
+      "numero": "12241",
+      "complemento": "",
+      "data": "2010-05-24",
+      "senado_id": "575883",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Agricultura, Pecuária e Abastecimento, crédito suplementar no valor de R$ 90.000.000,00, para reforço de dotação constante da Lei Orçamentária vigente.",
+      "normaNome": "Lei nº 12.241 de 24/05/2010",
+      "ano_catalogo": 2010,
+      "metadados_versao": "04/11/2026 09:15:03"
+    },
+    {
+      "especie": "LEI-n",
+      "numero": "12242",
+      "complemento": "",
+      "data": "2010-05-24",
+      "senado_id": "575884",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Ciência e Tecnologia, crédito suplementar no valor de R$ 24.300.000,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+      "normaNome": "Lei nº 12.242 de 24/05/2010",
+      "ano_catalogo": 2010,
+      "metadados_versao": "04/11/2026 09:15:03"
+    },
+    {
+      "especie": "LEI-n",
+      "numero": "12342",
+      "complemento": "",
+      "data": "2010-12-01",
+      "senado_id": "585339",
+      "ementa": "Altera a Lei nº 11.358, de 19 de outubro de 2006, no tocante ao subsídio dos Policiais Rodoviários Federais.",
+      "normaNome": "Lei nº 12.342 de 01/12/2010",
+      "ano_catalogo": 2010,
+      "metadados_versao": "04/11/2026 09:15:03"
+    },
+    {
+      "especie": "LEI-n",
+      "numero": "12372",
+      "complemento": "",
+      "data": "2010-12-30",
+      "senado_id": "585369",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios de Minas e Energia, dos Transportes e das Comunicações, crédito suplementar no valor global de R$ 143.889.904,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+      "normaNome": "Lei nº 12.372 de 30/12/2010",
+      "ano_catalogo": 2010,
+      "metadados_versao": "04/11/2026 09:15:03"
+    },
+    {
+      "especie": "LEI-n",
+      "numero": "12373",
+      "complemento": "",
+      "data": "2010-12-30",
+      "senado_id": "585370",
+      "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Justiça e da Defesa, crédito suplementar no valor global de R$ 648.222.696,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+      "normaNome": "Lei nº 12.373 de 30/12/2010",
+      "ano_catalogo": 2010,
+      "metadados_versao": "04/11/2026 09:15:03"
+    },
+    {
+      "especie": "LEI-n",
+      "numero": "12913",
+      "complemento": "",
+      "data": "2013-12-18",
+      "senado_id": "591361",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e da Defesa, crédito suplementar no valor de R$ 404.152.417,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+      "normaNome": "Lei nº 12.913 de 18/12/2013",
+      "ano_catalogo": 2013,
+      "metadados_versao": "04/11/2026 09:15:06"
+    },
+    {
+      "especie": "LEI-n",
+      "numero": "12915",
+      "complemento": "",
+      "data": "2013-12-18",
+      "senado_id": "591363",
+      "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho, do Ministério Público da União, do Ministério das Relações Exteriores e das Secretarias de Assuntos Estratégicos, de Portos e da Micro e Pequena Empresa, crédito suplementar no valor de R$ 182.208.690,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+      "normaNome": "Lei nº 12.915 de 18/12/2013",
+      "ano_catalogo": 2013,
+      "metadados_versao": "04/11/2026 09:15:06"
+    },
+    {
+      "especie": "LEI-n",
+      "numero": "13408",
+      "complemento": "",
+      "data": "2016-12-26",
+      "senado_id": "602632",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2017 e dá outras providências.",
+      "normaNome": "Lei nº 13.408 de 26/12/2016",
+      "ano_catalogo": 2016,
+      "metadados_versao": "04/11/2026 09:15:09"
+    },
+    {
+      "especie": "LEI-n",
+      "numero": "13473",
+      "complemento": "",
+      "data": "2017-08-08",
+      "senado_id": "17745360",
+      "ementa": "Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2018 e dá outras providências.",
+      "normaNome": "Lei nº 13.473 de 08/08/2017",
+      "ano_catalogo": 2017,
+      "metadados_versao": "04/11/2026 09:15:10"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-05-30-8781",
+  "fonte_principal": "camara-D8781",
+  "sha256_fonte_principal": "20711b6d9b33ac33711550487c1cf94da57fef3f19798ad12aeba65f5cc5c540",
+  "sha256_conteudo": "20711b6d9b33ac33711550487c1cf94da57fef3f19798ad12aeba65f5cc5c540",
+  "capturado_em": "2026-11-04T20:29:27Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8781-30-maio-2016-783155-publicacaooriginal-150443-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8781.htm.xz",
+  "sha256_snapshot_armazenado": "e7dfbf88940d3dba8973a32b7711ec63eb26f56c9d813bf1cc483c7718465d7d",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 15,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-05-30-8781",
+    "numero": "8781",
+    "data": "2016-05-30",
+    "titulo_fonte": "DECRETO Nº 8781, DE 30 DE MAIO DE 2016",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2280 (2016), DE 7 DE ABRIL DE 2016, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE RENOVA O REGIME DE SANÇÕES APLICÁVEIS AO SUDÃO DO SUL.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414701"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

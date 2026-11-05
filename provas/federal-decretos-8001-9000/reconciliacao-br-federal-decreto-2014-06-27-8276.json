@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-06-27-8276",
+  "fonte_principal": "camara-D8276",
+  "sha256_fonte_principal": "9e9d9ba8650e3577052576671084ac73d74c279a1ff8e6d60304ae129ea539a4",
+  "sha256_conteudo": "9e9d9ba8650e3577052576671084ac73d74c279a1ff8e6d60304ae129ea539a4",
+  "capturado_em": "2026-11-04T20:16:17Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8276-27-junho-2014-778979-publicacaooriginal-144480-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8276.htm.xz",
+  "sha256_snapshot_armazenado": "b1237c840f65d0d026813fc37c4ad9173b0a798de6e8e0a66a85b840b6672661",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 23,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-06-27-8276",
+    "numero": "8276",
+    "data": "2014-06-27",
+    "titulo_fonte": "DECRETO Nº 8276, DE 27 DE JUNHO DE 2014",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E  DAS FUNÇÕES GRATIFICADAS DA SUPERINTENDENCIA  DE DESENVOLVIMENTO DO NORDESTE - SUDENE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413740"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

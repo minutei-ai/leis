@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2017-01-16-8960",
+  "fonte_principal": "camara-D8960",
+  "sha256_fonte_principal": "0c444958908661865c763667caebf68cf0ee2d20bfdce928a13547507290fe14",
+  "sha256_conteudo": "0c444958908661865c763667caebf68cf0ee2d20bfdce928a13547507290fe14",
+  "capturado_em": "2026-11-04T20:44:23Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8960-16-janeiro-2017-784177-publicacaooriginal-151821-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8960.htm.xz",
+  "sha256_snapshot_armazenado": "8b10a86294ec1deeaeb03b57a0543620eb77c13d0916ae05b558e0aa1d3d5f74",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 58,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2017-01-16-8960",
+    "numero": "8960",
+    "data": "2017-01-16",
+    "titulo_fonte": "DECRETO Nº 8960, DE 16 DE JANEIRO DE 2017",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA FRANCESA PARA O ESTABELECIMENTO DE REGIME ESPECIAL TRANSFRONTEIRIÇO DE BENS DE SUBSISTÊNCIA ENTRE AS LOCALIDADES DE OIAPOQUE (BRASIL) E ST. GEORGES DE L´OYAPOCK (FRANÇA), FIRMADO EM BRASÍLIA, EM 30 DE JULHO DE 2014.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "603266"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

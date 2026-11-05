@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-09-28-8531",
+  "fonte_principal": "camara-D8531",
+  "sha256_fonte_principal": "a2aff3864a82665c7aee5562a38329b6c2883b724cdbd0a4e006e2b6a0bd8105",
+  "sha256_conteudo": "a2aff3864a82665c7aee5562a38329b6c2883b724cdbd0a4e006e2b6a0bd8105",
+  "capturado_em": "2026-11-04T20:23:11Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8531-28-setembro-2015-781644-publicacaooriginal-148283-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8531.htm.xz",
+  "sha256_snapshot_armazenado": "0276ac172133ead114a0d9dc8ea2432851411896b8c792bb5adb025a981e0dda",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 124,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-09-28-8531",
+    "numero": "8531",
+    "data": "2015-09-28",
+    "titulo_fonte": "DECRETO Nº 8531, DE 28 DE SETEMBRO DE 2015",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2127 (2013), DE 5 DE DEZEMBRO DE 2013, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE, ENTRE OUTRAS DISPOSIÇÕES, ESTABELECE EMBARGO DE ARMAS À REPÚBLICA CENTRO-AFRICANA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414207"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

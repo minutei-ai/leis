@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2013-08-02-8064",
+  "fonte_principal": "camara-D8064",
+  "sha256_fonte_principal": "83d1c168e50f4f12ca14f40d97a1cbbaad0cfbb6eaba33b007ebfbb06e92cba5",
+  "sha256_conteudo": "83d1c168e50f4f12ca14f40d97a1cbbaad0cfbb6eaba33b007ebfbb06e92cba5",
+  "capturado_em": "2026-11-04T20:14:13Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8064-2-agosto-2013-776716-publicacaooriginal-140693-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8064.htm.xz",
+  "sha256_snapshot_armazenado": "dbcea49e5e1a2555ab49ad8d130f755348b5e92a954d7d97627d5582e1b5562b",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-08-02-8064",
+    "numero": "8064",
+    "data": "2013-08-02",
+    "titulo_fonte": "DECRETO Nº 8064, DE 2 DE AGOSTO DE 2013",
+    "ementa": "DISPÕE SOBRE A ANTECIPAÇÃO DO ABONO ANUAL DEVIDO AOS SEGURADOS E DEPENDENTES DA PREVIDENCIA SOCIAL, NO ANO DE 2013.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413398"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2014-12-30-13078",
+  "fonte_principal": "planalto-L13078-2014-12-30",
+  "sha256_fonte_principal": "5bfd4df1a013cebb3e5c547b81be896b805c4533bd30bed66b833d6fced36647",
+  "sha256_conteudo": "5ede7e6b97dc627d4d03eb7cf2d8fdeb50f91f9bcdb25a9644a6ecc2a45b87ac",
+  "capturado_em": "2026-11-04T20:52:35Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13078.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13078-2014-12-30.htm.xz",
+  "sha256_snapshot_armazenado": "59d8c32f025a92e02a7645a805f93afa117ff68bde3a37c1aa67461eeb5ff3d7",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 143,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 18,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-12-30-13078",
+    "numero": "13078",
+    "data": "2014-12-30",
+    "titulo_fonte": "LEI Nº 13078, DE 30 DE DEZEMBRO DE 2014",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e da Defesa, crédito suplementar no valor R$ 489.256.916,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584890"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

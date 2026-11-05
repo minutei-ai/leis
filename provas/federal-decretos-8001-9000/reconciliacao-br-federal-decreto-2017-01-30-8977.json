@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2017-01-30-8977",
+  "fonte_principal": "camara-D8977",
+  "sha256_fonte_principal": "af1478362096ecfebc0ba599e469a1dc94b404b548a72d9c879e8a8364f115ed",
+  "sha256_conteudo": "af1478362096ecfebc0ba599e469a1dc94b404b548a72d9c879e8a8364f115ed",
+  "capturado_em": "2026-11-04T20:37:05Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8977-30-janeiro-2017-784210-publicacaooriginal-151867-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8977.htm.xz",
+  "sha256_snapshot_armazenado": "afc3e887aaa4688b1a3b7d9201cf96709a5473ecca393ce691318fb6e4b67bf2",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2017-01-30-8977",
+    "numero": "8977",
+    "data": "2017-01-30",
+    "titulo_fonte": "DECRETO Nº 8977, DE 30 DE JANEIRO DE 2017",
+    "ementa": "APROVA O ESTATUTO E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DA COORDENAÇÃO DE APERFEIÇOAMENTO DE PESSOAL DE NÍVEL SUPERIOR - CAPES E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "603334"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2013-09-17-8108",
+  "fonte_principal": "camara-D8108",
+  "sha256_fonte_principal": "261648739d181440a580971e2b5209cd7d40f5065b1b3d54ca5b9cd10e84336d",
+  "sha256_conteudo": "261648739d181440a580971e2b5209cd7d40f5065b1b3d54ca5b9cd10e84336d",
+  "capturado_em": "2026-11-04T20:14:22Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8108-17-setembro-2013-777068-publicacaooriginal-141153-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8108.htm.xz",
+  "sha256_snapshot_armazenado": "59147d03323043319cec97cc329dfd6bd9a8f3002c4fafd0440379ff8b4d629d",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 24,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "2"
+    ],
+    "ultimos_artigos": [
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-09-17-8108",
+    "numero": "8108",
+    "data": "2013-09-17",
+    "titulo_fonte": "DECRETO Nº 8108, DE 17 DE SETEMBRO DE 2013",
+    "ementa": "ALTERA O ANEXO II AO DECRETO Nº 5.135, DE 7 DE JULHO DE 2004, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA CASA CIVIL DA PRESIDÊNCIA DA REPUBLICA, E REMANEJA CARGOS EM COMISSÃO.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593191"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

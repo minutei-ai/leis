@@ -1,0 +1,52 @@
+{
+  "documento": "br-federal-decreto-2015-04-29-8442",
+  "fonte_principal": "camara-D8442",
+  "sha256_fonte_principal": "211659bab3bbad6f92fb59f56e6e72cdf1727356507e22f2838339957c51b2ab",
+  "sha256_conteudo": "211659bab3bbad6f92fb59f56e6e72cdf1727356507e22f2838339957c51b2ab",
+  "capturado_em": "2026-11-04T20:22:01Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8442-29-abril-2015-780648-publicacaooriginal-146772-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8442.htm.xz",
+  "sha256_snapshot_armazenado": "6217663cc81f4205bc54195b5f3b38fde7aff347a2f09e8cc0ab4f74d74025ad",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 11,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "34",
+      "35"
+    ],
+    "ultimos_artigos": [
+      "34",
+      "35"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-04-29-8442",
+    "numero": "8442",
+    "data": "2015-04-29",
+    "titulo_fonte": "DECRETO Nº 8442, DE 29 DE ABRIL DE 2015",
+    "ementa": "REGULAMENTA OS ART. 14 A ART. 36 DA LEI Nº 13.097, DE 19 DE JANEIRO DE 2015, QUE TRATAM DA INCIDÊNCIA DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI, DA CONTRIBUIÇÃO PARA O PIS/PASEP E DA CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS, NO MERCADO INTERNO E NA IMPORTAÇÃO, SOBRE PRODUTOS DOS CAPÍTULOS 21 E 22 DA TABELA DE INCIDÊNCIA DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - TIPI.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414034"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

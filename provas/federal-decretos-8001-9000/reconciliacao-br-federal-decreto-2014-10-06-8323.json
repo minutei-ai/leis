@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-10-06-8323",
+  "fonte_principal": "camara-D8323",
+  "sha256_fonte_principal": "0ad1a2ae062eed0bbe6a81ac9b933574386a53209999ef9bcd757b47116f18c5",
+  "sha256_conteudo": "0ad1a2ae062eed0bbe6a81ac9b933574386a53209999ef9bcd757b47116f18c5",
+  "capturado_em": "2026-11-04T20:17:47Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8323-6-outubro-2014-779410-publicacaooriginal-145116-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8323.htm.xz",
+  "sha256_snapshot_armazenado": "84ddee4d90c1eb97911a4a1ff0a8c675299ec0decbe1046205128a270dffc2e9",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 16,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-10-06-8323",
+    "numero": "8323",
+    "data": "2014-10-06",
+    "titulo_fonte": "DECRETO Nº 8323, DE 6 DE OUTUBRO DE 2014",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO VIGESIMO SETIMO PROTOCOLO ADICIONAL AO ACORDO DE  COMPLEMENTAÇÃO ECONOMICA  36 (27PAACE36), FIRMADO ENTRE A REPUBLICA FEDERATIVA  DO BRASIL, A REPUBLICA ARGENTINA, A REPUBLICA DO PARAGUAI E A REPUBLICA ORIENTAL  DO URUGUAI, ESTADOS PARTES DO MERCOSUL, E O ESTADO PLURINACIONAL DA BOLIVIA, DE 16 DE AGOSTO DE 2011.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589101"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

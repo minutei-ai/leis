@@ -1,0 +1,88 @@
+{
+  "documento": "br-federal-lei-1997-08-06-9478",
+  "fonte_principal": "planalto-L9478",
+  "sha256_fonte_principal": "7307d357d701598e53ed2c941a4d1af048089c61dbeecd92a035b71533e9ee0e",
+  "sha256_conteudo": "6157094d73990bf9cc1fe6edba955ac3e97fa0dd9085226b1b1360d059508b9c",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L9478.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9478.htm.xz",
+  "sha256_snapshot_armazenado": "63f1bd84c3e27bc0e2c700b98ef742a708a16f56b45d97aa037551a04eeb2149",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 129816,
+    "caracteres_normalizados_markdown": 129816,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 539,
+    "links": 618,
+    "tabelas_markdown": 3,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 9,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 8,
+        "colunas_max": 9,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 9,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 789,
+    "artigos": 110,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "2-A",
+      "2-B",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "81-A",
+      "81-B",
+      "81-C",
+      "82",
+      "83"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1997-08-06-9478",
+    "numero": "9478",
+    "data": "1997-08-06",
+    "titulo_fonte": "LEI Nº 9478, DE 6 DE AGOSTO DE 1997",
+    "ementa": "Dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional do Petróleo ",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "551354"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

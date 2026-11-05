@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-01-28-8650",
+  "fonte_principal": "camara-D8650",
+  "sha256_fonte_principal": "a069893ee6cbefc0d57bd38790b7ff683e836b9a68bfe8a90b9c5b71c5a89c96",
+  "sha256_conteudo": "a069893ee6cbefc0d57bd38790b7ff683e836b9a68bfe8a90b9c5b71c5a89c96",
+  "capturado_em": "2026-11-04T20:25:06Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8650-28-janeiro-2016-782297-publicacaooriginal-149307-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8650.htm.xz",
+  "sha256_snapshot_armazenado": "9de3843a9bc29635184da6445a75e8bdf3e5ae7bcaa13e8af24f870900a47cb0",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-01-28-8650",
+    "numero": "8650",
+    "data": "2016-01-28",
+    "titulo_fonte": "DECRETO Nº 8650, DE 28 DE JANEIRO DE 2016",
+    "ementa": "DISTRIBUI O EFETIVO DE OFICIAIS DA MARINHA EM TEMPO DE PAZ PARA 2016.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584695"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

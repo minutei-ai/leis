@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2013-10-24-12872",
+  "fonte_principal": "planalto-L12872-2013-10-24",
+  "sha256_fonte_principal": "ddbb306a838e29b647201994a575b7a1891df17fdbab2e63378bbaf7c92c8b4f",
+  "sha256_conteudo": "8f2b5ce83009197f59383c21207061c90d4965c7449aa4ee7aca820813fc4e1b",
+  "capturado_em": "2026-11-04T20:50:55Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12872.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12872-2013-10-24.htm.xz",
+  "sha256_snapshot_armazenado": "bdedc427fe903545b940abca468b1f6530d547063168403c29b9f6bf48ada565",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 55,
+    "tabelas_markdown": 2,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 6,
+        "colunas_max": 3,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 6,
+        "colunas_max": 3,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 148,
+    "artigos": 22,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "18",
+      "19",
+      "20",
+      "21",
+      "22"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-10-24-12872",
+    "numero": "12872",
+    "data": "2013-10-24",
+    "titulo_fonte": "LEI Nº 12872, DE 24 DE OUTUBRO DE 2013",
+    "ementa": "Altera a Lei nº 10.552, de 13 de novembro de 2002, para dispor sobre a concessão de garantia da União a entidades controladas indiretamente pelos entes da Federação; autoriza o aumento do capital social da VALEC - Engenharia, Construções e Ferrovias S.A.; autoriza a União a renegociar condições financeiras e contratuais das operações de crédito com o Banco Nacional de Desenvolvimento Econômico e Social - BNDES que menciona; altera o cálculo da receita líquida real dos Municípios, para adequação à Lei nº 10.257, de 10 de julho de 2001; autoriza a União a conceder crédito ao BNDES, no montante de até R$ 15.000.000.000,00 (quinze bilhões de reais), em condições financeiras e contratuais que permitam o seu enquadramento como instrumento híbrido de capital e dívida ou elemento patrimonial que venha a substituí-lo na formação do patrimônio de referência; promove ações de cooperação energética com países da América Latina; cria o Quadro Especial de Terceiros-Sargentos e Segundos-Sargentos do Exército, integrante do Quadro de Pessoal Militar do Exército; altera a Medida Provisória nº 2.196-3, de 24 de agosto de 2001, as Leis nºs 4.117, de 27 de agosto de 1962, 11.345, de 14 de setembro de 2006, 12.844, de 19 de julho de 2013, e 12.249, de 11 de junho de 2010; revoga a Lei nº 10.951, de 22 de setembro de 2004, e dispositivos das Leis nºs 12.844, de 19 de julho de 2013, e 12.761, de 27 de dezembro de 2012; e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591320"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

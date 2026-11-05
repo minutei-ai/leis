@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1995-09-26-9099",
+  "fonte_principal": "planalto-L9099",
+  "sha256_fonte_principal": "703748346a61f67f42ee48c64aaf8c530d2e9f678bdb048a9ce62485a8c53fdd",
+  "sha256_conteudo": "2aaa58cb77a9f0d244500babf8216a871ec31a872a9d1d0e36459a74bdd5478c",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L9099.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9099.htm.xz",
+  "sha256_snapshot_armazenado": "1c4b77394d0ba9da8cbfc859ab65b7b4f33556c181c25a2cd24932d53a2eabeb",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 33145,
+    "caracteres_normalizados_markdown": 33145,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 13,
+    "links": 42,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 319,
+    "artigos": 99,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "93",
+      "94",
+      "95",
+      "96",
+      "97"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1995-09-26-9099",
+    "numero": "9099",
+    "data": "1995-09-26",
+    "titulo_fonte": "LEI Nº 9099, DE 26 DE SETEMBRO DE 1995",
+    "ementa": "Dispõe sobre os Juizados Especiais Cíveis e Criminais e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": null
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

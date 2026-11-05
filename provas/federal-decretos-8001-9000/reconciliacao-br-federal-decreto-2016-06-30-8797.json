@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-06-30-8797",
+  "fonte_principal": "camara-D8797",
+  "sha256_fonte_principal": "7931c517373ccd9eb05d05dcb415c19222fc878f9aabdee0646f42e7e670ef90",
+  "sha256_conteudo": "7931c517373ccd9eb05d05dcb415c19222fc878f9aabdee0646f42e7e670ef90",
+  "capturado_em": "2026-11-04T20:29:59Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8797-30-junho-2016-783295-publicacaooriginal-150687-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8797.htm.xz",
+  "sha256_snapshot_armazenado": "2b15422b3a571ab7b1df8a7775dd03b52482135e8bd501d65c0a7723f2bf1422",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 27,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-06-30-8797",
+    "numero": "8797",
+    "data": "2016-06-30",
+    "titulo_fonte": "DECRETO Nº 8797, DE 30 DE JUNHO DE 2016",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO QUADRAGÉSIMO SEGUNDO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 14 (42PAACE14), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ARGENTINA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "592209"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

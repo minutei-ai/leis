@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-08-04-8833",
+  "fonte_principal": "camara-D8833",
+  "sha256_fonte_principal": "a775d9a8f48ac83baa34a0e9df1de0f572c931a1e0459076646f3d8b5f5d802c",
+  "sha256_conteudo": "a775d9a8f48ac83baa34a0e9df1de0f572c931a1e0459076646f3d8b5f5d802c",
+  "capturado_em": "2026-11-04T20:31:32Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8833-4-agosto-2016-783483-publicacaooriginal-150935-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8833.htm.xz",
+  "sha256_snapshot_armazenado": "6a5aaec87bc7a16ddcb8ab9cad7efb6cca6232e72a14e290589157ed7c4c91cc",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 132,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-08-04-8833",
+    "numero": "8833",
+    "data": "2016-08-04",
+    "titulo_fonte": "DECRETO Nº 8833, DE 4 DE AGOSTO DE 2016",
+    "ementa": "PROMULGA A CONVENÇÃO DE AUXÍLIO JUDICIÁRIO EM MATÉRIA PENAL ENTRE OS ESTADOS MEMBROS DA COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA, FIRMADA PELA REPÚBLICA FEDERATIVA DO BRASIL, EM CIDADE DA PRAIA, EM 23 DE NOVEMBRO DE 2005.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414735"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

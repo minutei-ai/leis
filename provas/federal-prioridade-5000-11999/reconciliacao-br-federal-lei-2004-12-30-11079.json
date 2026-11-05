@@ -1,0 +1,63 @@
+{
+  "documento": "br-federal-lei-2004-12-30-11079",
+  "fonte_principal": "planalto-L11079",
+  "sha256_fonte_principal": "f9ef8370387427da1338292a8da80cd35b1fc68f79451673c5bd0055dd6a50cd",
+  "sha256_conteudo": "b7f8760019f5b63207fab27e4de98b5bc8d797dbe7256b5aeca73aa4a2c00065",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L11079.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L11079.htm.xz",
+  "sha256_snapshot_armazenado": "2a2d826d419f5a2e267f8f041189641f9fd18e19e3e7b06bfe2ed5ccdf287015",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 42350,
+    "caracteres_normalizados_markdown": 42350,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 56,
+    "links": 159,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 273,
+    "artigos": 32,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2004-12-30-11079",
+    "numero": "11079",
+    "data": "2004-12-30",
+    "titulo_fonte": "LEI Nº 11079, DE 30 DE DEZEMBRO DE 2004",
+    "ementa": "Institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": null
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

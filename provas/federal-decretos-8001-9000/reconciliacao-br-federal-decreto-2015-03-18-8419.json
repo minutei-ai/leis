@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-03-18-8419",
+  "fonte_principal": "camara-D8419",
+  "sha256_fonte_principal": "8e635f4465da27422b3764481659e513a8899861770348d71c6c3a6ed2a4e5b7",
+  "sha256_conteudo": "8e635f4465da27422b3764481659e513a8899861770348d71c6c3a6ed2a4e5b7",
+  "capturado_em": "2026-11-04T20:21:44Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8419-18-marco-2015-780297-publicacaooriginal-146382-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8419.htm.xz",
+  "sha256_snapshot_armazenado": "e6538e6683c337bbf86c089d65a8b0d3a59af9995feb4585c8ef02404503a15f",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 36,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-03-18-8419",
+    "numero": "8419",
+    "data": "2015-03-18",
+    "titulo_fonte": "DECRETO Nº 8419, DE 18 DE MARÇO DE 2015",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO QUINTO PROTOCOLO ADICIONAL AO APÊNDICE II \"SOBRE O COMÉRCIO NO SETOR AUTOMOTIVO ENTRE O BRASIL E O MÉXICO\" DO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 55 (5PA AO AP. II DO ACE55), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E OS ESTADOS UNIDOS MEXICANOS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593880"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

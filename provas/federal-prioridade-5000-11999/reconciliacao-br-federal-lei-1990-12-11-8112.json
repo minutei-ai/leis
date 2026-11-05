@@ -1,0 +1,86 @@
+{
+  "documento": "br-federal-lei-1990-12-11-8112",
+  "fonte_principal": "planalto-L8112",
+  "sha256_fonte_principal": "14d9d9d9a27592ffa054db8771c342046713b930c983fa203bc2126c6a0ffe10",
+  "sha256_conteudo": "d99984a124063b4cf57c97b0eed4375b2185fc5f155323be1d2fe8b8091d26c8",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L8112cons.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8112.htm.xz",
+  "sha256_snapshot_armazenado": "7590c3139ac17632e047fe1c3ee700ae2fed6fde8075659d4d12a9e2fcbd329d",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 174085,
+    "caracteres_normalizados_markdown": 174085,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 481,
+    "links": 736,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/leis/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      },
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/leis/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 1439,
+    "artigos": 263,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "249",
+      "250",
+      "251",
+      "252",
+      "253"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1990-12-11-8112",
+    "numero": "8112",
+    "data": "1990-12-11",
+    "titulo_fonte": "LEI Nº 8112, DE 11 DE DEZEMBRO DE 1990",
+    "ementa": "Dispõe sobre o Regime Jurídico dos Servidores Públicos Civis da União, das autarquias e das fundações públicas federais.",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "compilado-planalto",
+      "integral": true
+    },
+    "senado_id": null
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

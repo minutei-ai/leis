@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-04-01-8703",
+  "fonte_principal": "camara-D8703",
+  "sha256_fonte_principal": "6d1d7917710742a6bf44e0e68675b9e49034ddace1f3769db904e343675c2d0b",
+  "sha256_conteudo": "6d1d7917710742a6bf44e0e68675b9e49034ddace1f3769db904e343675c2d0b",
+  "capturado_em": "2026-11-04T20:26:47Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8703-1-abril-2016-782789-publicacaooriginal-149967-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8703.htm.xz",
+  "sha256_snapshot_armazenado": "e45363dea125d6e660544a5fbe96df76baca147e4834beb307d85ec9e30f6c9e",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 173,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-04-01-8703",
+    "numero": "8703",
+    "data": "2016-04-01",
+    "titulo_fonte": "DECRETO Nº 8703, DE 1 DE ABRIL DE 2016",
+    "ementa": "PROMULGA O ACORDO DE COMÉRCIO PREFERENCIAL ENTRE O MERCADO COMUM DO SUL - MERCOSUL E A UNIÃO ADUANEIRA DA ÁFRICA AUSTRAL - SACU, FIRMADO PELOS PAÍSES MEMBROS DO MERCOSUL EM SALVADOR, EM 15 DE DEZEMBRO DE 2008, E PELOS PAÍSES AFRICANOS EM MASERU, EM 3 DE ABRIL DE 2009.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414561"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}
