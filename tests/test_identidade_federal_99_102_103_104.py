@@ -103,6 +103,20 @@ class TestIdentidadeFederal99102103104(unittest.TestCase):
         self.assertIn('## ANEXO I', text)
         self.assertIn('## ANEXO II', text)
         self.assertIn('GRATIFICAÇÃO DE INTERIORIZAÇÃO', text)
+        self.assertIn('| DENOMINAÇÃO DAS GRATIFICAÇÕES E INDENIZAÇÕES | DEFINIÇÃO | BASES DE CONCESSÃO E VALORES |', text)
+        self.assertIn('| XXII - GRATIFICAÇÃO DE INTERIORIZAÇÃO |', text)
+        self.assertNotIn('| XXIV - GRATIFICAÇÃO DE INTERIORIZAÇÃO |', text)
+        anexo_ii = text.split('## ANEXO II', 1)[1]
+        self.assertIn('| c) Médico | NS-901 ou LT-NS-901 |', anexo_ii)
+        self.assertIn('| d) Médico | NS-901 ou LT-NS-901 |', anexo_ii)
+        self.assertIn('| j) Odontólogo (jornada de 6 horas em extinção) | NS-909 ou LT-NS-909 |', anexo_ii)
+        self.assertNotIn('| a) Médico |', anexo_ii)
+        self.assertNotIn('| b) Médico de Saúde Pública', anexo_ii)
+        self.assertNotIn('| c) Médico do Trabalho', anexo_ii)
+        self.assertNotIn('| f) Odontólogo', anexo_ii)
+        self.assertIn('Odontólogo "j)"', anexo_ii)
+        self.assertIn('XXII', text)
+        self.assertNotIn('(**XXIV**)', text)
         self.assertIn('60%', text)
         self.assertIn('50%', text)
         self.assertIn('40%', text)
@@ -117,6 +131,19 @@ class TestIdentidadeFederal99102103104(unittest.TestCase):
         self.assertIn('classe-a-4h-camara-crop.png', text)
         fac_i = PROVAS / 'anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-i-planalto.png'
         fac_ii = PROVAS / 'anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-camara.png'
+        self.assertEqual(
+            hashlib.sha256(fac_i.read_bytes()).hexdigest(),
+            '77fe016022f1f14c18ff9b17d080dc6a981d5302aa19e92dad053afa27b7ac66',
+        )
+        fac_i_camara = PROVAS / 'anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-i-camara.png'
+        self.assertEqual(
+            hashlib.sha256(fac_i_camara.read_bytes()).hexdigest(),
+            '1a5bd47551672c2d382a874855d411743bf4ff3aa68666717b9d85765f4e3d22',
+        )
+        self.assertEqual(
+            hashlib.sha256(fac_ii.read_bytes()).hexdigest(),
+            '0f677ce214577d6122c447fe5e935c035c7d8e6c4fd48072663e69fd48322802',
+        )
         crop_p = PROVAS / 'anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-classe-a-4h-planalto-crop.png'
         crop_c = PROVAS / 'anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-classe-a-4h-camara-crop.png'
         self.assertTrue(fac_i.is_file() and fac_i.stat().st_size > 10_000)
