@@ -5,6 +5,8 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
 
+**132.746 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+
 ## Comece por aqui
 
 - [Constituição Federal](federal/br-federal-constituicao-1988-10-05.md)
