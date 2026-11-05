@@ -65,6 +65,7 @@ municípios/órgãos distintos; seis atos distintos em 20/10/1823.
 | `uf` | Sigla ou `null`/`desconhecido`. |
 | `ibge` | Código IBGE municipal quando aplicável; entidades especiais marcadas. |
 | `orgao_emissor` | Órgão que expediu o ato. |
+| `fonte_orgao` | Instituição/site que publicou ou forneceu a captura; não substitui `orgao_emissor`. |
 | `poder` | Executivo / Legislativo / outro informado. |
 | `ambito_aplicacao` | Só quando demonstrado na norma; separado do emissor. |
 
@@ -90,7 +91,9 @@ em campos separados. Ano-only permanece sem dia/mês inventado.
   houver captura.
 - Relações (`alteracao`, `revogacao`, `revogacao-parcial`, `retificacao`,
   `regulamento`, …) trazem origem/destino/dispositivo e
-  `escopo_cobertura` (`completo` \| `parcial` \| `desconhecido`).
+  `escopo_cobertura` (`completo` \| `parcial` \| `desconhecido`). A exportação
+  conserva as relações declaradas no cabeçalho e a proveniência; não deduz
+  efeitos jurídicos de comentários do provedor, órgão capturador ou datas.
 - Hash da fonte HTML/PDF **não** se confunde com hash do Markdown.
 
 ## Exportação BM25
@@ -98,8 +101,10 @@ em campos separados. Ano-only permanece sem dia/mês inventado.
 Documento exportado por edição:
 
 1. **Ranking (text):** `titulo`, `ementa`, `markdown_integral`.
-2. **Filtros exatos (keyword/typed):** identidades, espécie, ente, número,
-   complemento, edição, situação, representação, cobertura de transcrição.
+2. **Filtros exatos (keyword/typed):** identidades, espécie, órgão emissor,
+   série histórica, ente, número, complemento, edição, situação, representação,
+   cobertura de transcrição. `fonte_orgao` identifica o publisher/capturador
+   separadamente e pode ser consultado sem alterar o emissor.
 3. **Intervalos:** datas tipadas; `"desconhecido"` não entra como date.
 4. **Alertas:** `alerta_cobertura_textual`, `alerta_reproducao_incompleta`,
    `vigencia_certificada=false`.
@@ -132,11 +137,19 @@ streaming por edição), não a reescrita em massa dos Markdown:
   (gerados por `scripts/cobertura_nacional.py export-acervo`)
 
 Frontmatter já existente (lotes setoriais + piloto) é **reutilizado** no
-export. Corpos Markdown e hashes publicados permanecem intactos. A íntegra
+export. Campos `serie_historica`, `senado_id`, `urn` e `relacoes` são mantidos
+quando registrados, com proveniência por campo. Corpos Markdown e hashes
+publicados permanecem intactos. A íntegra
 pesquisável é o arquivo `.md` + `sha256_markdown` (semântica explícita); o
 sidecar tipado não substitui nem trunca o corpo. Órgão, poder, âmbito, série
 e complemento só entram como conhecidos com prova (frontmatter/fonte); caso
 contrário ficam `desconhecido` / `nao-aplicavel` com `fonte_do_campo`.
+
+A versão 2 do esquema de exportação separa `orgao_emissor` de `fonte_orgao` e
+expõe os identificadores e relações disponíveis como campos tipados. O valor
+de `orgao_emissor` vem exclusivamente do campo de mesmo nome no frontmatter;
+`fonte_orgao` identifica a fonte de publicação/captura e nunca é fallback para
+emissor.
 
 ## Cobertura de campos
 
