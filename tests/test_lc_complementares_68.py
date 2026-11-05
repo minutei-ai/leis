@@ -69,6 +69,28 @@ class TestLcComplementares68(unittest.TestCase):
         self.assertEqual(nl.sha256(body.encode('utf-8')), meta['sha256_markdown'])
         html = lzma.decompress((ROOT / meta['snapshot_html']).read_bytes())
         self.assertEqual(hashlib.sha256(html).hexdigest(), meta['sha256_fonte'])
+        self.assertEqual(hashlib.sha256((ROOT / meta['snapshot_html']).read_bytes()).hexdigest(), meta['sha256_snapshot_html'])
+        conv = nl.convert_html(html, 'utf-8', meta['fonte_url'])
+        # O coletor inseriu um código de catálogo e um marcador literal de anexo.
+        # Excluímos somente esses dois blocos conhecidos; o título, a ementa e o
+        # cabeçalho ANEXO continuam fazendo parte da comparação da fonte.
+        source_blocks = []
+        collector_markers = []
+        for block in conv.blocks:
+            plain = nl.md_plain(block, True).strip()
+            if re.fullmatch(r'###LCP-[^\s<>]+@@@', plain):
+                collector_markers.append('catalogo')
+                continue
+            if plain == '<<anexo>>':
+                collector_markers.append('anexo')
+                continue
+            source_blocks.append(plain)
+        self.assertCountEqual(collector_markers, ['catalogo', 'anexo'])
+        self.assertEqual(
+            nl.strip_fold(' '.join(source_blocks)),
+            nl.strip_fold(nl.md_text_all(nl.strip_note(body))),
+            'LC 115 deve equivaler ao corpo publicado após remover somente nota de edição e marcadores documentados',
+        )
         dados = lzma.decompress((ROOT / meta['snapshot_dados']).read_bytes())
         self.assertEqual(hashlib.sha256(dados).hexdigest(), meta['sha256_dados'])
         self.assertIn('ANEXO', body)
@@ -82,7 +104,14 @@ class TestLcComplementares68(unittest.TestCase):
         self.assertIn('planalto.gov.br', meta['fonte_url'])
         raw = lzma.decompress((ROOT / meta['snapshot_html']).read_bytes())
         self.assertEqual(hashlib.sha256(raw).hexdigest(), meta['sha256_fonte'])
-        self.assertTrue(meta.get('cobertura_texto_equivalente'))
+        self.assertEqual(hashlib.sha256((ROOT / meta['snapshot_html']).read_bytes()).hexdigest(), meta['sha256_snapshot_armazenado'])
+        conv = nl.convert_html(raw, 'cp1252', meta['fonte_url'])
+        source_text = ' '.join(nl.md_plain(block, True) for block in conv.blocks)
+        self.assertEqual(
+            nl.strip_fold(source_text),
+            nl.strip_fold(nl.md_text_all(nl.strip_note(body))),
+            'LC 147 deve equivaler ao corpo Markdown a partir do HTML oficial completo com Anexo Único',
+        )
         self.assertRegex(body, r'(?m)^ANEXO\b', msg='Anexo Único ausente')
         self.assertGreater(pub_meta.get('tabelas', 0), 0)
         senado = meta['senado_publicacao_original']
@@ -106,17 +135,41 @@ class TestLcComplementares68(unittest.TestCase):
         src = nl.strip_fold(nl.source_text_chars_from_html(raw, 'cp1252'))
         self.assertEqual(src, nl.strip_fold(nl.md_text_all(rebuilt)))
 
-    def test_reconciliacao_catalogo(self):
-        ids = {i['id'] for i in RECON['identidades']}
-        self.assertEqual(ids, set(IDS.values()))
-        by = {i['id']: i for i in RECON['identidades']}
-        self.assertEqual(by[IDS['115']]['estado'], 'publicado')
-        self.assertEqual(by[IDS['147']]['estado'], 'publicado')
-        self.assertEqual(by[IDS['1-1962']]['estado'], 'publicado')
-        self.assertEqual(by[IDS['1-1967']]['estado'], 'ja-publicado-antes')
-        self.assertEqual(by[IDS['1-1962']]['senadoId'], '30812083')
-        self.assertIn('não fundir', by[IDS['1-1967']]['fonte'].lower())
-        self.assertIn('planalto', by[IDS['147']]['fonte'].lower())
+    def test_reconciliacao_catalogo_completa_por_identidade(self):
+        cat = RECON['catalogo_senado_lista']
+        snapshot = (ROOT / cat['snapshot']).read_bytes()
+        self.assertEqual(hashlib.sha256(snapshot).hexdigest(), cat['sha256_snapshot_armazenado'])
+        raw = lzma.decompress(snapshot)
+        self.assertEqual(hashlib.sha256(raw).hexdigest(), cat['sha256'])
+        rows = json.loads(raw)['ListaDocumento']['documentos']['documento']
+        self.assertEqual(len(rows), 240)
+        self.assertEqual(cat['total_registros'], len(rows))
+        entries = RECON['identidades']
+        self.assertEqual(len(entries), len(rows))
+        self.assertEqual({i['senadoId'] for i in entries}, {r['id'] for r in rows})
+        self.assertEqual(len({i['senadoId'] for i in entries}), len(entries))
+        paths = []
+        for entry in entries:
+            row = next(r for r in rows if r['id'] == entry['senadoId'])
+            self.assertEqual(entry['catalogo'], row)
+            self.assertEqual(entry['norma'], row.get('norma'))
+            self.assertEqual(entry['apelido'], row.get('apelido'))
+            date = '-'.join(reversed(row['dataassinatura'].split('/')))
+            number = re.sub(r'[^0-9A-Za-z-]', '', row['numero']).lower()
+            expected = f'federal/br-federal-lei-complementar-{date}-{number}.md'
+            self.assertEqual(entry['estado_caminho'], 'correspondencia_exata_data_numero')
+            self.assertEqual(entry['caminhos'], [expected])
+            self.assertTrue((ROOT / expected).is_file(), expected)
+            paths.extend(entry['caminhos'])
+        self.assertEqual(len(paths), len(set(paths)), 'um arquivo não pode cobrir duas linhas do catálogo')
+        self.assertEqual(len(paths), 240)
+        self.assertIn('não o universo histórico brasileiro', ' '.join(RECON['limites']))
+        # A série histórica mantém ambas as identidades 1/1962 e 1/1967.
+        by_slug = {i['id']: i for i in entries}
+        self.assertIn(IDS['1-1962'], by_slug)
+        self.assertIn(IDS['1-1967'], by_slug)
+        self.assertNotEqual(by_slug[IDS['1-1962']]['senadoId'], by_slug[IDS['1-1967']]['senadoId'])
+        self.assertIn('não se certifica vigência', ' '.join(RECON['limites']).lower())
 
     def test_cobertura_por_numero_no_federal(self):
         names = [p.name for p in (ROOT / 'federal').iterdir() if p.suffix == '.md']

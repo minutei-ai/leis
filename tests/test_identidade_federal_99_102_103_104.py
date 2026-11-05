@@ -11,16 +11,24 @@ Não acessa a rede. Não força título≡caminho em todo o federal (issue #102)
 from __future__ import annotations
 
 import hashlib
+import lzma
+import sys
 import json
 import re
 import unittest
 from collections import defaultdict
 from pathlib import Path
 
+from bs4 import BeautifulSoup
+
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / 'scripts'))
+sys.dont_write_bytecode = True
+import nucleo_licitacoes as nl  # noqa: E402
 PROVAS = ROOT / 'provas/identidade-federal-99-102-103'
 FONTES = json.loads((PROVAS / 'fontes.json').read_text(encoding='utf-8'))
 EXCECOES = json.loads((PROVAS / 'duplicatas-excecoes.json').read_text(encoding='utf-8'))
+PROVA_CONVERSAO_103 = json.loads((PROVAS / 'prova-conversao-12985-12988.json').read_text(encoding='utf-8'))
 
 IDENTIDADES = {
     'br-federal-decreto-2019-09-03-10000': {
@@ -159,6 +167,45 @@ class TestIdentidadeFederal99102103104(unittest.TestCase):
         self.assertIn('Livro dos Heróis da Pátria', lei_988)
         self.assertNotIn('Nabuco', lei_985)
         self.assertNotIn('Viaduto', lei_988)
+
+    def test_conversao_oficial_12985_12988_e_nao_trocada(self):
+        rows = {item['id']: item for item in FONTES if item.get('issue') == 103}
+        proofs = {item['id']: item for item in PROVA_CONVERSAO_103['identidades']}
+        normalized_sources = {}
+        normalized_markdowns = {}
+        for doc_id in (
+            'br-federal-lei-2014-06-02-12985',
+            'br-federal-lei-2014-06-02-12988',
+        ):
+            with self.subTest(doc_id=doc_id):
+                item = rows[doc_id]
+                proof = proofs[doc_id]
+                packed = (ROOT / item['snapshot']).read_bytes()
+                self.assertEqual(hashlib.sha256(packed).hexdigest(), item['sha256_snapshot'])
+                raw = lzma.decompress(packed)
+                self.assertEqual(hashlib.sha256(raw).hexdigest(), item['sha256_fonte'])
+                self.assertEqual(len(raw), item['bytes_fonte'])
+                soup = BeautifulSoup(raw, 'lxml')
+                official = soup.select_one('.textoNorma')
+                self.assertIsNotNone(official, 'a fonte oficial deve conter .textoNorma')
+                source_text = nl.strip_fold(official.get_text(' '))
+                markdown = (ROOT / item['arquivo']).read_text(encoding='utf-8')
+                self.assertEqual(hashlib.sha256(markdown.encode()).hexdigest(), item['sha256_markdown'])
+                self.assertIn('\n\n', markdown)
+                markdown_body = nl.strip_fold(nl.md_text_all(markdown.split('\n\n', 1)[1]))
+                self.assertEqual(source_text, markdown_body, 'corpo deve reconverter do snapshot oficial')
+                self.assertEqual(proof['seletor_oficial'], '.textoNorma')
+                self.assertEqual(proof['sha256_texto_normalizado_fonte'], hashlib.sha256(source_text.encode()).hexdigest())
+                self.assertEqual(proof['sha256_texto_normalizado_markdown'], hashlib.sha256(markdown_body.encode()).hexdigest())
+                self.assertIs(proof['equivalente'], True)
+                normalized_sources[doc_id] = source_text
+                normalized_markdowns[doc_id] = markdown_body
+        id_985 = 'br-federal-lei-2014-06-02-12985'
+        id_988 = 'br-federal-lei-2014-06-02-12988'
+        self.assertEqual(normalized_sources[id_985], normalized_markdowns[id_985])
+        self.assertEqual(normalized_sources[id_988], normalized_markdowns[id_988])
+        self.assertNotEqual(normalized_sources[id_985], normalized_markdowns[id_988])
+        self.assertNotEqual(normalized_sources[id_988], normalized_markdowns[id_985])
 
     def test_sha1_duplicatas_somente_nas_excecoes(self):
         allowed = {g['sha1'] for g in EXCECOES['grupos']}
