@@ -1,0 +1,119 @@
+[
+  {
+    "camara_url": "https://www2.camara.leg.br/legin/fed/consti/1824-1899/constituicao-35041-25-marco-1824-532540-publicacaooriginal-14770-pl.html",
+    "id": "br-federal-constituicao-1824-03-25",
+    "norma_data": "1824-03-25",
+    "norma_numero": "1824",
+    "norma_tipo": "constituicao",
+    "notas_data": [],
+    "senado_id": "579488",
+    "serie": "constituicao-1824",
+    "title_pattern": "^Carta de Lei de 25 de Março de 1824\\b",
+    "titulo": "Constituição Política do Império do Brasil (1824)",
+    "urn": "urn:lex:br:federal:constituicao:1824-03-25;1824"
+  },
+  {
+    "camara_url": "https://www2.camara.leg.br/legin/fed/consti/1824-1899/constituicao-35081-24-fevereiro-1891-532699-publicacaooriginal-15017-pl.html",
+    "id": "br-federal-constituicao-1891-02-24",
+    "norma_data": "1891-02-24",
+    "norma_numero": "1891",
+    "norma_tipo": "constituicao",
+    "notas_data": [],
+    "senado_id": "579489",
+    "serie": "constituicao-1891",
+    "title_pattern": "^Constituição da República dos Estados Unidos do Brasil\\b|^CONSTITUI",
+    "titulo": "Constituição dos Estados Unidos do Brasil (1891)",
+    "urn": "urn:lex:br:federal:constituicao:1891-02-24;1891"
+  },
+  {
+    "camara_url": "https://www2.camara.leg.br/legin/fed/consti/1930-1939/constituicao-1934-16-julho-1934-365196-publicacaooriginal-1-pl.html",
+    "id": "br-federal-constituicao-1934-07-16",
+    "norma_data": "1934-07-16",
+    "norma_numero": "1934",
+    "norma_tipo": "constituicao",
+    "notas_data": [
+      "Câmara identifica a publicação original em 16/07/1934; o catálogo do Senado/normas.leg.br usa 14/07/1934 na URN. O arquivo segue a data da fonte do Markdown (Câmara)."
+    ],
+    "senado_id": "579490",
+    "serie": "constituicao-1934",
+    "title_pattern": "^CONSTITUI|^Constituição",
+    "titulo": "Constituição da República dos Estados Unidos do Brasil (1934)",
+    "urn": "urn:lex:br:federal:constituicao:1934-07-14;1934"
+  },
+  {
+    "camara_url": "https://www2.camara.leg.br/legin/fed/consti/1930-1939/constituicao-35093-10-novembro-1937-532849-publicacaooriginal-15246-pl.html",
+    "id": "br-federal-constituicao-1937-11-10",
+    "norma_data": "1937-11-10",
+    "norma_numero": "1937",
+    "norma_tipo": "constituicao",
+    "notas_data": [],
+    "senado_id": "579491",
+    "serie": "constituicao-1937",
+    "title_pattern": "^CONSTITUI|^Constituição",
+    "titulo": "Constituição dos Estados Unidos do Brasil (1937)",
+    "urn": "urn:lex:br:federal:constituicao:1937-11-10;1937"
+  },
+  {
+    "camara_url": "https://www2.camara.leg.br/legin/fed/consti/1940-1949/constituicao-1946-18-julho-1946-365199-publicacaooriginal-1-pl.html",
+    "id": "br-federal-constituicao-1946-09-18",
+    "norma_data": "1946-09-18",
+    "norma_numero": "1946",
+    "norma_tipo": "constituicao",
+    "notas_data": [
+      "A URL de catálogo da Câmara contém \"18-julho\"; Senado/normas e o ADCT usam 18/09/1946 (promulgação). O id do arquivo usa 1946-09-18; a divergência de rótulo na URL da Câmara permanece documentada, sem reescrita silenciosa."
+    ],
+    "senado_id": "579492",
+    "serie": "constituicao-1946",
+    "title_pattern": "^CONSTITUI|^Constituição",
+    "titulo": "Constituição dos Estados Unidos do Brasil (1946)",
+    "urn": "urn:lex:br:federal:constituicao:1946-09-18;1946"
+  },
+  {
+    "camara_url": "https://www2.camara.leg.br/legin/fed/conadc/1940-1949/constituicao.adct-1946-18-setembro-1946-365201-publicacaooriginal-1-pl.html",
+    "id": "br-federal-constituicao-1946-09-18-adct",
+    "norma_data": "1946-09-18",
+    "norma_numero": "1946-adct",
+    "norma_tipo": "constituicao-adct",
+    "notas_data": [
+      "Peça identificada da mesma edição da Constituição de 1946; arquivo próprio, sem fundir com o texto principal."
+    ],
+    "peca_de": "br-federal-constituicao-1946-09-18",
+    "senado_id": null,
+    "serie": "constituicao-1946",
+    "title_pattern": "^ATO DAS DISPOSI|^Art\\.",
+    "titulo": "Ato das Disposições Constitucionais Transitórias (1946)",
+    "urn": null
+  },
+  {
+    "camara_url": "https://www2.camara.leg.br/legin/fed/consti/1960-1969/constituicao-1967-24-janeiro-1967-365194-publicacaooriginal-1-pl.html",
+    "id": "br-federal-constituicao-1967-01-24",
+    "norma_data": "1967-01-24",
+    "norma_numero": "1967",
+    "norma_tipo": "constituicao",
+    "notas_data": [
+      "Edição original de 24/01/1967. Não substituir por consolidação posterior nem pela redação dada pela EC 1/1969."
+    ],
+    "senado_id": "579493",
+    "serie": "constituicao-1967",
+    "title_pattern": "^CONSTITUI|^Constituição",
+    "titulo": "Constituição do Brasil (1967)",
+    "urn": "urn:lex:br:federal:constituicao:1967-01-24;1967"
+  },
+  {
+    "camara_url": null,
+    "id": "br-federal-emenda-constitucional-1969-10-17-1",
+    "norma_data": "1969-10-17",
+    "norma_numero": "1",
+    "norma_tipo": "emenda-constitucional",
+    "normas_url": "https://normas.leg.br/api/public/binario/fdaa3f51-5e99-4090-8c2d-4efecf792750/texto",
+    "notas_data": [
+      "Ato modificador da Constituição de 1967; identidade distinta de EC 1/1992 (série CF/1988) e de outras EC nº 1 históricas. Não republicar como nova Constituição."
+    ],
+    "senado_id": null,
+    "serie": "constituicao-1967",
+    "texto_base": "br-federal-constituicao-1967-01-24",
+    "title_pattern": "^Emenda Constitucional nº\\s*1\\b|^EMENDA CONSTITUCIONAL Nº\\s*1\\b",
+    "titulo": "Emenda Constitucional nº 1, de 17 de outubro de 1969",
+    "urn": "urn:lex:br:federal:emenda.constitucional:1969-10-17;1"
+  }
+]
