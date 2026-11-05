@@ -1,6 +1,6 @@
 {
   "lote": "especies-legislativas-federais",
-  "reconciliado_em": "2026-11-04T20:59:13Z",
+  "reconciliado_em": "2026-11-05T11:40:47Z",
   "especies": {
     "DLG": {
       "registros": 15944,
@@ -17,8 +17,8 @@
     "RSF": {
       "registros": 6578,
       "chaves_unicas": 6578,
-      "publicados": 335,
-      "identificados_nao_coletados": 6243,
+      "publicados": 432,
+      "identificados_nao_coletados": 6145,
       "ambiguidades": 0,
       "intervalo_datas": {
         "inicio": "1937-02-22",
@@ -48,8 +48,7 @@
         "inicio": "1951-04-20",
         "fim": "2025-06-23"
       },
-      "arquivo": "provas/especies-legislativas-federais/reconciliacao-rcn.json",
-      "anexos_pendentes": 0
+      "arquivo": "provas/especies-legislativas-federais/reconciliacao-rcn.json"
     }
   }
 }

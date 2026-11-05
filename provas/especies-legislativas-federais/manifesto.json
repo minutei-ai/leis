@@ -6,7 +6,7 @@
     89,
     94
   ],
-  "gerado_em": "2026-11-04T20:58:48Z",
+  "gerado_em": "2026-11-05T11:40:36Z",
   "documentos": [
     {
       "id": "br-federal-decreto-legislativo-2026-09-16-433",
@@ -16603,6 +16603,1461 @@
       "sha256_fonte": "8fbc004d47b7fe6aa179497938a49ad81dae9abf75f1a13b6afad3900e7b2747",
       "sha256_markdown": "2690ea53bd27f8d3edde972416774806b776bea4d0bc497ae9c8718bccf8f975",
       "anexo_fonte_alternativa": true
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-10-29-27",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-10-29-27.md",
+      "tipo": "RSF",
+      "senado_id": "31624699",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-10-29;27",
+      "norma": {
+        "numero": "27",
+        "data": "2019-10-29",
+        "titulo": "Resolução do Senado Federal nº 27 de 29/10/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-10-29-27",
+      "sha256_fonte": "a623320d58b674177890c4c11b73866b11a14cae7f3e598e9da1b1d75fa28baa",
+      "sha256_markdown": "1d5a4791cd0487a6a3722c5ab1ab3e31e7bcc4a80c09d65acc323692f4b0b201"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-10-29-26",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-10-29-26.md",
+      "tipo": "RSF",
+      "senado_id": "31624625",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-10-29;26",
+      "norma": {
+        "numero": "26",
+        "data": "2019-10-29",
+        "titulo": "Resolução do Senado Federal nº 26 de 29/10/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-10-29-26",
+      "sha256_fonte": "15fd2e2d87796c829bf5e629df35a9e7330a5f4f987a73cd6118c5ee9881f532",
+      "sha256_markdown": "05942e1fda3c1e2538fb0bf68ff6a3a2715a9aee7281f3a6172a843a2c39408f"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-10-02-25",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-10-02-25.md",
+      "tipo": "RSF",
+      "senado_id": "31531627",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-10-02;25",
+      "norma": {
+        "numero": "25",
+        "data": "2019-10-02",
+        "titulo": "Resolução do Senado Federal nº 25 de 02/10/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-10-02-25",
+      "sha256_fonte": "366bfd11260fb08488a530a60ad21c3bc25e7f15730b603e21942b7cfb36b874",
+      "sha256_markdown": "73b6ce3b996f2638f3460ba08ee7b408e3db39e686d691059ad19ce7a9585236"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-10-02-22",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-10-02-22.md",
+      "tipo": "RSF",
+      "senado_id": "31531537",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-10-02;22",
+      "norma": {
+        "numero": "22",
+        "data": "2019-10-02",
+        "titulo": "Resolução do Senado Federal nº 22 de 02/10/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-10-02-22",
+      "sha256_fonte": "dc72aee04d49ee753f7b19cf13878b1e42fa494f8165b4e2dc3c304ac0859fd4",
+      "sha256_markdown": "ec49419bc0da501d59a0630bfe201b28f6b6d5e7c3937a9895f5bac90a1da8fb"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-10-02-23",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-10-02-23.md",
+      "tipo": "RSF",
+      "senado_id": "31531597",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-10-02;23",
+      "norma": {
+        "numero": "23",
+        "data": "2019-10-02",
+        "titulo": "Resolução do Senado Federal nº 23 de 02/10/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-10-02-23",
+      "sha256_fonte": "66416c33393b5a8dec8281ae7e78dc819ad9aaddf61d06a45ca3dabc46309171",
+      "sha256_markdown": "932dddb3771974d9d989e3db2eaac52036af3175b9dcbb9b972b6712b9430c1c"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-10-02-21",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-10-02-21.md",
+      "tipo": "RSF",
+      "senado_id": "31531507",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-10-02;21",
+      "norma": {
+        "numero": "21",
+        "data": "2019-10-02",
+        "titulo": "Resolução do Senado Federal nº 21 de 02/10/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-10-02-21",
+      "sha256_fonte": "44edaf4fc45a9e301b7075006c5a9894f95225ae71c33f2c005171eda17af86d",
+      "sha256_markdown": "35271481e24b832eb475af1bbb59b6d3e73872eec06a23e2c2fdf1f3c339315b"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-10-02-24",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-10-02-24.md",
+      "tipo": "RSF",
+      "senado_id": "31531567",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-10-02;24",
+      "norma": {
+        "numero": "24",
+        "data": "2019-10-02",
+        "titulo": "Resolução do Senado Federal nº 24 de 02/10/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-10-02-24",
+      "sha256_fonte": "7379d7259658e7eaa583f893dce2087a84db32a9838025e985de4b026d0d50fb",
+      "sha256_markdown": "aa0d04b576da543bc22caf48c9ad0bb510b710cfe338e7933f42fa098826847c"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-10-02-20",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-10-02-20.md",
+      "tipo": "RSF",
+      "senado_id": "31531459",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-10-02;20",
+      "norma": {
+        "numero": "20",
+        "data": "2019-10-02",
+        "titulo": "Resolução do Senado Federal nº 20 de 02/10/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-10-02-20",
+      "sha256_fonte": "b7d85541b56d8ca39511d330aa7de59b837b70310b81a0729767978e0b992364",
+      "sha256_markdown": "e2a203d5d5e8037ff406deb5b435d5811142bca8d37777627c8a59239ca54568"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-09-26-16",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-09-26-16.md",
+      "tipo": "RSF",
+      "senado_id": "31441903",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-09-26;16",
+      "norma": {
+        "numero": "16",
+        "data": "2019-09-26",
+        "titulo": "Resolução do Senado Federal nº 16 de 26/09/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-09-26-16",
+      "sha256_fonte": "0bf42e3dcd2b016519ce5620744c571f09b08f6be0f0aacede73bebb98719cf8",
+      "sha256_markdown": "8866350be233f869aadb189387401093fa4dadc1225c4122eaab707e2407b63e"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-09-26-17",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-09-26-17.md",
+      "tipo": "RSF",
+      "senado_id": "31441933",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-09-26;17",
+      "norma": {
+        "numero": "17",
+        "data": "2019-09-26",
+        "titulo": "Resolução do Senado Federal nº 17 de 26/09/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-09-26-17",
+      "sha256_fonte": "033422693dd44a16b8f5dc27ebbd7ef5978286cdf94a6db63b788c319471e4a5",
+      "sha256_markdown": "e05cdc0f601841a10dc8d9c413727841979341db17d09252f79fd1a8137fb5b7"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-09-26-18",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-09-26-18.md",
+      "tipo": "RSF",
+      "senado_id": "31441963",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-09-26;18",
+      "norma": {
+        "numero": "18",
+        "data": "2019-09-26",
+        "titulo": "Resolução do Senado Federal nº 18 de 26/09/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-09-26-18",
+      "sha256_fonte": "38d61fa93e3ba1fa43630fd3c96d70bbe81d610dd14f0b73d08ee85f4d376047",
+      "sha256_markdown": "3a4cfc6cfb217ce64dc3f6543c2d9ad328a8691ff56e425b19d5736548c02f52"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-09-23-14",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-09-23-14.md",
+      "tipo": "RSF",
+      "senado_id": "31432559",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-09-23;14",
+      "norma": {
+        "numero": "14",
+        "data": "2019-09-23",
+        "titulo": "Resolução do Senado Federal nº 14 de 23/09/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-09-23-14",
+      "sha256_fonte": "d670c40b8a0e8a981e48910769611b2fd6f8e754bedcf1326b0a4ef6a7b51249",
+      "sha256_markdown": "c6894fda6909a9320f002e0ecd735c11edf99bf6497be93a6acd0d550649afca"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-09-23-15",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-09-23-15.md",
+      "tipo": "RSF",
+      "senado_id": "31432607",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-09-23;15",
+      "norma": {
+        "numero": "15",
+        "data": "2019-09-23",
+        "titulo": "Resolução do Senado Federal nº 15 de 23/09/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-09-23-15",
+      "sha256_fonte": "7c395552cc3f0f96cfaa0dcb4fe9b82b4af880f689e9ff642288986a1c2266f8",
+      "sha256_markdown": "b1cb6161df02f802ef8dd8b2a48291c371c281a2e655751e6ed8d28dd79d36cf"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-09-04-12",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-09-04-12.md",
+      "tipo": "RSF",
+      "senado_id": "31297826",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-09-04;12",
+      "norma": {
+        "numero": "12",
+        "data": "2019-09-04",
+        "titulo": "Resolução do Senado Federal nº 12 de 04/09/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-09-04-12",
+      "sha256_fonte": "aa1af539885b3d1cf163071c648e81fa7c920ef6d3a14427202bb5656bbadb59",
+      "sha256_markdown": "8ca2974ba6f8f37b7f6e6477e11072840d317a8598dd490c16a38d10dfe588a2"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-09-04-13",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-09-04-13.md",
+      "tipo": "RSF",
+      "senado_id": "31297554",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-09-04;13",
+      "norma": {
+        "numero": "13",
+        "data": "2019-09-04",
+        "titulo": "Resolução do Senado Federal nº 13 de 04/09/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-09-04-13",
+      "sha256_fonte": "8bb615e96b046b89ad25b0711fbb67ca11bc6b2670b24cd17a9ed21dcaff94f6",
+      "sha256_markdown": "e22dbd2a418d9edfdb6533d81964ad2f32a8fafe3f62b7a70297a1f9c809af19"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-08-14-11",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-08-14-11.md",
+      "tipo": "RSF",
+      "senado_id": "31249577",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-08-14;11",
+      "norma": {
+        "numero": "11",
+        "data": "2019-08-14",
+        "titulo": "Resolução do Senado Federal nº 11 de 14/08/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-08-14-11",
+      "sha256_fonte": "92dcf2f7aa6bddb8e5b6f7c99f0ace6bf6ace182bf9ecabac2f9b306759034ff",
+      "sha256_markdown": "8ac6265f54cc118e05b31ed49b7b43aeffacd74963ba936e57bf8e0466999874"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-06-26-10",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-06-26-10.md",
+      "tipo": "RSF",
+      "senado_id": "31154679",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-06-26;10",
+      "norma": {
+        "numero": "10",
+        "data": "2019-06-26",
+        "titulo": "Resolução do Senado Federal nº 10 de 26/06/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-06-26-10",
+      "sha256_fonte": "c773583fb5eaeed2b24fd6e4ac9fb8c168ffee7595f21877730f0fd875bcf5ee",
+      "sha256_markdown": "7c6ce8a2c3f468ae3d633be001d35085b42a5cbf56a3fb4a2380a7757be5b4af"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-05-28-9",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-05-28-9.md",
+      "tipo": "RSF",
+      "senado_id": "30968919",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-05-28;9",
+      "norma": {
+        "numero": "9",
+        "data": "2019-05-28",
+        "titulo": "Resolução do Senado Federal nº 9 de 28/05/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-05-28-9",
+      "sha256_fonte": "81548944e4868b0ef1094f5c9105bbb5c1ea98d089e2d3ab9595e94e2ee87259",
+      "sha256_markdown": "9f6463395b85785c60ffeab971b299315a341dba4da0bf93a6d70b5877f6a3f0"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-05-15-6",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-05-15-6.md",
+      "tipo": "RSF",
+      "senado_id": "30948429",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-05-15;6",
+      "norma": {
+        "numero": "6",
+        "data": "2019-05-15",
+        "titulo": "Resolução do Senado Federal nº 6 de 15/05/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-05-15-6",
+      "sha256_fonte": "45558333b5590225500fcac75bad46e1e78a20c1981c32f03d91666628eed46b",
+      "sha256_markdown": "488baea5ac91ce6b8a254ac3668f47adfe30f5c4bacd2645a7efc4e6b1c4a28b"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-05-15-7",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-05-15-7.md",
+      "tipo": "RSF",
+      "senado_id": "30948477",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-05-15;7",
+      "norma": {
+        "numero": "7",
+        "data": "2019-05-15",
+        "titulo": "Resolução do Senado Federal nº 7 de 15/05/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-05-15-7",
+      "sha256_fonte": "e2a5f43f9e9a42846cc36d8db5f80853f7fde6f23ec88d406158cfe06429155d",
+      "sha256_markdown": "407b3dd4510bff5dc9301044543539c2dd7b96f7a0e4158492ed0a1db6c4a928"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-05-15-8",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-05-15-8.md",
+      "tipo": "RSF",
+      "senado_id": "30948507",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-05-15;8",
+      "norma": {
+        "numero": "8",
+        "data": "2019-05-15",
+        "titulo": "Resolução do Senado Federal nº 8 de 15/05/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-05-15-8",
+      "sha256_fonte": "c9beba966df6f8559db4077a2aa4ac7c22a3e9ac0dc80997e738620296e822db",
+      "sha256_markdown": "49b3cdc2ee4fb6d6282f5cb9861dbb5a42f5b28f064cc7c2f92a24e0b0dbea36"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-04-23-5",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-04-23-5.md",
+      "tipo": "RSF",
+      "senado_id": "30913373",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-04-23;5",
+      "norma": {
+        "numero": "5",
+        "data": "2019-04-23",
+        "titulo": "Resolução do Senado Federal nº 5 de 23/04/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-04-23-5",
+      "sha256_fonte": "861043577c3b483a2c4d8df2f20342c4d64bfc6557b733cdefb1dcb04c6df501",
+      "sha256_markdown": "03cc3b6a52f06dc822d9a9f5bca71e7039e036f0455623992785501d9cbc4ee6"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-04-22-4",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-04-22-4.md",
+      "tipo": "RSF",
+      "senado_id": "30911209",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-04-22;4",
+      "norma": {
+        "numero": "4",
+        "data": "2019-04-22",
+        "titulo": "Resolução do Senado Federal nº 4 de 22/04/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-04-22-4",
+      "sha256_fonte": "9cd7bd0d84b6823dbb68677c0d9667a5e7840b6b7d9e957334e89756f4a74534",
+      "sha256_markdown": "a30b7c1fcdbcfb46d568d1713ea246bd27d78f8769e459945e1b9fd918ed5a5e"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-04-10-3",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-04-10-3.md",
+      "tipo": "RSF",
+      "senado_id": "30899077",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-04-10;3",
+      "norma": {
+        "numero": "3",
+        "data": "2019-04-10",
+        "titulo": "Resolução do Senado Federal nº 3 de 10/04/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-04-10-3",
+      "sha256_fonte": "5f30b11cbc0ad08d31bef780c3912b2a42022144186e1d2179653a9dfe8fe80d",
+      "sha256_markdown": "2ec90b02abb9a70476683bd759b4972738d123655a43146f394d89e8a3147c67"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-02-26-1",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-02-26-1.md",
+      "tipo": "RSF",
+      "senado_id": "30827255",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-02-26;1",
+      "norma": {
+        "numero": "1",
+        "data": "2019-02-26",
+        "titulo": "Resolução do Senado Federal nº 1 de 26/02/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-02-26-1",
+      "sha256_fonte": "2702e30752a4ffcee04cabdd71aeac8ece9237e65b571015e4845f67d57c505b",
+      "sha256_markdown": "60a6bcbde708cc498fccbe1d34453074e35fbc8fc280198838a62791266ae3e8"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-02-26-2",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-02-26-2.md",
+      "tipo": "RSF",
+      "senado_id": "30827303",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-02-26;2",
+      "norma": {
+        "numero": "2",
+        "data": "2019-02-26",
+        "titulo": "Resolução do Senado Federal nº 2 de 26/02/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-02-26-2",
+      "sha256_fonte": "e4d8de69a4f7abae8f271af21a3f4fff647e6286096762080e50afbbe09a4631",
+      "sha256_markdown": "1a83e4abd47231838012f1b020760b47af5f4fe465e0ce3c4878770a95d991b9"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-12-19-37",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-12-19-37.md",
+      "tipo": "RSF",
+      "senado_id": "30753720",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-12-19;37",
+      "norma": {
+        "numero": "37",
+        "data": "2018-12-19",
+        "titulo": "Resolução do Senado Federal nº 37 de 19/12/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-12-19-37",
+      "sha256_fonte": "125a5f0bbe1ef83505293b3e76fcd2da049731ae8a805936ab5b33b3295761a9",
+      "sha256_markdown": "1161d164f05912d2c58d23d0f44e1afa8649affce1ab0c0fc7d84b884bc9908b"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-12-19-38",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-12-19-38.md",
+      "tipo": "RSF",
+      "senado_id": "30753750",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-12-19;38",
+      "norma": {
+        "numero": "38",
+        "data": "2018-12-19",
+        "titulo": "Resolução do Senado Federal nº 38 de 19/12/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-12-19-38",
+      "sha256_fonte": "801cacd260527483f02127becb6bb5e46bb848f2f247c0e4eba70be6308ccc68",
+      "sha256_markdown": "661a4744bdf0942775de8e87e8dc6a5a1b4ff111a5f0f81ba40fa221053215b9"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-12-14-36",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-12-14-36.md",
+      "tipo": "RSF",
+      "senado_id": "30745288",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-12-14;36",
+      "norma": {
+        "numero": "36",
+        "data": "2018-12-14",
+        "titulo": "Resolução do Senado Federal nº 36 de 14/12/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-12-14-36",
+      "sha256_fonte": "f5a2f3d4948e4ef6a614fb4582125a26e99c7e7f73e958dc5c07d0aee8d15f73",
+      "sha256_markdown": "3f9d7810b8314c5496d4fcda65cbe71ba2ebefeb7d2addf8b1f8729d22173abb"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-12-05-34",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-12-05-34.md",
+      "tipo": "RSF",
+      "senado_id": "30730738",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-12-05;34",
+      "norma": {
+        "numero": "34",
+        "data": "2018-12-05",
+        "titulo": "Resolução do Senado Federal nº 34 de 05/12/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-12-05-34",
+      "sha256_fonte": "ea77e530d763c58e743aaa0489bbaef885c5640b7fbcb5d9a23fd420e7e2a8d4",
+      "sha256_markdown": "d3302caaa6ebeda659c47203e6601e808c2d04f7ce94622a2e7ac5ae2b5c485b"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-12-05-33",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-12-05-33.md",
+      "tipo": "RSF",
+      "senado_id": "30727412",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-12-05;33",
+      "norma": {
+        "numero": "33",
+        "data": "2018-12-05",
+        "titulo": "Resolução do Senado Federal nº 33 de 05/12/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-12-05-33",
+      "sha256_fonte": "422d0f3674878b74c1006c7e5d9026983cf8105b454913907f1cebfcc7db1a9c",
+      "sha256_markdown": "1173b88695b8c7f30d9e94f7a0fca2e53953a1c412b632a2861260075fbd16bd"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-12-05-31",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-12-05-31.md",
+      "tipo": "RSF",
+      "senado_id": "30727280",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-12-05;31",
+      "norma": {
+        "numero": "31",
+        "data": "2018-12-05",
+        "titulo": "Resolução do Senado Federal nº 31 de 05/12/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-12-05-31",
+      "sha256_fonte": "7d1c642446c248fe9feafbd5f95d12495455f79a3c76f4096e74b8ec8e3e11c7",
+      "sha256_markdown": "3aa8b3edd822c92bf13d62e5d4573ba0678b28485bbc95e5d9fc2f7c330e7239"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-12-05-32",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-12-05-32.md",
+      "tipo": "RSF",
+      "senado_id": "30727573",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-12-05;32",
+      "norma": {
+        "numero": "32",
+        "data": "2018-12-05",
+        "titulo": "Resolução do Senado Federal nº 32 de 05/12/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-12-05-32",
+      "sha256_fonte": "21858d60fe8c7866112c49f7f54e9c23a32b678f27819086ba32bbdf08cf8fbf",
+      "sha256_markdown": "32894fa861149acbce59bf49614a9b1a60b365beb8476149df4c30e697f79ea4"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-11-27-30",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-11-27-30.md",
+      "tipo": "RSF",
+      "senado_id": "30717570",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-11-27;30",
+      "norma": {
+        "numero": "30",
+        "data": "2018-11-27",
+        "titulo": "Resolução do Senado Federal nº 30 de 27/11/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-11-27-30",
+      "sha256_fonte": "87508f018ea985a0ec29423eb8e77f27ac2af51d4313492364ee80ff8bc8e99d",
+      "sha256_markdown": "ecc058d9d6605190d9de0d9f6a6bacbe1d591faa36809bfca6bf22cd48f74847"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-11-07-29",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-11-07-29.md",
+      "tipo": "RSF",
+      "senado_id": "30696029",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-11-07;29",
+      "norma": {
+        "numero": "29",
+        "data": "2018-11-07",
+        "titulo": "Resolução do Senado Federal nº 29 de 07/11/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-11-07-29",
+      "sha256_fonte": "4c8034210ecc76b680c60acff8f9680b7189466081588ebf98e4d38b7ba1fe8c",
+      "sha256_markdown": "8bb741846f75e91d7017e797c55110b80cb5f3b9233b71e8459cce02049da3b3"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-11-07-28",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-11-07-28.md",
+      "tipo": "RSF",
+      "senado_id": "30695981",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-11-07;28",
+      "norma": {
+        "numero": "28",
+        "data": "2018-11-07",
+        "titulo": "Resolução do Senado Federal nº 28 de 07/11/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-11-07-28",
+      "sha256_fonte": "65d8ddfdec5256cd6c52171663a448a5025106c2e6d096fe8a56694ba5123eef",
+      "sha256_markdown": "5b2e042e14d8e3fc5488ea832539ecaab907298e8a6d26ec9d7f31d23a615b5c"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-10-31-26",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-10-31-26.md",
+      "tipo": "RSF",
+      "senado_id": "30691094",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-10-31;26",
+      "norma": {
+        "numero": "26",
+        "data": "2018-10-31",
+        "titulo": "Resolução do Senado Federal nº 26 de 31/10/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-10-31-26",
+      "sha256_fonte": "1407eb670f4c02ad0297d62ab91e25555047b99607f992c02bf0d105102c00af",
+      "sha256_markdown": "66697ae215c6829cb179d243db5c5c29e427a9ce54a22d90eeac63d204c9ca89"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-10-31-27",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-10-31-27.md",
+      "tipo": "RSF",
+      "senado_id": "30691124",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-10-31;27",
+      "norma": {
+        "numero": "27",
+        "data": "2018-10-31",
+        "titulo": "Resolução do Senado Federal nº 27 de 31/10/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-10-31-27",
+      "sha256_fonte": "3a60456c55f8e3b131e53d7ad66e1c98be3b95614bda5e825418152d8fce4fbe",
+      "sha256_markdown": "79978a34a1432f3ea8688048db29d5cebd50bd1cd0b088cb0ba738fb4cb62dd3"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-10-10-25",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-10-10-25.md",
+      "tipo": "RSF",
+      "senado_id": "30232916",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-10-10;25",
+      "norma": {
+        "numero": "25",
+        "data": "2018-10-10",
+        "titulo": "Resolução do Senado Federal nº 25 de 10/10/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-10-10-25",
+      "sha256_fonte": "14fd044f9b06b4f9e557f1dde5c3dbe4e3a2c26308a2eb6623c933afb1e9d72b",
+      "sha256_markdown": "1146682863ffff0ba7c41f3b8c8c03513f007cb2bff8b7156f0e448da4e7924b"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-09-05-24",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-09-05-24.md",
+      "tipo": "RSF",
+      "senado_id": "27471586",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-09-05;24",
+      "norma": {
+        "numero": "24",
+        "data": "2018-09-05",
+        "titulo": "Resolução do Senado Federal nº 24 de 05/09/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-09-05-24",
+      "sha256_fonte": "462739160967489a3dbe9db8be68bf55ddbd20c98685767c53537badea37edb7",
+      "sha256_markdown": "61b26e12b9c5f8bcbddfe968d166cb92f616810280af82470871ca86b40c0d6e"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-09-05-20",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-09-05-20.md",
+      "tipo": "RSF",
+      "senado_id": "27471526",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-09-05;20",
+      "norma": {
+        "numero": "20",
+        "data": "2018-09-05",
+        "titulo": "Resolução do Senado Federal nº 20 de 05/09/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-09-05-20",
+      "sha256_fonte": "58a1343e428d19be2b402d265a36501273dccc6a678522c4c64a891a4dc8ede0",
+      "sha256_markdown": "a16680d0b3ba9cde394699fefffb3c2e77fbdb1820524ea22dc73dbfc15bedc9"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-09-05-23",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-09-05-23.md",
+      "tipo": "RSF",
+      "senado_id": "27471556",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-09-05;23",
+      "norma": {
+        "numero": "23",
+        "data": "2018-09-05",
+        "titulo": "Resolução do Senado Federal nº 23 de 05/09/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-09-05-23",
+      "sha256_fonte": "e00a96812bab5b4fb2686e8073e3377ef502b2f31317e90af1eacb882d9d17ea",
+      "sha256_markdown": "d98eea7d5abdcf566fa468f8815c6890d6a1562461180af8849fb9d410adc61e"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-09-05-22",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-09-05-22.md",
+      "tipo": "RSF",
+      "senado_id": "27471718",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-09-05;22",
+      "norma": {
+        "numero": "22",
+        "data": "2018-09-05",
+        "titulo": "Resolução do Senado Federal nº 22 de 05/09/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-09-05-22",
+      "sha256_fonte": "a5bdc1a4270cc12d4312efbfc01e34f9910647e2d54e49c43e0b8518257ea09f",
+      "sha256_markdown": "f794431abaf90398e27c8935988cb9c3ca0c54ea0db1561b14c02dcd28c71011"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-09-05-21",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-09-05-21.md",
+      "tipo": "RSF",
+      "senado_id": "27471688",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-09-05;21",
+      "norma": {
+        "numero": "21",
+        "data": "2018-09-05",
+        "titulo": "Resolução do Senado Federal nº 21 de 05/09/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-09-05-21",
+      "sha256_fonte": "3f43e5aa4217abf1c1d41a46204f3c43654a7b239812d47f329646151519746d",
+      "sha256_markdown": "d4537977cf3b2537f24846719b5cc2a6e99bc15d021b82120cc6444f9e1a916e"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-07-12-19",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-07-12-19.md",
+      "tipo": "RSF",
+      "senado_id": "27440315",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-07-12;19",
+      "norma": {
+        "numero": "19",
+        "data": "2018-07-12",
+        "titulo": "Resolução do Senado Federal nº 19 de 12/07/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-07-12-19",
+      "sha256_fonte": "e685bdfc596d9b4976ca3ec990a243356541cf88527439e88577ae9d713147a1",
+      "sha256_markdown": "4d45a25306929b7313139e0fa6b11c2c253d48eeb198200f6b27c6d919e77e5b"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-07-11-16",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-07-11-16.md",
+      "tipo": "RSF",
+      "senado_id": "27437915",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-07-11;16",
+      "norma": {
+        "numero": "16",
+        "data": "2018-07-11",
+        "titulo": "Resolução do Senado Federal nº 16 de 11/07/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-07-11-16",
+      "sha256_fonte": "8812a6cc2a2f1860abb0ae3078427670962fa41a3e2a6ecf99e1b8dd6928b0f1",
+      "sha256_markdown": "d346998f4e43a4924b694e875091bae22243071472ae8220f0f52a6e2ccd1d8a"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-07-11-18",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-07-11-18.md",
+      "tipo": "RSF",
+      "senado_id": "27437993",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-07-11;18",
+      "norma": {
+        "numero": "18",
+        "data": "2018-07-11",
+        "titulo": "Resolução do Senado Federal nº 18 de 11/07/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-07-11-18",
+      "sha256_fonte": "89671204e11584264ab33c0e422502229a773286e8c38b70921aef94d9d6e3c5",
+      "sha256_markdown": "15f75f33fc8eca7c9590d487c96beca9421467f45921936959ca9a59fa25399e"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-07-11-17",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-07-11-17.md",
+      "tipo": "RSF",
+      "senado_id": "27437963",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-07-11;17",
+      "norma": {
+        "numero": "17",
+        "data": "2018-07-11",
+        "titulo": "Resolução do Senado Federal nº 17 de 11/07/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-07-11-17",
+      "sha256_fonte": "1c29e355b6703bff864447751a2d920b44239cc8ec1e931eb60f48e833681b86",
+      "sha256_markdown": "d3cb4d2c2429ddf58b9a0260e1f324acb550c83dd502cd3bb48542eb5ccd7cf9"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-07-04-15",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-07-04-15.md",
+      "tipo": "RSF",
+      "senado_id": "27422992",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-07-04;15",
+      "norma": {
+        "numero": "15",
+        "data": "2018-07-04",
+        "titulo": "Resolução do Senado Federal nº 15 de 04/07/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-07-04-15",
+      "sha256_fonte": "ea648929cad4b3295ba041d838af7cf6d4cebd72c1bae51b5236a16a6e193712",
+      "sha256_markdown": "8991294e14127adaf4b01942ff69f81cbb310c2e3ef10cdf23c2b95630142f9a"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-07-03-14",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-07-03-14.md",
+      "tipo": "RSF",
+      "senado_id": "27419843",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-07-03;14",
+      "norma": {
+        "numero": "14",
+        "data": "2018-07-03",
+        "titulo": "Resolução do Senado Federal nº 14 de 03/07/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-07-03-14",
+      "sha256_fonte": "2a695ea4681cca90e984e8274090dccdb09c5934b5315e1346a1925b483c6809",
+      "sha256_markdown": "2620e7d980e76896a700ca147dd58cf89a49b00a0a9e0ec120e824e7c0cd3072"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-06-06-12",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-06-06-12.md",
+      "tipo": "RSF",
+      "senado_id": "26925348",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-06-06;12",
+      "norma": {
+        "numero": "12",
+        "data": "2018-06-06",
+        "titulo": "Resolução do Senado Federal nº 12 de 06/06/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-06-06-12",
+      "sha256_fonte": "c8952b96c074dbc46352ad01c5c0e4d2aee967e9cf712278da6a0e82b17ccff3",
+      "sha256_markdown": "090e07cc855f39e9c728b2d9a9de47e3fbd16fc068d18fb6a3871e42ae0537fc"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-05-30-11",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-05-30-11.md",
+      "tipo": "RSF",
+      "senado_id": "26917703",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-05-30;11",
+      "norma": {
+        "numero": "11",
+        "data": "2018-05-30",
+        "titulo": "Resolução do Senado Federal nº 11 de 30/05/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-05-30-11",
+      "sha256_fonte": "282cb78d367ec32aa86383286f16cc226de4c438b6b49371f427739fa96885f1",
+      "sha256_markdown": "65b73727cfd53c57394863b43320eb5de690dd8657f8b448032d9f6c7e480335"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-05-28-7",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-05-28-7.md",
+      "tipo": "RSF",
+      "senado_id": "26914749",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-05-28;7",
+      "norma": {
+        "numero": "7",
+        "data": "2018-05-28",
+        "titulo": "Resolução do Senado Federal nº 7 de 28/05/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-05-28-7",
+      "sha256_fonte": "efd1f92b539c92dad75d6a1a379205ef3496595668eef97307334c5155652303",
+      "sha256_markdown": "7574a1e63636aa3d11455fb076711c9fb18cece2f4c0c4751a05b24918801b20"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-05-28-8",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-05-28-8.md",
+      "tipo": "RSF",
+      "senado_id": "26914815",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-05-28;8",
+      "norma": {
+        "numero": "8",
+        "data": "2018-05-28",
+        "titulo": "Resolução do Senado Federal nº 8 de 28/05/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-05-28-8",
+      "sha256_fonte": "19f4e274085d7fb26bd7bbc003d2d4b6654e3471904ba9850ba329ff2e48834b",
+      "sha256_markdown": "1fc4b371d147ee1f2e34647cd6dc9c53171efa2862b5cd263e43b2e6e66ba68f"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-05-28-10",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-05-28-10.md",
+      "tipo": "RSF",
+      "senado_id": "26914785",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-05-28;10",
+      "norma": {
+        "numero": "10",
+        "data": "2018-05-28",
+        "titulo": "Resolução do Senado Federal nº 10 de 28/05/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-05-28-10",
+      "sha256_fonte": "6a9f09db1656aa05eff4ac0bf84e4f907ea6f92be32851e533b8e0ae33eb9f0c",
+      "sha256_markdown": "617257d00575d80f2691563fa9185651de94de5a4220b71ce52a17b4b435157c"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-05-28-9",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-05-28-9.md",
+      "tipo": "RSF",
+      "senado_id": "26914851",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-05-28;9",
+      "norma": {
+        "numero": "9",
+        "data": "2018-05-28",
+        "titulo": "Resolução do Senado Federal nº 9 de 28/05/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-05-28-9",
+      "sha256_fonte": "6fc9f7e2102b233ee481f7e918e3c15068b6eb1dd30be3edb74301cb59ab964f",
+      "sha256_markdown": "0746a5a75b29b0451d67339cf8a0125abb538b4ec5b86c750c27e771d5e6fddb"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-04-19-6",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-04-19-6.md",
+      "tipo": "RSF",
+      "senado_id": "26544243",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-04-19;6",
+      "norma": {
+        "numero": "6",
+        "data": "2018-04-19",
+        "titulo": "Resolução do Senado Federal nº 6 de 19/04/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-04-19-6",
+      "sha256_fonte": "53712ec93e52bdcc268315f2c22deddf5efc6e215957344aa1f8a32650184f4e",
+      "sha256_markdown": "026f96225345b98405c694dcd74695168c875868d4b7f6c4b4305c3fefc09a5f"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-04-17-5",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-04-17-5.md",
+      "tipo": "RSF",
+      "senado_id": "26540443",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-04-17;5",
+      "norma": {
+        "numero": "5",
+        "data": "2018-04-17",
+        "titulo": "Resolução do Senado Federal nº 5 de 17/04/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-04-17-5",
+      "sha256_fonte": "52f1bb587c9c17c9c55c92cb6cd4e770fe591eb5ddbc22b8d88be83f0fe1f5c1",
+      "sha256_markdown": "9687de34a6368a8b646f3f1f0579cb8dd9a359717526b860f039dfff3bdf9ce6"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-04-17-4",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-04-17-4.md",
+      "tipo": "RSF",
+      "senado_id": "26540413",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-04-17;4",
+      "norma": {
+        "numero": "4",
+        "data": "2018-04-17",
+        "titulo": "Resolução do Senado Federal nº 4 de 17/04/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-04-17-4",
+      "sha256_fonte": "d5a26382a8f48f103cce84bf9a804dd9f6b6b76bf6319afb037b213a033f4fd1",
+      "sha256_markdown": "60b1ff2a16a77c4233af9cf3cb108f352823981c3edff9d1d4a1afa8196b135d"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-04-17-3",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-04-17-3.md",
+      "tipo": "RSF",
+      "senado_id": "26540383",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-04-17;3",
+      "norma": {
+        "numero": "3",
+        "data": "2018-04-17",
+        "titulo": "Resolução do Senado Federal nº 3 de 17/04/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-04-17-3",
+      "sha256_fonte": "c6b143f163ea6b4f3f5b501a5a73cf1fc53de9e69ea17fb0f09d06c0087b3d41",
+      "sha256_markdown": "54da907654b1310be65e2b45b1769e85d16074205799b363a4bfac9b726023a0"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-02-21-1",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-02-21-1.md",
+      "tipo": "RSF",
+      "senado_id": "26359172",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-02-21;1",
+      "norma": {
+        "numero": "1",
+        "data": "2018-02-21",
+        "titulo": "Resolução do Senado Federal nº 1 de 21/02/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-02-21-1",
+      "sha256_fonte": "53e4ca441d118bd62b3aaa8c0c53c4c3a1da848a52c46b222df27d00d9652dec",
+      "sha256_markdown": "4e17d059ef361dcc2ccc8826759c0050918b970f659dbb3e15e33ae64b744aa0"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-02-21-2",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-02-21-2.md",
+      "tipo": "RSF",
+      "senado_id": "26359220",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-02-21;2",
+      "norma": {
+        "numero": "2",
+        "data": "2018-02-21",
+        "titulo": "Resolução do Senado Federal nº 2 de 21/02/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-02-21-2",
+      "sha256_fonte": "1bd1033051b7a973c4e60487dbcb1292de894e11db3f6ab40197154bc36d5912",
+      "sha256_markdown": "2941e67eceb395d33f7fdb8f517ca4d77670d5445fe09ca35258f8f3aee310db"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-12-15-28",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-12-15-28.md",
+      "tipo": "RSF",
+      "senado_id": "26323058",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-12-15;28",
+      "norma": {
+        "numero": "28",
+        "data": "2017-12-15",
+        "titulo": "Resolução do Senado Federal nº 28 de 15/12/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-12-15-28",
+      "sha256_fonte": "6f8a2ae7978b0b5dd93a1975827e77b792dadc32f3d406192f2ab33b30294318",
+      "sha256_markdown": "b66b281e65c402a6280bfef7dada546434e75558550f49f5adb339fd3eb3a4e9"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-12-11-24",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-12-11-24.md",
+      "tipo": "RSF",
+      "senado_id": "26317969",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-12-11;24",
+      "norma": {
+        "numero": "24",
+        "data": "2017-12-11",
+        "titulo": "Resolução do Senado Federal nº 24 de 11/12/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-12-11-24",
+      "sha256_fonte": "908102139f238c5f686484f4e9a3176eaff2384f47910fe3eb807e9a0bdcb23f",
+      "sha256_markdown": "14b1b7e447205f8f4401cf7041a9694abd3bcf334f1e25b0c7ac4899f6e53719"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-12-11-26",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-12-11-26.md",
+      "tipo": "RSF",
+      "senado_id": "26318029",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-12-11;26",
+      "norma": {
+        "numero": "26",
+        "data": "2017-12-11",
+        "titulo": "Resolução do Senado Federal nº 26 de 11/12/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-12-11-26",
+      "sha256_fonte": "5722fc20f52a7216f26b457c3bd2d84f3beb2f62f3d12b955bbab7cc8c40d966",
+      "sha256_markdown": "7dafce82d6d17e700393f7317aefc1f563c8464a9ee72ab4e1de51efd5bc9975"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-12-11-25",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-12-11-25.md",
+      "tipo": "RSF",
+      "senado_id": "26317999",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-12-11;25",
+      "norma": {
+        "numero": "25",
+        "data": "2017-12-11",
+        "titulo": "Resolução do Senado Federal nº 25 de 11/12/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-12-11-25",
+      "sha256_fonte": "df4ec1bad6efd1af1a6cfe92c66f19a89f830987e1302c5ba0a849776293c075",
+      "sha256_markdown": "bd37fc27a42d66d875eb8b486dc001edafc3fbbf799b7bed359ef1c153e99807"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-12-11-27",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-12-11-27.md",
+      "tipo": "RSF",
+      "senado_id": "26318059",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-12-11;27",
+      "norma": {
+        "numero": "27",
+        "data": "2017-12-11",
+        "titulo": "Resolução do Senado Federal nº 27 de 11/12/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-12-11-27",
+      "sha256_fonte": "f9273852fe32574a02ada110070de7820f5b14093dbf5c4398df5770f14cf21f",
+      "sha256_markdown": "1de2eae51fb6eda74c54d518206f587c54d06c7c1f4ed31e309c4d94407b7954"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-12-07-23",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-12-07-23.md",
+      "tipo": "RSF",
+      "senado_id": "26314663",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-12-07;23",
+      "norma": {
+        "numero": "23",
+        "data": "2017-12-07",
+        "titulo": "Resolução do Senado Federal nº 23 de 07/12/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-12-07-23",
+      "sha256_fonte": "939316e26dcee21eb268e0e69cb3a7f3195ba5412cfd054c11752ef5a622f31d",
+      "sha256_markdown": "4b859d87b28df56b9f15c32d8a78d304ae717b0117e03ad5e3c1f33bd53877d9"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-11-29-22",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-11-29-22.md",
+      "tipo": "RSF",
+      "senado_id": "26306312",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-11-29;22",
+      "norma": {
+        "numero": "22",
+        "data": "2017-11-29",
+        "titulo": "Resolução do Senado Federal nº 22 de 29/11/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-11-29-22",
+      "sha256_fonte": "2803af686fd0383baaa3746965c22dfb6939f47c5694c46736c96586b8e99e48",
+      "sha256_markdown": "1d78983377bf92d261854a30fff6c5c11c69a01c33ab28d89773303cb7a95986"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-10-26-21",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-10-26-21.md",
+      "tipo": "RSF",
+      "senado_id": "26269079",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-10-26;21",
+      "norma": {
+        "numero": "21",
+        "data": "2017-10-26",
+        "titulo": "Resolução do Senado Federal nº 21 de 26/10/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-10-26-21",
+      "sha256_fonte": "d4173d1121ccd69de04a7f5837d941292db4ac3c574668c6d086be02cff05f76",
+      "sha256_markdown": "9233024019c5c6a7f65ed988e0868348364b4bcf1ed4235fb1b797f6312dedae"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-10-04-20",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-10-04-20.md",
+      "tipo": "RSF",
+      "senado_id": "26247464",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-10-04;20",
+      "norma": {
+        "numero": "20",
+        "data": "2017-10-04",
+        "titulo": "Resolução do Senado Federal nº 20 de 04/10/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-10-04-20",
+      "sha256_fonte": "5d4f4354b5083bc483d920b6ca6622905b3991f34c37759a91a4475ce3449474",
+      "sha256_markdown": "af0896f38ef6f6bfc76c71f36a9e2f58c482edca8dc28d1b7f2ec92f1d6edb58"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-10-04-19",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-10-04-19.md",
+      "tipo": "RSF",
+      "senado_id": "26247429",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-10-04;19",
+      "norma": {
+        "numero": "19",
+        "data": "2017-10-04",
+        "titulo": "Resolução do Senado Federal nº 19 de 04/10/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-10-04-19",
+      "sha256_fonte": "98152b4119c83173d054d082730729e1681645b5cb7474a67571bbadb9b45453",
+      "sha256_markdown": "ebc2c702cf924c81a81796702e4883ad4ebccb88081197c9c2f3f0688b3825f1"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-09-14-18",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-09-14-18.md",
+      "tipo": "RSF",
+      "senado_id": "17764050",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-09-14;18",
+      "norma": {
+        "numero": "18",
+        "data": "2017-09-14",
+        "titulo": "Resolução do Senado Federal nº 18 de 14/09/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-09-14-18",
+      "sha256_fonte": "bffc4aee351a3ba9810268024306b425ca96f4728d7dc52a6938dacf4857a8fb",
+      "sha256_markdown": "2e3fece056cc6a70d2638ce8869ff70dece86fa6497da83e0f9df94b1dbfbb4e"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-09-12-15",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-09-12-15.md",
+      "tipo": "RSF",
+      "senado_id": "17763129",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-09-12;15",
+      "norma": {
+        "numero": "15",
+        "data": "2017-09-12",
+        "titulo": "Resolução do Senado Federal nº 15 de 12/09/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-09-12-15",
+      "sha256_fonte": "4bd4b6588b803a1f08b4fdf28ae60af65b7cc7e3c8e488b17671409ec726b8c8",
+      "sha256_markdown": "923ace75b4027467a30f9406391eb333d3d7d0d03687662bc73310f3b611f3fb"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-09-12-16",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-09-12-16.md",
+      "tipo": "RSF",
+      "senado_id": "17763164",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-09-12;16",
+      "norma": {
+        "numero": "16",
+        "data": "2017-09-12",
+        "titulo": "Resolução do Senado Federal nº 16 de 12/09/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-09-12-16",
+      "sha256_fonte": "4fb35aeb1feaac3cee40a7efa67dbcc13270ee2e4cf1f8aaa471d0a8ba40c35e",
+      "sha256_markdown": "486abfb81f60a259f22131ae96acf2d0590c452cbf883199cbe2b834af775b37"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-09-12-17",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-09-12-17.md",
+      "tipo": "RSF",
+      "senado_id": "17763224",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-09-12;17",
+      "norma": {
+        "numero": "17",
+        "data": "2017-09-12",
+        "titulo": "Resolução do Senado Federal nº 17 de 12/09/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-09-12-17",
+      "sha256_fonte": "6950372c5d1c047e1d391c409bbb47e3639a6e9fe7644bef150f01662f5b8c7d",
+      "sha256_markdown": "5414b1970ad50bd8d1d343bef2243a64990daf667b32603f9cd53fa244f58fd8"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-08-10-14",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-08-10-14.md",
+      "tipo": "RSF",
+      "senado_id": "17747603",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-08-10;14",
+      "norma": {
+        "numero": "14",
+        "data": "2017-08-10",
+        "titulo": "Resolução do Senado Federal nº 14 de 10/08/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-08-10-14",
+      "sha256_fonte": "cd06a6bd57dc58f45bbaa5ab50da41270cabbcfd47355a464e94e95a95a4f76a",
+      "sha256_markdown": "9df2afb588c67a29d69a0ec8145e2bccb21f0cac44eda79ffaf605467062c989"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-07-13-13",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-07-13-13.md",
+      "tipo": "RSF",
+      "senado_id": "17728714",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-07-13;13",
+      "norma": {
+        "numero": "13",
+        "data": "2017-07-13",
+        "titulo": "Resolução do Senado Federal nº 13 de 13/07/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-07-13-13",
+      "sha256_fonte": "088f8b0276a3f45fdb78076119e7d0c7ce544dea3d4a4c27bf28090712290135",
+      "sha256_markdown": "979ccb06cbd392d5cec6d139ac003b0614af4198f5973915865e3ab053f01f5b"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-07-13-12",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-07-13-12.md",
+      "tipo": "RSF",
+      "senado_id": "17728679",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-07-13;12",
+      "norma": {
+        "numero": "12",
+        "data": "2017-07-13",
+        "titulo": "Resolução do Senado Federal nº 12 de 13/07/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-07-13-12",
+      "sha256_fonte": "e8698fb07c5674ad50d3a8f5ae45a22424c6f08dd59552fe219233b91906e3da",
+      "sha256_markdown": "253d92aa32585d5595c38291a49fd31d6dbb4844e2e5b52a98e4983f51d12592"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-07-06-11",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-07-06-11.md",
+      "tipo": "RSF",
+      "senado_id": "17718355",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-07-06;11",
+      "norma": {
+        "numero": "11",
+        "data": "2017-07-06",
+        "titulo": "Resolução do Senado Federal nº 11 de 06/07/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-07-06-11",
+      "sha256_fonte": "dd2eb23b4acb395b69535e1213470f9a5d6d86ae688f4735508d7215a9a3627f",
+      "sha256_markdown": "58162f30a5f51813b5f4c2c660b57997633899999622befe2727410f956f304e"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-06-21-9",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-06-21-9.md",
+      "tipo": "RSF",
+      "senado_id": "17709892",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-06-21;9",
+      "norma": {
+        "numero": "9",
+        "data": "2017-06-21",
+        "titulo": "Resolução do Senado Federal nº 9 de 21/06/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-06-21-9",
+      "sha256_fonte": "a7ec3e7d4698d179f5d644afdcfe3d6d1a989f2da973efdc033bea04782ffdf6",
+      "sha256_markdown": "8816125062669ced60256239e3fa2fa00cdf620efe85265dfc666d29cb22e492"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-06-21-10",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-06-21-10.md",
+      "tipo": "RSF",
+      "senado_id": "17709927",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-06-21;10",
+      "norma": {
+        "numero": "10",
+        "data": "2017-06-21",
+        "titulo": "Resolução do Senado Federal nº 10 de 21/06/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-06-21-10",
+      "sha256_fonte": "f4940207bde64cd71d3504a33b5b251900ad3c1a9967dc373997a3d24066b42c",
+      "sha256_markdown": "241d37033bb751bcbb8a1692feee86305e80f4e870f4bdf7b3ca989e7d723da6"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-05-31-8",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-05-31-8.md",
+      "tipo": "RSF",
+      "senado_id": "17699842",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-05-31;8",
+      "norma": {
+        "numero": "8",
+        "data": "2017-05-31",
+        "titulo": "Resolução do Senado Federal nº 8 de 31/05/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-05-31-8",
+      "sha256_fonte": "7af94a803626a88ecc7057f597fef19a3e7c17159ab108edec006bf5837ed7ce",
+      "sha256_markdown": "a7618d41e36734dfc84a36f4221927ac79887771cd8f797673810d32f6b27f9e"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-05-18-7",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-05-18-7.md",
+      "tipo": "RSF",
+      "senado_id": "17694903",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-05-18;7",
+      "norma": {
+        "numero": "7",
+        "data": "2017-05-18",
+        "titulo": "Resolução do Senado Federal nº 7 de 18/05/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-05-18-7",
+      "sha256_fonte": "e86dddcfed5c9582f6e703c8d3778322b2b2b05d373c13136237f21e4dea6fa0",
+      "sha256_markdown": "1d4f37ca8f1d11cb6351b70b6fe09297e53f182a8d04f2072f0dfae7250351f4"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-05-18-6",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-05-18-6.md",
+      "tipo": "RSF",
+      "senado_id": "17694868",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-05-18;6",
+      "norma": {
+        "numero": "6",
+        "data": "2017-05-18",
+        "titulo": "Resolução do Senado Federal nº 6 de 18/05/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-05-18-6",
+      "sha256_fonte": "966e35921c3477a597e84df449868c072e7259d5ad92795ffc6c68442e956147",
+      "sha256_markdown": "01ad9bf378c9c8c22f21e9cb4b2e0d90e0ec9ae84804565254109cb86cc9458f"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-05-15-5",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-05-15-5.md",
+      "tipo": "RSF",
+      "senado_id": "17691308",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-05-15;5",
+      "norma": {
+        "numero": "5",
+        "data": "2017-05-15",
+        "titulo": "Resolução do Senado Federal nº 5 de 15/05/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-05-15-5",
+      "sha256_fonte": "03566e6efe03f415f315ceb0b38e77b62206b4e223b2b90da4ced2c867956c95",
+      "sha256_markdown": "5be1d87f17201c8eb3cd3dfe1eb674010be906120419ba5dd4e4a3fc762b0bf9"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-04-19-4",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-04-19-4.md",
+      "tipo": "RSF",
+      "senado_id": "17677886",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-04-19;4",
+      "norma": {
+        "numero": "4",
+        "data": "2017-04-19",
+        "titulo": "Resolução do Senado Federal nº 4 de 19/04/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-04-19-4",
+      "sha256_fonte": "a370caa187c6f3b8cfe5cad71c65b1df0eeb8c157dbe951778126770ad6f6032",
+      "sha256_markdown": "19cf704b9b2a1708337a2ede26bc9909b6799bd51fc8d908f00de1c937ec7170"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-03-30-3",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-03-30-3.md",
+      "tipo": "RSF",
+      "senado_id": "17668577",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-03-30;3",
+      "norma": {
+        "numero": "3",
+        "data": "2017-03-30",
+        "titulo": "Resolução do Senado Federal nº 3 de 30/03/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-03-30-3",
+      "sha256_fonte": "e95a0a5f9c9a043455ebd4238c7b3e8089f4a687676063943c1f8c58b31d3edd",
+      "sha256_markdown": "470919727d72cb485955936eb8b58d99534fa2295cee3d3185257b83724bc092"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-03-22-2",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-03-22-2.md",
+      "tipo": "RSF",
+      "senado_id": "17664695",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-03-22;2",
+      "norma": {
+        "numero": "2",
+        "data": "2017-03-22",
+        "titulo": "Resolução do Senado Federal nº 2 de 22/03/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-03-22-2",
+      "sha256_fonte": "4acc2db68f1d2fbdd749b3dcdeceb3f9db674cb9af19bb4782c5ef6a4b1721b2",
+      "sha256_markdown": "756cfd3c0acf4ad94aa7d276516015b1fc8e7e5a5f780de7cfad60babb9920ab"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2017-03-08-1",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2017-03-08-1.md",
+      "tipo": "RSF",
+      "senado_id": "17652548",
+      "urn": "urn:lex:br:senado.federal:resolucao:2017-03-08;1",
+      "norma": {
+        "numero": "1",
+        "data": "2017-03-08",
+        "titulo": "Resolução do Senado Federal nº 1 de 08/03/2017"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2017-03-08-1",
+      "sha256_fonte": "9ab8863db630dc0ab265d56f03e015ebc3f33438e58f4a12297bd4014ba85198",
+      "sha256_markdown": "f4a7f865c191bd2a0d6fc2befb34ea6bc1da448772639a836a4a95656a72cf2e"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2016-12-20-43",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2016-12-20-43.md",
+      "tipo": "RSF",
+      "senado_id": "582615",
+      "urn": "urn:lex:br:senado.federal:resolucao:2016-12-20;43",
+      "norma": {
+        "numero": "43",
+        "data": "2016-12-20",
+        "titulo": "Resolução do Senado Federal nº 43 de 20/12/2016"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2016-12-20-43",
+      "sha256_fonte": "d63526c13ef540dac93d266a4890f7fc653ea311bd97736e992e0b39c99016c0",
+      "sha256_markdown": "058224797a97cc58b7eccb03004dcb298fee0faf6a257d374c34fd6dc9f3307b"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2016-11-01-42",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2016-11-01-42.md",
+      "tipo": "RSF",
+      "senado_id": "582564",
+      "urn": "urn:lex:br:senado.federal:resolucao:2016-11-01;42",
+      "norma": {
+        "numero": "42",
+        "data": "2016-11-01",
+        "titulo": "Resolução do Senado Federal nº 42 de 01/11/2016"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2016-11-01-42",
+      "sha256_fonte": "06e78f6ad7e7fd0d05e6861861e35fd3ab0b2940e967cc432c1420d01937e4a0",
+      "sha256_markdown": "53c11cc901508df138fb453f057702ab3e6fa8ecfa6770b26a9632f9f1435172"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2016-09-14-37",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2016-09-14-37.md",
+      "tipo": "RSF",
+      "senado_id": "574819",
+      "urn": "urn:lex:br:senado.federal:resolucao:2016-09-14;37",
+      "norma": {
+        "numero": "37",
+        "data": "2016-09-14",
+        "titulo": "Resolução do Senado Federal nº 37 de 14/09/2016"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2016-09-14-37",
+      "sha256_fonte": "9be3400bd919dd7cbdb5f176126546fade42598ba67056a876a34aaddc5b1c08",
+      "sha256_markdown": "83bfca8b9bf9df9cc99b8357f7d0c32f34badf8c30966e7d80322f5e42943fec"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2016-09-14-36",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2016-09-14-36.md",
+      "tipo": "RSF",
+      "senado_id": "562393",
+      "urn": "urn:lex:br:senado.federal:resolucao:2016-09-14;36",
+      "norma": {
+        "numero": "36",
+        "data": "2016-09-14",
+        "titulo": "Resolução do Senado Federal nº 36 de 14/09/2016"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2016-09-14-36",
+      "sha256_fonte": "daf4a4370388deea1d1b8df43e400f0a9c80802a5acad933bf5d7184c3ff4525",
+      "sha256_markdown": "14a31bdb36a931b2559222d12f9411e2d9cc2ddf43b54a9c065b0193dc5207ee"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2016-09-14-38",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2016-09-14-38.md",
+      "tipo": "RSF",
+      "senado_id": "574873",
+      "urn": "urn:lex:br:senado.federal:resolucao:2016-09-14;38",
+      "norma": {
+        "numero": "38",
+        "data": "2016-09-14",
+        "titulo": "Resolução do Senado Federal nº 38 de 14/09/2016"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2016-09-14-38",
+      "sha256_fonte": "709caf75224e3638bec092a8d470ea16f22ad5c98c79c6b6db0cfb5c20dae4f6",
+      "sha256_markdown": "f3b0d37f3dea1559f9d8615b617fd8c0f1ad7fc57b4aef7874a432b339f82cb3"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2016-09-14-40",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2016-09-14-40.md",
+      "tipo": "RSF",
+      "senado_id": "562469",
+      "urn": "urn:lex:br:senado.federal:resolucao:2016-09-14;40",
+      "norma": {
+        "numero": "40",
+        "data": "2016-09-14",
+        "titulo": "Resolução do Senado Federal nº 40 de 14/09/2016"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2016-09-14-40",
+      "sha256_fonte": "33fca38877cd59c20a7f874a1740d2926bb2473e5cf32bd8714f000dbfb0d860",
+      "sha256_markdown": "6e1dc78fc00d832b736d6c8a92f0cd93481733ff480b3cc96ab0945514b8564f"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2016-09-14-39",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2016-09-14-39.md",
+      "tipo": "RSF",
+      "senado_id": "562416",
+      "urn": "urn:lex:br:senado.federal:resolucao:2016-09-14;39",
+      "norma": {
+        "numero": "39",
+        "data": "2016-09-14",
+        "titulo": "Resolução do Senado Federal nº 39 de 14/09/2016"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2016-09-14-39",
+      "sha256_fonte": "a76c195c198b5df7895c71f00907f0a35a6fc39aa8e7fab34e8e77c085a13628",
+      "sha256_markdown": "4c744b15172bcf49570dfc7629b6d75a3f8ab1b9d28f2f4cfa3c41876e091e22"
     }
   ]
 }

@@ -1,0 +1,37 @@
+{
+  "issue": 103,
+  "metodo": "HTML oficial capturado -> selecionar exatamente .textoNorma -> get_text(\" \") -> comparar strip_fold com corpo Markdown sem a primeira epigrafe; comparação offline, sem rede.",
+  "identidades": [
+    {
+      "id": "br-federal-lei-2014-06-02-12985",
+      "arquivo": "federal/br-federal-lei-2014-06-02-12985.md",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/lei/2014/lei-12985-2-junho-2014-778849-publicacaooriginal-144290-pl.html",
+      "snapshot": "provas/identidade-federal-99-102-103/fontes/br-federal-lei-2014-06-02-12985.html.xz",
+      "sha256_snapshot_comprimido": "aa83f9f8547048c5b6ea6e36a8215d9eb996cb1287c0c82b806e1e085563fd95",
+      "sha256_fonte": "83afecffd1a9b479f619d164a99c975253e5594432b503647a7dccf330d4b992",
+      "bytes_fonte": 40743,
+      "sha256_markdown": "28c6c0821aafd8babe9419c8a95aa6b524fb57d2824998740104f50fe4a0b97e",
+      "seletor_oficial": ".textoNorma",
+      "normalizacao": "nucleo_licitacoes.strip_fold",
+      "sha256_texto_normalizado_fonte": "3093e82d086cc92a6c6fd8d5505467670623ed9272b6fb399fc9af99a4b71f77",
+      "sha256_texto_normalizado_markdown": "3093e82d086cc92a6c6fd8d5505467670623ed9272b6fb399fc9af99a4b71f77",
+      "equivalente": true
+    },
+    {
+      "id": "br-federal-lei-2014-06-02-12988",
+      "arquivo": "federal/br-federal-lei-2014-06-02-12988.md",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/lei/2014/lei-12988-2-junho-2014-778852-publicacaooriginal-144295-pl.html",
+      "snapshot": "provas/identidade-federal-99-102-103/fontes/br-federal-lei-2014-06-02-12988.html.xz",
+      "sha256_snapshot_comprimido": "2b05c8985918efc30577d0130cc4653d5d6f7158bcb0d5188fec2dd35a4bf497",
+      "sha256_fonte": "d4f1574bcc670115d642ee6366ac167870dc7aa80ded1e437ece6497598e8eee",
+      "bytes_fonte": 40521,
+      "sha256_markdown": "530bceb037758398f361c1d368e0b7bd601a787bf4860b2f643102f37cc57310",
+      "seletor_oficial": ".textoNorma",
+      "normalizacao": "nucleo_licitacoes.strip_fold",
+      "sha256_texto_normalizado_fonte": "919b3041703da0e2b2459940ee6b4f1b2fa30523840bc6f901028bac9b449a0b",
+      "sha256_texto_normalizado_markdown": "919b3041703da0e2b2459940ee6b4f1b2fa30523840bc6f901028bac9b449a0b",
+      "equivalente": true
+    }
+  ],
+  "teste_negativo": "Os corpos normalizados de 12.985 e 12.988 cruzados não são iguais aos snapshots opostos."
+}
