@@ -1,6 +1,6 @@
 {
   "contrato_versao": 1,
-  "export_schema_versao": 1,
+  "export_schema_versao": 2,
   "regra": "Nenhum campo é coberto só porque apareceu em amostra. Contagens abaixo percorrem todas as edições publicadas no export.",
   "escolha_armazenamento": {
     "metadados_acervo_geral": "sidecar-export-jsonl",
@@ -53,6 +53,10 @@
       "conhecido": 12849
     },
     "orgao_emissor": {
+      "desconhecido": 231442,
+      "conhecido": 1219
+    },
+    "fonte_orgao": {
       "conhecido": 2639,
       "desconhecido": 230022
     },
@@ -60,6 +64,21 @@
       "desconhecido": 232661
     },
     "ambito_aplicacao": {
+      "desconhecido": 232661
+    },
+    "serie_historica": {
+      "conhecido": 605,
+      "desconhecido": 232056
+    },
+    "senado_id": {
+      "conhecido": 1335,
+      "desconhecido": 231326
+    },
+    "urn": {
+      "conhecido": 1809,
+      "desconhecido": 230852
+    },
+    "relacoes": {
       "desconhecido": 232661
     },
     "titulo": {
