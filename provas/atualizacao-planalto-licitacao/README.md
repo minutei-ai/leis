@@ -21,3 +21,11 @@ Reconversão integral das páginas compiladas do Planalto. O acervo não certifi
 /home/yorizel/.local/bin/resource-run --wait python3 scripts/atualizacao_planalto_licitacao.py verify
 /home/yorizel/.local/bin/resource-run --wait python3 -m unittest tests.test_atualizacao_planalto_licitacao -v
 ```
+
+## Situação parlamentar da MP 1.349/2026
+
+`mp1349-evidencia-status.json` identifica as capturas integrais das APIs oficiais
+Senado/Congresso para matéria 173530 e processo 9029245. A verificação recalcula
+hashes e confere a identidade, a decisão PERDA_EFICACIA de 04/08/2026 e o estado
+SEFICA/SEM EFICÁCIA registrado em 06/08/2026. A fonte parlamentar não é uma
+certificação de vigência da Lei 12.462 nem de efeitos residuais do seu § 17.

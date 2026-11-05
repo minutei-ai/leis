@@ -10,6 +10,7 @@ import lzma
 import re
 import sys
 import unittest
+from unittest.mock import patch
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -75,6 +76,16 @@ class TestAtualizacaoPlanaltoLicitacao(unittest.TestCase):
         self.assertIn('Art. 8º-A.', body)
         self.assertRegex(body, r'Art\. 8º-B')
         self.assertIn('Lei nº 15.141', body)
+
+    def test_status_mp1349_recalculado_das_fontes_oficiais(self):
+        payloads = lote.verify_mp1349_evidence()
+        self.assertEqual(payloads['processo']['situacaoAtual'], 'SEM EFICÁCIA')
+        self.assertEqual(payloads['processo']['deliberacao']['data'], '2026-08-04')
+
+    def test_status_de_outra_materia_nao_e_aceito(self):
+        with patch.dict(lote.MP1349_STATUS, {'materia_codigo': '173531'}):
+            with self.assertRaises(AssertionError):
+                lote.verify_mp1349_evidence()
 
     def test_regressao_12462_e_perda_mp1349(self):
         body = nl.parse_frontmatter((ROOT / 'federal/br-federal-lei-2011-08-04-12462.md').read_text(encoding='utf-8'))[1]
