@@ -6,7 +6,7 @@
     89,
     94
   ],
-  "gerado_em": "2026-11-05T15:18:56Z",
+  "gerado_em": "2026-11-05T15:44:55Z",
   "documentos": [
     {
       "id": "br-federal-decreto-legislativo-2026-09-16-433",
@@ -20877,7 +20877,7 @@
       },
       "fonte": "br-federal-resolucao-senado-federal-2018-06-25-13",
       "sha256_fonte": "a502a5462c709a50074b6ea78fa42d5a4b18829d35079575215df69488544295",
-      "sha256_markdown": "364f4d575764d51da0b3a157095e98e38f29d2fc74674435983bd33bfbbae0b5"
+      "sha256_markdown": "f070fefcda5cb94f72899454327bbdc498caa2e4f25065f8a0e5c11f120d42d4"
     }
   ]
 }

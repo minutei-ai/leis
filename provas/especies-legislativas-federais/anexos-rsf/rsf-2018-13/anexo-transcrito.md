@@ -15399,57 +15399,55 @@ flutuações previstas nos §§ 4º e 5º do art. 196 deste Regulamento.
 
 ### 2 – CARGOS EFETIVOS
 
-| CATEGORIA | ESPECIALIDADE | Nº |
-| --- | --- | --- |
-| Nível III<br>Consultor Legislativo | Assessoramento Legislativo | 232 |
-|  | Assessoramento em Orçamentos | 50 |
-| Nível III<br>Advogado | Advocacia | 35 |
-|  | Administração | 235 |
-|  | Arquitetura | 7 |
-|  | Arquivologia | 12 |
-|  | Assistência Social | 1 |
-|  | Biblioteconomia | 37 |
-|  | Comunicação Social | 225 |
-|  | Contabilidade | 29 |
-|  | Enfermagem | 12 |
-|  | Engenharia | 22 |
-|  | Estatístico (4) | 2 |
-| Nível III<br>Analista Legislativo | Farmácia | 2 |
-|  | Fisioterapia (3) | 1 |
-|  | Informática Legislativa | 250 |
-|  | Manutenção de Máquinas Gráficas | 2 |
-|  | Medicina (4) | 34 |
-|  | Nutrição (3) | 1 |
-|  | Orçamento Público | 15 |
-|  | Pesquisador de Opinião (4) | 5 |
-|  | Processo Industrial Gráfico | 5 |
-|  | Processo Legislativo | 420 |
-|  | Psicologia | 5 |
-|  | Redação e Revisão | 25 |
-
+<table id="rsf13-cargos-efetivos">
+<thead><tr><th>CATEGORIA</th><th>ESPECIALIDADE</th><th>Nº</th></tr></thead>
+<tbody>
+<tr><td rowspan="2">Nível III<br>Consultor Legislativo</td><td>Assessoramento Legislativo</td><td>232</td></tr>
+<tr><td>Assessoramento em Orçamentos</td><td>50</td></tr>
+<tr><td>Nível III<br>Advogado</td><td>Advocacia</td><td>35</td></tr>
+<tr><td rowspan="24">Nível III<br>Analista Legislativo</td><td>Administração</td><td>235</td></tr>
+<tr><td>Arquitetura</td><td>7</td></tr>
+<tr><td>Arquivologia</td><td>12</td></tr>
+<tr><td>Assistência Social</td><td>1</td></tr>
+<tr><td>Biblioteconomia</td><td>37</td></tr>
+<tr><td>Comunicação Social</td><td>225</td></tr>
+<tr><td>Contabilidade</td><td>29</td></tr>
+<tr><td>Enfermagem</td><td>12</td></tr>
+<tr><td>Engenharia</td><td>22</td></tr>
+<tr><td>Estatístico (4)</td><td>2</td></tr>
+<tr><td>Farmácia</td><td>2</td></tr>
+<tr><td>Fisioterapia (3)</td><td>1</td></tr>
+<tr><td>Informática Legislativa</td><td>250</td></tr>
+<tr><td>Manutenção de Máquinas Gráficas</td><td>2</td></tr>
+<tr><td>Medicina (4)</td><td>34</td></tr>
+<tr><td>Nutrição (3)</td><td>1</td></tr>
+<tr><td>Orçamento Público</td><td>15</td></tr>
+<tr><td>Pesquisador de Opinião (4)</td><td>5</td></tr>
+<tr><td>Processo Industrial Gráfico</td><td>5</td></tr>
+<tr><td>Processo Legislativo</td><td>420</td></tr>
+<tr><td>Psicologia</td><td>5</td></tr>
+<tr><td>Redação e Revisão</td><td>25</td></tr>
 <!-- PDF p. 180; DSF impresso p. 184 -->
-
-<!-- continuação física; colunas nomeadas conforme cabeçalho impresso anterior -->
-| CATEGORIA | ESPECIALIDADE | Nº |
-| --- | --- | --- |
-|  | Registro e Redação Parlamentar | 90 |
-|  | Tradução e Interpretação | 6 |
-|  | Administração | 360 |
-|  | Arquivologia | 8 |
-|  | Assistência a Plenários e Portaria (1) | 12 |
-|  | Comunicação Social | 71 |
-|  | Edificações (3) | 25 |
-| Nível II<br>Técnico Legislativo | Eletrônica e Telecomunicações (5) | 46 |
-|  | Enfermagem | 20 |
-|  | Informática Legislativa | 105 |
-|  | Odontologia (4) | 2 |
-|  | Policial Legislativo Federal | 360 |
-|  | Processo Industrial Gráfico | 240 |
-|  | Processo Legislativo | 420 |
-|  | Radiologia (3) | 2 |
-| Nível II<br>Secretário Parlamentar | Secretário Parlamentar | 4 |
-| Nível I<br>Auxiliar Legislativo (2) | Processo Industrial Gráfico | 38 |
-|  | Segurança | 1 |
+<tr><td>Registro e Redação Parlamentar</td><td>90</td></tr>
+<tr><td>Tradução e Interpretação</td><td>6</td></tr>
+<tr><td rowspan="13">Nível II<br>Técnico Legislativo</td><td>Administração</td><td>360</td></tr>
+<tr><td>Arquivologia</td><td>8</td></tr>
+<tr><td>Assistência a Plenários e Portaria (1)</td><td>12</td></tr>
+<tr><td>Comunicação Social</td><td>71</td></tr>
+<tr><td>Edificações (3)</td><td>25</td></tr>
+<tr><td>Eletrônica e Telecomunicações (5)</td><td>46</td></tr>
+<tr><td>Enfermagem</td><td>20</td></tr>
+<tr><td>Informática Legislativa</td><td>105</td></tr>
+<tr><td>Odontologia (4)</td><td>2</td></tr>
+<tr><td>Policial Legislativo Federal</td><td>360</td></tr>
+<tr><td>Processo Industrial Gráfico</td><td>240</td></tr>
+<tr><td>Processo Legislativo</td><td>420</td></tr>
+<tr><td>Radiologia (3)</td><td>2</td></tr>
+<tr><td>Nível II<br>Secretário Parlamentar</td><td>Secretário Parlamentar</td><td>4</td></tr>
+<tr><td rowspan="2">Nível I<br>Auxiliar Legislativo (2)</td><td>Processo Industrial Gráfico</td><td>38</td></tr>
+<tr><td>Segurança</td><td>1</td></tr>
+</tbody>
+</table>
 
 NOTAS:
 
@@ -16291,14 +16289,11 @@ especialidade Medicina, de mesma categoria e nível.
 | CHEFE DE SERVIÇO | SERVIÇO DE AUDITORIA DE ADMISSÕES E<br>CONCESSÕES | FC-2 | 1 |
 | COORDENADOR | COORDENAÇÃO DE AUDITORIA DE TECNOLOGIA<br>DA INFORMAÇÃO | FC-3 | 1 |
 | CHEFE DE SERVIÇO | SERVIÇO DE AUDITORIA DE GESTÃO DE<br>TECNOLOGIA DA INFORMAÇÃO | FC-2 | 1 |
-| CHEFE DE SERVIÇO | SERVIÇO DE AUDITORIA DE OPERAÇÕES DE | FC-2 | 1 |
+| CHEFE DE SERVIÇO | SERVIÇO DE AUDITORIA DE OPERAÇÕES DE<br>TECNOLOGIA DA INFORMAÇÃO | FC-2 | 1 |
 
 <!-- PDF p. 207; DSF impresso p. 211 -->
 
-<!-- continuação física; colunas nomeadas conforme cabeçalho impresso anterior -->
-| FUNÇÃO | SETOR | FC | Nº |
-| --- | --- | --- | --- |
-|  | TECNOLOGIA DA INFORMAÇÃO |  |  |
+<!-- Continuação da célula SETOR da linha iniciada na página PDF 206, transcrita acima como uma única linha lógica. -->
 
 ### 3.7.5. SECRETARIA DE COMUNICAÇÃO SOCIAL
 

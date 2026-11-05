@@ -1,5 +1,5 @@
 {
-  "stream_registros_lidos": 232846,
+  "stream_registros_lidos": 232847,
   "casos": [
     {
       "id": "federal-lei-2021-historica",
@@ -190,6 +190,7 @@
         "federal/br-federal-resolucao-senado-federal-2018-05-28-9.md",
         "federal/br-federal-resolucao-senado-federal-2018-05-30-11.md",
         "federal/br-federal-resolucao-senado-federal-2018-06-06-12.md",
+        "federal/br-federal-resolucao-senado-federal-2018-06-25-13.md",
         "federal/br-federal-resolucao-senado-federal-2018-07-03-14.md",
         "federal/br-federal-resolucao-senado-federal-2018-07-04-15.md",
         "federal/br-federal-resolucao-senado-federal-2018-07-11-16.md",
@@ -578,7 +579,7 @@
         "federal/br-federal-resolucao-senado-federal-2026-09-04-45.md",
         "federal/br-federal-resolucao-senado-federal-2026-09-04-47.md"
       ],
-      "hit_count": 434,
+      "hit_count": 435,
       "ok": true,
       "must_include_ok": true,
       "must_exclude_ok": true,

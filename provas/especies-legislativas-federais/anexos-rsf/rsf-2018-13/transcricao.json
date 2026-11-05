@@ -686,7 +686,7 @@
   "metodo_transcricao": {
     "texto": "pdftotext -bbox-layout; transcrição por palavra, não por bloco ou OCR",
     "geometria": "regras de célula lidas no raster; colunas locais por linha do quadro; caixa de cada palavra posicionada pela interseção xMin/xMax com as colunas",
-    "rowspan": "células contínuas sem linha horizontal foram mantidas como conteúdo compartilhado na célula e <br>; células delimitadas em branco permanecem vazias",
+    "rowspan": "Categorias nas páginas179–180 representadas em uma tabela lógica com rowspan; continuação SETOR206–207 unificada e rastreada; células delimitadas vazias preservadas.",
     "repeticoes": "cabeçalhos/rodapés repetidos e autenticação fora do corpo normativo omitidos; cada quebra de página indicada por comentário PDF/DSF",
     "pdfcompleto_preservado": true
   },
@@ -786,9 +786,49 @@
   },
   "transcricao": {
     "arquivo": "provas/especies-legislativas-federais/anexos-rsf/rsf-2018-13/anexo-transcrito.md",
-    "bytes": 860220,
-    "sha256": "761266aeccef1df34718a960df4057da4d280b9e79275e1090bb8f2dad5a2aa4",
-    "markdown_origem_sem_nota_sha256": "bdd5a7a357b9aa12d4e3825c1f670f01551867ed7cb5cddf2afcf0ded60a7c1b",
-    "paginas_marcadas": 261
+    "bytes": 842849,
+    "sha256": "a3a3a77315d39b44a18b296bc25c34ed89684bad7423f25989f4a70e692af849",
+    "markdown_origem_sem_nota_sha256": "4d0ca7baa1ebabb584403a7a7d6377a15369a695ad559922538a03c934a776f0",
+    "paginas_marcadas": 261,
+    "markdown_origem_sem_nota_semantica": "trecho entre o primeiro marcador de página e o marcador final, strip externo"
+  },
+  "correcoes_celulas_compartilhadas": {
+    "conferido_em": "2026-11-05T15:38:19.323055+00:00",
+    "paginas_pdf": [
+      179,
+      180,
+      182,
+      206,
+      207
+    ],
+    "categorias": [
+      {
+        "categoria": "Nível III Consultor Legislativo",
+        "especialidades": 2
+      },
+      {
+        "categoria": "Nível III Advogado",
+        "especialidades": 1
+      },
+      {
+        "categoria": "Nível III Analista Legislativo",
+        "especialidades": 24
+      },
+      {
+        "categoria": "Nível II Técnico Legislativo",
+        "especialidades": 13
+      },
+      {
+        "categoria": "Nível II Secretário Parlamentar",
+        "especialidades": 1
+      },
+      {
+        "categoria": "Nível I Auxiliar Legislativo (2)",
+        "especialidades": 2
+      }
+    ],
+    "linha_206_207": "SERVIÇO DE AUDITORIA DE OPERAÇÕES DE TECNOLOGIA DA INFORMAÇÃO; FC-2;1",
+    "celulas_setor_vazias_182": 6,
+    "metodo": "Bordas e continuidade conferidas nos fac-símiles; rótulo centralizado ocupa todas as linhas da célula, não somente a linha na altura do texto."
   }
 }

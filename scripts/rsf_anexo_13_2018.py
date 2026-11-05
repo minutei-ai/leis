@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -28,6 +29,32 @@ def sha256(data: bytes) -> str:
 
 def proof() -> dict:
     return json.loads(PROOF_PATH.read_text(encoding='utf-8'))
+
+
+def effective_posts_rows(text: str) -> list[tuple[str, str, str]]:
+    """Expande apenas o rowspan explícito da tabela de cargos efetivos."""
+    from bs4 import BeautifulSoup
+    table = BeautifulSoup(text, 'html.parser').find('table', id='rsf13-cargos-efetivos')
+    if table is None:
+        raise AssertionError('células compartilhadas dos cargos efetivos ausentes')
+    result = []
+    category = None
+    remaining = 0
+    for row in table.tbody.find_all('tr', recursive=False):
+        cells = row.find_all('td', recursive=False)
+        if len(cells) == 3:
+            if remaining:
+                raise AssertionError('categorias com rowspan sobreposto')
+            category = cells[0].get_text(' ', strip=True)
+            remaining = int(cells[0].get('rowspan', 1))
+            cells = cells[1:]
+        if len(cells) != 2 or not category or remaining <= 0:
+            raise AssertionError('especialidade sem categoria compartilhada')
+        result.append((category, *(c.get_text(' ', strip=True) for c in cells)))
+        remaining -= 1
+    if remaining or len(result) != 43:
+        raise AssertionError('limites dos cargos efetivos divergem das páginas 179–180')
+    return result
 
 
 def verify() -> dict:
@@ -56,6 +83,19 @@ def verify() -> dict:
     annex = MARKDOWN_PATH.read_bytes()
     if sha256(annex) != data['transcricao']['sha256']:
         raise AssertionError('hash da transcrição do anexo diverge')
+    text = annex.decode('utf-8')
+    if [int(n) for n in re.findall(r'<!-- PDF p\. (\d+);', text)] != list(range(1, 262)):
+        raise AssertionError('marcadores reais de página incompletos')
+    rows = effective_posts_rows(text)
+    for expected in [
+        ('Nível III Analista Legislativo', 'Administração', '235'),
+        ('Nível III Analista Legislativo', 'Registro e Redação Parlamentar', '90'),
+        ('Nível II Técnico Legislativo', 'Administração', '360'),
+    ]:
+        if expected not in rows:
+            raise AssertionError(f'relação categoria/especialidade divergente: {expected}')
+    if 'SERVIÇO DE AUDITORIA DE OPERAÇÕES DE<br>TECNOLOGIA DA INFORMAÇÃO | FC-2 | 1 |' not in text:
+        raise AssertionError('continuação da célula SETOR das páginas 206–207 incompleta')
     return data
 
 

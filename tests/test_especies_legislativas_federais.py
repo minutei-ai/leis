@@ -230,6 +230,27 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                 self.assertEqual(len(slugs), rec['catalogo_registros'])
                 self.assertEqual(rec['publicados'], sum(1 for i in rec['itens'] if i['estado_coleta'] == 'publicado'))
 
+    def test_rsf_categorias_compartilhadas_preservam_especialidades(self):
+        import rsf_anexo_13_2018 as annex
+        text = annex.MARKDOWN_PATH.read_text(encoding='utf-8')
+        rows = annex.effective_posts_rows(text)
+        self.assertIn(('Nível III Analista Legislativo', 'Administração', '235'), rows)
+        self.assertIn(('Nível III Analista Legislativo', 'Registro e Redação Parlamentar', '90'), rows)
+        self.assertIn(('Nível III Analista Legislativo', 'Tradução e Interpretação', '6'), rows)
+        self.assertIn(('Nível II Técnico Legislativo', 'Administração', '360'), rows)
+        self.assertIn(('Nível II Técnico Legislativo', 'Policial Legislativo Federal', '360'), rows)
+        self.assertIn(('Nível I Auxiliar Legislativo (2)', 'Segurança', '1'), rows)
+        self.assertEqual(sum('Analista Legislativo' in row[0] for row in rows), 24)
+        self.assertEqual(sum('Técnico Legislativo' in row[0] for row in rows), 13)
+
+    def test_rsf_setor_continua_entre_paginas_sem_criar_cargo(self):
+        import rsf_anexo_13_2018 as annex
+        text = annex.MARKDOWN_PATH.read_text(encoding='utf-8')
+        self.assertIn('| CHEFE DE SERVIÇO | SERVIÇO DE AUDITORIA DE OPERAÇÕES DE<br>TECNOLOGIA DA INFORMAÇÃO | FC-2 | 1 |', text)
+        self.assertNotIn('|  | TECNOLOGIA DA INFORMAÇÃO |  |  |', text)
+        self.assertEqual(text.count('<!-- PDF p. 207;'), 1)
+        self.assertIn('| CHEFE DE GABINETE |  | FC-3 | 1 |', text)
+
     def test_rsf_13_2018_publica_anexo_integral_com_tabelas_visualmente_conferidas(self):
         slug = rsf_13_2018.SLUG
         evidence = rsf_13_2018.verify()
