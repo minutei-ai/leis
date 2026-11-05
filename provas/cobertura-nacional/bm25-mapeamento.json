@@ -18,6 +18,41 @@
     "especie": {
       "type": "keyword"
     },
+    "orgao_emissor": {
+      "type": "keyword"
+    },
+    "fonte_orgao": {
+      "type": "keyword"
+    },
+    "serie_historica": {
+      "type": "keyword"
+    },
+    "senado_id": {
+      "type": "keyword"
+    },
+    "urn": {
+      "type": "keyword"
+    },
+    "relacoes": {
+      "type": "nested",
+      "properties": {
+        "tipo": {
+          "type": "keyword"
+        },
+        "origem": {
+          "type": "keyword"
+        },
+        "destino": {
+          "type": "keyword"
+        },
+        "dispositivo": {
+          "type": "keyword"
+        },
+        "escopo_cobertura": {
+          "type": "keyword"
+        }
+      }
+    },
     "numero": {
       "type": "keyword"
     },
