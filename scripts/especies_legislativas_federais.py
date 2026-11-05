@@ -1312,6 +1312,7 @@ def build(tipos: list[str] | None = None) -> dict:
         'documentos': [],
     }
     cobertura = {'lote': LOTE, 'itens': {}}
+    previous_sources = previous_manifest = previous_coverage = None
     annex_owned = {slug for slug, item in coleta['itens'].items()
                    if item['tipo'] in selected and item.get('anexo_fonte_alternativa')}
     if annex_owned:
@@ -1376,6 +1377,18 @@ def build(tipos: list[str] | None = None) -> dict:
         cobertura['itens'][slug] = proof
         publicados.append(slug)
         print(f'built {slug}', flush=True)
+    if previous_sources is not None:
+        # Keep reviewed records in their existing order; append only new IDs.
+        # Otherwise a small species batch moves thousands of unrelated rows.
+        fontes = {**{key: fontes[key] for key in previous_sources if key in fontes}, **fontes}
+        by_id = {doc['id']: doc for doc in manifesto['documentos']}
+        old_ids = {doc['id'] for doc in previous_manifest['documentos']}
+        manifesto['documentos'] = [by_id[doc['id']] for doc in previous_manifest['documentos']
+                                   if doc['id'] in by_id] + [
+            doc for doc in manifesto['documentos'] if doc['id'] not in old_ids]
+        itens = cobertura['itens']
+        cobertura['itens'] = {**{key: itens[key] for key in previous_coverage['itens'] if key in itens},
+                              **itens}
     write_json(fontes_json_path(), fontes)
     write_json(manifesto_path(), manifesto)
     write_json(cobertura_path(), cobertura)
