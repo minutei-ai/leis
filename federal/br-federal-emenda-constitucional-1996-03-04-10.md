@@ -1,10 +1,41 @@
-**EMENDA CONSTITUCIONAL N° 10**
+---
+id: "br-federal-emenda-constitucional-1996-03-04-10"
+norma_id: "br-federal-emenda-constitucional-1996-03-04-10"
+norma_tipo: "emenda-constitucional"
+norma_numero: "10"
+norma_data: "1996-03-04"
+titulo: "EMENDA CONSTITUCIONAL Nº 10, DE 04/03/1996"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1996-03-04-10@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc10.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "c7aece0ea8e12a5733f23854c3f7ee9039b75c5a1f68410f3601e1934c40662d"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Altera os arts. 71 e 72 do Ato das Disposições Constitucionais Transitórias, introduzidos pela Emenda Constitucional de Revisão n° 1, de 1994.***
+<strong>EMENDA CONSTITUCIONAL N° 10</strong>
+
+<em><strong>Altera os arts. 71 e 72 do Ato das Disposições Constitucionais Transitórias, introduzidos pela Emenda Constitucional de Revisão n° 1, de 1994.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3° do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art.** 1° O art. 71 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação:
+<strong>Art.</strong> 1° O art. 71 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação:
 
 “Art. 71. Fica instituído, nos exercícios financeiros de 1994 e 1995, bem assim no período de 1º de janeiro de 1996 a 30 de junho de 1997, o Fundo Social de Emergência, com o objetivo de saneamento financeiro da Fazenda Pública Federal e de estabilização econômica, cujos recursos serão aplicados prioritariamente no custeio das ações dos sistemas de saúde e educação, benefícios previdenciários e auxílios assistenciais de prestação continuada, inclusive liquidação de passivo previdenciário, e despesas orçamentária associadas a programas de relevante interesse econômico e social.
 
@@ -14,7 +45,7 @@ As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3° do a
 
 § 3° O Poder Executivo publicará demonstrativo da execução orçamentária, de periodicidade bimestral, no qual se discriminarão as fontes e usos do Fundo criado por este artigo."
 
-**Art.** 2° O art. 72 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação:
+<strong>Art.</strong> 2° O art. 72 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação:
 
 "Art. 72. Integram o Fundo Social de Emergência:
 
@@ -40,11 +71,11 @@ VI - ...........................................................................
 
 § 5° A parcela dos recursos provenientes do imposto sobre renda e proventos de qualquer natureza, destinada ao Fundo Social de Emergência, nos termos do incisos II deste artigo, não poderá exceder a cinco inteiros e seis décimos por cento do total do produto da sua arrecadação."
 
-**Art.** 3° Esta Emenda Constitucional entra em vigor na data de sua publicação.
+<strong>Art.</strong> 3° Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, 4 de março de 1996.
 
-**MESA DA CÂMARA DOS DEPUTADOS** **MESA DO SENADO FEDERAL**
+<strong>MESA DA CÂMARA DOS DEPUTADOS</strong> <strong>MESA DO SENADO FEDERAL</strong>
 
 Deputado LUÍS EDUARDO   Senador JOSÉ SARNEY
 

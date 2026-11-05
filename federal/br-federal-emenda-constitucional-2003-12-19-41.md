@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2003-12-19-41"
+norma_id: "br-federal-emenda-constitucional-2003-12-19-41"
+norma_tipo: "emenda-constitucional"
+norma_numero: "41"
+norma_data: "2003-12-19"
+titulo: "EMENDA CONSTITUCIONAL Nº 41, DE 2003"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2003-12-19-41@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/2003/emendaconstitucional-41-19-dezembro-2003-497025-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc41.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "159d3bfad0087f4de67bafda897fd9b9baaa9301e3721cbd201247485876fb00"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "eb765566416c3bb0e396861d4e173b397fe40b4c609e2fde4dc476e0adc11ba8"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 41, DE 2003
 
 Modifica os arts. 37, 40, 42, 48, 96, 149 e 201 da Constituição Federal, revoga o inciso IX do § 3º do art. 142 da Constituição Federal e dispositivos da Emenda Constitucional nº 20, de 15 de dezembro de 1998, e dá outras providências.

@@ -334,7 +334,7 @@ def _rg_count(
         if exc.returncode == 1:
             return 0
         raise
-    files = [line for line in out.splitlines() if line.strip()]
+    files = [line for line in out.splitlines() if line.strip() and line.strip() not in lm.PRESERVED_LATER_EDITIONS]
     return len(files)
 
 
@@ -355,13 +355,27 @@ def _rg_files(
         if exc.returncode == 1:
             return set()
         raise
-    return {line.strip() for line in out.splitlines() if line.strip()}
+    return {line.strip() for line in out.splitlines() if line.strip()} - set(lm.PRESERVED_LATER_EDITIONS)
 
 
 class LimpezaCorpusGates(unittest.TestCase):
     """Gates de regressão no acervo publicado. Rodar após --apply."""
 
     roots = ['federal', 'estaduais', 'municipais']
+
+    def test_later_reviewed_editions_are_preserved_by_exact_hash(self):
+        """Deferral preserves newer evidence; it cannot hide unreviewed edits."""
+        import hashlib
+        for rel, expected in lm.PRESERVED_LATER_EDITIONS.items():
+            with self.subTest(arquivo=rel):
+                raw = (ROOT / rel).read_bytes()
+                self.assertEqual(hashlib.sha256(raw).hexdigest(), expected)
+                text = raw.decode('utf-8')
+                cleaned, result = lm.process_text(text, rel, write_assets=False)
+                self.assertEqual(cleaned, text)
+                self.assertIn('pendente', result.skipped_reason)
+                with self.assertRaises(ValueError):
+                    lm.process_text(text + '\n', rel, write_assets=False)
 
     def test_no_origin_markers(self):
         self.assertEqual(_rg_count(r'^###[A-Z]+-[0-9]', self.roots), 0)

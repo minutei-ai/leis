@@ -1,10 +1,43 @@
-**EMENDA CONSTITUCIONAL Nº 66**
+---
+id: "br-federal-emenda-constitucional-2010-07-13-66"
+norma_id: "br-federal-emenda-constitucional-2010-07-13-66"
+norma_tipo: "emenda-constitucional"
+norma_numero: "66"
+norma_data: "2010-07-13"
+titulo: "EMENDA CONSTITUCIONAL Nº 66"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2010-07-13-66@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc66.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "659260e99825637a37f8653ced467c9c7c826c1e1749436db10602586a0d8e6f"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Dá nova redação ao § 6º do art. 226 da Constituição Federal, que dispõe sobre a dissolubilidade do casamento civil pelo divórcio, suprimindo o requisito de prévia separação judicial por mais de 1 (um) ano ou de comprovada separação de fato por mais de 2 (dois) anos.***
+###EMC-000066-0-000-13-07-2010@@@
+
+<strong>EMENDA CONSTITUCIONAL Nº 66</strong>
+
+<em><strong>Dá nova redação ao § 6º do art. 226 da Constituição Federal, que dispõe sobre a dissolubilidade do casamento civil pelo divórcio, suprimindo o requisito de prévia separação judicial por mais de 1 (um) ano ou de comprovada separação de fato por mais de 2 (dois) anos.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art.** 1º O § 6º do art. 226 da Constituição Federal passa a vigorar com a seguinte redação:
+<strong>Art.</strong> 1º O § 6º do art. 226 da Constituição Federal passa a vigorar com a seguinte redação:
 
 “Art. 226..........................................................................
 
@@ -12,32 +45,8 @@ As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do art. 60 da 
 
 § 6º O casamento civil pode ser dissolvido pelo divórcio.”(NR)
 
-**Art**. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+<strong>Art</strong>. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, em 13 de julho de 2010.
 
-Mesa da Câmara dos Deputados
-
-Mesa do Senado Federal
-
-**Deputado Michel Temer  Presidente**
-
-**Senador José Sarney  Presidente**
-
-**Deputado Marco Maia 1º Vice-Presidente**
-
-**Senador Heráclito Fortes 1º Secretário**
-
-**Deputado Rafael Guerra 1º Secretário**
-
-**Senador João Vicente Claudino 2º Secretário**
-
-**Deputado Nelson Marquezelli 4º Secretário**
-
-**Senador Mão Santa 3º Secretário**
-
-**Deputado Marcelo Ortiz 1º Suplente**
-
-**Senador Adelmir Santana 2º Suplente**
-
-**Senador Gerson Camata 4º Suplente**
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'"><span>Mesa da Câmara dos Deputados</span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'"><span>Mesa do Senado Federal</span></span></p></td></tr><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td></tr><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Deputado Michel Temer</strong></span></span><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:spaces"><span><strong>&nbsp; </strong></span></span><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Presidente</strong></span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Senador José Sarney</strong></span></span><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:spaces"><span><strong>&nbsp; </strong></span></span><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Presidente</strong></span></span></p></td></tr><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td></tr><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Deputado Marco Maia 1º Vice-Presidente</strong></span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Senador Heráclito Fortes 1º Secretário</strong></span></span></p></td></tr><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td></tr><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Deputado Rafael Guerra 1º Secretário</strong></span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Senador João Vicente Claudino 2º Secretário</strong></span></span></p></td></tr><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>&nbsp;</strong></span></span></p></td></tr><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Deputado Nelson Marquezelli 4º Secretário</strong></span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Senador Mão Santa 3º Secretário</strong></span></span></p></td></tr><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td></tr><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Deputado Marcelo Ortiz 1º Suplente</strong></span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Senador Adelmir Santana 2º Suplente</strong></span></span></p></td></tr><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td></tr><tr><td style="width:184.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:14.25pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; -aw-import:ignore"><span><strong>&nbsp;</strong></span></span></p></td><td style="width:191.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold"><span><strong>Senador Gerson Camata 4º Suplente</strong></span></span></p></td></tr></tbody></table>

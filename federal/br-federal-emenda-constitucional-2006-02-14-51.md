@@ -1,10 +1,43 @@
-**EMENDA CONSTITUCIONAL Nº 51, DE 14 DE FEVEREIRO DE 2006**
+---
+id: "br-federal-emenda-constitucional-2006-02-14-51"
+norma_id: "br-federal-emenda-constitucional-2006-02-14-51"
+norma_tipo: "emenda-constitucional"
+norma_numero: "51"
+norma_data: "2006-02-14"
+titulo: "EMENDA CONSTITUCIONAL Nº 51, DE 14 DE FEVEREIRO DE 2006"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2006-02-14-51@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc51.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "3ac38acfeb9dd3d2520a93b9f809675d86c972c81704189adf5a797ad4960cb2"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Acrescenta os §§ 4º, 5º e 6º ao art. 198 da Constituição Federal.***
+###EMC-000051-0-000-14-02-2006@@@
+
+<strong>EMENDA CONSTITUCIONAL Nº 51, DE 14 DE FEVEREIRO DE 2006</strong>
+
+<em><strong>Acrescenta os §§ 4º, 5º e 6º ao art. 198 da Constituição Federal.</strong></em>
 
         As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-        **Art**. 1º O art. 198 da Constituição Federal passa a vigorar acrescido dos seguintes §§ 4º, 5º e 6º:
+        <strong>Art</strong>. 1º O art. 198 da Constituição Federal passa a vigorar acrescido dos seguintes §§ 4º, 5º e 6º:
 
 "Art. 198. ........................................................
 
@@ -16,38 +49,12 @@
 
 § 6º Além das hipóteses previstas no § 1º do art. 41 e no § 4º do art. 169 da Constituição Federal, o servidor que exerça funções equivalentes às de agente comunitário de saúde ou de agente de combate às endemias poderá perder o cargo em caso de descumprimento dos requisitos específicos, fixados em lei, para o seu exercício." (NR)
 
-        **Art** 2º Após a promulgação da presente Emenda Constitucional, os agentes comunitários de saúde e os agentes de combate às endemias somente poderão ser contratados diretamente pelos Estados, pelo Distrito Federal ou pelos Municípios na forma do § 4º do art. 198 da Constituição Federal, observado o limite de gasto estabelecido na Lei Complementar de que trata o art. 169 da Constituição Federal.
+        <strong>Art</strong> 2º Após a promulgação da presente Emenda Constitucional, os agentes comunitários de saúde e os agentes de combate às endemias somente poderão ser contratados diretamente pelos Estados, pelo Distrito Federal ou pelos Municípios na forma do § 4º do art. 198 da Constituição Federal, observado o limite de gasto estabelecido na Lei Complementar de que trata o art. 169 da Constituição Federal.
 
         Parágrafo único. Os profissionais que, na data de promulgação desta Emenda e a qualquer título, desempenharem as atividades de agente comunitário de saúde ou de agente de combate às endemias, na forma da lei, ficam dispensados de se submeter ao processo seletivo público a que se refere o § 4º do art. 198 da Constituição Federal, desde que tenham sido contratados a partir de anterior processo de Seleção Pública efetuado por órgãos ou entes da administração direta ou indireta de Estado, Distrito Federal ou Município ou por outras instituições com a efetiva supervisão e autorização da administração direta dos entes da federação.
 
-        **Art**. 3º Esta Emenda Constitucional entra em vigor na data da sua publicação.
+        <strong>Art</strong>. 3º Esta Emenda Constitucional entra em vigor na data da sua publicação.
 
         Brasília, em 14 de fevereiro de 2006.
 
-** Mesa da Câmara dos Deputados**
-
-** Mesa do Senado Federal**
-
-Deputado ALDO REBELO                          Presidente
-
-Senador RENAN CALHEIROS                           Presidente
-
-Deputado JOSÉ THOMAZ NONÔ                     1º Vice-Presidente
-
-Senador TIÃO VIANA                         1º Vice-Presidente
-
-Deputado CIRO NOGUEIRA                    2º Vice-Presidente
-
-Senador ANTERO PAES DE BARROS                         2º Vice-Presidente
-
-Deputado INOCÊNCIO OLIVEIRA                        1º Secretário
-
-Senador EFRAIM MORAIS                          1º Secretário
-
-Deputado NILTON CAPIXABA                        2º Secretário
-
-Senador JOÃO ALBERTO SOUZA                           2º Secretário
-
-Deputado JOÃO CALDAS                         4º Secretário
-
-Senador PAULO OCTÁVIO                           3º Secretário            Senador EDUARDO SIQUEIRA CAMPOS                            4º Secretário
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-weight:bold; -aw-import:spaces"><span><strong>&nbsp;</strong></span></span><span style="font-family:Arial; font-weight:bold"><span><strong>Mesa da Câmara dos Deputados</strong></span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-weight:bold; -aw-import:spaces"><span><strong>&nbsp;</strong></span></span><span style="font-family:Arial; font-weight:bold"><span><strong>Mesa do Senado Federal</strong></span></span></p></td></tr><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Deputado ALDO REBELO</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>Presidente</span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Senador RENAN CALHEIROS</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>Presidente</span></span></p></td></tr><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Deputado JOSÉ THOMAZ NONÔ</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>1º Vice-Presidente</span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Senador TIÃO VIANA</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Deputado CIRO NOGUEIRA</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>2º Vice-Presidente</span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Senador ANTERO PAES DE BARROS</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Deputado INOCÊNCIO OLIVEIRA</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>1º Secretário</span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Senador EFRAIM MORAIS</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>1º Secretário</span></span></p></td></tr><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Deputado NILTON CAPIXABA</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>2º Secretário</span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Senador JOÃO ALBERTO SOUZA</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>2º Secretário</span></span></p></td></tr><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Deputado JOÃO CALDAS</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>4º Secretário</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp; </span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Senador PAULO OCTÁVIO</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>3º Secretário</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>Senador EDUARDO SIQUEIRA CAMPOS</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>4º Secretário</span></span></p></td></tr></tbody></table>

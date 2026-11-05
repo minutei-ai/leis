@@ -1,6 +1,37 @@
-**EMENDA CONSTITUCIONAL Nº 78**
+---
+id: "br-federal-emenda-constitucional-2014-05-14-78"
+norma_id: "br-federal-emenda-constitucional-2014-05-14-78"
+norma_tipo: "emenda-constitucional"
+norma_numero: "78"
+norma_data: "2014-05-14"
+titulo: "EMENDA CONSTITUCIONAL Nº 78"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2014-05-14-78@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc78.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "24f41a67af4e8c8fbbfcd3a01a1e073b75426b7185f1983f9dc4af2e6a48cd10"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Acrescenta art. 54-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre indenização devida aos seringueiros de que trata o art. 54 desse Ato.***
+<strong>EMENDA CONSTITUCIONAL Nº 78</strong>
+
+<em><strong>Acrescenta art. 54-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre indenização devida aos seringueiros de que trata o art. 54 desse Ato.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
@@ -14,34 +45,4 @@ Art. 3º Esta Emenda Constitucional entra em vigor no exercício financeiro segu
 
 Brasília, em 14 de maio de 2014
 
-**MESA DA CÂMARA DOS DEPUTADOS**
-
-**MESA DO SENADO FEDERAL**
-
-Deputado HENRIQUE EDUARDO ALVES – Presidente
-
-Senador RENAN CALHEIROS – Presidente
-
-Deputado ARLINDO CHINAGLIA – 1º Vice-Presidente
-
-Senador JORGE VIANA – 1º Vice-Presidente
-
-Deputado FÁBIO FARIA – 2º Vice-Presidente
-
-Senador ROMERO JUCÁ – 2º Vice-Presidente
-
-Deputado MARCIO BITTAR – 1º Secretário
-
-Senador FLEXA RIBEIRO – 1º Secretário
-
-Deputado SIMÃO SESSIM – 2º Secretário
-
-Senadora ANGELA PORTELA – 2ª Secretária
-
-Deputado MAURÍCIO QUINTELLA LESSA – 3º Secretário
-
-Senador CIRO NOGUEIRA – 3º Secretário
-
-Deputado ANTONIO CARLOS BIFFI – 4º Secretário
-
-Senador JOÃO VICENTE CLAUDINO – 4º Secretário
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt; font-weight:bold; text-transform:uppercase"><span><strong>MESA DA CÂMARA DOS DEPUTADOS</strong></span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt; font-weight:bold; text-transform:uppercase"><span><strong>MESA DO SENADO FEDERAL</strong></span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado HENRIQUE EDUARDO ALVES – Presidente</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senador RENAN CALHEIROS – Presidente</span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado ARLINDO CHINAGLIA – 1º Vice-Presidente</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senador JORGE VIANA – 1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado FÁBIO FARIA – 2º Vice-Presidente</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senador ROMERO JUCÁ – 2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado MARCIO BITTAR – 1º Secretário</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senador FLEXA RIBEIRO – 1º Secretário</span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado SIMÃO SESSIM – 2º Secretário</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senadora ANGELA PORTELA – 2ª Secretária</span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado MAURÍCIO QUINTELLA LESSA – 3º Secretário</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senador CIRO NOGUEIRA – 3º Secretário</span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado ANTONIO CARLOS BIFFI – 4º Secretário</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:7.1pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senador JOÃO VICENTE CLAUDINO – 4º Secretário</span></span></p></td></tr></tbody></table>

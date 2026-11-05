@@ -188,9 +188,9 @@
           "arts. 1º a 47-A"
         ],
         "presente": true,
-        "status_edicao_arquivo": "desconhecido",
+        "status_edicao_arquivo": "com-cabecalho",
         "edicao_integral": "desconhecido",
-        "leitura": "Arquivo presente sem cabeçalho do núcleo, captura nem hash de conferência: presença não certifica edição nem integridade."
+        "leitura": "Arquivo com cabeçalho; integralidade e vigência seguem o contrato do cabeçalho."
       },
       "fonte": {
         "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp198.htm",
@@ -431,9 +431,9 @@
         "arquivo": "federal/br-federal-decreto-2024-01-09-11878.md",
         "ementa": "Regulamenta o art. 79 da Lei 14.133 (credenciamento).",
         "presente": true,
-        "status_edicao_arquivo": "desconhecido",
+        "status_edicao_arquivo": "com-cabecalho",
         "edicao_integral": "desconhecido",
-        "leitura": "Arquivo presente sem cabeçalho do núcleo, captura nem hash de conferência: presença não certifica edição nem integridade."
+        "leitura": "Arquivo com cabeçalho; integralidade e vigência seguem o contrato do cabeçalho."
       },
       "alvo": {
         "norma_id": "br-federal-lei-2021-04-01-14133",

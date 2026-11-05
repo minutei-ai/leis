@@ -1,10 +1,43 @@
-**EMENDA CONSTITUCIONAL Nº 25, DE 2000**
+---
+id: "br-federal-emenda-constitucional-2000-02-14-25"
+norma_id: "br-federal-emenda-constitucional-2000-02-14-25"
+norma_tipo: "emenda-constitucional"
+norma_numero: "25"
+norma_data: "2000-02-14"
+titulo: "EMENDA CONSTITUCIONAL Nº 25, DE 2000"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2000-02-14-25@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc25.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "0ca81486daecb10012588fc8065b50caeff95d4f9f76e9ebca60d7420b6873d0"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Altera o inciso VI do art. 29 e acrescenta o art. 29-A à Constituição Federal, que dispõem sobre limites de despesas com o Poder Legislativo Municipal.***
+###EMC-000025-0-000-14-02-2000@@@
+
+<strong>EMENDA CONSTITUCIONAL Nº 25, DE 2000</strong>
+
+<em><strong>Altera o inciso VI do art. 29 e acrescenta o art. 29-A à Constituição Federal, que dispõem sobre limites de despesas com o Poder Legislativo Municipal.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art**. 1º O inciso VI do art. 29 da Constituição Federal passa a vigorar com a seguinte redação:
+<strong>Art</strong>. 1º O inciso VI do art. 29 da Constituição Federal passa a vigorar com a seguinte redação:
 
 “Art. 29 ..............................................................................................................................
 
@@ -26,7 +59,7 @@ As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do a
 
 “....................................................................................................................................”
 
-**Art**. 2º A Constituição Federal passa a vigorar acrescida do seguinte art. 29-A:
+<strong>Art</strong>. 2º A Constituição Federal passa a vigorar acrescida do seguinte art. 29-A:
 
 “Art. 29-A. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e excluídos os gastos com inativos, não poderá ultrapassar os seguintes percentuais, relativos ao somatório da receita tributária e das transferências previstas no § 5º do art. 153 e nos arts. 158 e 159, efetivamente realizado no exercício anterior:” (AC)
 
@@ -50,15 +83,15 @@ As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do a
 
 “§ 3º Constitui crime de responsabilidade do Presidente da Câmara Municipal o desrespeito ao § 1º deste artigo.” (AC)
 
-**Art**. 3º Esta Emenda Constitucional entra em vigor em 1º de janeiro de 2001.
+<strong>Art</strong>. 3º Esta Emenda Constitucional entra em vigor em 1º de janeiro de 2001.
 
 Brasília, 14 de fevereiro de 2000
 
-**Mesa da Câmara do Deputados**
+<strong>Mesa da Câmara do Deputados</strong>
 
-**Deputado Michel Temer**
+<strong>Deputado Michel Temer</strong>
 
-**Presidente**
+<strong>Presidente</strong>
 
 Deputado Heráclito Fortes
 
@@ -84,11 +117,11 @@ Deputado Efraim Morais
 
 4° Secretario
 
-**Mesa do Senado Federal**
+<strong>Mesa do Senado Federal</strong>
 
-**Senador Antonio Carlos Magalhães**
+<strong>Senador Antonio Carlos Magalhães</strong>
 
-**Presidente**
+<strong>Presidente</strong>
 
 Senador Geraldo Melo
 

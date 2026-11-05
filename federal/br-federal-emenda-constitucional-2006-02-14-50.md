@@ -1,10 +1,43 @@
-**EMENDA CONSTITUCIONAL Nº 50, DE 14 DE FEVEREIRO DE 2006**
+---
+id: "br-federal-emenda-constitucional-2006-02-14-50"
+norma_id: "br-federal-emenda-constitucional-2006-02-14-50"
+norma_tipo: "emenda-constitucional"
+norma_numero: "50"
+norma_data: "2006-02-14"
+titulo: "EMENDA CONSTITUCIONAL Nº 50, DE 14 DE FEVEREIRO DE 2006"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2006-02-14-50@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc50.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "342aaf1eeae905961143979a8a1bded39bbf2cdbe3d4dc8b2362db5b6ab45ddd"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Modifica o art. 57 da Constituição Federal.***
+###EMC-000050-0-000-14-02-2006@@@
+
+<strong>EMENDA CONSTITUCIONAL Nº 50, DE 14 DE FEVEREIRO DE 2006</strong>
+
+<em><strong>Modifica o art. 57 da Constituição Federal.</strong></em>
 
         As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-        **Art**. 1º O art. 57 da Constituição Federal passa a vigorar com a seguinte redação:
+        <strong>Art</strong>. 1º O art. 57 da Constituição Federal passa a vigorar com a seguinte redação:
 
 "Art. 57. O Congresso Nacional reunir-se-á, anualmente, na Capital Federal, de 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro.
 
@@ -24,34 +57,8 @@ II - pelo Presidente da República, pelos Presidentes da Câmara dos Deputados e
 
 ..............................................................................................." (NR)
 
-        **Art**. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+        <strong>Art</strong>. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
         Brasília, em 14 de fevereiro de 2006
 
-** Mesa da Câmara dos Deputados**
-
-** Mesa do Senado Federal**
-
-Deputado ALDO REBELO Presidente
-
-Senador RENAN CALHEIROS Presidente
-
-Deputado JOSÉ THOMAZ NONÔ 1º Vice-Presidente
-
-Senador TIÃO VIANA 1º Vice-Presidente
-
-Deputado CIRO NOGUEIRA 2º Vice-Presidente
-
-Senador ANTERO PAES DE BARROS 2º Vice-Presidente
-
-Deputado INOCÊNCIO OLIVEIRA 1º Secretário
-
-Senador EFRAIM MORAIS 1º Secretário
-
-Deputado NILTON CAPIXABA 2º Secretário
-
-Senador JOÃO ALBERTO SOUZA 2º Secretário
-
-Deputado JOÃO CALDAS 4º Secretário
-
-Senador PAULO OCTÁVIO 3º Secretário   Senador EDUARDO SIQUEIRA CAMPOS 4º Secretário
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-weight:bold; -aw-import:spaces"><span><strong>&nbsp;</strong></span></span><span style="font-family:Arial; font-weight:bold"><span><strong>Mesa da Câmara dos Deputados</strong></span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-weight:bold; -aw-import:spaces"><span><strong>&nbsp;</strong></span></span><span style="font-family:Arial; font-weight:bold"><span><strong>Mesa do Senado Federal</strong></span></span></p></td></tr><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Deputado ALDO REBELO Presidente</span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Senador RENAN CALHEIROS Presidente</span></span></p></td></tr><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Deputado JOSÉ THOMAZ NONÔ 1º Vice-Presidente</span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Senador TIÃO VIANA 1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Deputado CIRO NOGUEIRA 2º Vice-Presidente</span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Senador ANTERO PAES DE BARROS 2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Deputado INOCÊNCIO OLIVEIRA 1º Secretário</span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Senador EFRAIM MORAIS 1º Secretário</span></span></p></td></tr><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Deputado NILTON CAPIXABA 2º Secretário</span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Senador JOÃO ALBERTO SOUZA 2º Secretário</span></span></p></td></tr><tr><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Deputado JOÃO CALDAS 4º Secretário </span></span></p></td><td style="width:221.7pt;vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial"><span>Senador PAULO OCTÁVIO 3º Secretário</span></span><span style="font-family:Arial; -aw-import:spaces"><span>&nbsp;&nbsp; </span></span><span style="font-family:Arial"><span>Senador EDUARDO SIQUEIRA CAMPOS 4º Secretário</span></span></p></td></tr></tbody></table>

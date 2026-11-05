@@ -16,6 +16,20 @@ O script `scripts/limpeza_markdown.py` remove do corpo pesquisável:
 
 ## Allowlists
 
+### Edições posteriores preservadas na integração
+
+Este lote de limpeza não conclui as issues #87, #98 e #100. Na integração,
+823 edições publicadas ou corrigidas depois da preparação do lote foram
+preservadas literalmente. Seus geradores e provas precisam de revalidação
+antes de alterar a representação Markdown; aplicar a versão antiga limpa
+apagaria metadados, correções de identidade ou anexos mais recentes.
+
+`edicoes-posteriores-preservadas.json` fixa o hash de cada edição adiada.
+O cleaner recusa mudanças nesses arquivos sem nova revisão. Os gates verificam
+a limpeza do lote anterior e, separadamente, os hashes e a preservação dessas
+edições. Portanto, o resultado dos gates não significa que todo o acervo atual
+está limpo. As pendências permanecem nas issues existentes.
+
 `ALLOWLIST_DATA_IMAGE` e `ALLOWLIST_PORTAL_CAMARA` estão **vazias**. Os geradores
 do núcleo de licitações, LGPD e benefícios/MDP omitem brasão e chrome CEDI na
 conversão; corpos com `sha256_corpo_preservado` foram limpos com o texto jurídico

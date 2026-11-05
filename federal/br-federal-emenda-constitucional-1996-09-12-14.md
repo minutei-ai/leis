@@ -1,20 +1,51 @@
-**EMENDA CONSTITUCIONAL N° 14**
+---
+id: "br-federal-emenda-constitucional-1996-09-12-14"
+norma_id: "br-federal-emenda-constitucional-1996-09-12-14"
+norma_tipo: "emenda-constitucional"
+norma_numero: "14"
+norma_data: "1996-09-12"
+titulo: "EMENDA CONSTITUCIONAL Nº 14, DE 12/09/1996"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1996-09-12-14@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc14.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "27f64e8c6d939cf51dcb5dc94901a40638e241d184f7d8515f412d29d1545df5"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Modifica os arts. 34, 208, 211 e 212 da Constituição Federal e dá nova redação ao art. 60 do Ato das Disposições Constitucionais Transitórias.***
+<strong>EMENDA CONSTITUCIONAL N° 14</strong>
+
+<em><strong>Modifica os arts. 34, 208, 211 e 212 da Constituição Federal e dá nova redação ao art. 60 do Ato das Disposições Constitucionais Transitórias.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3° do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art.** 1° É acrescentada no inciso VII do art. 34, da Constituição Federal, a alínea *e*, com a seguinte redação:
+<strong>Art.</strong> 1° É acrescentada no inciso VII do art. 34, da Constituição Federal, a alínea <em>e</em>, com a seguinte redação:
 
 “e) aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino.”
 
-**Art.** 2° É dada nova redação aos incisos I e II do art. 208 da Constituição Federal nos seguintes termos:
+<strong>Art.</strong> 2° É dada nova redação aos incisos I e II do art. 208 da Constituição Federal nos seguintes termos:
 
 “I - ensino fundamental obrigatório e gratuito, assegurada, inclusive, sua oferta gratuita para todos os que a ele não tiveram acesso na idade própria;
 
 II - progressiva universalização do ensino médio gratuito;”
 
-**Art.** 3° É dada nova redação aos §§ 1° e 2° do art. 211 da Constituição Federal e nele são inseridos mais dois parágrafos, passando a ter a seguinte redação:
+<strong>Art.</strong> 3° É dada nova redação aos §§ 1° e 2° do art. 211 da Constituição Federal e nele são inseridos mais dois parágrafos, passando a ter a seguinte redação:
 
 “Art. 211. ...............................................................................................................
 
@@ -26,13 +57,13 @@ II - progressiva universalização do ensino médio gratuito;”
 
 § 4° Na organização de seus sistemas de ensino, os Estados e os Municípios definirão formas de colaboração, de modo a assegurar a universalização do ensino obrigatório.”
 
-**Art.** 4° É dada nova redação ao § 5° do art. 212 da Constituição Federal nos seguintes termos:
+<strong>Art.</strong> 4° É dada nova redação ao § 5° do art. 212 da Constituição Federal nos seguintes termos:
 
 “§ 5º O ensino fundamental público terá como fonte adicional de financiamento a contribuição social do salário-educação, recolhida pelas empresas, na forma da lei.”
 
-**Art.** 5° É alterado o art. 60 do Ato das Disposições Constitucionais Transitórias e nele são inseridos novos parágrafos, passando o artigo a ter a seguinte redação:
+<strong>Art.</strong> 5° É alterado o art. 60 do Ato das Disposições Constitucionais Transitórias e nele são inseridos novos parágrafos, passando o artigo a ter a seguinte redação:
 
-“Art. 60. Nos dez primeiros anos da promulgação desta Emenda, os Estados, o Distrito Federal e os Municípios destinarão não menos de sessenta por cento dos recursos a que se refere o *caput* do art. 212 da Constituição Federal, à manutenção e ao desenvolvimento do ensino fundamental, com o objetivo de assegurar a universalização de seu atendimento e a remuneração condigna do magistério.
+“Art. 60. Nos dez primeiros anos da promulgação desta Emenda, os Estados, o Distrito Federal e os Municípios destinarão não menos de sessenta por cento dos recursos a que se refere o <em>caput</em> do art. 212 da Constituição Federal, à manutenção e ao desenvolvimento do ensino fundamental, com o objetivo de assegurar a universalização de seu atendimento e a remuneração condigna do magistério.
 
 § 1° A distribuição de responsabilidades e recursos entre os Estados e seus Municípios a ser concretizada com parte dos recursos definidos neste artigo, na forma do disposto no art. 211 da Constituição Federal, é assegurada mediante a criação, no âmbito de cada Estado e do Distrito Federal, de um Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério, de natureza contábil.
 
@@ -44,15 +75,15 @@ II - progressiva universalização do ensino médio gratuito;”
 
 § 5° Uma proporção não inferior a sessenta por cento dos recursos de cada Fundo referido no § 1° será destinada ao pagamento dos professores do ensino fundamental em efetivo exercício no magistério.
 
-§ 6° A União aplicará na erradicação do analfabetismo e na manutenção e no desenvolvimento do ensino fundamental, inclusive na complementação a que se refere o § 3°, nunca menos que o equivalente a trinta por cento dos recursos a que se refere o *caput* do art. 212 da Constituição Federal.
+§ 6° A União aplicará na erradicação do analfabetismo e na manutenção e no desenvolvimento do ensino fundamental, inclusive na complementação a que se refere o § 3°, nunca menos que o equivalente a trinta por cento dos recursos a que se refere o <em>caput</em> do art. 212 da Constituição Federal.
 
 § 7° A lei disporá sobre a organização dos Fundos, a distribuição proporcional de seus recursos, sua fiscalização e controle, bem como sobre a forma de cálculo do valor mínimo nacional por aluno.”
 
-**Art.** 6° Esta Emenda entra em vigor a primeiro de janeiro do ano subseqüente ao de sua promulgação.
+<strong>Art.</strong> 6° Esta Emenda entra em vigor a primeiro de janeiro do ano subseqüente ao de sua promulgação.
 
 Brasília, 12 de setembro de 1996.
 
-**MESA DA CÂMARA DOS DEPUTADOS** **MESA DO SENADO FEDERAL**
+<strong>MESA DA CÂMARA DOS DEPUTADOS</strong> <strong>MESA DO SENADO FEDERAL</strong>
 
 Deputado LUIZ EDUARDO    Senador JOSÉ SARNEY
 

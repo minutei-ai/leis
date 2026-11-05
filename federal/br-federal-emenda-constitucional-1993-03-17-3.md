@@ -1,16 +1,47 @@
-**EMENDA CONSTITUCIONAL Nº 3, DE 1993**
+---
+id: "br-federal-emenda-constitucional-1993-03-17-3"
+norma_id: "br-federal-emenda-constitucional-1993-03-17-3"
+norma_tipo: "emenda-constitucional"
+norma_numero: "3"
+norma_data: "1993-03-17"
+titulo: "EMENDA CONSTITUCIONAL Nº 3, DE 1993"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1993-03-17-3@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc3.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "c0164cc393cb289ed1c0ed35e6882c7060139a5b4453b09c8658c9a8825899e4"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
+<strong>EMENDA CONSTITUCIONAL Nº 3, DE 1993</strong>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art.**1º Os dispositivos da Constituição Federal abaixo enumerados passam a vigorar com as seguintes alterações:
+<strong>Art.</strong>1º Os dispositivos da Constituição Federal abaixo enumerados passam a vigorar com as seguintes alterações:
 
-“**Art.** 40............................................................................................................................
+“<strong>Art.</strong> 40............................................................................................................................
 
 ........................................................................................................................................
 
 § 6º As aposentadorias e pensões dos servidores públicos federais serão custeadas com recursos provenientes da União e das contribuições dos servidores, na forma da lei.”
 
-“**Art.** 42...........................................................................................................................
+“<strong>Art.</strong> 42...........................................................................................................................
 
 ........................................................................................................................................
 
@@ -18,7 +49,7 @@ As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do a
 
 .......................................................................................................................................”
 
-“**Art.** 102...........................................................................................................................
+“<strong>Art.</strong> 102...........................................................................................................................
 
 I -....................................................................................................................................
 
@@ -30,13 +61,13 @@ a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou e
 
 § 2º As decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal, nas ações declaratórias de constitucionalidade de lei ou ato normativo federal, produzirão eficácia contra todos e efeito vinculante, relativamente aos demais órgãos do Poder Judiciário e ao Poder Executivo.”
 
-“**Art.** 103.........................................................................................................................
+“<strong>Art.</strong> 103.........................................................................................................................
 
 ........................................................................................................................................
 
 § 4º A ação declaratória de constitucionalidade poderá ser proposta pelo Presidente da República, pela Mesa do Senado Federal, pela Mesa da Câmara dos Deputados ou pelo Procurador-Geral da República.”
 
-“**Art.** 150.........................................................................................................................
+“<strong>Art.</strong> 150.........................................................................................................................
 
 ........................................................................................................................................
 
@@ -44,7 +75,7 @@ a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou e
 
 § 7º A lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição, cujo fato gerador deva ocorrer posteriormente, assegurada a imediata e preferencial restituição da quantia paga, caso não se realize o fato gerador presumido.”
 
-“**Art.** 155. Compete aos Estados e ao Distrito Federal instituir impostos sobre:
+“<strong>Art.</strong> 155. Compete aos Estados e ao Distrito Federal instituir impostos sobre:
 
 I - transmissão causa mortis e doação, de quaisquer bens ou direitos;
 
@@ -60,9 +91,9 @@ III - propriedade de veículos automotores.
 
 ........................................................................................................................................
 
-§ 3º À exceção dos impostos de que tratam o inciso II do **caput** deste artigo e o art. 153, I e II, nenhum outro tributo poderá incidir sobre operações relativas a energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e minerais do País.”
+§ 3º À exceção dos impostos de que tratam o inciso II do <strong>caput</strong> deste artigo e o art. 153, I e II, nenhum outro tributo poderá incidir sobre operações relativas a energia elétrica, serviços de telecomunicações, derivados de petróleo, combustíveis e minerais do País.”
 
-“**Art.** 156..........................................................................................................................
+“<strong>Art.</strong> 156..........................................................................................................................
 
 ........................................................................................................................................
 
@@ -76,11 +107,11 @@ I - fixar as suas alíquotas máximas;
 
 II - excluir da sua incidência exportações de serviços para o exterior.”
 
-“**Art.** 160.........................................................................................................................
+“<strong>Art.</strong> 160.........................................................................................................................
 
 Parágrafo único. A vedação prevista neste artigo não impede a União e os Estados de condicionarem a entrega de recursos ao pagamento de seus créditos, inclusive de suas autarquias.”
 
-“**Art.** 167...........................................................................................................................
+“<strong>Art.</strong> 167...........................................................................................................................
 
 IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalvadas a repartição do produto da arrecadação dos impostos a que se referem os arts. 158 e 159, a destinação de recursos para manutenção e desenvolvimento do ensino, como determinado pelo art. 212, e a prestação de garantias às operações de crédito por antecipação de receita, previstas no art. 165, § 8º, bem assim o disposto no § 4º deste artigo;
 
@@ -88,7 +119,7 @@ IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalva
 
 § 4º É permitida a vinculação de receitas próprias geradas pelos impostos a que se referem os arts. 155 e 156, e dos recursos de que tratam os arts. 157, 158 e 159, I, a e b, e II, para a prestação de garantia ou contragarantia à União e para pagamento de débitos para com esta.”
 
-**Art.** 2º A União poderá instituir, nos termos de lei complementar, com vigência até 31 de dezembro de 1994, imposto sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira.
+<strong>Art.</strong> 2º A União poderá instituir, nos termos de lei complementar, com vigência até 31 de dezembro de 1994, imposto sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira.
 
 § 1º A alíquota do imposto de que trata este artigo não excederá a vinte e cinco centésimos por cento, facultado ao Poder Executivo reduzi-la ou restabelecê-la, total ou parcialmente, nas condições e limites fixados em lei.
 
@@ -98,19 +129,19 @@ IV - a vinculação de receita de impostos a órgão, fundo ou despesa, ressalva
 
 § 4º Do produto da arrecadação do imposto de que trata este artigo serão destinados vinte por cento para custeio de programas de habitação popular.
 
-**Art.** 3º A eliminação do adicional ao imposto de renda, de competência dos Estados, decorrente desta Emenda Constitucional, somente produzirá efeitos a partir de 1º de janeiro de 1996, reduzindo-se a correspondente alíquota, pelo menos, a dois e meio por cento no exercício financeiro de 1995.
+<strong>Art.</strong> 3º A eliminação do adicional ao imposto de renda, de competência dos Estados, decorrente desta Emenda Constitucional, somente produzirá efeitos a partir de 1º de janeiro de 1996, reduzindo-se a correspondente alíquota, pelo menos, a dois e meio por cento no exercício financeiro de 1995.
 
-**Art.** 4º A eliminação do imposto sobre vendas a varejo de combustíveis líquidos e gasosos, de competência dos Municípios, decorrente desta Emenda Constitucional, somente produzirá efeitos a partir de 1º de janeiro de 1996, reduzindo-se a correspondente alíquota, pelo menos, a um e meio por cento no exercício financeiro de 1995.
+<strong>Art.</strong> 4º A eliminação do imposto sobre vendas a varejo de combustíveis líquidos e gasosos, de competência dos Municípios, decorrente desta Emenda Constitucional, somente produzirá efeitos a partir de 1º de janeiro de 1996, reduzindo-se a correspondente alíquota, pelo menos, a um e meio por cento no exercício financeiro de 1995.
 
-**Art.** 5º Até 31 de dezembro de 1999, os Estados, o Distrito Federal e os Municípios somente poderão emitir títulos da dívida pública no montante necessário ao refinanciamento do principal devidamente atualizado de suas obrigações, representadas por essa espécie de títulos, ressalvado o disposto no art. 33, parágrafo único, do Ato das Disposições Constitucionais Transitórias.
+<strong>Art.</strong> 5º Até 31 de dezembro de 1999, os Estados, o Distrito Federal e os Municípios somente poderão emitir títulos da dívida pública no montante necessário ao refinanciamento do principal devidamente atualizado de suas obrigações, representadas por essa espécie de títulos, ressalvado o disposto no art. 33, parágrafo único, do Ato das Disposições Constitucionais Transitórias.
 
-**Art.** 6º Revogam-se o inciso IV e o § 4º do art. 156 da Constituição Federal.
+<strong>Art.</strong> 6º Revogam-se o inciso IV e o § 4º do art. 156 da Constituição Federal.
 
 Brasília, 17 de março de 1993.
 
-**A MESA DA CÂMARA DOS DEPUTADOS**
+<strong>A MESA DA CÂMARA DOS DEPUTADOS</strong>
 
-**DEPUTADO INOCÊNCIO OLIVEIRA**
+<strong>DEPUTADO INOCÊNCIO OLIVEIRA</strong>
 
 Presidente
 
@@ -134,9 +165,9 @@ Deputado B. SÁ
 
 4º Secretário
 
-**A MESA DO SENADO FEDERAL**
+<strong>A MESA DO SENADO FEDERAL</strong>
 
-**SENADOR HUMBERTO LUCENA**
+<strong>SENADOR HUMBERTO LUCENA</strong>
 
 Presidente
 

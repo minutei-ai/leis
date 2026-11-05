@@ -1,0 +1,69 @@
+{
+  "lote": "especies-legislativas-federais",
+  "issue": 94,
+  "papel": "bloqueio-anexos-essenciais-rcn",
+  "verificado_em": "2026-11-04T20:20:00Z",
+  "achado": "Publicações tipo ANX com temTexto=S no detalhe Senado retornam HTTP 200 application/pdf com corpo de 0 bytes.",
+  "implicacao": "Corpo HTML da resolução existe, mas anexos essenciais não têm binário recuperável nesta fonte; itens permanecem anexos-pendentes sem publicação Markdown.",
+  "amostras": [
+    {
+      "slug": "br-federal-resolucao-congresso-nacional-2025-06-23-2",
+      "senado_id": "41071372",
+      "anx_id": "41072651",
+      "url": "https://legis.senado.leg.br/norma/41071372/publicacao/41072651",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "bytes": 0
+    },
+    {
+      "slug": "br-federal-resolucao-congresso-nacional-2025-03-14-1",
+      "senado_id": "40435851",
+      "anx_id": "40435836",
+      "url": "https://legis.senado.leg.br/norma/40435851/publicacao/40435836",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "bytes": 0
+    },
+    {
+      "slug": "br-federal-resolucao-congresso-nacional-2014-01-16-2",
+      "senado_id": "561151",
+      "anx_id": "36588688",
+      "url": "https://legis.senado.leg.br/norma/561151/publicacao/36588688",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "bytes": 0
+    },
+    {
+      "slug": "br-federal-resolucao-congresso-nacional-2013-11-22-3",
+      "senado_id": "561164",
+      "anx_id": "16426937",
+      "url": "https://legis.senado.leg.br/norma/561164/publicacao/16426937",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "bytes": 0
+    }
+  ],
+  "slugs_anexos_pendentes": [],
+  "atualizado_em": "2026-11-04T21:29:50Z",
+  "interpretacao": "HTTP 200 application/pdf com 0 bytes é bloqueio da URL ANX do Senado, não prova de peça inacessível em todas as fontes oficiais.",
+  "recuperacao_alternativa": {
+    "evidencia": "provas/especies-legislativas-federais/anexos-rcn/recuperacao-fontes-alternativas.json",
+    "slugs_recuperados": [
+      "br-federal-resolucao-congresso-nacional-2006-12-22-1",
+      "br-federal-resolucao-congresso-nacional-2006-12-26-2",
+      "br-federal-resolucao-congresso-nacional-2013-11-22-3",
+      "br-federal-resolucao-congresso-nacional-2014-01-16-2",
+      "br-federal-resolucao-congresso-nacional-2025-03-14-1",
+      "br-federal-resolucao-congresso-nacional-2025-06-23-2"
+    ],
+    "publicados_apos_recuperacao": [
+      "br-federal-resolucao-congresso-nacional-2006-12-22-1",
+      "br-federal-resolucao-congresso-nacional-2006-12-26-2",
+      "br-federal-resolucao-congresso-nacional-2013-11-22-3",
+      "br-federal-resolucao-congresso-nacional-2014-01-16-2",
+      "br-federal-resolucao-congresso-nacional-2025-03-14-1",
+      "br-federal-resolucao-congresso-nacional-2025-06-23-2"
+    ]
+  },
+  "slugs_anexos_pendentes_apos_recuperacao": []
+}

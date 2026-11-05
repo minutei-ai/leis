@@ -1,10 +1,43 @@
-**EMENDA CONSTITUCIONAL Nº 24.**
+---
+id: "br-federal-emenda-constitucional-1999-12-09-24"
+norma_id: "br-federal-emenda-constitucional-1999-12-09-24"
+norma_tipo: "emenda-constitucional"
+norma_numero: "24"
+norma_data: "1999-12-09"
+titulo: "EMENDA CONSTITUCIONAL Nº 24."
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1999-12-09-24@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc24.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "73260dc523e7a2f7104de42d84a49783f1606315067ed88c4a062e4d9214f633"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Altera dispositivos da Constituição Federal pertinentes à representação classista na Justiça do Trabalho.***
+###EMC-000024-0-000-09-12-1999@@@
+
+<strong>EMENDA CONSTITUCIONAL Nº 24.</strong>
+
+<em><strong>Altera dispositivos da Constituição Federal pertinentes à representação classista na Justiça do Trabalho.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art**. 1º Os arts. 111. 112, 113, 115 e 116 da Constituição Federal passam a vigorar com a seguinte redação:
+<strong>Art</strong>. 1º Os arts. 111. 112, 113, 115 e 116 da Constituição Federal passam a vigorar com a seguinte redação:
 
 “Art. 111. .................................................................................................................................
 
@@ -38,19 +71,19 @@ III - (Revogado)”.
 
 Parágrafo único. (Revogado)”
 
-**Art**. 2º É assegurado o cumprimento dos mandatos dos atuais ministros classistas temporários do Tribunal Superior do Trabalho e dos atuais juízes classistas do Tribunal Regional do Trabalho e das Juntas de Conciliação e Julgamento.
+<strong>Art</strong>. 2º É assegurado o cumprimento dos mandatos dos atuais ministros classistas temporários do Tribunal Superior do Trabalho e dos atuais juízes classistas do Tribunal Regional do Trabalho e das Juntas de Conciliação e Julgamento.
 
-**Art**. 3º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+<strong>Art</strong>. 3º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
-**Art**. 4º Revoga-se art. 117 da Constituição Federal.
+<strong>Art</strong>. 4º Revoga-se art. 117 da Constituição Federal.
 
 Brasília, em 9 de dezembro de 1999.
 
-**MESA DA CÂMARA DOS DEPUTADOS**
+<strong>MESA DA CÂMARA DOS DEPUTADOS</strong>
 
-**DEPUTADO MICHEL TEMER**
+<strong>DEPUTADO MICHEL TEMER</strong>
 
-**PRESIDENTE**
+<strong>PRESIDENTE</strong>
 
 Deputado HERÁCLITO FORTES
 

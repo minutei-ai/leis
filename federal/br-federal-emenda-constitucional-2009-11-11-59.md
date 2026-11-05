@@ -1,10 +1,43 @@
-**EMENDA CONSTITUCIONAL Nº 59**
+---
+id: "br-federal-emenda-constitucional-2009-11-11-59"
+norma_id: "br-federal-emenda-constitucional-2009-11-11-59"
+norma_tipo: "emenda-constitucional"
+norma_numero: "59"
+norma_data: "2009-11-11"
+titulo: "EMENDA CONSTITUCIONAL Nº 59"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2009-11-11-59@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc59.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "2957f84196d26b72658a573d8b07eebbb38995f4f1129b825adbcee7a2b8f277"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Acrescenta § 3º ao art. 76 do Ato das Disposições Constitucionais Transitórias para reduzir, anualmente, a partir do exercício de 2009, o percentual da Desvinculação das Receitas da União incidente sobre os recursos destinados à manutenção e desenvolvimento do ensino de que trata o art. 212 da Constituição Federal, dá nova redação aos incisos I e VII do art. 208, de forma a prever a obrigatoriedade do ensino de quatro a dezessete anos e ampliar a abrangência dos programas suplementares para todas as etapas da educação básica, e dá nova redação ao § 4º do art. 211 e ao § 3º do art. 212 e ao caput do art. 214, com a inserção neste dispositivo de inciso VI.***
+###EMC-000059-0-000-11-11-2009@@@
+
+<strong>EMENDA CONSTITUCIONAL Nº 59</strong>
+
+<em><strong>Acrescenta § 3º ao art. 76 do Ato das Disposições Constitucionais Transitórias para reduzir, anualmente, a partir do exercício de 2009, o percentual da Desvinculação das Receitas da União incidente sobre os recursos destinados à manutenção e desenvolvimento do ensino de que trata o art. 212 da Constituição Federal, dá nova redação aos incisos I e VII do art. 208, de forma a prever a obrigatoriedade do ensino de quatro a dezessete anos e ampliar a abrangência dos programas suplementares para todas as etapas da educação básica, e dá nova redação ao § 4º do art. 211 e ao § 3º do art. 212 e ao caput do art. 214, com a inserção neste dispositivo de inciso VI.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art.** 1º Os incisos I e VII do art. 208 da Constituição Federal, passam a vigorar com as seguintes alterações:
+<strong>Art.</strong> 1º Os incisos I e VII do art. 208 da Constituição Federal, passam a vigorar com as seguintes alterações:
 
 “Art. 208. .......................................................................................
 
@@ -14,7 +47,7 @@ I - educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete)
 
 VII - atendimento ao educando, em todas as etapas da educação básica, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde.” (NR)
 
-**Art.** 2º O  § 4º do art. 211 da Constituição Federal passa a vigorar com a seguinte redação:
+<strong>Art.</strong> 2º O  § 4º do art. 211 da Constituição Federal passa a vigorar com a seguinte redação:
 
 “Art. 211. .......................................................................................
 
@@ -22,7 +55,7 @@ VII - atendimento ao educando, em todas as etapas da educação básica, por mei
 
 § 4º Na organização de seus sistemas de ensino, a União, os Estados, o Distrito Federal e os Municípios definirão formas de colaboração, de modo a assegurar a universalização do ensino obrigatório.”(NR)
 
-**Art.** 3º O § 3º do art. 212 da Constituição Federal passa a vigorar com a seguinte redação:
+<strong>Art.</strong> 3º O § 3º do art. 212 da Constituição Federal passa a vigorar com a seguinte redação:
 
 “Art. 212. .......................................................................................
 
@@ -30,7 +63,7 @@ VII - atendimento ao educando, em todas as etapas da educação básica, por mei
 
 § 3º A distribuição dos recursos públicos assegurará prioridade ao atendimento das necessidades do ensino obrigatório, no que se refere a universalização, garantia de padrão de qualidade e equidade, nos termos do plano nacional de educação.”(NR)
 
-**Art.** 4º O caput do art. 214 da Constituição Federal passa a vigorar com a seguinte redação, acrescido do inciso VI:
+<strong>Art.</strong> 4º O caput do art. 214 da Constituição Federal passa a vigorar com a seguinte redação, acrescido do inciso VI:
 
 “Art. 214. A lei estabelecerá o plano nacional de educação, de duração decenal, com o objetivo de articular o sistema nacional de educação em regime de colaboração e definir diretrizes, objetivos, metas e estratégias de implementação para assegurar a manutenção e desenvolvimento do ensino em seus diversos níveis, etapas e modalidades por meio de ações integradas dos poderes públicos das diferentes esferas federativas que conduzam a:
 
@@ -38,7 +71,7 @@ VII - atendimento ao educando, em todas as etapas da educação básica, por mei
 
 VI - estabelecimento de meta de aplicação de recursos públicos em educação como proporção do produto interno bruto.”(NR)
 
-**Art.** 5º O art. 76 do Ato das Disposições Constitucionais Transitórias passa a vigorar acrescido do seguinte § 3º:
+<strong>Art.</strong> 5º O art. 76 do Ato das Disposições Constitucionais Transitórias passa a vigorar acrescido do seguinte § 3º:
 
 “Art. 76. .........................................................................................
 
@@ -46,68 +79,68 @@ VI - estabelecimento de meta de aplicação de recursos públicos em educação 
 
 § 3º Para efeito do cálculo dos recursos para manutenção e desenvolvimento do ensino de que trata o art. 212 da Constituição, o percentual referido no caput deste artigo será de 12,5 % (doze inteiros e cinco décimos por cento) no exercício de 2009, 5% (cinco por cento) no exercício de 2010, e nulo no exercício de 2011.”(NR)
 
-**Art.** 6º O disposto no inciso I do art. 208 da Constituição Federal deverá ser implementado progressivamente, até 2016, nos termos do Plano Nacional de Educação, com apoio técnico e financeiro da União.
+<strong>Art.</strong> 6º O disposto no inciso I do art. 208 da Constituição Federal deverá ser implementado progressivamente, até 2016, nos termos do Plano Nacional de Educação, com apoio técnico e financeiro da União.
 
-**Art.** 7º Esta Emenda Constitucional entra em vigor na data da sua publicação.
+<strong>Art.</strong> 7º Esta Emenda Constitucional entra em vigor na data da sua publicação.
 
 Brasília, em 11 de novembro de 2009.
 
                                                                                   MESA DA CÂMARA DOS DEPUTADOS
 
-**DEPUTADO MICHEL TEMER**
+<strong>DEPUTADO MICHEL TEMER</strong>
 
  Presidente
 
-**DEPUTADO MARCO MAIA**
+<strong>DEPUTADO MARCO MAIA</strong>
 
 1º Vice-Presidente
 
-**DEPUTADO ANTÔNIO CARLOS MAGALHÃES NETO**
+<strong>DEPUTADO ANTÔNIO CARLOS MAGALHÃES NETO</strong>
 
 2º Vice-Presidente
 
-**DEPUTADO RAFAEL GUERRA**
+<strong>DEPUTADO RAFAEL GUERRA</strong>
 
 1º Secretário
 
-**DEPUTADO INOCÊNCIO OLIVEIRA**
+<strong>DEPUTADO INOCÊNCIO OLIVEIRA</strong>
 
 2º Secretário
 
-**DEPUTADO ODAIR CUNHA**
+<strong>DEPUTADO ODAIR CUNHA</strong>
 
 3º Secretário
 
-**DEPUTADO NELSON MARQUEZELLI**
+<strong>DEPUTADO NELSON MARQUEZELLI</strong>
 
 4º Secretário
 
                                                                                      MESA DO SENADO FEDERAL
 
-**SENADOR JOSÉ SARNEY**
+<strong>SENADOR JOSÉ SARNEY</strong>
 
  Presidente
 
-**SENADOR MARCONI PERILLO**
+<strong>SENADOR MARCONI PERILLO</strong>
 
 1º Vice-Presidente
 
-**SENADORA SERYS SLHESSARENKO**
+<strong>SENADORA SERYS SLHESSARENKO</strong>
 
 2º Vice-Presidente
 
-**SENADOR HERÁCLITO FORTES**
+<strong>SENADOR HERÁCLITO FORTES</strong>
 
 1º Secretário
 
-**SENADOR JOÃO VICENTE CLAUDINO**
+<strong>SENADOR JOÃO VICENTE CLAUDINO</strong>
 
 2º Secretário
 
-**SENADOR MÃO SANTA**
+<strong>SENADOR MÃO SANTA</strong>
 
 3º Secretário
 
-**SENADOR CÉSAR BORGES**
+<strong>SENADOR CÉSAR BORGES</strong>
 
 No exercício da 4ª Secretaria

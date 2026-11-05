@@ -1,0 +1,46 @@
+{
+  "issue": 90,
+  "matriz_resumo": {
+    "especies": {
+      "ACP": {
+        "ausentes": 0,
+        "catalogo_sha256": "361ec077c21e310570349dd7b9cb3babae757b0d7ef3665b47e2a94528a04f0a",
+        "catalogo_total": 105,
+        "presentes": 105,
+        "revisao": 0,
+        "sha256_bate_com_issue": false,
+        "sha256_conferencia_issue": "58396a2129d0134ec5fc177b8dc6104b3d65f67ce8e68f466af6ec7c0bd3aa1c"
+      },
+      "AIT": {
+        "ausentes": 0,
+        "catalogo_sha256": "70ce9fa0928f46e8239299e7e6fa518b972218f284fa682666cf59c686489219",
+        "catalogo_total": 17,
+        "presentes": 17,
+        "revisao": 0,
+        "sha256_bate_com_issue": false,
+        "sha256_conferencia_issue": "c2e50078b395601ed704d2f2e56ba26708416259930295e207f39dfc40e0f37f"
+      },
+      "LCT": {
+        "ausentes": 0,
+        "catalogo_sha256": "0e473b1fc3268d1c8c917e752642ffc9cda7582769d84e6d780de1c728371143",
+        "catalogo_total": 21,
+        "presentes": 21,
+        "revisao": 0,
+        "sha256_bate_com_issue": false,
+        "sha256_conferencia_issue": "39a92fe7581ab9feade8903f6e70bcd076752ae666db7d48d32d49eedd0a5f70"
+      }
+    },
+    "nota": "Catálogo oficial é evidência de descoberta, não substitui íntegra nem certifica vigência. Lei constitucional ≠ lei complementar; ato complementar ≠ ato institucional. O sha256 do catálogo embutido é o da resposta bruta do Senado na captura; o arquivo JSON versionado no repo tem hash de arquivo distinto por serialização. Nenhum dos dois bate com o SHA citado na issue — divergência preservada, sem forçar igualdade."
+  },
+  "n_publicados": 143,
+  "n_retidos": 0,
+  "nota": "143/143 LCT+AIT+ACP via Sigen/legis.senado; normas.leg.br não indexa estas espécies. Reconcile pós-publicação: presentes=143, ausentes=0.",
+  "regras": [
+    "Não inferir vigência/completude de presença de arquivo ou HTTP.",
+    "<<ANEXO>>/<<TABELA>> na conversão retêm a norma (sem publicar corpo incompleto).",
+    "Provas privadas fora do repo público; divergências literais preservadas.",
+    "imagens_omitidas=5 em todas as 143 publicações conta ícones de chrome do portal Senado (senado.svg, hands.svg, icon-camara/congresso/tcu), não anexos normativos; anexos_no_corpo permanece 0 e não houve marcador <<ANEXO>>/<<TABELA>> nas capturas Sigen deste lote.",
+    "Presença de Markdown com serie_historica não garante vínculo evidenciado a texto-base constitucional (#79) nem inventário dos diplomas que cada ato altera."
+  ],
+  "retidos_por_status": {}
+}

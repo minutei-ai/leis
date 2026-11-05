@@ -1,40 +1,71 @@
-**EMENDA CONSTITUCIONAL Nº 106**
+---
+id: "br-federal-emenda-constitucional-2020-05-07-106"
+norma_id: "br-federal-emenda-constitucional-2020-05-07-106"
+norma_tipo: "emenda-constitucional"
+norma_numero: "106"
+norma_data: "2020-05-07"
+titulo: "EMENDA CONSTITUCIONAL Nº 106"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2020-05-07-106@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc106.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "bcc1b7fec2dc345f14bc09f061a7bfbd54bfe56f018edc6b816ab6456041f03d"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Institui regime extraordinário fiscal, financeiro e de contratações para enfrentamento de calamidade pública nacional decorrente de pandemia.***
+<strong>EMENDA CONSTITUCIONAL Nº 106</strong>
+
+<em><strong>Institui regime extraordinário fiscal, financeiro e de contratações para enfrentamento de calamidade pública nacional decorrente de pandemia.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art.** 1º Durante a vigência de estado de calamidade pública nacional reconhecido pelo Congresso Nacional em razão de emergência de saúde pública de importância internacional decorrente de pandemia, a União adotará regime extraordinário fiscal, financeiro e de contratações para atender às necessidades dele decorrentes, somente naquilo em que a urgência for incompatível com o regime regular, nos termos definidos nesta Emenda Constitucional.
+<strong>Art.</strong> 1º Durante a vigência de estado de calamidade pública nacional reconhecido pelo Congresso Nacional em razão de emergência de saúde pública de importância internacional decorrente de pandemia, a União adotará regime extraordinário fiscal, financeiro e de contratações para atender às necessidades dele decorrentes, somente naquilo em que a urgência for incompatível com o regime regular, nos termos definidos nesta Emenda Constitucional.
 
-**Art.** 2º Com o propósito exclusivo de enfrentamento do contexto da calamidade e de seus efeitos sociais e econômicos, no seu período de duração, o Poder Executivo federal, no âmbito de suas competências, poderá adotar processos simplificados de contratação de pessoal, em caráter temporário e emergencial, e de obras, serviços e compras que assegurem, quando possível, competição e igualdade de condições a todos os concorrentes, dispensada a observância do § 1º do art. 169 da Constituição Federal na contratação de que trata o inciso IX do caput do art. 37 da Constituição Federal, limitada a dispensa às situações de que trata o referido inciso, sem prejuízo da tutela dos órgãos de controle.
+<strong>Art.</strong> 2º Com o propósito exclusivo de enfrentamento do contexto da calamidade e de seus efeitos sociais e econômicos, no seu período de duração, o Poder Executivo federal, no âmbito de suas competências, poderá adotar processos simplificados de contratação de pessoal, em caráter temporário e emergencial, e de obras, serviços e compras que assegurem, quando possível, competição e igualdade de condições a todos os concorrentes, dispensada a observância do § 1º do art. 169 da Constituição Federal na contratação de que trata o inciso IX do caput do art. 37 da Constituição Federal, limitada a dispensa às situações de que trata o referido inciso, sem prejuízo da tutela dos órgãos de controle.
 
 Parágrafo único. Nas hipóteses de distribuição de equipamentos e insumos de saúde imprescindíveis ao enfrentamento da calamidade, a União adotará critérios objetivos, devidamente publicados, para a respectiva destinação a Estados e a Municípios.
 
-**Art.** 3º Desde que não impliquem despesa permanente, as proposições legislativas e os atos do Poder Executivo com propósito exclusivo de enfrentar a calamidade e suas consequências sociais e econômicas, com vigência e efeitos restritos à sua duração, ficam dispensados da observância das limitações legais quanto à criação, à expansão ou ao aperfeiçoamento de ação governamental que acarrete aumento de despesa e à concessão ou à ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita.
+<strong>Art.</strong> 3º Desde que não impliquem despesa permanente, as proposições legislativas e os atos do Poder Executivo com propósito exclusivo de enfrentar a calamidade e suas consequências sociais e econômicas, com vigência e efeitos restritos à sua duração, ficam dispensados da observância das limitações legais quanto à criação, à expansão ou ao aperfeiçoamento de ação governamental que acarrete aumento de despesa e à concessão ou à ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita.
 
 Parágrafo único. Durante a vigência da calamidade pública nacional de que trata o art. 1º desta Emenda Constitucional, não se aplica o disposto no § 3º do art. 195 da Constituição Federal.
 
-**Art.** 4º Será dispensada, durante a integralidade do exercício financeiro em que vigore a calamidade pública nacional de que trata o art. 1º desta Emenda Constitucional, a observância do inciso III do caput do art. 167 da Constituição Federal.
+<strong>Art.</strong> 4º Será dispensada, durante a integralidade do exercício financeiro em que vigore a calamidade pública nacional de que trata o art. 1º desta Emenda Constitucional, a observância do inciso III do caput do art. 167 da Constituição Federal.
 
 Parágrafo único. O Ministério da Economia publicará, a cada 30 (trinta) dias, relatório com os valores e o custo das operações de crédito realizadas no período de vigência do estado de calamidade pública nacional de que trata o art. 1º desta Emenda Constitucional.
 
-**Art.** 5º As autorizações de despesas relacionadas ao enfrentamento da calamidade pública nacional de que trata o art. 1º desta Emenda Constitucional e de seus efeitos sociais e econômicos deverão:
+<strong>Art.</strong> 5º As autorizações de despesas relacionadas ao enfrentamento da calamidade pública nacional de que trata o art. 1º desta Emenda Constitucional e de seus efeitos sociais e econômicos deverão:
 
 I - constar de programações orçamentárias específicas ou contar com marcadores que as identifiquem; e
 
 II - ser separadamente avaliadas na prestação de contas do Presidente da República e evidenciadas, até 30 (trinta) dias após o encerramento de cada bimestre, no relatório a que se refere o § 3º do art. 165 da Constituição Federal.
 
-Parágrafo único. Decreto do Presidente da República, editado até 15 (quinze) dias após a entrada em vigor desta Emenda Constitucional, disporá sobre a forma de identificação das autorizações de que trata o **caput** deste artigo, incluídas as anteriores à vigência desta Emenda Constitucional.
+Parágrafo único. Decreto do Presidente da República, editado até 15 (quinze) dias após a entrada em vigor desta Emenda Constitucional, disporá sobre a forma de identificação das autorizações de que trata o <strong>caput</strong> deste artigo, incluídas as anteriores à vigência desta Emenda Constitucional.
 
-**Art.** 6º Durante a vigência da calamidade pública nacional de que trata o art. 1º desta Emenda Constitucional, os recursos decorrentes de operações de crédito realizadas para o refinanciamento da dívida mobiliária poderão ser utilizados também para o pagamento de seus juros e encargos.
+<strong>Art.</strong> 6º Durante a vigência da calamidade pública nacional de que trata o art. 1º desta Emenda Constitucional, os recursos decorrentes de operações de crédito realizadas para o refinanciamento da dívida mobiliária poderão ser utilizados também para o pagamento de seus juros e encargos.
 
-**Art.** 7º O Banco Central do Brasil, limitado ao enfrentamento da calamidade pública nacional de que trata o art. 1º desta Emenda Constitucional, e com vigência e efeitos restritos ao período de sua duração, fica autorizado a comprar e a vender:
+<strong>Art.</strong> 7º O Banco Central do Brasil, limitado ao enfrentamento da calamidade pública nacional de que trata o art. 1º desta Emenda Constitucional, e com vigência e efeitos restritos ao período de sua duração, fica autorizado a comprar e a vender:
 
 I - títulos de emissão do Tesouro Nacional, nos mercados secundários local e internacional; e
 
 II - os ativos, em mercados secundários nacionais no âmbito de mercados financeiros, de capitais e de pagamentos, desde que, no momento da compra, tenham classificação em categoria de risco de crédito no mercado local equivalente a BB- ou superior, conferida por pelo menos 1 (uma) das 3 (três) maiores agências internacionais de classificação de risco, e preço de referência publicado por entidade do mercado financeiro acreditada pelo Banco Central do Brasil.
 
-§ 1º Respeitadas as condições previstas no inciso II do **caput** deste artigo, será dada preferência à aquisição de títulos emitidos por microempresas e por pequenas e médias empresas.
+§ 1º Respeitadas as condições previstas no inciso II do <strong>caput</strong> deste artigo, será dada preferência à aquisição de títulos emitidos por microempresas e por pequenas e médias empresas.
 
 § 2º O Banco Central do Brasil fará publicar diariamente as operações realizadas, de forma individualizada, com todas as respectivas informações, inclusive as condições financeiras e econômicas das operações, como taxas de juros pactuadas, valores envolvidos e prazos.
 
@@ -42,78 +73,20 @@ II - os ativos, em mercados secundários nacionais no âmbito de mercados financ
 
 § 4º A alienação de ativos adquiridos pelo Banco Central do Brasil, na forma deste artigo, poderá dar-se em data posterior à vigência do estado de calamidade pública nacional de que trata o art. 1º desta Emenda Constitucional, se assim justificar o interesse público.
 
-**Art.** 8º Durante a vigência desta Emenda Constitucional, o Banco Central do Brasil editará regulamentação sobre exigências de contrapartidas ao comprar ativos de instituições financeiras em conformidade com a previsão do inciso II do caput do art. 7º desta Emenda Constitucional, em especial a vedação de:
+<strong>Art.</strong> 8º Durante a vigência desta Emenda Constitucional, o Banco Central do Brasil editará regulamentação sobre exigências de contrapartidas ao comprar ativos de instituições financeiras em conformidade com a previsão do inciso II do caput do art. 7º desta Emenda Constitucional, em especial a vedação de:
 
 I - pagar juros sobre o capital próprio e dividendos acima do mínimo obrigatório estabelecido em lei ou no estatuto social vigente na data de entrada em vigor desta Emenda Constitucional;
 
 II - aumentar a remuneração, fixa ou variável, de diretores e membros do conselho de administração, no caso das sociedades anônimas, e dos administradores, no caso de sociedades limitadas.
 
-Parágrafo único. A remuneração variável referida no inciso II do **caput** deste artigo inclui bônus, participação nos lucros e quaisquer parcelas de remuneração diferidas e outros incentivos remuneratórios associados ao desempenho.
+Parágrafo único. A remuneração variável referida no inciso II do <strong>caput</strong> deste artigo inclui bônus, participação nos lucros e quaisquer parcelas de remuneração diferidas e outros incentivos remuneratórios associados ao desempenho.
 
-**Art.** 9º Em caso de irregularidade ou de descumprimento dos limites desta Emenda Constitucional, o Congresso Nacional poderá sustar, por decreto legislativo, qualquer decisão de órgão ou entidade do Poder Executivo relacionada às medidas autorizadas por esta Emenda Constitucional.
+<strong>Art.</strong> 9º Em caso de irregularidade ou de descumprimento dos limites desta Emenda Constitucional, o Congresso Nacional poderá sustar, por decreto legislativo, qualquer decisão de órgão ou entidade do Poder Executivo relacionada às medidas autorizadas por esta Emenda Constitucional.
 
-**Art.** 10. Ficam convalidados os atos de gestão praticados a partir de 20 de março de 2020, desde que compatíveis com o teor desta Emenda Constitucional.
+<strong>Art.</strong> 10. Ficam convalidados os atos de gestão praticados a partir de 20 de março de 2020, desde que compatíveis com o teor desta Emenda Constitucional.
 
-**Art.** 11. Esta Emenda Constitucional entra em vigor na data de sua publicação e ficará automaticamente revogada na data do encerramento do estado de calamidade pública reconhecido pelo Congresso Nacional.
+<strong>Art.</strong> 11. Esta Emenda Constitucional entra em vigor na data de sua publicação e ficará automaticamente revogada na data do encerramento do estado de calamidade pública reconhecido pelo Congresso Nacional.
 
 Brasília, em 7 de maio de 2020.
 
-**MESA DA CÂMARA DOS DEPUTADOS**
-
-**MESA DO SENADO FEDERAL**
-
-**Deputado RODRIGO MAIA**
-
-**Senador DAVI ALCOLUMBRE**
-
-Presidente
-
-Presidente
-
-**Deputado MARCOS PEREIRA**
-
-**Senador ANTONIO ANASTASIA**
-
-1º Vice-Presidente
-
-1º Vice-Presidente
-
-**Deputado LUCIANO BIVAR**
-
-**Senador LASIER MARTINS**
-
-2º Vice-Presidente
-
-2º Vice-Presidente
-
-**Deputada SORAYA SANTOS**
-
-**Senador SÉRGIO PETECÃO**
-
-1ª Secretária
-
-1º Secretário
-
-**Deputado MÁRIO HERINGER**
-
-**Senador EDUARDO GOMES**
-
-2º Secretário
-
-2º Secretário
-
-**Deputado FÁBIO FARIA**
-
-**Senador FLÁVIO BOLSONARO**
-
-3º Secretário
-
-3º Secretário
-
-**Deputado ANDRÉ FUFUCA**
-
-**Senador LUIS CARLOS HEINZE**
-
-4º Secretário
-
-4º Secretário
+<table cellspacing="0" cellpadding="0" class="TableGrid" style="border-collapse:collapse"><tbody><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-bottom:12pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold; text-transform:uppercase"><span><strong>MESA DA CÂMARA DOS DEPUTADOS</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; margin-bottom:12pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold; text-transform:uppercase"><span><strong>MESA DO SENADO FEDERAL</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputado RODRIGO MAIA</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador DAVI ALCOLUMBRE</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>Presidente</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>Presidente</span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputado MARCOS PEREIRA</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador ANTONIO ANASTASIA</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputado LUCIANO BIVAR</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador LASIER MARTINS</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputada SORAYA SANTOS</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador SÉRGIO PETECÃO</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>1ª Secretária</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>1º Secretário</span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputado MÁRIO HERINGER</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador EDUARDO GOMES</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>2º Secretário</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>2º Secretário</span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputado </strong></span></span><span style="font-weight:bold"><span><strong>FÁBIO FARIA</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador FLÁVIO BOLSONARO</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>3º Secretário</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>3º Secretário</span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputado ANDRÉ FUFUCA</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador LUIS CARLOS HEINZE</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>4º Secretário</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>4º Secretário</span></span></p></td></tr></tbody></table>

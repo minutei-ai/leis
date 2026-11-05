@@ -7,7 +7,7 @@ e o manifesto dizem de onde veio cada texto, que edição ele é e quando foi ca
 da norma, da presença no repositório ou da data do commit.
 
 Os demais arquivos do acervo ainda não têm esse cabeçalho. A ausência dele significa "metadados não registrados", nunca
-"vigente".
+"vigente". O contrato geral do acervo para exportação/filtros BM25 está em [`CONTRATO-acervo.md`](CONTRATO-acervo.md) (issue #70); este arquivo permanece o contrato setorial do núcleo de licitações.
 
 ## Regras gerais
 

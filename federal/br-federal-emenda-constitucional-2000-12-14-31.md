@@ -1,10 +1,43 @@
-**EMENDA CONSTITUCIONAL Nº 31.**
+---
+id: "br-federal-emenda-constitucional-2000-12-14-31"
+norma_id: "br-federal-emenda-constitucional-2000-12-14-31"
+norma_tipo: "emenda-constitucional"
+norma_numero: "31"
+norma_data: "2000-12-14"
+titulo: "EMENDA CONSTITUCIONAL Nº 31."
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2000-12-14-31@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc31.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "01c4462d1687cce4d61e41948caa8a9cfc0db9800dcf44606a998f95d4fa846f"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Altera o Ato das Disposições Constitucionais Transitórias, introduzindo artigos que criam o Fundo de Combate e Erradicação da Pobreza.***
+###EMC-000031-0-000-14-12-2000@@@
+
+<strong>EMENDA CONSTITUCIONAL Nº 31.</strong>
+
+<em><strong>Altera o Ato das Disposições Constitucionais Transitórias, introduzindo artigos que criam o Fundo de Combate e Erradicação da Pobreza.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte emenda ao texto constitucional:
 
-**Art**. 1º A Constituição Federal, no Ato das Disposições Constitucionais Transitórias, é acrescida dos seguintes artigos:
+<strong>Art</strong>. 1º A Constituição Federal, no Ato das Disposições Constitucionais Transitórias, é acrescida dos seguintes artigos:
 
 “Art. 79. É instituído, para vigorar até o ano de 2010, no âmbito do Poder Executivo Federal, o Fundo de Combate e Erradicação da Pobreza, a ser regulado por lei complementar com o objetivo de viabilizar a todos os brasileiros acesso a níveis dignos de subsistência, cujos recursos serão aplicados em ações suplementares de nutrição, habitação, educação, saúde, reforço de renda familiar e outros programas de relevante interesse social voltados para melhoria da qualidade de vida.
 
@@ -44,13 +77,13 @@ Art. 82. Os Estados, o Distrito Federal e os Municípios devem instituir Fundos 
 
 Art. 83. Lei federal definirá os produtos e serviços supérfluos a que se referem os arts. 80, inciso II, e 82, § 1º e 2º.”
 
-**Art**. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+<strong>Art</strong>. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, 14 de dezembro de 2000.
 
-**MESA DA CÂMARA DOS DEPUTADOS**
+<strong>MESA DA CÂMARA DOS DEPUTADOS</strong>
 
-**DEPUTADO MICHEL TEMER**
+<strong>DEPUTADO MICHEL TEMER</strong>
 
 Presidente
 

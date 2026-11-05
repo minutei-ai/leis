@@ -1,10 +1,43 @@
-**EMENDA CONSTITUCIONAL Nº 60**
+---
+id: "br-federal-emenda-constitucional-2009-11-11-60"
+norma_id: "br-federal-emenda-constitucional-2009-11-11-60"
+norma_tipo: "emenda-constitucional"
+norma_numero: "60"
+norma_data: "2009-11-11"
+titulo: "EMENDA CONSTITUCIONAL Nº 60"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2009-11-11-60@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc60.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "74d3b7849f20c1ff818dd821630001d52893e4997920247649fc683e0c936622"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Altera o art. 89 do Ato das Disposições Constitucionais Transitórias para dispor sobre o quadro de servidores civis e militares do ex-Território Federal de Rondônia.***
+###EMC-000060-0-000-11-11-2009@@@
+
+<strong>EMENDA CONSTITUCIONAL Nº 60</strong>
+
+<em><strong>Altera o art. 89 do Ato das Disposições Constitucionais Transitórias para dispor sobre o quadro de servidores civis e militares do ex-Território Federal de Rondônia.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art.** 1º O art. 89 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação, vedado o pagamento, a qualquer título, em virtude de tal alteração, de ressarcimentos ou indenizações, de qualquer espécie, referentes a períodos anteriores à data de publicação desta Emenda Constitucional:
+<strong>Art.</strong> 1º O art. 89 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação, vedado o pagamento, a qualquer título, em virtude de tal alteração, de ressarcimentos ou indenizações, de qualquer espécie, referentes a períodos anteriores à data de publicação desta Emenda Constitucional:
 
 “Art. 89. Os integrantes da carreira policial militar e os servidores municipais do ex-Território Federal de Rondônia que, comprovadamente, se encontravam no exercício regular de suas funções prestando serviço àquele ex-Território na data em que foi transformado em Estado, bem como os servidores e os policiais militares alcançados pelo disposto no art. 36 da Lei Complementar nº 41, de 22 de dezembro de 1981, e aqueles admitidos regularmente nos quadros do Estado de Rondônia até a data de posse do primeiro Governador eleito, em 15 de março de 1987, constituirão, mediante opção, quadro em extinção da administração federal, assegurados os direitos e as vantagens a eles inerentes, vedado o pagamento, a qualquer título, de diferenças remuneratórias.
 
@@ -12,66 +45,66 @@ As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do a
 
 § 2º Os servidores a que se refere o caput continuarão prestando serviços ao Estado de Rondônia na condição de cedidos, até seu aproveitamento em órgão ou entidade da administração federal direta, autárquica ou fundacional.”(NR)
 
-**Art.** 2º Esta Emenda Constitucional entra em vigor na data de sua publicação, não produzindo efeitos retroativos.
+<strong>Art.</strong> 2º Esta Emenda Constitucional entra em vigor na data de sua publicação, não produzindo efeitos retroativos.
 
 Brasília, em 11 de novembro de 2009.
 
                                                                                MESA DA CÂMARA DOS DEPUTADOS
 
-**DEPUTADO MICHEL TEMER**
+<strong>DEPUTADO MICHEL TEMER</strong>
 
  Presidente
 
-**DEPUTADO MARCO MAIA**
+<strong>DEPUTADO MARCO MAIA</strong>
 
 1º Vice-Presidente
 
-**DEPUTADO ANTÔNIO CARLOS MAGALHÃES NETO**
+<strong>DEPUTADO ANTÔNIO CARLOS MAGALHÃES NETO</strong>
 
 2º Vice-Presidente
 
-**DEPUTADO RAFAEL GUERRA**
+<strong>DEPUTADO RAFAEL GUERRA</strong>
 
 1º Secretário
 
-**DEPUTADO INOCÊNCIO OLIVEIRA**
+<strong>DEPUTADO INOCÊNCIO OLIVEIRA</strong>
 
 2º Secretário
 
-**DEPUTADO ODAIR CUNHA**
+<strong>DEPUTADO ODAIR CUNHA</strong>
 
 3º Secretário
 
-**DEPUTADO NELSON MARQUEZELLI**
+<strong>DEPUTADO NELSON MARQUEZELLI</strong>
 
 4º Secretário
 
                                                                                MESA DO SENADO FEDERAL
 
-**SENADOR JOSÉ SARNEY**
+<strong>SENADOR JOSÉ SARNEY</strong>
 
  Presidente
 
-**SENADOR MARCONI PERILLO**
+<strong>SENADOR MARCONI PERILLO</strong>
 
 1º Vice-Presidente
 
-**SENADORA SERYS SLHESSARENKO**
+<strong>SENADORA SERYS SLHESSARENKO</strong>
 
 2º Vice-Presidente
 
-**SENADOR HERÁCLITO FORTES**
+<strong>SENADOR HERÁCLITO FORTES</strong>
 
-**1º SECRETÁRIO**
+<strong>1º SECRETÁRIO</strong>
 
-**SENADOR JOÃO VICENTE CLAUDINO**
+<strong>SENADOR JOÃO VICENTE CLAUDINO</strong>
 
 2º Secretário
 
-**SENADOR MÃO SANTA**
+<strong>SENADOR MÃO SANTA</strong>
 
 3º Secretário
 
-**SENADOR CÉSAR BORGES**
+<strong>SENADOR CÉSAR BORGES</strong>
 
 no exercício da 4ª Secretaria

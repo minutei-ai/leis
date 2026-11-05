@@ -1,77 +1,50 @@
-**EMENDA CONSTITUCIONAL Nº 101**
+---
+id: "br-federal-emenda-constitucional-2019-07-03-101"
+norma_id: "br-federal-emenda-constitucional-2019-07-03-101"
+norma_tipo: "emenda-constitucional"
+norma_numero: "101"
+norma_data: "2019-07-03"
+titulo: "EMENDA CONSTITUCIONAL Nº 101"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2019-07-03-101@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc101.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "c79646d34da9e0ba1ffe1e747586d94060e04a8997c23fff5ad99a8a5d09aa97"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Acrescenta § 3º ao art. 42 da Constituição Federal para estender aos militares dos Estados, do Distrito Federal e dos Territórios o direito à acumulação de cargos públicos prevista no art. 37, inciso XVI.***
+<strong>EMENDA CONSTITUCIONAL Nº 101</strong>
+
+<em><strong>Acrescenta § 3º ao art. 42 da Constituição Federal para estender aos militares dos Estados, do Distrito Federal e dos Territórios o direito à acumulação de cargos públicos prevista no art. 37, inciso XVI.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art.** 1º O art. 42 da Constituição Federal passa a vigorar acrescido do seguinte § 3º:
+<strong>Art.</strong> 1º O art. 42 da Constituição Federal passa a vigorar acrescido do seguinte § 3º:
 
-"**Art.** 42...................................................................................................................
+"<strong>Art.</strong> 42...................................................................................................................
 
 ...............................................................................................................................
 
 § 3º Aplica-se aos militares dos Estados, do Distrito Federal e dos Territórios o disposto no art. 37, inciso XVI, com prevalência da atividade militar." (NR)
 
-**Art.** 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+<strong>Art.</strong> 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, em 3 de julho de 2019.
 
-**MESA DA CÂMARA DOS DEPUTADOS**
-
-**MESA DO SENADO FEDERAL**
-
-**Deputado RODRIGO MAIA**
-
-**Senador DAVI ALCOLUMBRE**
-
-Presidente
-
-Presidente
-
-**Deputado MARCOS PEREIRA**
-
-**Senador ANTONIO ANASTASIA**
-
-1º Vice-Presidente
-
-1º Vice-Presidente
-
-**Deputado LUCIANO BIVAR**
-
-**Senador LASIER MARTINS**
-
-2º Vice-Presidente
-
-2º Vice-Presidente
-
-**Deputada SORAYA SANTOS**
-
-**Senador SÉRGIO PETECÃO**
-
-1ª Secretária
-
-1º Secretário
-
-**Deputado MÁRIO HERINGER**
-
-**Senador EDUARDO GOMES**
-
-2º Secretário
-
-2º Secretário
-
-**Deputado FÁBIO FARIA**
-
-**Senador FLÁVIO BOLSONARO**
-
-3º Secretário
-
-3º Secretário
-
-**Deputado ANDRÉ FUFUCA**
-
-**Senador LUIS CARLOS HEINZE**
-
-4º Secretário
-
-4º Secretário
+<table cellspacing="0" cellpadding="0" class="TableGrid" style="border-collapse:collapse"><tbody><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-bottom:12pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold; text-transform:uppercase"><span><strong>MESA DA CÂMARA DOS DEPUTADOS</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; margin-bottom:12pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold; text-transform:uppercase"><span><strong>MESA DO SENADO FEDERAL</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputado RODRIGO MAIA</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador DAVI ALCOLUMBRE</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>Presidente</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>Presidente</span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputado MARCOS PEREIRA</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador ANTONIO ANASTASIA</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputado LUCIANO BIVAR</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador LASIER MARTINS</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputada SORAYA SANTOS</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador SÉRGIO PETECÃO</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>1ª Secretária</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>1º Secretário</span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputado MÁRIO HERINGER</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador EDUARDO GOMES</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>2º Secretário</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>2º Secretário</span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputado </strong></span></span><span style="font-weight:bold"><span><strong>FÁBIO FARIA</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador FLÁVIO BOLSONARO</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>3º Secretário</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>3º Secretário</span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Deputado ANDRÉ FUFUCA</strong></span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold"><span><strong>Senador LUIS CARLOS HEINZE</strong></span></span></p></td></tr><tr><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:10pt"><span><span>4º Secretário</span></span></p></td><td style="width:205.3pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="DefaultParagraph" style="margin-left:17.8pt; text-indent:0pt; text-align:center; font-size:10pt"><span><span>4º Secretário</span></span></p></td></tr></tbody></table>

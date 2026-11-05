@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2002-06-12-37"
+norma_id: "br-federal-emenda-constitucional-2002-06-12-37"
+norma_tipo: "emenda-constitucional"
+norma_numero: "37"
+norma_data: "2002-06-12"
+titulo: "EMENDA CONSTITUCIONAL Nº 37, DE 2002"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2002-06-12-37@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/2002/emendaconstitucional-37-12-junho-2002-395051-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc37.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "c34bf7db4b046df59d6014c59815f4e85d95551b6df36cb26d73a500ba4cf58b"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "0db69f142521b7c2a69857502e6f28782b0a1ab25e8a0d03aeb38941cafaf12d"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 37, DE 2002
 
 Altera os arts. 100 e 156 da Constituição Federal e acrescenta os arts. 84, 85, 86, 87 e 88 ao Ato das Disposições Constitucionais Transitórias.

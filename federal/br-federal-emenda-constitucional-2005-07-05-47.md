@@ -1,10 +1,43 @@
-**EMENDA CONSTITUCIONAL Nº 47**
+---
+id: "br-federal-emenda-constitucional-2005-07-05-47"
+norma_id: "br-federal-emenda-constitucional-2005-07-05-47"
+norma_tipo: "emenda-constitucional"
+norma_numero: "47"
+norma_data: "2005-07-05"
+titulo: "EMENDA CONSTITUCIONAL Nº 47"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2005-07-05-47@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc47.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "a88ec9be6e605050811c55e1ec7ce559af5a148a546e21f199cd3aff7f7ec4d7"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Altera os arts. 37, 40, 195 e 201 da Constituição Federal, para dispor sobre a previdência social, e dá outras providências.***
+###EMC-000047-0-000-05-07-2005@@@
+
+<strong>EMENDA CONSTITUCIONAL Nº 47</strong>
+
+<em><strong>Altera os arts. 37, 40, 195 e 201 da Constituição Federal, para dispor sobre a previdência social, e dá outras providências.</strong></em>
 
 AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art.** 1º Os arts. 37, 40, 195 e 201 da Constituição Federal passam a vigorar com a seguinte redação:
+<strong>Art.</strong> 1º Os arts. 37, 40, 195 e 201 da Constituição Federal passam a vigorar com a seguinte redação:
 
 "Art. 37. ...................................................................................
 
@@ -50,9 +83,9 @@ III cujas atividades sejam exercidas sob condições especiais que prejudiquem a
 
 § 13. O sistema especial de inclusão previdenciária de que trata o § 12 deste artigo terá alíquotas e carências inferiores às vigentes para os demais segurados do regime geral de previdência social." (NR)
 
-**Art.** 2º Aplica-se aos proventos de aposentadorias dos servidores públicos que se aposentarem na forma do caput do art. 6º da Emenda Constitucional nº 41, de 2003, o disposto no art. 7º da mesma Emenda.
+<strong>Art.</strong> 2º Aplica-se aos proventos de aposentadorias dos servidores públicos que se aposentarem na forma do caput do art. 6º da Emenda Constitucional nº 41, de 2003, o disposto no art. 7º da mesma Emenda.
 
-**Art.** 3º Ressalvado o direito de opção à aposentadoria pelas normas estabelecidas pelo art. 40 da Constituição Federal ou pelas regras estabelecidas pelos arts. 2º e 6º da Emenda Constitucional nº 41, de 2003, o servidor da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, que tenha ingressado no serviço público até 16 de dezembro de 1998 poderá aposentar-se com proventos integrais, desde que preencha, cumulativamente, as seguintes condições:
+<strong>Art.</strong> 3º Ressalvado o direito de opção à aposentadoria pelas normas estabelecidas pelo art. 40 da Constituição Federal ou pelas regras estabelecidas pelos arts. 2º e 6º da Emenda Constitucional nº 41, de 2003, o servidor da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, que tenha ingressado no serviço público até 16 de dezembro de 1998 poderá aposentar-se com proventos integrais, desde que preencha, cumulativamente, as seguintes condições:
 
 I trinta e cinco anos de contribuição, se homem, e trinta anos de contribuição, se mulher;
 
@@ -62,57 +95,57 @@ III idade mínima resultante da redução, relativamente aos limites do art. 40,
 
 Parágrafo único. Aplica-se ao valor dos proventos de aposentadorias concedidas com base neste artigo o disposto no art. 7º da Emenda Constitucional nº 41, de 2003, observando-se igual critério de revisão às pensões derivadas dos proventos de servidores falecidos que tenham se aposentado em conformidade com este artigo.
 
-**Art.** 4º Enquanto não editada a lei a que se refere o § 11 do art. 37 da Constituição Federal, não será computada, para efeito dos limites remuneratórios de que trata o inciso XI do caput do mesmo artigo, qualquer parcela de caráter indenizatório, assim definida pela legislação em vigor na data de publicação da Emenda Constitucional nº 41, de 2003.
+<strong>Art.</strong> 4º Enquanto não editada a lei a que se refere o § 11 do art. 37 da Constituição Federal, não será computada, para efeito dos limites remuneratórios de que trata o inciso XI do caput do mesmo artigo, qualquer parcela de caráter indenizatório, assim definida pela legislação em vigor na data de publicação da Emenda Constitucional nº 41, de 2003.
 
-**Art.** 5º Revoga-se o parágrafo único do art. 6º da Emenda Constitucional nº 41, de 19 de dezembro de 2003.
+<strong>Art.</strong> 5º Revoga-se o parágrafo único do art. 6º da Emenda Constitucional nº 41, de 19 de dezembro de 2003.
 
-**Art.** 6º Esta Emenda Constitucional entra em vigor na data de sua publicação, com efeitos retroativos à data de vigência da Emenda Constitucional nº 41, de 2003.
+<strong>Art.</strong> 6º Esta Emenda Constitucional entra em vigor na data de sua publicação, com efeitos retroativos à data de vigência da Emenda Constitucional nº 41, de 2003.
 
-**MESA DA CÂMARA DOS DEPUTADOS**
+<strong>MESA DA CÂMARA DOS DEPUTADOS</strong>
 
-**DEPUTADO SEVERINO CAVALCANTI**
+<strong>DEPUTADO SEVERINO CAVALCANTI</strong>
 
 Presidente
 
-**DEPUTADO JOSÉ THOMAZ NONÔ**
+<strong>DEPUTADO JOSÉ THOMAZ NONÔ</strong>
 
 1º Vice-Presidente
 
-**DEPUTADO CIRO NOGUEIRA**
+<strong>DEPUTADO CIRO NOGUEIRA</strong>
 
 2º Vice-Presidente
 
-**DEPUTADO INOCÊNCIO OLIVEIRA**
+<strong>DEPUTADO INOCÊNCIO OLIVEIRA</strong>
 
 1º Secretário
 
-**DEPUTADO EDUARDO GOMES**
+<strong>DEPUTADO EDUARDO GOMES</strong>
 
 3º Secretário
 
-**DEPUTADO JOÃO CALDAS**
+<strong>DEPUTADO JOÃO CALDAS</strong>
 
 4º Secretário
 
-**MESA DO SENADO FEDERAL**
+<strong>MESA DO SENADO FEDERAL</strong>
 
-**SENADOR RENAN CALHEIROS**
+<strong>SENADOR RENAN CALHEIROS</strong>
 
 Presidente
 
-**SENADOR TIÃO VIANA**
+<strong>SENADOR TIÃO VIANA</strong>
 
 1º Vice-Presidente
 
-**SENADOR EFRAIM MORAIS**
+<strong>SENADOR EFRAIM MORAIS</strong>
 
 1º Secretário
 
-**SENADOR PAULO OCTÁVIO**
+<strong>SENADOR PAULO OCTÁVIO</strong>
 
 3º Secretário
 
-**SENADOR EDUARDO SIQUEIRA CAMPOS**
+<strong>SENADOR EDUARDO SIQUEIRA CAMPOS</strong>
 
 4º Secretário
 

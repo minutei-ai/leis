@@ -1,32 +1,63 @@
-**EMENDA CONSTITUCIONAL Nº80**
+---
+id: "br-federal-emenda-constitucional-2014-06-04-80"
+norma_id: "br-federal-emenda-constitucional-2014-06-04-80"
+norma_tipo: "emenda-constitucional"
+norma_numero: "80"
+norma_data: "2014-06-04"
+titulo: "EMENDA CONSTITUCIONAL Nº 80, DE 04/06/2014"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2014-06-04-80@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc80.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "3f1b94b08c0d74083e0b8f43fcde48a9a6ef7ffcbe5f3bc8c86a01496aa90ee0"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Altera o Capítulo IV - Das Funções Essenciais à Justiça, do Título IV - Da Organização dos Poderes, e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição Federal.***
+<strong>EMENDA CONSTITUCIONAL Nº</strong> <strong>80</strong>
+
+<em><strong>Altera o Capítulo IV - Das Funções Essenciais à Justiça, do Título IV - Da Organização dos Poderes, e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição Federal.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
 Art. 1º O Capítulo IV - Das Funções Essenciais à Justiça, do Título IV - Da Organização dos Poderes, passa a vigorar com as seguintes alterações:
 
-**"TÍTULO IV**
+<strong>"TÍTULO IV</strong>
 
-*DA ORGANIZAÇÃO DOS PODERES*
-
-.....................................................................................................................................
-
-**CAPÍTULO IV**
-
-*DAS FUNÇÕES ESSENCIAIS À JUSTIÇA*
+<em>DA ORGANIZAÇÃO DOS PODERES</em>
 
 .....................................................................................................................................
 
-**SEÇÃO III**
+<strong>CAPÍTULO IV</strong>
 
-*Da Advocacia*
+<em>DAS FUNÇÕES ESSENCIAIS À JUSTIÇA</em>
 
 .....................................................................................................................................
 
-**SEÇÃO IV**
+<strong>SEÇÃO III</strong>
 
-*Da Defensoria Pública*
+<em>Da Advocacia</em>
+
+.....................................................................................................................................
+
+<strong>SEÇÃO IV</strong>
+
+<em>Da Defensoria Pública</em>
 
 Art. 134. A Defensoria Pública é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe, como expressão e instrumento do regime democrático, fundamentalmente, a orientação jurídica, a promoção dos direitos humanos e a defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, de forma integral e gratuita, aos necessitados, na forma do inciso LXXIV do art. 5º desta Constituição Federal.
 
@@ -38,7 +69,7 @@ Art. 2º O Ato das Disposições Constitucionais Transitórias passa a vigorar a
 
 "Art. 98. O número de defensores públicos na unidade jurisdicional será proporcional à efetiva demanda pelo serviço da Defensoria Pública e à respectiva população.
 
-§ 1º No prazo de 8 (oito) anos, a União, os Estados e o Distrito Federal deverão contar com defensores públicos em todas as unidades jurisdicionais, observado o disposto no **caput** deste artigo.
+§ 1º No prazo de 8 (oito) anos, a União, os Estados e o Distrito Federal deverão contar com defensores públicos em todas as unidades jurisdicionais, observado o disposto no <strong>caput</strong> deste artigo.
 
 § 2º Durante o decurso do prazo previsto no § 1º deste artigo, a lotação dos defensores públicos ocorrerá, prioritariamente, atendendo as regiões com maiores índices de exclusão social e adensamento populacional."
 
@@ -46,34 +77,4 @@ Art. 3º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, em 4 de junho de 2014
 
-**MESA DA CÂMARA DOS DEPUTADOS **
-
-**MESA DO SENADO FEDERAL**
-
-Deputado HENRIQUE EDUARDO ALVES – Presidente
-
-Senador RENAN CALHEIROS – Presidente
-
-Deputado ARLINDO CHINAGLIA – 1º Vice- Presidente
-
-Senador JORGE VIANA – 1º  Vice- Presidente
-
-Deputado FÁBIO FARIA – 2º Vice- Presidente
-
-Senador ROMERO JUCÁ – 2º Vice-Presidente
-
-Deputado MARCIO BITTAR – 1º Secretário
-
-Senador FLEXA RIBEIRO – 1º Secretário
-
-Deputado SIMÃO SESSIM – 2º- Secretário
-
-Senadora ANGELA PORTELA – 2ª  Secretária
-
-Deputado MAURÍCIO QUINTELLA LESSA – 3º  Secretário
-
-Senador CIRO NOGUEIRA – 3º Secretário
-
-Deputado ANTONIO CARLOS BIFFI – 4º Secretário
-
-Senador JOÃO VICENTE CLAUDINO – 4º Secretário
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt; font-weight:bold; text-transform:uppercase"><span><strong>MESA DA CÂMARA DOS DEPUTADOS </strong></span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt; font-weight:bold; text-transform:uppercase"><span><strong>MESA DO SENADO FEDERAL</strong></span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado HENRIQUE EDUARDO ALVES</span></span><span style="font-size:10pt"><span> –</span></span><span style="font-size:10pt"><span> Presidente</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senador RENAN CALHEIROS </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>Presidente</span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado ARLINDO CHINAGLIA </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>1</span></span><span style="font-size:10pt"><span>º </span></span><span style="font-size:10pt"><span>Vice- Presidente</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senador JORGE VIANA </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>1</span></span><span style="font-size:10pt"><span>º </span></span><span style="font-size:3.5pt; -aw-import:spaces"><span>&nbsp;</span></span><span style="font-size:10pt"><span>Vice- Presidente</span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado FÁBIO FARIA </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>2</span></span><span style="font-size:10pt"><span>º </span></span><span style="font-size:10pt"><span>Vice- Presidente</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senador ROMERO JUCÁ </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>2</span></span><span style="font-size:10pt"><span>º </span></span><span style="font-size:10pt"><span>Vice-Presidente</span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado MARCIO BITTAR </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>1</span></span><span style="font-size:10pt"><span>º</span></span><span style="font-size:3.5pt"><span> </span></span><span style="font-size:10pt"><span>Secretário</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senador FLEXA RIBEIRO </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>1</span></span><span style="font-size:10pt"><span>º </span></span><span style="font-size:10pt"><span>Secretário</span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado SIMÃO SESSIM </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>2</span></span><span style="font-size:10pt"><span>º</span></span><span style="font-size:3.5pt"><span>- </span></span><span style="font-size:10pt"><span>Secretário</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senadora ANGELA PORTELA </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>2</span></span><span style="font-size:10pt"><span>ª </span></span><span style="font-size:3.5pt; -aw-import:spaces"><span>&nbsp;</span></span><span style="font-size:10pt"><span>Secretária</span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado MAURÍCIO QUINTELLA LESSA </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>3</span></span><span style="font-size:10pt"><span>º </span></span><span style="font-size:3.5pt; -aw-import:spaces"><span>&nbsp;</span></span><span style="font-size:10pt"><span>Secretário</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senador CIRO NOGUEIRA </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>3</span></span><span style="font-size:10pt"><span>º </span></span><span style="font-size:10pt"><span>Secretário</span></span></p></td></tr><tr><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Deputado ANTONIO CARLOS BIFFI </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>4</span></span><span style="font-size:10pt"><span>º </span></span><span style="font-size:10pt"><span>Secretário</span></span></p></td><td style="width:217.45pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="margin-bottom:0pt; text-indent:9pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-size:10pt"><span>Senador JOÃO VICENTE CLAUDINO </span></span><span style="font-size:10pt"><span>– </span></span><span style="font-size:10pt"><span>4</span></span><span style="font-size:10pt"><span>º </span></span><span style="font-size:10pt"><span>Secretário</span></span></p></td></tr></tbody></table>

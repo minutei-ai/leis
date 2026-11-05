@@ -1,79 +1,52 @@
-**EMENDA CONSTITUCIONAL Nº 119**
+---
+id: "br-federal-emenda-constitucional-2022-04-27-119"
+norma_id: "br-federal-emenda-constitucional-2022-04-27-119"
+norma_tipo: "emenda-constitucional"
+norma_numero: "119"
+norma_data: "2022-04-27"
+titulo: "EMENDA CONSTITUCIONAL Nº 119"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2022-04-27-119@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc119.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "8f01970227ad01aafe57b2698d729acfb6f41711860ab2a07f7c88c047780bfe"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Altera o Ato das Disposições Constitucionais Transitórias para determinar a impossibilidade de responsabilização dos Estados, do Distrito Federal, dos Municípios e dos agentes públicos desses entes federados pelo descumprimento, nos exercícios financeiros de 2020 e 2021, do disposto no caput do art. 212 da Constituição Federal; e dá outras providências.***
+<strong>EMENDA CONSTITUCIONAL Nº 119</strong>
+
+<em><strong>Altera o Ato das Disposições Constitucionais Transitórias para determinar a impossibilidade de responsabilização dos Estados, do Distrito Federal, dos Municípios e dos agentes públicos desses entes federados pelo descumprimento, nos exercícios financeiros de 2020 e 2021, do disposto no caput do art. 212 da Constituição Federal; e dá outras providências.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art.** 1º O Ato das Disposições Constitucionais Transitórias passa a vigorar acrescido do seguinte art. 119:
+<strong>Art.</strong> 1º O Ato das Disposições Constitucionais Transitórias passa a vigorar acrescido do seguinte art. 119:
 
-“**Art.** 119\. Em decorrência do estado de calamidade pública provocado pela pandemia da Covid-19, os Estados, o Distrito Federal, os Municípios e os agentes públicos desses entes federados não poderão ser responsabilizados administrativa, civil ou criminalmente pelo descumprimento, exclusivamente nos exercícios financeiros de 2020 e 2021, do disposto no **caput** do art. 212 da Constituição Federal.
+“<strong>Art.</strong> 119\. Em decorrência do estado de calamidade pública provocado pela pandemia da Covid-19, os Estados, o Distrito Federal, os Municípios e os agentes públicos desses entes federados não poderão ser responsabilizados administrativa, civil ou criminalmente pelo descumprimento, exclusivamente nos exercícios financeiros de 2020 e 2021, do disposto no <strong>caput</strong> do art. 212 da Constituição Federal.
 
-Parágrafo único. Para efeitos do disposto no **caput** deste artigo, o ente deverá complementar na aplicação da manutenção e desenvolvimento do ensino, até o exercício financeiro de 2023, a diferença a menor entre o valor aplicado, conforme informação registrada no sistema integrado de planejamento e orçamento, e o valor mínimo exigível constitucionalmente para os exercícios de 2020 e 2021.”
+Parágrafo único. Para efeitos do disposto no <strong>caput</strong> deste artigo, o ente deverá complementar na aplicação da manutenção e desenvolvimento do ensino, até o exercício financeiro de 2023, a diferença a menor entre o valor aplicado, conforme informação registrada no sistema integrado de planejamento e orçamento, e o valor mínimo exigível constitucionalmente para os exercícios de 2020 e 2021.”
 
-**Art.** 2º O disposto no **caput** do art. 119 do Ato das Disposições Constitucionais Transitórias impede a aplicação de quaisquer penalidades, sanções ou restrições aos entes subnacionais para fins cadastrais, de aprovação e de celebração de ajustes onerosos ou não, incluídas a contratação, a renovação ou a celebração de aditivos de quaisquer tipos, de ajustes e de convênios, entre outros, inclusive em relação à possibilidade de execução financeira desses ajustes e de recebimento de recursos do orçamento geral da União por meio de transferências voluntárias.
+<strong>Art.</strong> 2º O disposto no <strong>caput</strong> do art. 119 do Ato das Disposições Constitucionais Transitórias impede a aplicação de quaisquer penalidades, sanções ou restrições aos entes subnacionais para fins cadastrais, de aprovação e de celebração de ajustes onerosos ou não, incluídas a contratação, a renovação ou a celebração de aditivos de quaisquer tipos, de ajustes e de convênios, entre outros, inclusive em relação à possibilidade de execução financeira desses ajustes e de recebimento de recursos do orçamento geral da União por meio de transferências voluntárias.
 
-Parágrafo único. O disposto no **caput** do art. 119 do Ato das Disposições Constitucionais Transitórias também obsta a ocorrência dos efeitos do inciso III do **caput** do art. 35 da Constituição Federal.
+Parágrafo único. O disposto no <strong>caput</strong> do art. 119 do Ato das Disposições Constitucionais Transitórias também obsta a ocorrência dos efeitos do inciso III do <strong>caput</strong> do art. 35 da Constituição Federal.
 
-**Art.** 3º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+<strong>Art.</strong> 3º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, em 27 de abril de 2022.
 
-**Mesa da Câmara dos Deputados **
-
-**Deputado ARTHUR LIRA**
-
-Presidente
-
-**Mesa do Senado Federal **
-
-**Senador RODRIGO PACHECO**
-
-Presidente
-
-**Deputado MARCELO RAMOS**
-
-1º Vice-Presidente
-
-**Senador VENEZIANO VITAL DO RÊGO**
-
-1º Vice-Presidente
-
-**Deputado ANDRÉ DE PAULA**
-
-2º Vice-Presidente
-
-**Senador ROMÁRIO**
-
-2º Vice-Presidente
-
-**Deputado LUCIANO BIVAR**
-
-1º Secretário
-
-**Senador IRAJÁ**
-
-1º Secretário
-
-**Deputada MARÍLIA ARRAES**
-
-2ª Secretária
-
-**Deputada ROSE MODESTO**
-
-3ª Secretária
-
-**Deputada ROSANGELA GOMES**
-
-4ª Secretária
-
-**Senador ELMANO FÉRRER**
-
-2º Secretário
-
-**Senador ROGÉRIO CARVALHO**
-
-3º Secretário
-
-**Senador WEVERTON**
-
-4º Secretário
+<table cellspacing="0" cellpadding="0" class="TableGrid" style="width:446.55pt;border-collapse:collapse"><tbody><tr><td style="width:230.2pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Mesa da Câmara dos Deputados </strong></span></span></p><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputado ARTHUR LIRA</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>Presidente</span></span></p></td><td style="width:194.75pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Mesa do Senado Federal </strong></span></span></p><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador RODRIGO PACHECO</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>Presidente</span></span></p></td></tr><tr><td style="width:230.2pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputado MARCELO RAMOS</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>1º Vice-Presidente</span></span></p></td><td style="width:194.75pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador VENEZIANO VITAL DO RÊGO</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:230.2pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputado ANDRÉ DE PAULA</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>2º Vice-Presidente</span></span></p></td><td style="width:194.75pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador ROMÁRIO</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:230.2pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputado LUCIANO BIVAR</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>1º Secretário</span></span></p></td><td style="width:194.75pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador IRAJÁ</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>1º Secretário</span></span></p></td></tr><tr><td style="width:230.2pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputada MARÍLIA ARRAES</strong></span></span></p><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter"><span>2ª Secretária</span></span></p><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputada ROSE MODESTO</strong></span></span></p><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter"><span>3ª Secretária</span></span></p><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputada ROSANGELA GOMES</strong></span></span></p><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter"><span>4ª Secretária</span></span></p></td><td style="width:194.75pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador ELMANO FÉRRER</strong></span></span></p><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span style="font-size:10pt"><span>2º Secretário</span></span></p><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador ROGÉRIO CARVALHO</strong></span></span></p><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter"><span>3º Secretário</span></span></p><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador WEVERTON</strong></span></span></p><p class="LocalDataFechoparagrafo" style="text-indent:0pt; text-align:center"><span class="LocalDataFechocaracter"><span>4º Secretário</span></span></p></td></tr></tbody></table>

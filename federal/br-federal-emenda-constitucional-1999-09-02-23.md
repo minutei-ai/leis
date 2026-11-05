@@ -1,10 +1,43 @@
-**EMENDA CONSTITUCIONAL Nº 23.**
+---
+id: "br-federal-emenda-constitucional-1999-09-02-23"
+norma_id: "br-federal-emenda-constitucional-1999-09-02-23"
+norma_tipo: "emenda-constitucional"
+norma_numero: "23"
+norma_data: "1999-09-02"
+titulo: "EMENDA CONSTITUCIONAL Nº 23."
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1999-09-02-23@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc23.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "b172c92137451ab2b50c2ce21607dfee70084fb3319fd5a845d9208c69fab68f"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Altera os arts. 12, 52, 84, 91, 102 e 105 da Constituição Federal (criação do Ministério da Defesa).***
+###EMC-000023-0-000-02-09-1999@@@
+
+<strong>EMENDA CONSTITUCIONAL Nº 23.</strong>
+
+<em><strong>Altera os arts. 12, 52, 84, 91, 102 e 105 da Constituição Federal (criação do Ministério da Defesa).</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art**. 1º Os arts. 12, 52, 84, 91, 102 e 105 da Constituição Federal, passam a vigorar com as seguintes alterações:
+<strong>Art</strong>. 1º Os arts. 12, 52, 84, 91, 102 e 105 da Constituição Federal, passam a vigorar com as seguintes alterações:
 
 “Art. 12. ...................................................................................................................................
 
@@ -58,21 +91,21 @@ I - ............................................................................
 
 I - .......................................................................................................................................... ”
 
-“b) os mandados de segurança e os *habeas* data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal;” (NR)
+“b) os mandados de segurança e os <em>habeas</em> data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal;” (NR)
 
-“c) os *habeas corpus*, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea *a*, ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral;” (NR)
+“c) os <em>habeas corpus</em>, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea <em>a</em>, ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral;” (NR)
 
 “............................................................................................................................................. ”
 
-**Art**. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+<strong>Art</strong>. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, 2 de setembro de 1999.
 
-**MESA DA CÂMARA DOS DEPUTADOS**
+<strong>MESA DA CÂMARA DOS DEPUTADOS</strong>
 
-**DEPUTADO MICHEL TEMER**
+<strong>DEPUTADO MICHEL TEMER</strong>
 
-**PRESIDENTE**
+<strong>PRESIDENTE</strong>
 
 Deputado HERÁCLITO FORTES
 
@@ -98,11 +131,11 @@ Deputado EFRAIM MORAIS
 
 4º Secretário
 
-**MESA DO SENADO FEDERAL**
+<strong>MESA DO SENADO FEDERAL</strong>
 
-**SENADOR ANTONIO CARLOS MAGALHÃES**
+<strong>SENADOR ANTONIO CARLOS MAGALHÃES</strong>
 
-**PRESIDENTE**
+<strong>PRESIDENTE</strong>
 
 Senador GERALDO MELO
 

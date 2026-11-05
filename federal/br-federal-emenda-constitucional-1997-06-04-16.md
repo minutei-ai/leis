@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-1997-06-04-16"
+norma_id: "br-federal-emenda-constitucional-1997-06-04-16"
+norma_tipo: "emenda-constitucional"
+norma_numero: "16"
+norma_data: "1997-06-04"
+titulo: "EMENDA CONSTITUCIONAL Nº 16, DE 1997"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1997-06-04-16@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/1997/emendaconstitucional-16-4-junho-1997-355726-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc16.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "e8cd61bc621c7e16c4f951318e8721d826569e368571d320b6349f49ca6922bc"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 2
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "1f6a6831b795f166d607f54437acdb2b3ceae292aad460fab5995796bed6c9ae"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 16, DE 1997
 
 Dá nova redação ao § 5º do art. 14, ao "caput" do art. 28, ao inciso II do art. 29, ao "caput" do art. 77 e ao art. 82 da Constituição Federal.

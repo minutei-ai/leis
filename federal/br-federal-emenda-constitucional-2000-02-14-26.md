@@ -1,22 +1,55 @@
-**EMENDA CONSTITUCIONAL Nº 26, DE 2000**
+---
+id: "br-federal-emenda-constitucional-2000-02-14-26"
+norma_id: "br-federal-emenda-constitucional-2000-02-14-26"
+norma_tipo: "emenda-constitucional"
+norma_numero: "26"
+norma_data: "2000-02-14"
+titulo: "EMENDA CONSTITUCIONAL Nº 26, DE 2000"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2000-02-14-26@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc26.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "3a19ff5255b481ea97c448f567f836a57fe544fc15e8db1c80ae9e7483f3cb38"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Altera a redação do art. 6º da Constituição Federal.***
+###EMC-000026-0-000-14-02-2000@@@
+
+<strong>EMENDA CONSTITUCIONAL Nº 26, DE 2000</strong>
+
+<em><strong>Altera a redação do art. 6º da Constituição Federal.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art**. 1º O art. 6º da Constituição Federal passa a vigorar com a seguinte redação:
+<strong>Art</strong>. 1º O art. 6º da Constituição Federal passa a vigorar com a seguinte redação:
 
 “Art. 6º São direitos sociais a educação, a saúde, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.” (NR)
 
-**Art**. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+<strong>Art</strong>. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, 14 de fevereiro de 2000.
 
-**Mesa da Câmara do Deputados**
+<strong>Mesa da Câmara do Deputados</strong>
 
-**Deputado Michel Temer**
+<strong>Deputado Michel Temer</strong>
 
-**Presidente**
+<strong>Presidente</strong>
 
 Deputado Heráclito Fortes
 
@@ -40,11 +73,11 @@ Deputado Jaques Wagner
 
 Deputado Efraim Morais
 
-**Mesa do Senado Federal**
+<strong>Mesa do Senado Federal</strong>
 
-**Senador Antonio Carlos Magalhães**
+<strong>Senador Antonio Carlos Magalhães</strong>
 
-**Presidente**
+<strong>Presidente</strong>
 
 Senador Geraldo Melo
 

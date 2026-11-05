@@ -1,73 +1,46 @@
-**EMENDA CONSTITUCIONAL Nº 110**
+---
+id: "br-federal-emenda-constitucional-2021-07-12-110"
+norma_id: "br-federal-emenda-constitucional-2021-07-12-110"
+norma_tipo: "emenda-constitucional"
+norma_numero: "110"
+norma_data: "2021-07-12"
+titulo: "EMENDA CONSTITUCIONAL Nº 110"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2021-07-12-110@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc110.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "cc46f1a6e2daf8f556ce63f28946b0b8a215c36f5fb1ae6aaa40583f2f0459d5"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Acrescenta o art. 18-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre a convalidação de atos administrativos praticados no Estado do Tocantins entre 1º de janeiro de 1989 e 31 de dezembro de 1994.***
+<strong>EMENDA CONSTITUCIONAL Nº 110</strong>
+
+<em><strong>Acrescenta o art. 18-A ao Ato das Disposições Constitucionais Transitórias, para dispor sobre a convalidação de atos administrativos praticados no Estado do Tocantins entre 1º de janeiro de 1989 e 31 de dezembro de 1994.</strong></em>
 
 AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-**Art.** 1º O Ato das Disposições Constitucionais Transitórias passa a vigorar acrescido do seguinte art. 18-A:
+<strong>Art.</strong> 1º O Ato das Disposições Constitucionais Transitórias passa a vigorar acrescido do seguinte art. 18-A:
 
-“**Art.** 18-A. Os atos administrativos praticados no Estado do Tocantins, decorrentes de sua instalação, entre 1º de janeiro de 1989 e 31 de dezembro de 1994, eivados de qualquer vício jurídico e dos quais decorram efeitos favoráveis para os destinatários ficam convalidados após 5 (cinco) anos, contados da data em que foram praticados, salvo comprovada má-fé.”
+“<strong>Art.</strong> 18-A. Os atos administrativos praticados no Estado do Tocantins, decorrentes de sua instalação, entre 1º de janeiro de 1989 e 31 de dezembro de 1994, eivados de qualquer vício jurídico e dos quais decorram efeitos favoráveis para os destinatários ficam convalidados após 5 (cinco) anos, contados da data em que foram praticados, salvo comprovada má-fé.”
 
-**Art.** 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+<strong>Art.</strong> 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, em 12 de julho de 2021.
 
-**MESA DA CÂMARA DOS DEPUTADOS**
-
-**MESA DO SENADO FEDERAL**
-
-**Deputado ARTHUR LIRA**
-
-Presidente
-
-**Senador RODRIGO PACHECO**
-
-Presidente
-
-**Deputado MARCELO RAMOS**
-
-1º Vice-Presidente
-
-**Senador VENEZIANO VITAL DO RÊGO**
-
-1º Vice-Presidente
-
-**Deputado ANDRÉ DE PAULA**
-
-2º Vice-Presidente
-
-**Senador IRAJÁ**
-
-1º Secretário
-
-**Deputado LUCIANO BIVAR**
-
-1º Secretário
-
-**Senador ELMANO FÉRRER**
-
-2º Secretário
-
-**Deputada MARÍLIA ARRAES**
-
-2ª Secretária
-
-**Senador ROGÉRIO CARVALHO**
-
-3º Secretário
-
-**Deputada ROSE MODESTO**
-
-3ª Secretária
-
-**Senador WEVERTON**
-
-4º Secretário
-
-**Deputada ROSANGELA GOMES**
-
-4ª Secretária
-
-**Senador LUIZ DO CARMO**
-
-2º Suplente
+<table cellspacing="0" cellpadding="0" class="TableGrid" style="border-collapse:collapse"><tbody><tr><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; margin-bottom:12pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold; text-transform:uppercase"><span><strong>MESA DA CÂMARA DOS DEPUTADOS</strong></span></span></p></td><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; margin-bottom:12pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold; text-transform:uppercase"><span><strong>MESA DO SENADO FEDERAL</strong></span></span></p></td></tr><tr><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputado ARTHUR LIRA</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>Presidente</span></span></p></td><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador RODRIGO PACHECO</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>Presidente</span></span></p></td></tr><tr><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputado MARCELO RAMOS</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>1º Vice-Presidente</span></span></p></td><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador VENEZIANO VITAL DO RÊGO</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputado ANDRÉ DE PAULA</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>2º Vice-Presidente</span></span></p></td><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador IRAJÁ</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>1º Secretário</span></span></p></td></tr><tr><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputado LUCIANO BIVAR</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>1º Secretário</span></span></p></td><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador ELMANO FÉRRER</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>2º Secretário</span></span></p></td></tr><tr><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputada MARÍLIA ARRAES</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>2ª Secretária</span></span></p></td><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador ROGÉRIO CARVALHO</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>3º Secretário</span></span></p></td></tr><tr><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputada ROSE MODESTO</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>3ª Secretária</span></span></p></td><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador WEVERTON</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>4º Secretário</span></span></p></td></tr><tr><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Deputada ROSANGELA GOMES</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>4ª Secretária</span></span></p></td><td style="width:201.55pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="LocalDataFechoparagrafo" style="margin-top:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>Senador </strong></span></span><span class="LocalDataFechocaracter" style="font-weight:bold"><span><strong>LUIZ DO CARMO</strong></span></span></p><p class="LocalDataFechoparagrafo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:normal; font-size:10pt"><span class="LocalDataFechocaracter"><span>2º Suplente</span></span></p></td></tr></tbody></table>

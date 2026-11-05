@@ -1,8 +1,41 @@
-**EMENDA CONSTITUCIONAL Nº 58**
+---
+id: "br-federal-emenda-constitucional-2009-09-23-58"
+norma_id: "br-federal-emenda-constitucional-2009-09-23-58"
+norma_tipo: "emenda-constitucional"
+norma_numero: "58"
+norma_data: "2009-09-23"
+titulo: "EMENDA CONSTITUCIONAL Nº 58"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2009-09-23-58@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc58.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "9e2a1e9d2e2ca656215745f308d3413d6e8149936847cef6802044fc249bde88"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Altera a redação do inciso IV do caput do art. 29 e do art. 29-A da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais. As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:***
+###EMC-000058-0-000-23-09-2009@@@
 
-**Art.** 1º O inciso IV do caput do art. 29 da Constituição Federal passa a vigorar com a seguinte redação:
+<strong>EMENDA CONSTITUCIONAL Nº 58</strong>
+
+<em><strong>Altera a redação do inciso IV do caput do art. 29 e do art. 29-A da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais. As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</strong></em>
+
+<strong>Art.</strong> 1º O inciso IV do caput do art. 29 da Constituição Federal passa a vigorar com a seguinte redação:
 
 "Art. 29. ..................................................................................
 
@@ -60,7 +93,7 @@ x) 55 (cinquenta e cinco) Vereadores, nos Municípios de mais de 8.000.000 (oito
 
 ............................................................................................... "(NR)
 
-**Art.** 2º O art. 29-A da Constituição Federal passa a vigorar com a seguinte redação:
+<strong>Art.</strong> 2º O art. 29-A da Constituição Federal passa a vigorar com a seguinte redação:
 
 "Art. 29-A. ..............................................................................
 
@@ -78,7 +111,7 @@ VI - 3,5% (três inteiros e cinco décimos por cento) para Municípios com popul
 
 .............................................................................................. "(NR)
 
-**Art.** 3º Esta Emenda Constitucional entra em vigor na data de sua promulgação, produzindo efeitos:
+<strong>Art.</strong> 3º Esta Emenda Constitucional entra em vigor na data de sua promulgação, produzindo efeitos:
 
 I - o disposto no art. 1º, a partir do processo eleitoral de 2008; e
 
@@ -86,56 +119,56 @@ II - o disposto no art. 2º, a partir de 1º de janeiro do ano subsequente ao da
 
 Brasília, em 23 de setembro de 2009.
 
-**Mesa da Câmara dos Deputados**
+<strong>Mesa da Câmara dos Deputados</strong>
 
-**Deputado MICHEL TEMER**  
+<strong>Deputado MICHEL TEMER</strong>  
 
 Presidente      
 
-**Deputado MARCO MAIA**
+<strong>Deputado MARCO MAIA</strong>
 
 1º Vice-Presidente
 
-**Deputado ANTÔNIO CARLOS**
+<strong>Deputado ANTÔNIO CARLOS</strong>
 
-**MAGALHÃES NETO**
+<strong>MAGALHÃES NETO</strong>
 
 2º Vice-Presidente
 
-**Deputado RAFAEL GUERRA**
+<strong>Deputado RAFAEL GUERRA</strong>
 
 1º Secretário
 
-**Deputado INOCÊNCIO OLIVEIRA**
+<strong>Deputado INOCÊNCIO OLIVEIRA</strong>
 
 2º Secretário
 
-**Deputado Odair Cunha**
+<strong>Deputado Odair Cunha</strong>
 
 3º Secretário
 
-**Deputado NELSON MARQUEZELLI**
+<strong>Deputado NELSON MARQUEZELLI</strong>
 
 4º Secretário
 
-**Mesa do Senado Federal**
+<strong>Mesa do Senado Federal</strong>
 
-**Senador JOSÉ SARNEY**
+<strong>Senador JOSÉ SARNEY</strong>
 
 Presidente
 
-**Senador MARCONI PERILLO**
+<strong>Senador MARCONI PERILLO</strong>
 
 1º Vice-Presidente
 
-**Senador HERÁCLITO FORTES**
+<strong>Senador HERÁCLITO FORTES</strong>
 
 1º Secretário
 
-**Senador MÃO SANTA**
+<strong>Senador MÃO SANTA</strong>
 
 3º Secretário
 
-**Senador CÉSAR BORGES**
+<strong>Senador CÉSAR BORGES</strong>
 
 no exercício da 4ª Secretaria

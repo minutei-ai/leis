@@ -102,6 +102,14 @@ FRONTMATTER_RE = re.compile(r'\A---\n(.*?)\n---\n?', re.S)
 ALLOWLIST_DATA_IMAGE: set[str] = set()
 ALLOWLIST_PORTAL_CAMARA: set[str] = set()
 
+# Later, independently reviewed editions take precedence over this older cleanup
+# batch. Deferral is pinned to exact content, never to a filename alone.
+_LATER_EDITIONS = Path(__file__).resolve().parent.parent / 'metadados/limpeza-markdown/edicoes-posteriores-preservadas.json'
+PRESERVED_LATER_EDITIONS: dict[str, str] = (
+    json.loads(_LATER_EDITIONS.read_text(encoding='utf-8'))['documentos']
+    if _LATER_EDITIONS.is_file() else {}
+)
+
 MIME_EXT = {
     'png': 'png',
     'jpeg': 'jpg',
@@ -669,6 +677,11 @@ def strip_portals(body: str, md_rel: str) -> tuple[str, list[str]]:
 
 def process_text(text: str, md_rel: str, write_assets: bool) -> tuple[str, FileResult]:
     result = FileResult(path=md_rel)
+    if md_rel in PRESERVED_LATER_EDITIONS:
+        if sha256_bytes(text.encode('utf-8')) != PRESERVED_LATER_EDITIONS[md_rel]:
+            raise ValueError(f'{md_rel}: edição posterior mudou; exige nova revisão de integridade')
+        result.skipped_reason = 'edicao-posterior-conferida-limpeza-pendente-no-gerador'
+        return text, result
     fm, body = split_frontmatter(text)
     original_body = body
 

@@ -1,28 +1,65 @@
+---
+id: "br-ac-norma-1121"
+norma_id: "br-ac-norma-1121"
+norma_tipo: "lei"
+norma_numero: "300"
+norma_data: "1969-11-21"
+titulo: "LEI Nº 300, DE 21 DE NOVEMBRO DE 1969"
+esfera: "estadual"
+uf: "AC"
+edicao_id: "br-ac-norma-1121@desconhecida"
+edicao_tipo: "desconhecida"
+edicao_integral: "desconhecido"
+provedor_id: "1121"
+provedor_id_namespace: "fonte-local-norma-id"
+numero_estado: "informado"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+estado_identidade: "provedor-id-nao-e-numero-legal"
+contrato_versao: 1
+manifesto: "metadados/acervo-geral-piloto.json"
+campo_fontes: {"norma_id": "caminho-opaco-provedor", "norma_tipo": "cabecalho-literal", "norma_numero": "cabecalho-literal", "norma_data": "cabecalho-literal", "titulo": "cabecalho-literal", "provedor_id": "caminho-opaco", "esfera": "caminho", "uf": "caminho", "fonte_url": "desconhecido-explicito"}
+---
 > **LEI Nº 300, DE 21 DE NOVEMBRO DE 1969**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
-
-Autoriza a abertura de créditos suplementares e especiais e fixa anulações de dotações orçamentárias.
-
-</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a abertura de créditos suplementares e especiais e fixa anulações de dotações orçamentárias.</span></span></span></p></td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
 
+<br>
+
 **Art. 1º** Fica o Poder Executivo autorizado a abrir no orçamento de 1969, Créditos Suplementares no montante de NCr$ 166.649,60 (cento e sessenta e seis mil, seiscentos e quarenta e nove cruzeiros novos e sessenta centavos), de conformidade com a discriminação constante no anexo I.
+
+<br>
 
 **Art. 2º** Fica igualmente autorizado a abrir Créditos Especiais no total de Ncr$ 756.115,00 (setecentos e cinquenta e seis mil, cento e quinze cruzeiros novos), de acordo com a discriminação contida no anexo II.
 
+<br>
+
 **Art. 3º** A despesa decorrente dos créditos abertos nos artigos anteriores, será compensada com anulações totais e parciais de dotações orçamentárias, na forma do Anexo III.
+
+<br>
 
 **Art. 4º** Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
+<br>
+
 Rio Branco, 21 de novembro de 1969, 81º da República, 67º do Tratado de Petrópolis e 8º do Estado do Acre.
+
+<br>
 
 **OMAR SABINO DE PAULA** 
 
 Governador do Estado do Acre, em exercício
+
+<br>
+
+<br>
 
 ANEXO I
 

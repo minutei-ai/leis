@@ -1,6 +1,39 @@
-**EMENDA CONSTITUCIONAL Nº 2, DE 1992**
+---
+id: "br-federal-emenda-constitucional-1992-08-25-2"
+norma_id: "br-federal-emenda-constitucional-1992-08-25-2"
+norma_tipo: "emenda-constitucional"
+norma_numero: "2"
+norma_data: "1992-08-25"
+titulo: "EMENDA CONSTITUCIONAL Nº 2, DE 1992"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1992-08-25-2@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc2.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "d015397b77267c60bafd3581c81991c88bf5a41a4dace7034fd59a863b64ef6a"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
 
-***Dispõe sobre o plebiscito previsto no art. 2º do Ato das Disposições Constitucionais Transitórias.***
+###EMC-000002-0-000-25-08-1992@@@
+
+<strong>EMENDA CONSTITUCIONAL Nº 2, DE 1992</strong>
+
+<em><strong>Dispõe sobre o plebiscito previsto no art. 2º do Ato das Disposições Constitucionais Transitórias.</strong></em>
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
@@ -14,7 +47,7 @@ Artigo único.  O plebiscito de que trata o art. 2º do Ato das Disposições C
 
 Brasília, 25 de agosto de 1992.
 
-**A MESA DA CÂMARA DOS DEPUTADOS**
+<strong>A MESA DA CÂMARA DOS DEPUTADOS</strong>
 
 Deputado Ibsen Pinheiro
 
@@ -44,9 +77,9 @@ Deputado MAX ROSENMANN
 
 Quarto Secretário
 
-**A MESA DO SENADO FEDERAL**
+<strong>A MESA DO SENADO FEDERAL</strong>
 
-**SENADOR MAURO BENEVIDES**
+<strong>SENADOR MAURO BENEVIDES</strong>
 
 Presidente
 

@@ -1,0 +1,29 @@
+{
+  "id": "br-federal-in-seges-mpdg-2017-05-26-5",
+  "fonte": "in-seges-mpdg-5-2017",
+  "sha256_fonte": "b4aac81fd366bf916c665736c83703a070ca66d4e00a6ea99a3e3ff8deac8e61",
+  "sha256_markdown": "dfb6aec832700aba7b689b87558055354d6d4441b812523d3757ae9a8750b75b",
+  "titulo_encontrado": "INSTRUÇÃO NORMATIVA Nº 5, DE 26 DE MAIO DE 2017 (Atualizada)",
+  "artigos_detectados": 75,
+  "anexos_no_corpo": 27,
+  "tabelas": 73,
+  "conversao": {
+    "blocos": 689,
+    "stats": {
+      "trechos_riscados": 217,
+      "links": 11,
+      "tabelas_markdown": 13,
+      "tabelas_html": 49
+    }
+  },
+  "cobertura_marcadores": {
+    "tem_titulo_especie": true,
+    "tem_art_1": true,
+    "tem_aviso_dou": true
+  },
+  "lei_regulamentada": [
+    "br-federal-lei-1993-06-21-8666",
+    "br-federal-lei-2002-07-17-10520"
+  ],
+  "vigencia_certificada": false
+}
