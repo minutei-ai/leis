@@ -1,0 +1,22 @@
+{
+  "capturado_em": "2026-11-04T20:46:41Z",
+  "nota": "PDF oficial Transparência/AP; texto via pdftotext. Específico SRP ≠ geral. PDF não commitado; sha do PDF registrado.",
+  "fontes": [
+    {
+      "chave": "transparencia-ap-decreto-1716-2023",
+      "url": "http://www.transparencia.ap.gov.br/relatorios/atos/decretos/SEAD_DECRETO_1716_DE_08_DE_MARCO_DE_2023.pdf",
+      "arquivo": "provas/norte-co-14133/AP/fontes/transparencia-ap-decreto-1716-2023.txt.xz",
+      "formato_snapshot": "text/plain xz (pdftotext)",
+      "sha256_conteudo": "cf71a91670b0c7cc667a35db8a4e9850932854d014dedcf1c7b4a01b124cab87",
+      "sha256_pdf_original": "8e441307f8a7836e05b436ff9bf7d1d711a711370af3bba55c1b7639bd9b7c89",
+      "sha256_arquivo_xz": "0192a89f96a570127906f2a8a20e45d15460706ea4127cbea4b6ad42ad9dd125",
+      "bytes_fonte_txt": 41450,
+      "bytes_pdf": 245218,
+      "capturado_em": "2026-11-04T20:46:41Z",
+      "sha256_corpo_markdown": "14b186f821d73802d66c412f23d211d2f2d17abf015c037c880f6346054c9b0c",
+      "sha256_markdown": "e5d21ef82c00d9ff9489f815ce3d1a083925be10fbc4fef04c0eb3435eea8f58",
+      "carater": "especifico-srp-arts-82-a-86",
+      "tls_verify": false
+    }
+  ]
+}
