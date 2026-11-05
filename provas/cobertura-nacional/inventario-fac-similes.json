@@ -4,14 +4,14 @@
   "limites": "Marcador fac-simile-oficial inventariado por arquivo. data:image sem marcador entra como fila de revisão de peça/imagem, sem afirmar conteúdo normativo. Verificador de hashes DOU não prova cobertura de transcrição. Nenhum OCR foi validado neste inventário.",
   "resumo": {
     "fac_simile_oficial": 221,
-    "data_uri_sem_marcador_oficial": 947,
-    "pendencias_transcricao": 1168,
+    "data_uri_sem_marcador_oficial": 945,
+    "pendencias_transcricao": 1166,
     "por_representacao": {
-      "mista": 947,
+      "mista": 945,
       "fac-simile": 221
     },
     "por_cobertura_transcricao": {
-      "desconhecida": 947,
+      "desconhecida": 945,
       "ausente": 221
     }
   },
@@ -7732,20 +7732,6 @@
       "pendencia_transcricao": true
     },
     {
-      "arquivo": "federal/br-federal-decreto-lei-1981-05-27-1873.md",
-      "representacao": "mista",
-      "cobertura_transcricao": "desconhecida",
-      "cobertura_ocr": "desconhecida",
-      "fac_simile_oficial": false,
-      "imagens_markdown": 1,
-      "data_uris": 1,
-      "imagens_asset": 0,
-      "texto_integral_pesquisavel": false,
-      "fonte_integral_preservada": true,
-      "sha256_arquivo": "97ad6b93bd88112b38350889c1f916d8ce3c33c4ac524fc9e999e52552ca6a8e",
-      "pendencia_transcricao": true
-    },
-    {
       "arquivo": "federal/br-federal-decreto-lei-1981-07-08-1874.md",
       "representacao": "mista",
       "cobertura_transcricao": "desconhecida",
@@ -8527,20 +8513,6 @@
       "texto_integral_pesquisavel": false,
       "fonte_integral_preservada": true,
       "sha256_arquivo": "1a50b6fd830ad9b45dca4650746adf4bff27eaa0aad8ccb3257148715bb478b2",
-      "pendencia_transcricao": true
-    },
-    {
-      "arquivo": "federal/br-federal-decreto-lei-1984-04-04-2111.md",
-      "representacao": "mista",
-      "cobertura_transcricao": "desconhecida",
-      "cobertura_ocr": "desconhecida",
-      "fac_simile_oficial": false,
-      "imagens_markdown": 1,
-      "data_uris": 1,
-      "imagens_asset": 0,
-      "texto_integral_pesquisavel": false,
-      "fonte_integral_preservada": true,
-      "sha256_arquivo": "f104881050379469e5ef4c3240900397cb1887febfb130108236be93c2b511d2",
       "pendencia_transcricao": true
     },
     {
@@ -10896,20 +10868,6 @@
       "pendencia_transcricao": true
     },
     {
-      "arquivo": "federal/br-federal-lei-2011-08-04-12462.md",
-      "representacao": "mista",
-      "cobertura_transcricao": "desconhecida",
-      "cobertura_ocr": "desconhecida",
-      "fac_simile_oficial": false,
-      "imagens_markdown": 1,
-      "data_uris": 1,
-      "imagens_asset": 0,
-      "texto_integral_pesquisavel": false,
-      "fonte_integral_preservada": true,
-      "sha256_arquivo": "a9cf74f327dbcb8955b2027313663a4626e87995c882feca89d107bd5225a5aa",
-      "pendencia_transcricao": true
-    },
-    {
       "arquivo": "federal/br-federal-lei-2011-08-26-12468.md",
       "representacao": "mista",
       "cobertura_transcricao": "desconhecida",
@@ -11005,20 +10963,6 @@
       "texto_integral_pesquisavel": false,
       "fonte_integral_preservada": true,
       "sha256_arquivo": "88187f689e481e10714386343459bc7a28b4bcb8ff52e4aee9f70bf857774bd8",
-      "pendencia_transcricao": true
-    },
-    {
-      "arquivo": "federal/br-federal-lei-2011-11-18-12527.md",
-      "representacao": "mista",
-      "cobertura_transcricao": "desconhecida",
-      "cobertura_ocr": "desconhecida",
-      "fac_simile_oficial": false,
-      "imagens_markdown": 1,
-      "data_uris": 1,
-      "imagens_asset": 0,
-      "texto_integral_pesquisavel": false,
-      "fonte_integral_preservada": true,
-      "sha256_arquivo": "df34f35832813755b85fed4be82df1c56579df248aacbfbe869ecaab534a5ff2",
       "pendencia_transcricao": true
     },
     {
@@ -15513,6 +15457,34 @@
       "texto_integral_pesquisavel": false,
       "fonte_integral_preservada": true,
       "sha256_arquivo": "7abb920294213918df8cfe007839b882cdd072d192ded1e6a64e831830ef3dbc",
+      "pendencia_transcricao": true
+    },
+    {
+      "arquivo": "federal/edicoes/br-federal-lei-2011-08-04-12462-historica.md",
+      "representacao": "mista",
+      "cobertura_transcricao": "desconhecida",
+      "cobertura_ocr": "desconhecida",
+      "fac_simile_oficial": false,
+      "imagens_markdown": 1,
+      "data_uris": 1,
+      "imagens_asset": 0,
+      "texto_integral_pesquisavel": false,
+      "fonte_integral_preservada": true,
+      "sha256_arquivo": "fbe5fb5eee04e8a933de6188a89f9c2d12fa70ff748d1026df1ae07cea21ef35",
+      "pendencia_transcricao": true
+    },
+    {
+      "arquivo": "federal/edicoes/br-federal-lei-2011-11-18-12527-historica.md",
+      "representacao": "mista",
+      "cobertura_transcricao": "desconhecida",
+      "cobertura_ocr": "desconhecida",
+      "fac_simile_oficial": false,
+      "imagens_markdown": 1,
+      "data_uris": 1,
+      "imagens_asset": 0,
+      "texto_integral_pesquisavel": false,
+      "fonte_integral_preservada": true,
+      "sha256_arquivo": "034b5f872e6ff85b67e9dde4674aad973c5294e8a88e556af4bf618890e6eb35",
       "pendencia_transcricao": true
     },
     {

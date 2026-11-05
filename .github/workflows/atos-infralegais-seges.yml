@@ -1,0 +1,26 @@
+name: atos-infralegais-seges
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/atos-infralegais-seges.yml'
+      - 'scripts/atos_infralegais_seges.py'
+      - 'scripts/nucleo_licitacoes.py'
+      - 'tests/test_atos_infralegais_seges.py'
+      - 'metadados/atos-infralegais-seges.json'
+      - 'metadados/CONTRATO-atos-infralegais-seges.md'
+      - 'provas/atos-infralegais-seges/**'
+      - 'federal/br-federal-in-seges*.md'
+      - 'federal/br-federal-portaria-seges*.md'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m venv "$RUNNER_TEMP/venv" && "$RUNNER_TEMP/venv/bin/pip" install beautifulsoup4==4.15.0 lxml==6.1.3
+      - name: Verify snapshots and Markdown
+        run: PYTHONPATH=scripts $RUNNER_TEMP/venv/bin/python scripts/atos_infralegais_seges.py verify
+      - name: Unit tests
+        run: PYTHONPATH=scripts $RUNNER_TEMP/venv/bin/python -m unittest tests.test_atos_infralegais_seges -v

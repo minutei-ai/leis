@@ -72,13 +72,12 @@ CASOS_IDENTIDADE = [
         'descricao': 'LC 1/1962 e LC 1/1967 são normas distintas apesar do mesmo número.',
         'entradas': [
             {
-                'norma_id': 'br-federal-lei-complementar-1962-??-1',
+                'norma_id': 'br-federal-lei-complementar-1962-07-17-1',
                 'numero': '1',
                 'complemento': None,
                 'data_ato': {'valor': '1962', 'precisao': 'ano', 'estado': 'parcial'},
-                'arquivo': None,
-                'estado_arquivo': 'ausente-no-acervo-publicado',
-                'nota': 'Identidade exigida pelo contrato; publicação integral fica em lote próprio (#68).',
+                'arquivo': 'federal/br-federal-lei-complementar-1962-07-17-1.md',
+                'estado_arquivo': 'publicado',
             },
             {
                 'norma_id': 'br-federal-lei-complementar-1967-11-09-1',
@@ -167,6 +166,33 @@ def parse_frontmatter(text: str) -> tuple[dict[str, Any] | None, str]:
         except json.JSONDecodeError:
             meta[key] = raw
     return meta, text[m.end() :]
+
+
+ACERVO_COMMENT = re.compile(r'<!--\s*metadados-acervo\s*\n(.*?)\n\s*-->', re.S)
+
+
+def parse_acervo_comment(text: str) -> dict[str, Any]:
+    """Lê os metadados de controle do comentário HTML, sem interpretar YAML."""
+    match = ACERVO_COMMENT.search(text)
+    if not match:
+        return {}
+    meta: dict[str, Any] = {}
+    for line in match.group(1).splitlines():
+        if ':' not in line:
+            continue
+        key, raw = line.split(':', 1)
+        key, raw = key.strip(), raw.strip()
+        if not key:
+            continue
+        try:
+            value = json.loads(raw)
+        except json.JSONDecodeError:
+            value = raw
+        # This contract accepts only scalar JSON values; unquoted labels remain strings.
+        if isinstance(value, (dict, list)):
+            continue
+        meta[key] = value
+    return meta
 
 
 def markdown_body_hash(path: Path) -> tuple[dict[str, Any] | None, str, str]:
@@ -993,6 +1019,7 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
     raw = path.read_bytes()
     text = raw.decode('utf-8')
     meta, body = parse_frontmatter(text)
+    acervo_meta = parse_acervo_comment(text)
     if meta is None:
         body = text
         body_hash = sha256_bytes(raw)
@@ -1000,6 +1027,15 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
     else:
         body_hash = sha256_bytes(body.encode('utf-8'))
         hash_semantica = 'corpo-apos-frontmatter'
+    excluded_note = (
+        acervo_meta.get('tipo_conteudo') == 'nota_edicao'
+        and acervo_meta.get('status_publicacao') == 'nao_publicado_integra'
+        and acervo_meta.get('edicao_integral') is False
+        and acervo_meta.get('excluir_denominador_integra') is True
+    )
+    if excluded_note:
+        # Keep the source artifact hash/size, while exporting no editorial note as law.
+        body = ''
     cand = path_identity_candidate(rel)
     rep = classify_representation(text)
     titulo, titulo_fonte = _extract_titulo(meta, body if meta is not None else text)
@@ -1079,6 +1115,22 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
         'tem_frontmatter': meta is not None,
         'armazenamento_metadados': 'frontmatter' if meta is not None else 'sidecar-export',
     }
+    if acervo_meta:
+        for key in (
+            'status_publicacao', 'edicao_integral', 'corpo_status', 'tipo_conteudo',
+            'excluir_denominador_integra', 'nao_reclassificar_por_hash_ou_presenca', 'issue',
+        ):
+            if key in acervo_meta:
+                doc[key] = acervo_meta[key]
+        doc['sha256_arquivo_origem'] = sha256_bytes(raw)
+        doc['bytes_arquivo_origem'] = len(raw)
+        doc['corpo_legal_integral_pendente'] = excluded_note
+    if excluded_note:
+        doc['texto_integral_pesquisavel'] = False
+        doc['fonte_integral_preservada'] = False
+        doc['cobertura_transcricao'] = 'ausente'
+        doc['alerta_cobertura_textual'] = True
+        doc['markdown_integral_bytes'] = 0
 
     campo_fontes: dict[str, Any] = {}
     if meta and isinstance(meta.get('campo_fontes'), dict):
@@ -1151,7 +1203,10 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
         'representacao': 'classificador-local',
         'cobertura_transcricao': 'classificador-local',
         'vigencia_certificada': 'contrato-global-sempre-false',
-        'markdown_integral': 'arquivo-publicado',
+        'markdown_integral': (
+            'nota-editorial-excluida-corpo-integral-pendente'
+            if excluded_note else 'arquivo-publicado'
+        ),
     }
     if meta and meta.get('provedor_id') is not None:
         doc['provedor_id'] = meta['provedor_id']
@@ -1751,6 +1806,8 @@ def apply_bm25_filters(docs: list[dict[str, Any]], filters: dict[str, Any]) -> l
     """Aplica filtros exatos tipados (keyword) separados do ranking textual."""
     out = []
     for d in docs:
+        if d.get('corpo_legal_integral_pendente') or d.get('excluir_denominador_integra') is True:
+            continue
         ok = True
         for key, expected in filters.items():
             if key == 'data_ato_prefix':
@@ -2167,9 +2224,12 @@ def cmd_verify() -> None:
     assert catalogue_number('1599', 'A') == '1599-a'
     assert catalogue_number('1599', 'A') != catalogue_number('1599', None)
 
-    # LC 1/1967 publicada; LC 1/1962 registrada como ausente no caso
-    assert (ROOT / 'federal/br-federal-lei-complementar-1967-11-09-1.md').is_file()
-    assert not list(ROOT.glob('federal/br-federal-lei-complementar-1962-*-1.md'))
+    # LC 1/1962 e LC 1/1967 têm o mesmo número, mas são normas distintas.
+    lc1962 = export_document('federal/br-federal-lei-complementar-1962-07-17-1.md')
+    lc1967 = export_document('federal/br-federal-lei-complementar-1967-11-09-1.md')
+    assert lc1962['norma_id'] != lc1967['norma_id']
+    assert lc1962['numero'] == lc1967['numero'] == '1'
+    assert lc1962['data_ato'] != lc1967['data_ato']
 
     # Opaque paths
     ac1121 = path_identity_candidate('estaduais/AC/br-ac-norma-1121.md')

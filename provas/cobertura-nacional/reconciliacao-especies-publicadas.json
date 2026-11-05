@@ -3,16 +3,18 @@
   "issue": "#83",
   "escopo": "federal/ — contagem por espécie candidata do caminho; sem certificar conteúdo.",
   "publicados_por_especie_caminho": {
+    "caminho-nao-classificado": 10,
     "constituicao": 1,
-    "decreto": 76069,
+    "decreto": 76404,
     "decreto-lei": 9647,
     "emenda-constitucional": 180,
     "lei": 6429,
-    "lei-complementar": 237,
+    "lei-complementar": 240,
     "lei-delegada": 1,
-    "medida-provisoria": 4744
+    "medida-provisoria": 4744,
+    "resolucao": 771
   },
-  "edicoes_alternativas_em_federal_edicoes": 3,
+  "edicoes_alternativas_em_federal_edicoes": 7,
   "errata_complemento_senado_totais": {
     "leis_numeradas_snapshot_correspondencia_inversa": 6333,
     "decretos_leis_snapshot_correspondencia_inversa": 9647,

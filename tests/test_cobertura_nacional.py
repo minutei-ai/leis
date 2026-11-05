@@ -42,7 +42,11 @@ class CoberturaNacionalTest(unittest.TestCase):
         ids = {e['norma_id'] for e in lc['entradas']}
         self.assertEqual(len(ids), 2)
         self.assertTrue((ROOT / 'federal/br-federal-lei-complementar-1967-11-09-1.md').is_file())
-        self.assertFalse(list(ROOT.glob('federal/br-federal-lei-complementar-1962-*-1.md')))
+        lc1962 = cn.export_document('federal/br-federal-lei-complementar-1962-07-17-1.md')
+        lc1967 = cn.export_document('federal/br-federal-lei-complementar-1967-11-09-1.md')
+        self.assertEqual(lc1962['numero'], lc1967['numero'])
+        self.assertNotEqual(lc1962['norma_id'], lc1967['norma_id'])
+        self.assertNotEqual(lc1962['data_ato'], lc1967['data_ato'])
 
     def test_opaque_path_not_legal_number(self):
         cand = cn.path_identity_candidate('estaduais/AC/br-ac-norma-1121.md')
@@ -117,6 +121,35 @@ class CoberturaNacionalTest(unittest.TestCase):
         self.assertFalse(doc['vigencia_certificada'])
         self.assertIn('norma_id', meta)
         self.assertGreater(len(doc['markdown_integral']), 1000)
+
+    def test_acervo_comment_excludes_editorial_stub_from_integral_search(self):
+        rel = 'estaduais/MG/br-mg-decreto-1945-06-26-2160.md'
+        path = ROOT / rel
+        raw = path.read_bytes()
+        doc = cn.export_document(rel)
+        self.assertEqual(cn.parse_acervo_comment(path.read_text(encoding='utf-8'))['edicao_integral'], False)
+        self.assertEqual(cn.parse_acervo_comment(path.read_text(encoding='utf-8'))['excluir_denominador_integra'], True)
+        self.assertEqual(doc['status_publicacao'], 'nao_publicado_integra')
+        self.assertEqual(doc['corpo_status'], 'incompleto')
+        self.assertTrue(doc['corpo_legal_integral_pendente'])
+        self.assertTrue(doc['excluir_denominador_integra'])
+        self.assertFalse(doc['texto_integral_pesquisavel'])
+        self.assertEqual(doc['markdown_integral'], '')
+        self.assertEqual(doc['sha256_markdown'], cn.sha256_bytes(raw))
+        self.assertEqual(doc['sha256_arquivo_origem'], cn.sha256_bytes(raw))
+        self.assertEqual(doc['bytes_arquivo_origem'], len(raw))
+        self.assertEqual(doc['markdown_integral_bytes'], 0)
+        self.assertEqual(cn.apply_bm25_filters([doc], {}), [])
+
+        # Legítimos corpos recuperados com marcadores de fac-símile continuam exportáveis.
+        for recovered in (
+            'estaduais/MG/br-mg-decreto-1937-04-08-803.md',
+            'estaduais/MG/br-mg-decreto-2000-03-21-40955.md',
+        ):
+            recovered_doc = cn.export_document(recovered)
+            self.assertTrue(recovered_doc['markdown_integral'])
+            self.assertNotIn('excluir_denominador_integra', recovered_doc)
+            self.assertEqual(cn.apply_bm25_filters([recovered_doc], {}), [recovered_doc])
 
     def test_bm25_filter_and_negative_facsimile(self):
         demo = cn.load_json(PROVAS / 'bm25-demonstracao.json')

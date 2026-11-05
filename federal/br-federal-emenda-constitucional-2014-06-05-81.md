@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2014-06-05-81"
+norma_id: "br-federal-emenda-constitucional-2014-06-05-81"
+norma_tipo: "emenda-constitucional"
+norma_numero: "81"
+norma_data: "2014-06-05"
+titulo: "EMENDA CONSTITUCIONAL Nº 81, DE 05/06/2014"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2014-06-05-81@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc81.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "1c6ea7889b0545fa755ab4bff868ad64e4dabbd8b330f1e27329c8049848b082"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL Nº</strong> <strong>81</strong>
 
 <em><strong>Dá nova redação ao art. 243 da Constituição Federal.</strong></em>

@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2020-08-26-108"
+norma_id: "br-federal-emenda-constitucional-2020-08-26-108"
+norma_tipo: "emenda-constitucional"
+norma_numero: "108"
+norma_data: "2020-08-26"
+titulo: "EMENDA CONSTITUCIONAL Nº 108"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2020-08-26-108@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc108.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "550ebfa2d19205c1521d0650a96edd4e6950148ccfbc87f9125e664d4b231bcd"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL Nº 108</strong>
 
 <em><strong>Altera a Constituição Federal para estabelecer critérios de distribuição da cota municipal do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), para disciplinar a disponibilização de dados contábeis pelos entes federados, para tratar do planejamento na ordem social e para dispor sobre o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb); altera o Ato das Disposições Constitucionais Transitórias; e dá outras providências.</strong></em>

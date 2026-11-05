@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2019-12-12-105"
+norma_id: "br-federal-emenda-constitucional-2019-12-12-105"
+norma_tipo: "emenda-constitucional"
+norma_numero: "105"
+norma_data: "2019-12-12"
+titulo: "EMENDA CONSTITUCIONAL Nº 105"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2019-12-12-105@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc105.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "c64a88cabaa750bf8d2487e3a71a440e1494f04993fc0e657a1b8987b4465f4a"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL Nº 105</strong>
 
 <em><strong>Acrescenta o art. 166-A à Constituição Federal,</strong></em> <em><strong>para autorizar a transferência de recursos federais</strong></em> <em><strong>a Estados, ao Distrito Federal e a Municípios</strong></em> <em><strong>mediante emendas ao projeto de lei orçamentária</strong></em> <em><strong>anual.</strong></em>

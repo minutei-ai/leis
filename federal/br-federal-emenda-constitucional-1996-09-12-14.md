@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-1996-09-12-14"
+norma_id: "br-federal-emenda-constitucional-1996-09-12-14"
+norma_tipo: "emenda-constitucional"
+norma_numero: "14"
+norma_data: "1996-09-12"
+titulo: "EMENDA CONSTITUCIONAL Nº 14, DE 12/09/1996"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1996-09-12-14@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc14.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "27f64e8c6d939cf51dcb5dc94901a40638e241d184f7d8515f412d29d1545df5"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL N° 14</strong>
 
 <em><strong>Modifica os arts. 34, 208, 211 e 212 da Constituição Federal e dá nova redação ao art. 60 do Ato das Disposições Constitucionais Transitórias.</strong></em>

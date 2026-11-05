@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-1998-02-05-18"
+norma_id: "br-federal-emenda-constitucional-1998-02-05-18"
+norma_tipo: "emenda-constitucional"
+norma_numero: "18"
+norma_data: "1998-02-05"
+titulo: "EMENDA CONSTITUCIONAL Nº 18, DE 05/02/1998"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1998-02-05-18@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc18.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "04d114695965a4379df44eeef3f2a9d8b6b52342ecccbeaf55748d0023325106"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000018-0-000-05-02-1998@@@
 
 <h1 style="margin-top:6pt; margin-bottom:12pt; text-align:center;font-weight:normal;font-style:normal"><span style="font-size:0.5em; font-weight:bold; text-transform:uppercase"><span><strong>EMENDA CONSTITUCIONAL Nº</strong></span></span><span style="font-size:0.5em; font-weight:bold; text-transform:uppercase"><span><strong> 18</strong></span></span></h1>
