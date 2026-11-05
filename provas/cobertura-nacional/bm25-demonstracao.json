@@ -3,7 +3,7 @@
     {
       "arquivo": "federal/br-federal-lei-2021-04-01-14133.md",
       "edicao_id": "br-federal-lei-2021-04-01-14133@historica-fonte-desconhecida",
-      "sha256_markdown": "2acf58e0837f070dbf46ccfc27c27e305d5696702121650728cf6e2ced90cd60"
+      "sha256_markdown": "cab091595019ded21b90146dc3aab403ca0aa02f5a675dbe5c1f2420e2b0af34"
     }
   ],
   "ranking_demonstracao": [
@@ -13,9 +13,9 @@
       "alerta_cobertura_textual": true,
       "cobertura_transcricao": "desconhecida",
       "vigencia_certificada": false,
-      "sha256_markdown": "2acf58e0837f070dbf46ccfc27c27e305d5696702121650728cf6e2ced90cd60",
+      "sha256_markdown": "cab091595019ded21b90146dc3aab403ca0aa02f5a675dbe5c1f2420e2b0af34",
       "fonte_url": "desconhecido",
-      "bytes_markdown_integral": 269213
+      "bytes_markdown_integral": 269212
     },
     {
       "arquivo": "federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md",
@@ -23,9 +23,9 @@
       "alerta_cobertura_textual": true,
       "cobertura_transcricao": "desconhecida",
       "vigencia_certificada": false,
-      "sha256_markdown": "7a32ad9ea4ce8710afd4afd5481c256607fcc069575a79a2b59f536a93adbaa5",
+      "sha256_markdown": "dcc753cd94538ec1ba59e3881f000fcad18743f7ff2f0584ef709b7c22d1b210",
       "fonte_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
-      "bytes_markdown_integral": 311697
+      "bytes_markdown_integral": 311696
     },
     {
       "arquivo": "municipais/3550308/br-municipal-3550308-decreto-2022-12-27-62100.md",
@@ -80,18 +80,18 @@
   "integridade_export": [
     {
       "arquivo": "federal/br-federal-lei-2021-04-01-14133.md",
-      "export_sha256": "2acf58e0837f070dbf46ccfc27c27e305d5696702121650728cf6e2ced90cd60",
-      "recomputado": "2acf58e0837f070dbf46ccfc27c27e305d5696702121650728cf6e2ced90cd60",
+      "export_sha256": "cab091595019ded21b90146dc3aab403ca0aa02f5a675dbe5c1f2420e2b0af34",
+      "recomputado": "cab091595019ded21b90146dc3aab403ca0aa02f5a675dbe5c1f2420e2b0af34",
       "igual": true,
-      "bytes": 269213,
+      "bytes": 269212,
       "truncado": false
     },
     {
       "arquivo": "federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md",
-      "export_sha256": "7a32ad9ea4ce8710afd4afd5481c256607fcc069575a79a2b59f536a93adbaa5",
-      "recomputado": "7a32ad9ea4ce8710afd4afd5481c256607fcc069575a79a2b59f536a93adbaa5",
+      "export_sha256": "dcc753cd94538ec1ba59e3881f000fcad18743f7ff2f0584ef709b7c22d1b210",
+      "recomputado": "dcc753cd94538ec1ba59e3881f000fcad18743f7ff2f0584ef709b7c22d1b210",
       "igual": true,
-      "bytes": 311697,
+      "bytes": 311696,
       "truncado": false
     },
     {
@@ -142,6 +142,10 @@
             "estado": "parcial"
           },
           "arquivo": "federal/br-federal-lei-complementar-1962-07-17-1.md",
+          "serie_historica": {
+            "valor": "lei-complementar-ao-ato-adicional",
+            "estado": "informado"
+          },
           "estado_arquivo": "publicado"
         },
         {
@@ -154,6 +158,10 @@
             "estado": "informado"
           },
           "arquivo": "federal/br-federal-lei-complementar-1967-11-09-1.md",
+          "serie_historica": {
+            "valor": "desconhecido",
+            "estado": "desconhecido"
+          },
           "estado_arquivo": "publicado"
         }
       ]

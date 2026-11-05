@@ -27,6 +27,10 @@ efeitos_diferidos: "preservados-nas-notas-do-texto"
 sha256_markdown: "20404a14f5a4f37f8d04678764ee9f48cb9a1f79ff2a6da9b1c9fc494a434ae2"
 manifesto: "provas/lc-complementares-68/reconciliacao-identidades.json"
 contrato_versao: 1
+orgao_emissor: "Congresso Nacional"
+serie_historica: "desconhecido"
+senado_id: "572902"
+campo_fontes: {"orgao_emissor": "corpo da captura oficial Planalto: “A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono”; https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp147.htm sha256=172164ee8f947c88eb14eb0b8623316f3e994518e02beb8b4be5167770cf7fb9", "fonte_orgao": "fontes.json#br-federal-lei-complementar-2014-08-07-147.fonte_orgao / fonte_url", "edicao_tipo": "fontes.json#br-federal-lei-complementar-2014-08-07-147.edicao / versao", "serie_historica": "desconhecido-explicito: nenhuma série foi comprovada nas capturas desta inclusão", "senado_id": "catálogo oficial do Senado: 572902"}
 ---
 
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos

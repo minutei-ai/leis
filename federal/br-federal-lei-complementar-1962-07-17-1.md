@@ -9,7 +9,7 @@ esfera: "federal"
 edicao_id: "br-federal-lei-complementar-1962-07-17-1@planalto"
 edicao_tipo: "consolidada"
 edicao_integral: true
-edicao_relacionada: "nenhuma"
+edicao_relacionada: "retificacao-1962-07-24-incorporada-no-texto-Planalto"
 fonte_orgao: "Presidência da República — Planalto"
 fonte_url: "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp01-62.htm"
 fonte_formato: "html"
@@ -27,6 +27,11 @@ efeitos_diferidos: "nao-aplicavel-sem-notas-na-edicao"
 sha256_markdown: "552a67626407ec99c65d21c5bd34ca0e02b03af805033f975b17f608b44ede6c"
 manifesto: "provas/lc-complementares-68/reconciliacao-identidades.json"
 contrato_versao: 1
+orgao_emissor: "Congresso Nacional"
+serie_historica: "lei-complementar-ao-ato-adicional"
+senado_id: "30812083"
+campo_fontes: {"orgao_emissor": "corpo da captura oficial Planalto: “O Presidente da República Faço saber que o Congresso Nacional decreta e eu sanciono”; https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp01-62.htm sha256=19990ded100459c1aafa874daf2bd83dd0f4ce7fe49260e0fc6397284a311237", "fonte_orgao": "fontes.json#br-federal-lei-complementar-1962-07-17-1.fonte_orgao / fonte_url", "edicao_tipo": "fontes.json#br-federal-lei-complementar-1962-07-17-1.versao", "serie_historica": "Câmara, dados da norma, observação literal ‘Publicada no DO como Lei Complementar ao Ato Adicional’; https://www2.camara.leg.br/legin/fed/leicom/1960-1969/leicomplementar-1-17-julho-1962-541564-norma-pl.html sha256=23dc10a1242e3566501edcf20fdb2f7739b1557a636f5ab4080f0a2fa1df19b1", "senado_id": "catálogo oficial do Senado: 30812083", "relacoes": "https://www2.camara.leg.br/legin/fed/leicom/1960-1969/leicomplementar-1-17-julho-1962-541564-retificacao-46775-pl.html sha256=bed7e014957fdbef75c5a53157674bc5295bfbdb1d82ed018488a1b1054e9492; relação literal com a edição Planalto identificada"}
+relacoes: [{"tipo": "retificacao", "origem": "br-federal-lei-complementar-1962-07-17-1@retificacao-1962-07-24", "destino": "br-federal-lei-complementar-1962-07-17-1@planalto", "dispositivo": "DOU 24/07/1962, p. 7837: após a ementa, incluir “O Presidente da República”; após o preâmbulo, excluir “O congresso Nacional decreta:”.", "escopo_cobertura": "parcial"}]
 ---
 
 Presidência da República Subchefia para Assuntos Jurídicos

@@ -81,7 +81,7 @@ em campos separados. Ano-only permanece sem dia/mês inventado.
 
 | Campo | Significado |
 | --- | --- |
-| `edicao_tipo` | `historica` \| `consolidada` \| `original` \| `desconhecida`. |
+| `edicao_tipo` | `historica` \| `consolidada` \| `original` \| `retificacao` \| `desconhecida`. |
 | `edicao_integral` | `true` \| `false` \| `"desconhecido"`. |
 | `corpo_status` / `status_publicacao` | Estado documentado da publicação/corpo; não certifica completude quando parcial. |
 | `corpo_legal_integral_pendente` | `true` quando falta parte do texto legal, mesmo que o corpo oficial disponível seja preservado. |
