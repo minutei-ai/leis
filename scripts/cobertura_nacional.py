@@ -1045,6 +1045,11 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
     if excluded_note:
         # Keep the source artifact hash/size, while exporting no editorial note as law.
         body = ''
+    partial_legal_body = (
+        not excluded_note
+        and meta is not None
+        and meta.get('edicao_integral') is False
+    )
     cand = path_identity_candidate(rel)
     rep = classify_representation(text)
     titulo, titulo_fonte = _extract_titulo(meta, body if meta is not None else text)
@@ -1142,13 +1147,24 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
                 doc[key] = acervo_meta[key]
         doc['sha256_arquivo_origem'] = sha256_bytes(raw)
         doc['bytes_arquivo_origem'] = len(raw)
-        doc['corpo_legal_integral_pendente'] = excluded_note
+        doc['corpo_legal_integral_pendente'] = excluded_note or partial_legal_body
+    elif partial_legal_body:
+        doc['corpo_legal_integral_pendente'] = True
+        doc['edicao_integral'] = False
+        doc['excluir_denominador_integra'] = True
+        doc['corpo_status'] = (meta or {}).get('corpo_status') or 'parcial'
+        doc['status_publicacao'] = (meta or {}).get('status_publicacao') or 'publicado-corpo-parcial'
     if excluded_note:
         doc['texto_integral_pesquisavel'] = False
         doc['fonte_integral_preservada'] = False
         doc['cobertura_transcricao'] = 'ausente'
         doc['alerta_cobertura_textual'] = True
         doc['markdown_integral_bytes'] = 0
+    elif partial_legal_body:
+        doc['texto_integral_pesquisavel'] = False
+        doc['fonte_integral_preservada'] = True
+        doc['cobertura_transcricao'] = 'parcial'
+        doc['alerta_cobertura_textual'] = True
 
     campo_fontes: dict[str, Any] = {}
     if meta and isinstance(meta.get('campo_fontes'), dict):
@@ -2180,6 +2196,13 @@ def build_bm25_demo() -> dict[str, Any]:
             'situacao': {'type': 'keyword'},
             'representacao': {'type': 'keyword'},
             'cobertura_transcricao': {'type': 'keyword'},
+            'corpo_status': {'type': 'keyword'},
+            'status_publicacao': {'type': 'keyword'},
+            'edicao_integral': {'type': 'boolean'},
+            'corpo_legal_integral_pendente': {'type': 'boolean'},
+            'excluir_denominador_integra': {'type': 'boolean'},
+            'texto_integral_pesquisavel': {'type': 'boolean'},
+            'fonte_integral_preservada': {'type': 'boolean'},
             'vigencia_certificada': {'type': 'boolean'},
             'alerta_cobertura_textual': {'type': 'boolean'},
             'data_ato': {'type': 'keyword', 'nota': 'date tipada só quando ISO; desconhecido fica fora de date'},
@@ -2190,6 +2213,11 @@ def build_bm25_demo() -> dict[str, Any]:
                 {'term': {'especie': 'lei'}},
                 {'prefix': {'data_ato': '2021'}},
                 {'term': {'edicao_tipo': 'historica'}},
+            ],
+            'must_not': [
+                {'term': {'corpo_legal_integral_pendente': True}},
+                {'term': {'excluir_denominador_integra': True}},
+                {'term': {'texto_integral_pesquisavel': False}},
             ],
             'must': {'match': {'markdown_integral': query}},
         },

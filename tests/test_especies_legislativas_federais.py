@@ -252,6 +252,8 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                     'snapshot': self.fontes[slug]['snapshot'],
                     'senado_id': self.fontes[slug]['senado_id'],
                     'fonte_orgao': meta.get('fonte_orgao'),
+                    'corpo_legal_integral_pendente': meta.get('edicao_integral') is False,
+                    'remissoes_literais': meta.get('remissoes_literais'),
                 }
                 md2, _ = lote.build_markdown(item, html)
                 if self.fontes[slug].get('anexo_fonte_alternativa'):
@@ -262,6 +264,23 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                     self.assertEqual(body2.rstrip(), body_pub.split(marker, 1)[0].rstrip())
                 else:
                     self.assertEqual(md2, text)
+
+    def test_remissoes_preexistentes_reclassificadas_sem_alterar_corpo_oficial(self):
+        ledger = json.loads((lote.PROVAS / 'textos-remetidos-pendentes.json').read_text(encoding='utf-8'))
+        partials = [x for x in ledger['itens']
+                    if x.get('estado') == 'publicado-corpo-parcial-remissao-explicita']
+        self.assertEqual(len(partials), 12)
+        for item in partials:
+            with self.subTest(slug=item['slug']):
+                text = (ROOT / item['arquivo_preexistente']).read_text(encoding='utf-8')
+                meta, body = nl.parse_frontmatter(text)
+                self.assertIs(meta['edicao_integral'], False)
+                self.assertTrue(meta['excluir_denominador_integra'])
+                self.assertTrue(meta['remissoes_literais'])
+                self.assertEqual(meta['sha256_markdown'], nl.sha256(body.encode('utf-8')))
+                self.assertEqual(item['sha256_markdown'], nl.sha256(body.encode('utf-8')))
+                self.assertEqual(item['bytes_markdown'], len(body.encode('utf-8')))
+                self.assertIn(item['remissoes_literais'][0], body)
 
     def test_limites_rcd_pos_1991_declarados(self):
         rcd = self.limites['RCD']

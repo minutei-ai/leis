@@ -13,8 +13,11 @@
       "remissoes_literais": [
         "O texto do Acordo acima citado está publicado no Diário do Senado Federal de 18 de fevereiro de 2025"
       ],
-      "estado": "publicacao-anterior-requer-reclassificacao-e-recuperacao",
-      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-09-04-387.md"
+      "estado": "publicado-corpo-parcial-remissao-explicita",
+      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-09-04-387.md",
+      "reclassificacao": "Corpo oficial preservado como evidencia parcial; a remissao literal identifica texto relacionado publicado em outra edicao do DSF, cuja integra nao esta incorporada nesta captura.",
+      "sha256_markdown": "13119488c500bebf32e492f6b1e09918f0b28725f4095b9a6bb70de2cde44047",
+      "bytes_markdown": 2077
     },
     {
       "slug": "br-federal-decreto-legislativo-2026-09-04-385",
@@ -26,8 +29,11 @@
       "remissoes_literais": [
         "O texto da Convenção acima citada está publicado no Diário do Senado Federal de 18 de março de 2025"
       ],
-      "estado": "publicacao-anterior-requer-reclassificacao-e-recuperacao",
-      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-09-04-385.md"
+      "estado": "publicado-corpo-parcial-remissao-explicita",
+      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-09-04-385.md",
+      "reclassificacao": "Corpo oficial preservado como evidencia parcial; a remissao literal identifica texto relacionado publicado em outra edicao do DSF, cuja integra nao esta incorporada nesta captura.",
+      "sha256_markdown": "3db90dbac1680c190d3774d5a32994ed6d4bee72f120d84232616f9cc7a6c3a8",
+      "bytes_markdown": 3101
     },
     {
       "slug": "br-federal-decreto-legislativo-2026-09-04-384",
@@ -39,8 +45,11 @@
       "remissoes_literais": [
         "O texto da Decisão acima citado está publicado no Diário do Senado Federal de 27 de fevereiro de 2025"
       ],
-      "estado": "publicacao-anterior-requer-reclassificacao-e-recuperacao",
-      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-09-04-384.md"
+      "estado": "publicado-corpo-parcial-remissao-explicita",
+      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-09-04-384.md",
+      "reclassificacao": "Corpo oficial preservado como evidencia parcial; a remissao literal identifica texto relacionado publicado em outra edicao do DSF, cuja integra nao esta incorporada nesta captura.",
+      "sha256_markdown": "b07da9b192509cf7f6386f7c226c8d9da9530184e1adab63c2de63c520b8d58b",
+      "bytes_markdown": 1997
     },
     {
       "slug": "br-federal-decreto-legislativo-2026-09-04-390",
@@ -52,8 +61,11 @@
       "remissoes_literais": [
         "O texto da Convenção acima citado está publicado no Diário do Senado Federal de 19 de junho de 2026"
       ],
-      "estado": "publicacao-anterior-requer-reclassificacao-e-recuperacao",
-      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-09-04-390.md"
+      "estado": "publicado-corpo-parcial-remissao-explicita",
+      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-09-04-390.md",
+      "reclassificacao": "Corpo oficial preservado como evidencia parcial; a remissao literal identifica texto relacionado publicado em outra edicao do DSF, cuja integra nao esta incorporada nesta captura.",
+      "sha256_markdown": "e3739e3e61c24d92fbd4259ec804a2501189e3f7b934d42717f2b0079b607aff",
+      "bytes_markdown": 2573
     },
     {
       "slug": "br-federal-decreto-legislativo-2026-09-04-389",
@@ -65,8 +77,11 @@
       "remissoes_literais": [
         "O texto do Acordo acima citado está publicado no Diário do Senado Federal de 14 de junho de 2025"
       ],
-      "estado": "publicacao-anterior-requer-reclassificacao-e-recuperacao",
-      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-09-04-389.md"
+      "estado": "publicado-corpo-parcial-remissao-explicita",
+      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-09-04-389.md",
+      "reclassificacao": "Corpo oficial preservado como evidencia parcial; a remissao literal identifica texto relacionado publicado em outra edicao do DSF, cuja integra nao esta incorporada nesta captura.",
+      "sha256_markdown": "7d42a877aea0ddbc86ea6fb146f3ff797f83b262eb313b49c2532f92d26b4b1b",
+      "bytes_markdown": 2416
     },
     {
       "slug": "br-federal-decreto-legislativo-2026-09-04-388",
@@ -78,8 +93,11 @@
       "remissoes_literais": [
         "O texto do Acordo acima citado está publicado no Diário do Senado Federal de 18 de fevereiro de 2025"
       ],
-      "estado": "publicacao-anterior-requer-reclassificacao-e-recuperacao",
-      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-09-04-388.md"
+      "estado": "publicado-corpo-parcial-remissao-explicita",
+      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-09-04-388.md",
+      "reclassificacao": "Corpo oficial preservado como evidencia parcial; a remissao literal identifica texto relacionado publicado em outra edicao do DSF, cuja integra nao esta incorporada nesta captura.",
+      "sha256_markdown": "abfdf587687a7c30307cb6fc9b9bbc0a10307fcf6be2cdd74cfef5a14e64c615",
+      "bytes_markdown": 2365
     },
     {
       "slug": "br-federal-decreto-legislativo-2026-07-16-291",
@@ -91,8 +109,11 @@
       "remissoes_literais": [
         "O texto do Acordo acima citado está publicado no Diário do Senado Federal de 27 de março de 2026"
       ],
-      "estado": "publicacao-anterior-requer-reclassificacao-e-recuperacao",
-      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-07-16-291.md"
+      "estado": "publicado-corpo-parcial-remissao-explicita",
+      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-07-16-291.md",
+      "reclassificacao": "Corpo oficial preservado como evidencia parcial; a remissao literal identifica texto relacionado publicado em outra edicao do DSF, cuja integra nao esta incorporada nesta captura.",
+      "sha256_markdown": "01b652ba46f24ff1a46f469c2b699c350e7145728e6d898eca695670fa939ea3",
+      "bytes_markdown": 2448
     },
     {
       "slug": "br-federal-decreto-legislativo-2026-07-03-210",
@@ -104,8 +125,11 @@
       "remissoes_literais": [
         "O texto do Acordo acima citado está publicado no Diário do Senado Federal de 27 de março de 2026"
       ],
-      "estado": "publicacao-anterior-requer-reclassificacao-e-recuperacao",
-      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-07-03-210.md"
+      "estado": "publicado-corpo-parcial-remissao-explicita",
+      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-07-03-210.md",
+      "reclassificacao": "Corpo oficial preservado como evidencia parcial; a remissao literal identifica texto relacionado publicado em outra edicao do DSF, cuja integra nao esta incorporada nesta captura.",
+      "sha256_markdown": "9cb4b54c601d26f92a7f6035af143042a9c4aa61606d7515764cfe609e5fe768",
+      "bytes_markdown": 2456
     },
     {
       "slug": "br-federal-decreto-legislativo-2026-07-03-209",
@@ -117,8 +141,11 @@
       "remissoes_literais": [
         "O texto do Acordo acima citado está publicado no Diário do Senado Federal de 8 de maio de 2026"
       ],
-      "estado": "publicacao-anterior-requer-reclassificacao-e-recuperacao",
-      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-07-03-209.md"
+      "estado": "publicado-corpo-parcial-remissao-explicita",
+      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-07-03-209.md",
+      "reclassificacao": "Corpo oficial preservado como evidencia parcial; a remissao literal identifica texto relacionado publicado em outra edicao do DSF, cuja integra nao esta incorporada nesta captura.",
+      "sha256_markdown": "2a1d9b190fec880817a4adfbd33d32af14f77a6ab7ace4577e480258136959b7",
+      "bytes_markdown": 2593
     },
     {
       "slug": "br-federal-decreto-legislativo-2026-06-22-147",
@@ -130,8 +157,11 @@
       "remissoes_literais": [
         "O texto do Acordo acima citado está publicado no Diário do Senado Federal de 18 de junho de 2026"
       ],
-      "estado": "publicacao-anterior-requer-reclassificacao-e-recuperacao",
-      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-06-22-147.md"
+      "estado": "publicado-corpo-parcial-remissao-explicita",
+      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-06-22-147.md",
+      "reclassificacao": "Corpo oficial preservado como evidencia parcial; a remissao literal identifica texto relacionado publicado em outra edicao do DSF, cuja integra nao esta incorporada nesta captura.",
+      "sha256_markdown": "9dfd16ca1dde1eab998e8d00f270e22679ec75d33f71c4286202cb31770ef13c",
+      "bytes_markdown": 2342
     },
     {
       "slug": "br-federal-decreto-legislativo-2026-06-22-146",
@@ -143,8 +173,11 @@
       "remissoes_literais": [
         "O texto do Acordo acima citado está publicado no Diário do Senado Federal de 18 de junho de 2026"
       ],
-      "estado": "publicacao-anterior-requer-reclassificacao-e-recuperacao",
-      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-06-22-146.md"
+      "estado": "publicado-corpo-parcial-remissao-explicita",
+      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-06-22-146.md",
+      "reclassificacao": "Corpo oficial preservado como evidencia parcial; a remissao literal identifica texto relacionado publicado em outra edicao do DSF, cuja integra nao esta incorporada nesta captura.",
+      "sha256_markdown": "9cf40b5d7d5848be1ed201762cb6b519f6cf5d9238c9ee502ef3d7081e2a505b",
+      "bytes_markdown": 2450
     },
     {
       "slug": "br-federal-decreto-legislativo-2026-06-08-104",
@@ -156,8 +189,11 @@
       "remissoes_literais": [
         "O texto do Acordo acima citado está publicado no Diário do Senado Federal de 26 de março de 2025"
       ],
-      "estado": "publicacao-anterior-requer-reclassificacao-e-recuperacao",
-      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-06-08-104.md"
+      "estado": "publicado-corpo-parcial-remissao-explicita",
+      "arquivo_preexistente": "federal/br-federal-decreto-legislativo-2026-06-08-104.md",
+      "reclassificacao": "Corpo oficial preservado como evidencia parcial; a remissao literal identifica texto relacionado publicado em outra edicao do DSF, cuja integra nao esta incorporada nesta captura.",
+      "sha256_markdown": "4d1439519cde4efbe7c0ab2cbc38a485661a5fe4ab66b0c8efd1769fb94d261f",
+      "bytes_markdown": 2416
     },
     {
       "slug": "br-federal-decreto-legislativo-2026-05-28-64",

@@ -4,157 +4,157 @@
   "gerado_por": "scripts/cobertura_nacional.py export-acervo",
   "include_markdown": false,
   "shard_size": 10000,
-  "total_edicoes": 232661,
-  "total_esperado": 232661,
+  "total_edicoes": 232846,
+  "total_esperado": 232846,
   "completo": true,
-  "bytes_jsonl_nao_comprimidos": 475003895,
+  "bytes_jsonl_nao_comprimidos": 475410507,
   "shards": [
     {
       "arquivo": "shards/shard-00000.jsonl.gz",
       "registros": 10000,
-      "sha256": "2f0bfdf22ef053cd75fbfb98d5f1e86799f7a7984ec69d6987f5df15c6aa4488",
+      "sha256": "b5fe5947d66ca3823174b057f5fc03121c5c4c31290870380d86589e1e79b058",
       "bytes": 765714
     },
     {
       "arquivo": "shards/shard-00001.jsonl.gz",
       "registros": 10000,
-      "sha256": "4dc367ea06547f8928d5b4e4507c57a49e03ea2d188ef4b8a490e96162346ffb",
+      "sha256": "9217161fa1b2f0c922f383346ff827ae81901387f19f6f0e7eceb20fd44aa288",
       "bytes": 750263
     },
     {
       "arquivo": "shards/shard-00002.jsonl.gz",
       "registros": 10000,
-      "sha256": "d4f5da6f917fb44d739f0c3eb96de9dc5c968ca5aad72b11630eeab7cc86f24a",
+      "sha256": "3aecac726608fb567cd97c6ab25ed9ac2b30ef32118dfc3816e96f09581609fe",
       "bytes": 746074
     },
     {
       "arquivo": "shards/shard-00003.jsonl.gz",
       "registros": 10000,
-      "sha256": "fd8f331e93db8f02769bc94809866b6c529d7521d5513c9f6528219164cb322d",
+      "sha256": "866866a5afd0b3ac9c38e3cf6c41201c6fb63f5252be8267cbd60e4e07573f93",
       "bytes": 748222
     },
     {
       "arquivo": "shards/shard-00004.jsonl.gz",
       "registros": 10000,
-      "sha256": "a1a848849f5411594c965393e14ae3677c07877722327efb9206f0a6ee855848",
+      "sha256": "f95b67e02a2655f288558df8e465ae28b50e2f3c36babb211ca0321040990bbf",
       "bytes": 751899
     },
     {
       "arquivo": "shards/shard-00005.jsonl.gz",
       "registros": 10000,
-      "sha256": "d499d430b11291bd42bf1883701daa60bde9cbea8d66cb61f1a1d92b2535cddd",
+      "sha256": "e432b5267bfcb49fee8ccd412eb2cfcb5fdc02af3ae6587411aa2f034024792c",
       "bytes": 763953
     },
     {
       "arquivo": "shards/shard-00006.jsonl.gz",
       "registros": 10000,
-      "sha256": "3c83ba9a7ca5818b066c52cf8da9919079a018677ed509dc6bb391794d904a02",
+      "sha256": "72c37304684fb35648bd4fb3580105b4ef148de9b608e9ff50236b20e1452e9f",
       "bytes": 767742
     },
     {
       "arquivo": "shards/shard-00007.jsonl.gz",
       "registros": 10000,
-      "sha256": "45e164c99ad1c0990ff82316a52c91bdad63597736ec62fd9c100ef57b0c4e02",
-      "bytes": 806449
+      "sha256": "1ec15134e69b729259e32a4b62b15887ed03bb5d83159c292eb818a3bfcb6380",
+      "bytes": 811449
     },
     {
       "arquivo": "shards/shard-00008.jsonl.gz",
       "registros": 10000,
-      "sha256": "7c1e2dedb8064c2d2412eb364caf5cab9af329e9c806cefa62b8cf802a9e757e",
-      "bytes": 830565
+      "sha256": "acac6c24e66dee9d4a9eb20f4c86870f07be0f530ca335e9f45e23f48b7ed67a",
+      "bytes": 825334
     },
     {
       "arquivo": "shards/shard-00009.jsonl.gz",
       "registros": 10000,
-      "sha256": "5a87968f5c305eb1a6b64a5165b73da3539bc56c81771476151ce8ad61615b5c",
-      "bytes": 1044846
+      "sha256": "e097a92755ad480dec172271a31c437f89c32f25fd47526820e72e4abcd08c95",
+      "bytes": 1048715
     },
     {
       "arquivo": "shards/shard-00010.jsonl.gz",
       "registros": 10000,
-      "sha256": "f233154aa056c6401dac17b9207899bac1d488654b7a063b7f5c8192136b5d43",
-      "bytes": 745465
+      "sha256": "10214a7e01491638298f8883284a7d7a8916c6b3b318369286ee47df0aa27bae",
+      "bytes": 748518
     },
     {
       "arquivo": "shards/shard-00011.jsonl.gz",
       "registros": 10000,
-      "sha256": "dd627014ab4177e79290b171f0ab8fb15bfaee188e520d9ff799a1608b200617",
-      "bytes": 802640
+      "sha256": "1ddef729bd7d1bc53f5a25eae8d3abe590bf82b90e57979b2cb94d2f5366cc3f",
+      "bytes": 801627
     },
     {
       "arquivo": "shards/shard-00012.jsonl.gz",
       "registros": 10000,
-      "sha256": "0cf3e6ea88c02f8f8a4b39e95b4fef5312736abcd92ea7582e508b4c0c637571",
-      "bytes": 944357
+      "sha256": "26e4f908c98e2d1c06f9a1be5c1cf45bbd3d472026d9cf68bd65f2fb02f34a1b",
+      "bytes": 939449
     },
     {
       "arquivo": "shards/shard-00013.jsonl.gz",
       "registros": 10000,
-      "sha256": "bc645f875bdcedb351b63a59f0a4890d021d078ef09a95fac7d28d2fd107c370",
-      "bytes": 1195563
+      "sha256": "63b7649efcdd4da02f54968685c2a560c5ea0ea83eccbdaf2ed25563a6db6641",
+      "bytes": 1192291
     },
     {
       "arquivo": "shards/shard-00014.jsonl.gz",
       "registros": 10000,
-      "sha256": "844fb795b4604881c3829491c1a12d758363779ce06080b5021e9cccf86a41e3",
-      "bytes": 1094015
+      "sha256": "ba12f4eaf798b09e73149ee71260444f34bbdfa82262b9bbf6cb523a457d572e",
+      "bytes": 1095681
     },
     {
       "arquivo": "shards/shard-00015.jsonl.gz",
       "registros": 10000,
-      "sha256": "76293c51b280d5107cb83d86db3a6576428dd1814ef16e48a0b83e59e82333e3",
-      "bytes": 1164289
+      "sha256": "e0a089baf69d6c246b38687eb4dea4a9f0db858c8022d1401e687033cb051a7f",
+      "bytes": 1163035
     },
     {
       "arquivo": "shards/shard-00016.jsonl.gz",
       "registros": 10000,
-      "sha256": "a0b268c61c77399a3bfaaf2689ad3fceb82d6419ca5812c27a45990a11da9084",
-      "bytes": 961857
+      "sha256": "15b16084c76af8efbfef28a3cf7cd91e725490ed27c4421ebd7effb0b6aab75e",
+      "bytes": 968241
     },
     {
       "arquivo": "shards/shard-00017.jsonl.gz",
       "registros": 10000,
-      "sha256": "307173bd01db452896c55b171d8bc2f8d29d975082a1e2ebced3437c2153b057",
-      "bytes": 826370
+      "sha256": "22f00ba00bc97049e289b782570f121eed4fbad546a8d02b3119b86a827bd7d2",
+      "bytes": 825619
     },
     {
       "arquivo": "shards/shard-00018.jsonl.gz",
       "registros": 10000,
-      "sha256": "ca1d2e5fc759f69b15d5f133adac9b5dccde1d86a72ec5ba8553a59cd937a821",
-      "bytes": 827497
+      "sha256": "0e34e40c2c6de4517eda6dbe6f51324ee20e7e4a9f723e925474ab2deb0f7373",
+      "bytes": 827414
     },
     {
       "arquivo": "shards/shard-00019.jsonl.gz",
       "registros": 10000,
-      "sha256": "ffce920d13af830f600f12b0a19f48113ae8d038008431e7fdd07fe716cc60b7",
-      "bytes": 898773
+      "sha256": "7763a7ba9578cd0c50ff80c78e608fcd0c1a069b89c70e16e7bfff5b160a962c",
+      "bytes": 900820
     },
     {
       "arquivo": "shards/shard-00020.jsonl.gz",
       "registros": 10000,
-      "sha256": "56a3558aafea8f77cb1a9335dbf5d14a00c7c7009374621047ba4aee90c9b4b3",
-      "bytes": 742739
+      "sha256": "286e91752b86cdde5e4562ebddcd67c7bd0b0b6556384712d9cea4ecb45fdbaa",
+      "bytes": 742970
     },
     {
       "arquivo": "shards/shard-00021.jsonl.gz",
       "registros": 10000,
-      "sha256": "05e1320b6971358816ea88c41801bd48b39a9d2d90949bda3db33d60145c57a3",
-      "bytes": 748254
+      "sha256": "17743e06424a92029ef78e32d1a5bc7674e89c1e7f612e3982ece69c6046d13b",
+      "bytes": 745834
     },
     {
       "arquivo": "shards/shard-00022.jsonl.gz",
       "registros": 10000,
-      "sha256": "91f148705d7079479201cae5a5a8b27a670f78aad7e053c256d0556a2ad203e6",
-      "bytes": 774025
+      "sha256": "95d8b7774bc9041fac9babbb1bd794e093a4886a8cc0283a4b1351a8ada79a9c",
+      "bytes": 776672
     },
     {
       "arquivo": "shards/shard-00023.jsonl.gz",
-      "registros": 2661,
-      "sha256": "ec5a25da9830d7680fd427fdc62942c80cef7ec753a71fc971f33dafdad702d3",
-      "bytes": 212031
+      "registros": 2846,
+      "sha256": "42ad12117e1b25b3e4851f619b6b3a1ee23c102bb54f6fce61f17be2d2d03478",
+      "bytes": 225443
     }
   ],
-  "elapsed_seconds": 115.396,
+  "elapsed_seconds": 54.206,
   "checkpoint": "checkpoint.json",
   "inventario_campos": "inventario-campos-acervo.json",
   "recuperacao_integra": {

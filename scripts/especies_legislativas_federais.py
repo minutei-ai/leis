@@ -42,6 +42,7 @@ PROVAS = ROOT / 'provas/especies-legislativas-federais'
 FONTES_DIR = PROVAS / 'fontes'
 COLETAS_DIR = PROVAS / 'coletas'
 FED = ROOT / 'federal'
+TEXTOS_REMETIDOS_PATH = PROVAS / 'textos-remetidos-pendentes.json'
 USER_AGENT = 'MinuteiLeis/0.2 (+https://github.com/minutei-ai/leis)'
 CONTRACT_VERSION = getattr(nl, 'CONTRACT_VERSION', 1)
 
@@ -1345,6 +1346,14 @@ def build_markdown(item: dict, html: bytes) -> tuple[str, dict]:
         'manifesto': str(manifesto_path().relative_to(ROOT)),
         'contrato_versao': CONTRACT_VERSION,
     }
+    if item.get('corpo_legal_integral_pendente'):
+        meta.update({
+            'edicao_integral': False,
+            'status_publicacao': 'publicado-corpo-parcial',
+            'corpo_status': 'parcial-remissao-explicita',
+            'excluir_denominador_integra': True,
+            'remissoes_literais': item['remissoes_literais'],
+        })
     fm = '---\n' + '\n'.join(
         f'{k}: {json.dumps(v, ensure_ascii=False)}' for k, v in meta.items()
     ) + '\n---\n\n'
@@ -1399,6 +1408,15 @@ def build(tipos: list[str] | None = None) -> dict:
         cobertura['itens'] = {key: value for key, value in previous_coverage['itens'].items()
                               if key in fontes}
     publicados = []
+    remetidos = json.loads(TEXTOS_REMETIDOS_PATH.read_text(encoding='utf-8'))
+    remetidos_preexistentes = {
+        item['slug']: item for item in remetidos.get('itens', [])
+        if item.get('estado') in {
+            'publicacao-anterior-requer-reclassificacao-e-recuperacao',
+            'publicado-corpo-parcial-remissao-explicita',
+        }
+        and item.get('arquivo_preexistente')
+    }
     for slug, item in coleta['itens'].items():
         if item['tipo'] not in selected or slug in annex_owned:
             continue
@@ -1407,6 +1425,10 @@ def build(tipos: list[str] | None = None) -> dict:
         html = lzma.decompress((ROOT / item['snapshot']).read_bytes())
         if sha256(html) != item['sha256_fonte']:
             raise SystemExit(f'{slug}: hash fonte diverge')
+        referral = remetidos_preexistentes.get(slug)
+        if referral:
+            item = {**item, 'corpo_legal_integral_pendente': True,
+                    'remissoes_literais': referral['remissoes_literais']}
         markdown, proof = build_markdown(item, html)
         path = FED / f'{slug}.md'
         path.write_text(markdown, encoding='utf-8')
@@ -1442,7 +1464,20 @@ def build(tipos: list[str] | None = None) -> dict:
         })
         cobertura['itens'][slug] = proof
         publicados.append(slug)
+        if referral:
+            referral['estado'] = 'publicado-corpo-parcial-remissao-explicita'
+            referral['reclassificacao'] = (
+                'Corpo oficial preservado como evidencia parcial; a remissao literal '
+                'identifica texto relacionado publicado em outra edicao do DSF, cuja '
+                'integra nao esta incorporada nesta captura.'
+            )
+            referral['sha256_markdown'] = meta['sha256_markdown']
+            referral['bytes_markdown'] = len(body.encode('utf-8'))
         print(f'built {slug}', flush=True)
+    if remetidos_preexistentes:
+        remetidos['itens'] = [remetidos_preexistentes.get(item.get('slug'), item)
+                              for item in remetidos.get('itens', [])]
+        write_json(TEXTOS_REMETIDOS_PATH, remetidos)
     if previous_sources is not None:
         # Keep reviewed records in their existing order; append only new IDs.
         # Otherwise a small species batch moves thousands of unrelated rows.
@@ -1552,6 +1587,8 @@ def verify() -> None:
             'snapshot': fontes[slug]['snapshot'],
             'senado_id': fontes[slug]['senado_id'],
             'fonte_orgao': meta_fm.get('fonte_orgao'),
+            'corpo_legal_integral_pendente': meta_fm.get('edicao_integral') is False,
+            'remissoes_literais': meta_fm.get('remissoes_literais'),
         }
         md2, _ = build_markdown(item, html)
         if fontes[slug].get('anexo_fonte_alternativa') or meta_fm.get('anexo_fonte_alternativa_url'):
