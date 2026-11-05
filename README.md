@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**231.167 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**231.205 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -19,33 +19,33 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
 | Federal | [Brasil](federal/) | 98.411 |
-| Estadual | [Acre](estaduais/AC/) | 1.680 |
-| Estadual | [Alagoas](estaduais/AL/) | 5 |
-| Estadual | [Amapá](estaduais/AP/) | 24 |
-| Estadual | [Amazonas](estaduais/AM/) | 8 |
-| Estadual | [Bahia](estaduais/BA/) | 14.378 |
-| Estadual | [Ceará](estaduais/CE/) | 110 |
+| Estadual | [Acre](estaduais/AC/) | 1.681 |
+| Estadual | [Alagoas](estaduais/AL/) | 6 |
+| Estadual | [Amapá](estaduais/AP/) | 26 |
+| Estadual | [Amazonas](estaduais/AM/) | 10 |
+| Estadual | [Bahia](estaduais/BA/) | 14.379 |
+| Estadual | [Ceará](estaduais/CE/) | 112 |
 | Distrital | [Distrito Federal](estaduais/DF/) | 10 |
-| Estadual | [Espírito Santo](estaduais/ES/) | 20 |
-| Estadual | [Goiás](estaduais/GO/) | 9.668 |
-| Estadual | [Maranhão](estaduais/MA/) | 6 |
-| Estadual | [Mato Grosso](estaduais/MT/) | 336 |
-| Estadual | [Mato Grosso do Sul](estaduais/MS/) | 3.285 |
+| Estadual | [Espírito Santo](estaduais/ES/) | 23 |
+| Estadual | [Goiás](estaduais/GO/) | 9.669 |
+| Estadual | [Maranhão](estaduais/MA/) | 7 |
+| Estadual | [Mato Grosso](estaduais/MT/) | 338 |
+| Estadual | [Mato Grosso do Sul](estaduais/MS/) | 3.287 |
 | Estadual | [Minas Gerais](estaduais/MG/) | 65.933 |
-| Estadual | [Pará](estaduais/PA/) | 85 |
-| Estadual | [Paraíba](estaduais/PB/) | 2 |
+| Estadual | [Pará](estaduais/PA/) | 86 |
+| Estadual | [Paraíba](estaduais/PB/) | 3 |
 | Estadual | [Paraná](estaduais/PR/) | 61 |
-| Estadual | [Pernambuco](estaduais/PE/) | 2.347 |
-| Estadual | [Piauí](estaduais/PI/) | 1 |
-| Estadual | [Rio de Janeiro](estaduais/RJ/) | 1.661 |
-| Estadual | [Rio Grande do Norte](estaduais/RN/) | 62 |
-| Estadual | [Rio Grande do Sul](estaduais/RS/) | 16 |
-| Estadual | [Rondônia](estaduais/RO/) | 3 |
-| Estadual | [Roraima](estaduais/RR/) | 1 |
-| Estadual | [Santa Catarina](estaduais/SC/) | 267 |
+| Estadual | [Pernambuco](estaduais/PE/) | 2.352 |
+| Estadual | [Piauí](estaduais/PI/) | 3 |
+| Estadual | [Rio de Janeiro](estaduais/RJ/) | 1.662 |
+| Estadual | [Rio Grande do Norte](estaduais/RN/) | 64 |
+| Estadual | [Rio Grande do Sul](estaduais/RS/) | 17 |
+| Estadual | [Rondônia](estaduais/RO/) | 4 |
+| Estadual | [Roraima](estaduais/RR/) | 2 |
+| Estadual | [Santa Catarina](estaduais/SC/) | 268 |
 | Estadual | [São Paulo](estaduais/SP/) | 19.906 |
-| Estadual | [Sergipe](estaduais/SE/) | 21 |
-| Estadual | [Tocantins](estaduais/TO/) | 28 |
+| Estadual | [Sergipe](estaduais/SE/) | 23 |
+| Estadual | [Tocantins](estaduais/TO/) | 30 |
 | Municipal | [Adamantina · SP](municipais/3500105/) | 2 |
 | Municipal | [Águas Formosas · MG](municipais/3100906/) | 1 |
 | Municipal | [Alfenas · MG](municipais/3101607/) | 1 |
