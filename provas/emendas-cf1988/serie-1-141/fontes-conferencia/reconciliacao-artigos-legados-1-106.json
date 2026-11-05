@@ -520,32 +520,65 @@
       "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/1999/emendaconstitucional-23-2-setembro-1999-344887-publicacaooriginal-1-pl.html",
       "tipo_conferencia": "publicacaooriginal",
       "artigos_markdown": 2,
-      "artigos_fonte": 3,
+      "artigos_fonte": 2,
       "apenas_markdown": [],
-      "apenas_fonte": [
-        "91"
-      ],
+      "apenas_fonte": [],
       "artigos_divergentes": [
         {
           "artigo": "1",
-          "sha256_markdown_colapsa_espacos": "2f46a6017d63a606e47700cc325047394498c20727949770fc070f6d34a26b67",
-          "sha256_fonte_colapsa_espacos": "bc98b53f3e198d688eb7dff23a9e815eec8aec6a0f27638595f095013bda81f5",
-          "chars_markdown": 4559,
-          "chars_fonte": 1653,
+          "sha256_markdown_colapsa_espacos": "4e01948528646be82eee83ab71efdd3f80fe258bf79b18d131ec81be129d0be0",
+          "sha256_fonte_colapsa_espacos": "45d914d0b89808f9ce9a9eb165ec8e4233d8b998a36c73aa2bf2ec2d01c56fc6",
+          "chars_markdown": 4567,
+          "chars_fonte": 3680,
           "divergencia_markdown": "a Constituição Federal, passam a vigorar com as seguintes alterações: “Art. 12. ................................................................................................................................... ........",
           "divergencia_fonte": "a Constituição Federal, passam a vigorar com as seguintes alterações: \"Art. 12. ............................................................................................ ..............................................."
         },
         {
           "artigo": "2",
-          "sha256_markdown_colapsa_espacos": "cfc93e69c28175b8293ac446c3116dc5f85a2ab468a529a4ebe609d575792c22",
-          "sha256_fonte_colapsa_espacos": "6aea38407831da8af8f7cf5dd921fc0e3e3bf736822bdb6353ac956b99ea9b31",
-          "chars_markdown": 697,
-          "chars_fonte": 697,
+          "sha256_markdown_colapsa_espacos": "5d7cd614e0af86bd79a8ddf2b6e7143249d66910cf93feb2615e83773870bd04",
+          "sha256_fonte_colapsa_espacos": "7fa298efcd8d0c5a25d9bc26fdd8ffabc1638ab675757cca7826d2cf11e5576f",
+          "chars_markdown": 705,
+          "chars_fonte": 705,
           "divergencia_markdown": "em vigor na data de sua publicação. Brasília, 2 de setembro de 1999. MESA DA CÂMARA DOS DEPUTADOS DEPUTADO MICHEL TEMER PRESIDENTE Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Preside",
           "divergencia_fonte": "em vigor na data de sua publicação. Brasília, 2 de setembro de 1999. Mesa da Câmara dos Deputados Deputado MICHEL TEMER Presidente Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Preside"
         }
       ],
-      "resultado_literal": "literalmente-divergente-registrada"
+      "resultado_literal": "literalmente-divergente-registrada",
+      "artigos_fonte_principais": [
+        "1",
+        "2"
+      ],
+      "redacoes_inseridas_citadas_repareadas": [
+        {
+          "rotulo_citado": "Art. 91",
+          "sob_dispositivo_principal": "Art. 1º",
+          "prova_estrutural": "No snapshot Câmara, o rótulo “Art. 91” inicia um elemento <dir> citado dentro de .textoNorma > div.texto; a sequência principal só recomeça no parágrafo “Art. 2º”. O mapa do Markdown contém apenas Art. 1º e Art. 2º como artigos principais."
+        }
+      ],
+      "metodo_pareamento": "Pareamento corrigido com os rótulos principais do Markdown e a hierarquia do HTML oficial; títulos Art. 91/78 são redações citadas introduzidas por Art. 1º/2º, não dispositivos principais da emenda.",
+      "diagnostico_de_tokens_lexicais": {
+        "metodo": "para diferenciar falta de palavra de diferença formal: caixa baixa, remoção de diacríticos, símbolos ordinais º/° tratados como o token “ord”, remoção de pontuação e espaçamento; mantém sequência e quantidade de tokens",
+        "comparacoes": [
+          {
+            "artigo_principal": "Art. 1",
+            "tokens_markdown": 265,
+            "tokens_fonte": 265,
+            "sha256_sequencia_tokens_markdown": "dbddacd1f03bd054b1f947caadc838c6adefe08edb4212e398f60028caa63e9f",
+            "sha256_sequencia_tokens_fonte": "dbddacd1f03bd054b1f947caadc838c6adefe08edb4212e398f60028caa63e9f",
+            "sequencia_coincide": true
+          },
+          {
+            "artigo_principal": "Art. 2",
+            "tokens_markdown": 114,
+            "tokens_fonte": 114,
+            "sha256_sequencia_tokens_markdown": "47dfa485d587116b24a4bf3ec1306dc537bfc854195e1ce1eb2c34c6cccaf1d8",
+            "sha256_sequencia_tokens_fonte": "47dfa485d587116b24a4bf3ec1306dc537bfc854195e1ce1eb2c34c6cccaf1d8",
+            "sequencia_coincide": true
+          }
+        ],
+        "resultado": "todas_as_sequencias_coincidem",
+        "limite": "Esse diagnóstico não afirma igualdade literal, edição equivalente, vigência ou efeito jurídico; as diferenças literais continuam nos hashes e snippets acima."
+      }
     },
     {
       "emenda": 24,
@@ -696,33 +729,82 @@
       "tipo_conferencia": "publicacaooriginal",
       "artigos_markdown": 3,
       "artigos_fonte": 3,
-      "apenas_markdown": [
-        "2"
-      ],
-      "apenas_fonte": [
-        "78"
-      ],
+      "apenas_markdown": [],
+      "apenas_fonte": [],
       "artigos_divergentes": [
         {
           "artigo": "1",
-          "sha256_markdown_colapsa_espacos": "a47d943b4934bb5270565d42037daf739d5f8c4c21deb5a794e70e74e39587c6",
-          "sha256_fonte_colapsa_espacos": "9db926f41facfaca1bea2e9adf31cab29928fd021873f29a0879492d63988fc5",
-          "chars_markdown": 1841,
-          "chars_fonte": 1998,
+          "sha256_markdown_colapsa_espacos": "dee0b82b662ec48fcb14ecfffa399463728576c1fadfb0365e620b8692c687bb",
+          "sha256_fonte_colapsa_espacos": "0fb2b98261e2e7ddc65d58f39bf98ed124368623b4432bfd6762a4b62c1b9bdf",
+          "chars_markdown": 1849,
+          "chars_fonte": 1895,
           "divergencia_markdown": ". 100 da Constituição Federal passa a vigorar com a seguinte redação: “Art.100. ..............................................” “§ 1º É obrigatória a inclusão, no orçamento das entidades de direito público, de verba nece",
           "divergencia_fonte": ". 100 da Constituição Federal passa a vigorar com a seguinte redação: \" Art. 100. ..................................................................................... \" § 1º É obrigatória a inclusão, no orçamento das en"
         },
         {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "5f277dd3a2e1528fa32eb1e8cd6113ae8d18970905e0482ffae305ef4e2b92ee",
+          "sha256_fonte_colapsa_espacos": "e8c9ff9dab7d3a994f9024aaaf5742a4982fd72ae41a4694ed3179ec6f91d363",
+          "chars_markdown": 1542,
+          "chars_fonte": 1547,
+          "divergencia_markdown": "ções Constitucionais Transitórias, o art. 78, com a seguinte redação: “Art. 78. Ressalvados os créditos definidos em lei como de pequeno valor, os de natureza alimentícia, os de que trata o art. 33 deste Ato das Disposiç",
+          "divergencia_fonte": "ções Constitucionais Transitórias, o art. 78, com a seguinte redação: \" Art. 78. Ressalvados os créditos definidos em lei como de pequeno valor, os de natureza alimentícia, os de que trata o art. 33 deste Ato das Disposi"
+        },
+        {
           "artigo": "3",
-          "sha256_markdown_colapsa_espacos": "0e7caa7ec97839f97ec24cc2a34f1013c95df82292b3d7c005ae0dafe69b8696",
-          "sha256_fonte_colapsa_espacos": "1aa7f551edc654260a9a067af1a0f609a3b64b14facc1f4fde84421b2d011a63",
-          "chars_markdown": 673,
-          "chars_fonte": 673,
+          "sha256_markdown_colapsa_espacos": "d7236affaafc4f8df782f76c8c4e4b7648cd1b395d2325988bd6497bbc644894",
+          "sha256_fonte_colapsa_espacos": "60e9653d2ec5b50f3ad0d4746eeccd021719feac26e1f3f09d0d9ad86fb74cf0",
+          "chars_markdown": 681,
+          "chars_fonte": 681,
           "divergencia_markdown": "igor na data de sua publicação. Brasília, em 13 de setembro de 2000. MESA DA CÂMARA DOS DEPUTADOS DEPUTADO MICHEL TEMER PRESIDENTE Deputado Heráclito Fortes 1° Vice-Presidente Deputado Severino Cavalcanti 2° Vice-Preside",
           "divergencia_fonte": "igor na data de sua publicação. Brasília, em 13 de setembro de 2000. Mesa da Câmara dos Deputados Deputado MICHEL TEMER Presidente Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Preside"
         }
       ],
-      "resultado_literal": "literalmente-divergente-registrada"
+      "resultado_literal": "literalmente-divergente-registrada",
+      "artigos_fonte_principais": [
+        "1",
+        "2",
+        "3"
+      ],
+      "redacoes_inseridas_citadas_repareadas": [
+        {
+          "rotulo_citado": "Art. 78",
+          "sob_dispositivo_principal": "Art. 2º",
+          "prova_estrutural": "No snapshot Câmara, o rótulo “Art. 78” aparece em parágrafo iniciado por aspas depois do parágrafo que contém a introdução do Art. 2º; o próximo parágrafo principal inicia Art. 3º. O mapa do Markdown contém Art. 1º, Art. 2º e Art. 3º como artigos principais."
+        }
+      ],
+      "metodo_pareamento": "Pareamento corrigido com os rótulos principais do Markdown e a hierarquia do HTML oficial; títulos Art. 91/78 são redações citadas introduzidas por Art. 1º/2º, não dispositivos principais da emenda.",
+      "diagnostico_de_tokens_lexicais": {
+        "metodo": "para diferenciar falta de palavra de diferença formal: caixa baixa, remoção de diacríticos, símbolos ordinais º/° tratados como o token “ord”, remoção de pontuação e espaçamento; mantém sequência e quantidade de tokens",
+        "comparacoes": [
+          {
+            "artigo_principal": "Art. 1",
+            "tokens_markdown": 273,
+            "tokens_fonte": 273,
+            "sha256_sequencia_tokens_markdown": "dfab6f3246fa6fdf3062d249b96db54b91b77d1b8a631041ebebdf7c3e1c21ea",
+            "sha256_sequencia_tokens_fonte": "dfab6f3246fa6fdf3062d249b96db54b91b77d1b8a631041ebebdf7c3e1c21ea",
+            "sequencia_coincide": true
+          },
+          {
+            "artigo_principal": "Art. 2",
+            "tokens_markdown": 250,
+            "tokens_fonte": 250,
+            "sha256_sequencia_tokens_markdown": "08dbbb3880f6f76d319836d261e9375984c45e7f99615eefc05abbc86742a983",
+            "sha256_sequencia_tokens_fonte": "08dbbb3880f6f76d319836d261e9375984c45e7f99615eefc05abbc86742a983",
+            "sequencia_coincide": true
+          },
+          {
+            "artigo_principal": "Art. 3",
+            "tokens_markdown": 110,
+            "tokens_fonte": 110,
+            "sha256_sequencia_tokens_markdown": "dc716c0259b3341134c1fd53769d311010993591ceb22916aca38616f93bfe1c",
+            "sha256_sequencia_tokens_fonte": "dc716c0259b3341134c1fd53769d311010993591ceb22916aca38616f93bfe1c",
+            "sequencia_coincide": true
+          }
+        ],
+        "resultado": "todas_as_sequencias_coincidem",
+        "limite": "Esse diagnóstico não afirma igualdade literal, edição equivalente, vigência ou efeito jurídico; as diferenças literais continuam nos hashes e snippets acima."
+      }
     },
     {
       "emenda": 31,
@@ -2028,7 +2110,9 @@
     "emendas_conferidas": 55,
     "emendas_sem_diferencas_literais": 0,
     "emendas_com_diferencas_ou_pareamento_pendente": 55,
-    "diferencas_literais_ou_itens_nao_pareados": 139,
-    "diferencas_catalograficas_adicionais_ec1": 1
+    "diferencas_literais_ou_itens_nao_pareados": 137,
+    "diferencas_catalograficas_adicionais_ec1": 1,
+    "pareamentos_estruturais_corrigidos": 2,
+    "artigos_nao_pareados_apos_revisao_estrutural": 0
   }
 }

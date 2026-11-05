@@ -4,10 +4,10 @@
   "gerado_por": "scripts/cobertura_nacional.py export-acervo",
   "include_markdown": false,
   "shard_size": 10000,
-  "total_edicoes": 232562,
-  "total_esperado": 232562,
+  "total_edicoes": 232659,
+  "total_esperado": 232659,
   "completo": true,
-  "bytes_jsonl_nao_comprimidos": 458737173,
+  "bytes_jsonl_nao_comprimidos": 458928767,
   "shards": [
     {
       "arquivo": "shards/shard-00000.jsonl.gz",
@@ -152,9 +152,15 @@
       "registros": 2562,
       "sha256": "54259c06a8cf8d13977f1703644a14989387f72439f26724742fe96be44af10c",
       "bytes": 199254
+    },
+    {
+      "arquivo": "shards/shard-00024.jsonl.gz",
+      "registros": 97,
+      "sha256": "1a7a0a67512c36fbcdcce47da2528eafde2dda8a2a26c88f6a33fa19095413f7",
+      "bytes": 8761
     }
   ],
-  "elapsed_seconds": 123.777,
+  "elapsed_seconds": 0.174,
   "checkpoint": "checkpoint.json",
   "inventario_campos": "inventario-campos-acervo.json",
   "recuperacao_integra": {

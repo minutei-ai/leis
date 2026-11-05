@@ -7,122 +7,122 @@
     "frontmatter": "reutilizado-quando-ja-presente",
     "markdown_corpos": "nao-reescrevidos-em-massa"
   },
-  "total_edicoes": 232562,
+  "total_edicoes": 232659,
   "por_campo": {
     "norma_id": {
-      "conhecido": 232562
+      "conhecido": 232659
     },
     "edicao_id": {
-      "conhecido": 232562
+      "conhecido": 232659
     },
     "especie": {
       "conhecido": 173736,
-      "desconhecido": 58826
+      "desconhecido": 58923
     },
     "numero": {
       "conhecido": 173031,
-      "desconhecido": 59381,
+      "desconhecido": 59478,
       "nao-aplicavel": 150
     },
     "complemento": {
-      "nao-aplicavel": 232125,
+      "nao-aplicavel": 232222,
       "conhecido": 437
     },
     "numero_estado": {
       "conhecido": 173181,
-      "desconhecido": 59381
+      "desconhecido": 59478
     },
     "provedor_id": {
       "ausente": 178805,
-      "conhecido": 53757
+      "conhecido": 53854
     },
     "provedor_token": {
-      "nao-aplicavel": 232412,
+      "nao-aplicavel": 232509,
       "conhecido": 150
     },
     "esfera": {
-      "conhecido": 232562
+      "conhecido": 232659
     },
     "uf": {
       "nao-aplicavel": 99749,
       "conhecido": 119964,
-      "desconhecido": 12849
+      "desconhecido": 12946
     },
     "ibge": {
       "nao-aplicavel": 219713,
-      "conhecido": 12849
+      "conhecido": 12946
     },
     "orgao_emissor": {
       "conhecido": 2540,
-      "desconhecido": 230022
+      "desconhecido": 230119
     },
     "poder": {
-      "desconhecido": 232562
+      "desconhecido": 232659
     },
     "ambito_aplicacao": {
-      "desconhecido": 232562
+      "desconhecido": 232659
     },
     "titulo": {
-      "conhecido": 230530,
+      "conhecido": 230627,
       "desconhecido": 2032
     },
     "ementa": {
-      "desconhecido": 232562
+      "desconhecido": 232659
     },
     "data_ato": {
       "conhecido": 173203,
-      "desconhecido": 59359
+      "desconhecido": 59456
     },
     "edicao_tipo": {
       "conhecido": 2604,
-      "desconhecido": 229958
+      "desconhecido": 230055
     },
     "situacao": {
-      "desconhecido": 232560,
+      "desconhecido": 232657,
       "conhecido": 2
     },
     "representacao": {
-      "conhecido": 232562
+      "conhecido": 232659
     },
     "cobertura_transcricao": {
-      "conhecido": 232562
+      "conhecido": 232659
     },
     "vigencia_certificada": {
-      "conhecido": 232562
+      "conhecido": 232659
     },
     "fonte_url": {
       "conhecido": 2540,
-      "desconhecido": 230022
+      "desconhecido": 230119
     },
     "sha256_markdown": {
-      "conhecido": 232562
+      "conhecido": 232659
     },
     "fonte_do_campo": {
-      "conhecido": 232562
+      "conhecido": 232659
     },
     "estado_identidade": {
-      "conhecido": 232562
+      "conhecido": 232659
     }
   },
   "por_estado_identidade": {
     "registrada-no-cabecalho": 2789,
     "derivada-do-caminho-candidata": 171128,
     "candidata-nao-conferida": 4888,
-    "provedor-id-nao-e-numero-legal": 53757
+    "provedor-id-nao-e-numero-legal": 53854
   },
   "por_armazenamento_metadados": {
     "frontmatter": 2791,
-    "sidecar-export": 229771
+    "sidecar-export": 229868
   },
   "por_esfera": {
     "federal": 99749,
     "estadual": 119954,
     "distrital": 10,
-    "municipal": 12849
+    "municipal": 12946
   },
   "por_numero_estado": {
     "informado": 173031,
-    "desconhecido": 59381,
+    "desconhecido": 59478,
     "sem-numero": 150
   },
   "anomalias": {

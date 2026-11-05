@@ -187,6 +187,27 @@ class TestEmendasCf1988Serie1141(unittest.TestCase):
         self.assertTrue(all(part['sha256_markdown_normalizado'] and part['sha256_fonte_normalizado'] for part in ec1['componentes_comparados']))
         self.assertTrue(all(part['proveniencia_original_markdown'] == 'desconhecida' for part in manifesto['fontes']))
 
+        # These labels were false article-level mismatches from source text inside quoted insertions.
+        ec23 = comparisons[23]
+        self.assertEqual(ec23['artigos_fonte_principais'], ['1', '2'])
+        self.assertEqual(ec23['apenas_markdown'], [])
+        self.assertEqual(ec23['apenas_fonte'], [])
+        self.assertEqual(
+            ec23['redacoes_inseridas_citadas_repareadas'][0]['rotulo_citado'],
+            'Art. 91',
+        )
+        self.assertTrue(all(x['sequencia_coincide'] for x in ec23['diagnostico_de_tokens_lexicais']['comparacoes']))
+        ec30 = comparisons[30]
+        self.assertEqual(ec30['artigos_fonte_principais'], ['1', '2', '3'])
+        self.assertEqual(ec30['apenas_markdown'], [])
+        self.assertEqual(ec30['apenas_fonte'], [])
+        self.assertEqual(
+            ec30['redacoes_inseridas_citadas_repareadas'][0]['sob_dispositivo_principal'],
+            'Art. 2º',
+        )
+        self.assertTrue(all(x['sequencia_coincide'] for x in ec30['diagnostico_de_tokens_lexicais']['comparacoes']))
+        self.assertIn('não afirma igualdade literal', ec30['diagnostico_de_tokens_lexicais']['limite'])
+
 
     def test_segmentacao_artigos_ec9_ec12_ec44_e_proibicoes_autonomas(self):
         expected_articles = {
@@ -263,6 +284,18 @@ class TestEmendasCf1988Serie1141(unittest.TestCase):
             self.assertEqual(item['hierarquia'], 'revisao-explicita-sem-inferencia-de-efeito')
             self.assertTrue(item['trecho_auditado'])
             self.assertTrue(item['regra_classificacao'])
+
+        # Inserted Constitution/ADCT text remains nested under its amendment article.
+        ec23 = lote.extract_dispositivos_emenda(
+            lote.body_of((ROOT / next(i['arquivo'] for i in self.matriz['itens'] if i['numero'] == 23)).read_text())
+        )
+        ec30 = lote.extract_dispositivos_emenda(
+            lote.body_of((ROOT / next(i['arquivo'] for i in self.matriz['itens'] if i['numero'] == 30)).read_text())
+        )
+        self.assertEqual([a['dispositivo'] for a in ec23['artigos']], ['Art. 1º', 'Art. 2º'])
+        self.assertIn('Art. 91', [a['dispositivo'] for a in ec23['artigos'][0]['redacao_inserida_citada']])
+        self.assertEqual([a['dispositivo'] for a in ec30['artigos']], ['Art. 1º', 'Art. 2º', 'Art. 3º'])
+        self.assertEqual([a['dispositivo'] for a in ec30['artigos'][1]['redacao_inserida_citada']], ['Art. 78'])
 
     def test_conferencias_atuais_preservam_proveniencia_original_desconhecida(self):
         conf_dir = PROVAS / 'fontes-conferencia'

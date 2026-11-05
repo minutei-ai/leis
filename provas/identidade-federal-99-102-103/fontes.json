@@ -76,7 +76,9 @@
     "bytes_markdown": 734,
     "snapshot": "provas/identidade-federal-99-102-103/fontes/br-federal-lei-2014-06-02-12985.html.xz",
     "sha256_snapshot": "aa83f9f8547048c5b6ea6e36a8215d9eb996cb1287c0c82b806e1e085563fd95",
-    "bytes_snapshot": 7692
+    "bytes_snapshot": 7692,
+    "sha256_fonte": "83afecffd1a9b479f619d164a99c975253e5594432b503647a7dccf330d4b992",
+    "bytes_fonte": 40743
   },
   {
     "id": "br-federal-lei-2014-06-02-12988",
@@ -89,7 +91,9 @@
     "bytes_markdown": 621,
     "snapshot": "provas/identidade-federal-99-102-103/fontes/br-federal-lei-2014-06-02-12988.html.xz",
     "sha256_snapshot": "2b05c8985918efc30577d0130cc4653d5d6f7158bcb0d5188fec2dd35a4bf497",
-    "bytes_snapshot": 7668
+    "bytes_snapshot": 7668,
+    "sha256_fonte": "d4f1574bcc670115d642ee6366ac167870dc7aa80ded1e437ece6497598e8eee",
+    "bytes_fonte": 40521
   },
   {
     "id": "br-federal-decreto-lei-1942-01-13-4014-a",
