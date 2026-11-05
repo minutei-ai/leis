@@ -59,15 +59,15 @@ Este texto não substitui o publicado no D.O.U. de 28.5.1981.
 "Anexo II"
 (art. 6º, item III, do Decreto-lei nº 1.341, de 22 de agosto de 1974)
 
-| DENOMINAÇÃO DAS GRATIFICAÇÕES E INDENIZAÇÕES | DEFINIÇÃO | BASES DE CONCESSÃO / VALORES |
+| DENOMINAÇÃO DAS GRATIFICAÇÕES E INDENIZAÇÕES | DEFINIÇÃO | BASES DE CONCESSÃO E VALORES |
 | --- | --- | --- |
-| XXIV - GRATIFICAÇÃO DE INTERIORIZAÇÃO | Devida aos servidores pertencentes às categorias funcionais de Médico, Médico Veterinário, Médico do Trabalho, Médico de Saúde Pública (em extinção) e de Sanitarista (na especialidade Médica), pelo exercício em cidades do interior do País. | Correspondente aos percentuais abaixo especificados e incidentes sobre o vencimento ou salário, cessando a concessão e o pagamento com a aposentadoria e a relotação do servidor em cidade não contemplada com a vantagem: Municípios com até 20.000 habitantes — 60%; Municípios com até 40.000 habitantes — 50%; Municípios com até 60.000 habitantes — 40%. |
+| XXII - GRATIFICAÇÃO DE INTERIORIZAÇÃO | Devida aos servidores pertencentes às categorias funcionais de Médico, Médico Veterinário, Médico do Trabalho, Médico de Saúde Pública (em extinção) e de Sanitarista (na especialidade Médica), pelo exercício em cidades do interior do País. | Correspondente aos percentuais abaixo especificados e incidentes sobre o vencimento ou salário, cessando a concessão e o pagamento com a aposentadoria e a relotação do servidor em cidade não contemplada com a vantagem: Municípios com até 20.000 habitantes — 60%; Municípios com até 40.000 habitantes — 50%; Municípios com até 60.000 habitantes — 40%. |
 
 Fac-símile oficial (Planalto): `provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-i-planalto.png` (PDF de origem https://www.planalto.gov.br/ccivil_03/Decreto-Lei/1965-1988/anexo/andel1873-81.pdf).
 
 Fac-símile oficial (Câmara): `provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-i-camara.png` (PDF https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1873-27-maio-1981-374519-anexoi-pe.pdf).
 
-Nota: o PDF do Planalto `andel1873-81.pdf` reproduz o Anexo I e, na mesma peça, o início do Anexo II. O numeral romano do item (**XXIV**) foi conferido visualmente nos fac-símiles da Câmara e do Planalto.
+Nota: o PDF do Planalto `andel1873-81.pdf` reproduz o Anexo I e, na mesma peça, o início do Anexo II. O numeral romano do item (**XXII**) foi conferido visualmente nos fac-símiles da Câmara e do Planalto.
 
 ## ANEXO II
 
@@ -78,26 +78,31 @@ Nota: o PDF do Planalto `andel1873-81.pdf` reproduz o Anexo I e, na mesma peça,
 
 Grupo: OUTRAS ATIVIDADES DE NÍVEL SUPERIOR (NS-900 ou LT-NS-900)
 
-Colação visual do fac-símile: as referências de vencimento/salário por classe formam uma célula compartilhada pelas categorias da respectiva jornada (não uma linha por categoria).
+Colação visual do fac-símile: as referências dos blocos c) e d) ocupam células compartilhadas pelas quatro categorias médicas de cada bloco. O Odontólogo da linha j) tem célula própria; não recebe por repetição a célula do bloco d).
 
-### Jornada de 4 horas
+### Bloco c)
 
 | CATEGORIAS FUNCIONAIS | CÓDIGO | REFERÊNCIAS DE VENCIMENTO OU SALÁRIO POR CLASSE |
 | --- | --- | --- |
-| a) Médico | NS-901 ou LT-NS-901 | CLASSE ESPECIAL — NS-16 a 19; CLASSE C — NS-12 a 15; CLASSE B — NS-7 a 11; CLASSE A — NS-4 a 6 |
-| b) Médico de Saúde Pública (em extinção) | NS-902 ou LT-NS-902 | *(mesmas referências da jornada de 4 horas)* |
-| c) Médico do Trabalho | NS-903 ou LT-NS-903 | *(mesmas referências da jornada de 4 horas)* |
-| Médico Veterinário (jornada de 4 horas) | NS-910 ou LT-NS-910 | *(mesmas referências da jornada de 4 horas)* |
+| c) Médico | NS-901 ou LT-NS-901 | CLASSE ESPECIAL — NS-16 a 19; CLASSE C — NS-12 a 15; CLASSE B — NS-7 a 11; CLASSE A — NS-4 a 6 |
+| Médico de Saúde Pública (em extinção) | NS-902 ou LT-NS-902 | *(célula compartilhada do bloco c))* |
+| Médico do Trabalho | NS-903 ou LT-NS-903 | *(célula compartilhada do bloco c))* |
+| Médico Veterinário (jornada de 4 horas) | NS-910 ou LT-NS-910 | *(célula compartilhada do bloco c))* |
 
-### Jornada de 6 horas
+### Bloco d)
 
 | CATEGORIAS FUNCIONAIS | CÓDIGO | REFERÊNCIAS DE VENCIMENTO OU SALÁRIO POR CLASSE |
 | --- | --- | --- |
 | d) Médico | NS-901 ou LT-NS-901 | CLASSE ESPECIAL — NS-22 a 25; CLASSE C — NS-18 a 21; CLASSE B — NS-15 a 17; CLASSE A — NS-11 a 14 |
-| Médico de Saúde Pública (em extinção) | NS-902 ou LT-NS-902 | *(mesmas referências da jornada de 6 horas)* |
-| Médico do Trabalho | NS-903 ou LT-NS-903 | *(mesmas referências da jornada de 6 horas)* |
-| Médico Veterinário (jornada de 6 horas) | NS-910 ou LT-NS-910 | *(mesmas referências da jornada de 6 horas)* |
-| f) Odontólogo (jornada de 6 horas em extinção) | NS-909 ou LT-NS-909 | *(mesmas referências da jornada de 6 horas)* |
+| Médico de Saúde Pública (em extinção) | NS-902 ou LT-NS-902 | *(célula compartilhada do bloco d))* |
+| Médico do Trabalho | NS-903 ou LT-NS-903 | *(célula compartilhada do bloco d))* |
+| Médico Veterinário (jornada de 6 horas) | NS-910 ou LT-NS-910 | *(célula compartilhada do bloco d))* |
+
+### Linha j)
+
+| CATEGORIAS FUNCIONAIS | CÓDIGO | REFERÊNCIAS DE VENCIMENTO OU SALÁRIO POR CLASSE |
+| --- | --- | --- |
+| j) Odontólogo (jornada de 6 horas em extinção) | NS-909 ou LT-NS-909 | CLASSE C — NS-18 a 21; CLASSE B — NS-15 a 17; CLASSE A — NS-11 a 14 |
 
 Fac-símile oficial (Câmara): `provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-camara.png` (PDF https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1873-27-maio-1981-374519-anexoii-pe.pdf).
 
@@ -105,4 +110,4 @@ Recorte da célula CLASSE A (jornada 4 h) no fac-símile da Câmara: `provas/ide
 
 A mesma célula no PDF do Planalto `andel1873-81.pdf` (início do Anexo II na mesma peça do Anexo I): `provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-classe-a-4h-planalto-crop.png`. Em ambas as publicações oficiais a leitura visual é **CLASSE A — NS-4 a 6**.
 
-Nota de edição: o Decreto-Lei nº 1.874, de 8 de julho de 1981, reposiciona servidores mantendo a estrutura das categorias constantes deste Anexo II; alterações posteriores (inclusive Lei nº 9.527/1997 citada na Câmara) não substituem silenciosamente esta edição de 27/5/1981. A peça da Câmara é o recorte oficial da alteração ao Anexo IV do Decreto-Lei nº 1.820/1980 relativo a estas categorias; não é o Anexo IV completo daquele diploma. A letra "e)" não aparece no fac-símile entre o Médico Veterinário de 6 h e o Odontólogo "f)".
+Nota de edição: o Decreto-Lei nº 1.874, de 8 de julho de 1981, reposiciona servidores mantendo a estrutura das categorias constantes deste Anexo II; alterações posteriores (inclusive Lei nº 9.527/1997 citada na Câmara) não substituem silenciosamente esta edição de 27/5/1981. A peça da Câmara é o recorte oficial da alteração ao Anexo IV do Decreto-Lei nº 1.820/1980 relativo a estas categorias; não é o Anexo IV completo daquele diploma. A letra "e)" não aparece no fac-símile entre o Médico Veterinário de 6 h e o Odontólogo "j)".

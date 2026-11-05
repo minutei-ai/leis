@@ -10839,6 +10839,24 @@
       "tabelas": 0,
       "imagens": 0,
       "title_injected": true
+    },
+    "br-federal-resolucao-senado-federal-2019-09-26-19": {
+      "slug": "br-federal-resolucao-senado-federal-2019-09-26-19",
+      "fonte_fold_chars": 3953,
+      "markdown_fold_chars": 4629,
+      "blocos": 28,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-senado-federal-2018-12-12-35": {
+      "slug": "br-federal-resolucao-senado-federal-2018-12-12-35",
+      "fonte_fold_chars": 3669,
+      "markdown_fold_chars": 4330,
+      "blocos": 30,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
     }
   }
 }
