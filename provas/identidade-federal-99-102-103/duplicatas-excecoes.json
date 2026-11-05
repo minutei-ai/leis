@@ -1,0 +1,172 @@
+{
+  "gerado_em": "2026-11-04",
+  "issue": 99,
+  "politica": "Cada grupo tem tipo/status e justificativa documental. alias_catalogo=mesma norma sob duas chaves. mesmo_texto_fonte_com_ressalva=fonte/ALMG também mostra mesmo texto/ementa/nomes; ressalva. Pares MG com ementa/nomes divergentes e HTML ALMG atribuído errado foram DESMEMBRADOS: corpo correto no caminho certo; caminho órfão com nota corpo_digital_indisponivel (não entram mais como SHA-1 idêntico). Novos SHA-1 fora da lista falham no teste. Hash sem identidade não basta.",
+  "resumo": {
+    "total": 14,
+    "alias_catalogo": 13,
+    "pendencia_identidade": 0,
+    "mesmo_texto_fonte_com_ressalva": 1,
+    "corpo_digital_indisponivel_resolvido_parcial": 19
+  },
+  "grupos": [
+    {
+      "sha1": "6d2055549a0defedaafcddfa44c7acb6b03895fe",
+      "arquivos": [
+        "estaduais/BA/br-ba-norma-112696.md",
+        "estaduais/BA/br-ba-norma-42978.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 11.451 DE 24 DE MARÇO DE 2009",
+      "justificativa": "Mesma LEI Nº 11.451 DE 24 DE MARÇO DE 2009 sob dois IDs de catálogo BA (br-ba-norma-112696 / br-ba-norma-42978). Epígrafe idêntica; alias de catálogo, não troca de norma."
+    },
+    {
+      "sha1": "db1a7ab36165f4ed048dcb41603b8bd523d1e41e",
+      "arquivos": [
+        "estaduais/BA/br-ba-norma-126457.md",
+        "estaduais/BA/br-ba-norma-33648.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 12.813 DE 21 DE MAIO DE 2013",
+      "justificativa": "Mesma LEI Nº 12.813 DE 21 DE MAIO DE 2013 sob dois IDs de catálogo BA (br-ba-norma-126457 / br-ba-norma-33648). Epígrafe idêntica; alias de catálogo, não troca de norma."
+    },
+    {
+      "sha1": "246e3ee320a8aa1c5cf3cdb80260bfc6700c2da5",
+      "arquivos": [
+        "estaduais/BA/br-ba-norma-127611.md",
+        "estaduais/BA/br-ba-norma-45202.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 13.031 DE 20 DE MARÇO DE 2014",
+      "justificativa": "Mesma LEI Nº 13.031 DE 20 DE MARÇO DE 2014 sob dois IDs de catálogo BA (br-ba-norma-127611 / br-ba-norma-45202). Epígrafe idêntica; alias de catálogo, não troca de norma."
+    },
+    {
+      "sha1": "205a3c05d190b79ebaaf376599b546d7d8884bbf",
+      "arquivos": [
+        "estaduais/BA/br-ba-norma-135667.md",
+        "estaduais/BA/br-ba-norma-144995.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 14.018 DE 29 DE OUTUBRO DE 2018",
+      "justificativa": "Mesma LEI Nº 14.018 DE 29 DE OUTUBRO DE 2018 sob dois IDs de catálogo BA (br-ba-norma-135667 / br-ba-norma-144995). Epígrafe idêntica; alias de catálogo, não troca de norma."
+    },
+    {
+      "sha1": "8f9376f6c2c3dd50b6ca36ba7803427a5cdd53ac",
+      "arquivos": [
+        "estaduais/GO/br-go-norma-107588.md",
+        "estaduais/GO/br-go-norma-107589.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "Portaria Orçamentária nº 372/2023 - Economia",
+      "justificativa": "Mesma Portaria Orçamentária nº 372/2023 - Economia sob IDs GO br-go-norma-107588/br-go-norma-107589. Alias de catálogo."
+    },
+    {
+      "sha1": "e2aeadfc2d138f7870403647a7d382f32c9a171a",
+      "arquivos": [
+        "estaduais/MS/br-ms-conleg-govato-40675c6be194c96f042588230075d695.md",
+        "estaduais/MS/br-ms-conleg-govato-cfb560b2f763c12c042588230076ed49.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 5.851, DE 12 DE ABRIL DE 2022.",
+      "justificativa": "Mesma LEI Nº 5.851, DE 12 DE ABRIL DE 2022. sob dois UUIDs Conleg/MS. Alias de catálogo."
+    },
+    {
+      "sha1": "667d7a61513d8bcdb0247a6b1374704a429b83d5",
+      "arquivos": [
+        "estaduais/MS/br-ms-conleg-govato-9917eeae5147c2eb0425834d003cdfbf.md",
+        "estaduais/MS/br-ms-conleg-govato-a6cc860829d6f3670425834d003d584d.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 5.269, DE 20 DE NOVEMBRO DE 2018.",
+      "justificativa": "Mesma LEI Nº 5.269, DE 20 DE NOVEMBRO DE 2018. sob dois UUIDs Conleg/MS. Alias de catálogo."
+    },
+    {
+      "sha1": "bf0ed24af787108cd074a67fd32db33af957cf29",
+      "arquivos": [
+        "estaduais/RJ/br-rj-contlei-nsf-227bfa4990d7458503258a3f0005445b.md",
+        "estaduais/RJ/br-rj-contlei-nsf-976b6f531939a8de03258a3f00054494.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 10.122 DE 02 DE OUTUBRO DE 2023.**<br>",
+      "justificativa": "Mesma LEI Nº 10.122 DE 02 DE OUTUBRO DE 2023.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
+    },
+    {
+      "sha1": "6f4e94a75d66fe2b7122fadf51f7f7a7c82413e7",
+      "arquivos": [
+        "estaduais/RJ/br-rj-contlei-nsf-32ecec8da0373f9603258bf5006ca7d2.md",
+        "estaduais/RJ/br-rj-contlei-nsf-7f358953f8357f6103258bf5006ba494.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 10.604 DE 04 DE DEZEMBRO DE 2024.**<br>",
+      "justificativa": "Mesma LEI Nº 10.604 DE 04 DE DEZEMBRO DE 2024.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
+    },
+    {
+      "sha1": "6eb4bd07f35dfecec65b8f89fd845481dbc9b7f7",
+      "arquivos": [
+        "estaduais/RJ/br-rj-contlei-nsf-3c6da8382899725c03258868006441a3.md",
+        "estaduais/RJ/br-rj-contlei-nsf-cd7714b690b1698f03258868006137a2.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 9718, DE 15 DE JUNHO DE 2022.**<br>",
+      "justificativa": "Mesma LEI Nº 9718, DE 15 DE JUNHO DE 2022.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
+    },
+    {
+      "sha1": "0fec250ed07860a16427d0a2a51896debf50db20",
+      "arquivos": [
+        "estaduais/RJ/br-rj-contlei-nsf-4f3dd9688269d2d003258ba9006c5ee0.md",
+        "estaduais/RJ/br-rj-contlei-nsf-50ad23f80f24c78b03258ba9006c5ef0.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 10.520 DE 26 DE SETEMBRO DE 2024.**<br>",
+      "justificativa": "Mesma LEI Nº 10.520 DE 26 DE SETEMBRO DE 2024.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
+    },
+    {
+      "sha1": "63eab22926bcee1fd21ce75f82839a0c7d972ce7",
+      "arquivos": [
+        "estaduais/RJ/br-rj-contlei-nsf-589238c5ed89434a03258a150069a96a.md",
+        "estaduais/RJ/br-rj-contlei-nsf-c3fbbad04e7b3c8203258a150062ccec.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 10.071 DE 19 DE JULHO DE 2023.**<br>",
+      "justificativa": "Mesma LEI Nº 10.071 DE 19 DE JULHO DE 2023.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
+    },
+    {
+      "sha1": "5d34648f3341f76ba473b8a07727bde139b59006",
+      "arquivos": [
+        "municipais/5218805/br-municipal-5218805-norma-114481.md",
+        "municipais/5218805/br-municipal-5218805-norma-114499.md"
+      ],
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 7.635, DE 14 DE ABRIL DE 2025.",
+      "justificativa": "Mesma LEI Nº 7.635, DE 14 DE ABRIL DE 2025. (Rio Verde/GO IBGE 5218805) sob dois IDs municipais. Alias de catálogo."
+    },
+    {
+      "sha1": "f5915b3d2f77f3147044235938e4ffe536dfbaf9",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1994-08-05-35816.md",
+        "estaduais/MG/br-mg-decreto-1994-08-05-35817.md"
+      ],
+      "tipo": "mesmo_texto_fonte_com_ressalva",
+      "status": "justificado_com_ressalva",
+      "identidade_do_corpo": "Escola Estadual Nossa Senhora das Graças — Coração de Jesus (Espigão)",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-1994-08-05-35816.md": "ALMG DEC/35816/1994 nomes=ESCOLA ESTADUAL NOSSA SENHORA DAS GRAÇAS; ementa CRIA UNIDADE ESTADUAL DE ENSINO…",
+        "estaduais/MG/br-mg-decreto-1994-08-05-35817.md": "ALMG DEC/35817/1994 nomes=ESCOLA ESTADUAL NOSSA SENHORA DAS GRAÇAS; ementa idêntica"
+      },
+      "justificativa": "Bytes idênticos e ficha ALMG com a mesma ementa e o mesmo nome de escola nos dois números. A fonte digital serve o mesmo texto para ambos; não há divergência de nomes/resumo que prove atos distintos. Ressalva: sem microfilme/DO por ato não se afirma se são dois números para o mesmo ato ou coincidência de catálogo. Não se declara resolução plena."
+    }
+  ]
+}

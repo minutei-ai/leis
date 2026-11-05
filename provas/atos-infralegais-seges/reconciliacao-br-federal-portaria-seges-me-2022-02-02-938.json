@@ -1,0 +1,29 @@
+{
+  "id": "br-federal-portaria-seges-me-2022-02-02-938",
+  "fonte": "portaria-seges-me-938-2022",
+  "sha256_fonte": "0f125dc946625bd2aef0046d254a9c9a73a7c49074796a7931c1d7b760b323bc",
+  "sha256_markdown": "6cf9a23b76dcbfd8ff1ec97c3016457c9a5b7e52e795b1427e29a302a81ed0f3",
+  "titulo_encontrado": "PORTARIA SEGES/ME Nº 938, DE 2 DE FEVEREIRO DE 2022",
+  "artigos_detectados": 14,
+  "anexos_no_corpo": 0,
+  "tabelas": 0,
+  "conversao": {
+    "blocos": 78,
+    "stats": {
+      "trechos_riscados": 0,
+      "links": 0,
+      "tabelas_markdown": 0,
+      "tabelas_html": 0
+    }
+  },
+  "cobertura_marcadores": {
+    "tem_titulo_especie": true,
+    "tem_art_1": true,
+    "tem_aviso_dou": true
+  },
+  "lei_regulamentada": [
+    "br-federal-lei-2021-04-01-14133"
+  ],
+  "vigencia_certificada": false,
+  "observacao": "Fonte DOU; portal Compras.gov.br retornou conteúdo restrito. Catálogo eletrônico de padronização ≠ CATMAT/CATSER."
+}

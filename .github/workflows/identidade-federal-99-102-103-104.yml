@@ -1,0 +1,33 @@
+name: Identidade federal #99/#102/#103/#104
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/identidade-federal-99-102-103-104.yml'
+      - 'tests/test_identidade_federal_99_102_103_104.py'
+      - 'provas/identidade-federal-99-102-103/**'
+      - 'federal/br-federal-decreto-2019-09-03-10000.md'
+      - 'federal/br-federal-decreto-2019-04-11-9764.md'
+      - 'federal/br-federal-decreto-2018-06-29-9432.md'
+      - 'federal/br-federal-decreto-2014-06-05-8264.md'
+      - 'federal/br-federal-decreto-1959-12-23-47482.md'
+      - 'federal/br-federal-lei-2014-06-02-12985.md'
+      - 'federal/br-federal-lei-2014-06-02-12988.md'
+      - 'federal/br-federal-decreto-lei-1942-01-13-4014-a.md'
+      - 'federal/br-federal-decreto-lei-1981-05-27-1873.md'
+      - 'federal/br-federal-decreto-lei-1984-04-04-2111.md'
+      - 'federal/**/*.md'
+      - 'estaduais/**/*.md'
+      - 'municipais/**/*.md'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Identidade, anexos e unicidade SHA-1
+        run: python3 -m unittest tests.test_identidade_federal_99_102_103_104 -v
