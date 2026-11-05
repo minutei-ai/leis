@@ -1148,7 +1148,7 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
         doc['sha256_arquivo_origem'] = sha256_bytes(raw)
         doc['bytes_arquivo_origem'] = len(raw)
         doc['corpo_legal_integral_pendente'] = excluded_note or partial_legal_body
-    elif partial_legal_body:
+    if partial_legal_body:
         doc['corpo_legal_integral_pendente'] = True
         doc['edicao_integral'] = False
         doc['excluir_denominador_integra'] = True
