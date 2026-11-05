@@ -31,7 +31,7 @@ OPAQUE_PATH = re.compile(r'^br-(?:[a-z]{2}|municipal-\d{7})-norma-\d+$')
 FAC_START = '<!-- fac-simile-oficial:inicio -->'
 FAC_END = '<!-- fac-simile-oficial:fim -->'
 YAML_HEAD = re.compile(r'\A---\n(.*?)\n---\n', re.S)
-EXPORT_SCHEMA_VERSION = 1
+EXPORT_SCHEMA_VERSION = 2
 DEFAULT_SHARD_SIZE = 10000
 TITLE_SCAN_CHARS = 8000
 
@@ -49,8 +49,13 @@ CAMPOS_INVENTARIO = [
     'uf',
     'ibge',
     'orgao_emissor',
+    'fonte_orgao',
     'poder',
     'ambito_aplicacao',
+    'serie_historica',
+    'senado_id',
+    'urn',
+    'relacoes',
     'titulo',
     'ementa',
     'data_ato',
@@ -719,6 +724,10 @@ def build_field_coverage() -> dict[str, Any]:
         'uf',
         'ibge',
         'orgao_emissor',
+        'fonte_orgao',
+        'serie_historica',
+        'senado_id',
+        'urn',
         'poder',
         'titulo',
         'ementa',
@@ -1040,8 +1049,10 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
     rep = classify_representation(text)
     titulo, titulo_fonte = _extract_titulo(meta, body if meta is not None else text)
 
-    # Órgão/poder/âmbito: só frontmatter explícito — nunca inferir do caminho.
-    orgao = (meta or {}).get('fonte_orgao') or (meta or {}).get('orgao_emissor') or 'desconhecido'
+    # Papel jurídico e canal de captura são campos distintos. A fonte de
+    # captura nunca substitui o emissor do ato; emissor sem prova fica explícito.
+    orgao = (meta or {}).get('orgao_emissor') or 'desconhecido'
+    fonte_orgao = (meta or {}).get('fonte_orgao') or 'desconhecido'
     poder = (meta or {}).get('poder') or 'desconhecido'
     ambito = (meta or {}).get('ambito_aplicacao') or 'desconhecido'
     ementa = (meta or {}).get('ementa')
@@ -1092,6 +1103,7 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
         'uf': (meta or {}).get('uf') if meta and meta.get('uf') is not None else cand.get('uf'),
         'ibge': (meta or {}).get('ibge') if meta and meta.get('ibge') is not None else cand.get('ibge'),
         'orgao_emissor': orgao,
+        'fonte_orgao': fonte_orgao,
         'poder': poder,
         'ambito_aplicacao': ambito,
         'titulo': titulo,
@@ -1115,6 +1127,12 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
         'tem_frontmatter': meta is not None,
         'armazenamento_metadados': 'frontmatter' if meta is not None else 'sidecar-export',
     }
+    # Keep structured source identifiers and relation assertions when a source
+    # record supplies them. The exporter preserves assertions; it does not
+    # derive legal effects or destinations.
+    for key in ('serie_historica', 'senado_id', 'urn', 'relacoes'):
+        if meta and key in meta:
+            doc[key] = meta[key]
     if acervo_meta:
         for key in (
             'status_publicacao', 'edicao_integral', 'corpo_status', 'tipo_conteudo',
@@ -1172,8 +1190,12 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
             'caminho' if cand.get('ibge') else 'nao-aplicavel'
         )),
         'orgao_emissor': _src(
+            'orgao_emissor',
+            'frontmatter' if meta and meta.get('orgao_emissor') else 'desconhecido-explicito',
+        ),
+        'fonte_orgao': _src(
             'fonte_orgao',
-            'frontmatter' if meta and (meta.get('fonte_orgao') or meta.get('orgao_emissor')) else 'desconhecido-explicito',
+            'frontmatter' if meta and meta.get('fonte_orgao') else 'desconhecido-explicito',
         ),
         'poder': _src('poder', 'frontmatter' if meta and meta.get('poder') else 'desconhecido-explicito'),
         'ambito_aplicacao': _src(
@@ -1208,6 +1230,12 @@ def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any
             if excluded_note else 'arquivo-publicado'
         ),
     }
+    for key in ('serie_historica', 'senado_id', 'urn', 'relacoes'):
+        if meta and key in meta:
+            doc['fonte_do_campo'][key] = _src(
+                key,
+                'frontmatter' if meta.get(key) not in (None, '', []) else 'desconhecido-explicito',
+            )
     if meta and meta.get('provedor_id') is not None:
         doc['provedor_id'] = meta['provedor_id']
         doc['fonte_do_campo']['provedor_id'] = _src('provedor_id', 'frontmatter')
@@ -1463,6 +1491,11 @@ def export_acervo_streaming(
         'filtros_bm25': [
             'esfera',
             'especie',
+            'orgao_emissor',
+            'fonte_orgao',
+            'serie_historica',
+            'senado_id',
+            'urn',
             'numero',
             'complemento',
             'numero_estado',
@@ -1871,6 +1904,28 @@ def verify_bm25_filters_integrated(out_dir: Path | None = None) -> dict[str, Any
             'must_include_arquivo': 'federal/br-federal-lei-2021-04-01-14133.md',
         },
         {
+            'id': 'resolucao-congresso-emissor-separado-da-fonte',
+            'filters': {
+                'esfera': 'federal',
+                'especie': 'resolucao-congresso-nacional',
+                'orgao_emissor': 'Congresso Nacional',
+            },
+            'expect_min': 1,
+            'must_include_arquivo': 'federal/br-federal-resolucao-congresso-nacional-1983-10-20-1.md',
+            'must_exclude_norma_id_substring': 'resolucao-senado-federal',
+        },
+        {
+            'id': 'resolucao-senado-permanece-especie-distinta',
+            'filters': {
+                'esfera': 'federal',
+                'especie': 'resolucao-senado-federal',
+                'orgao_emissor': 'Senado Federal',
+            },
+            'expect_min': 1,
+            'must_include_arquivo': 'federal/br-federal-resolucao-senado-federal-2019-11-01-29.md',
+            'must_exclude_norma_id_substring': 'resolucao-congresso-nacional',
+        },
+        {
             'id': 'federal-lei-complementar-numero-1-1967',
             'filters': {
                 'esfera': 'federal',
@@ -1932,6 +1987,8 @@ def verify_bm25_filters_integrated(out_dir: Path | None = None) -> dict[str, Any
         | {
             'federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md',
             'federal/br-federal-decreto-1823-01-09-seq-sf-1.md',
+            'federal/br-federal-resolucao-congresso-nacional-1983-10-20-1.md',
+            'federal/br-federal-resolucao-senado-federal-2019-11-01-29.md',
         }
     )
     docs_by_arquivo = {}
@@ -1972,6 +2029,10 @@ def verify_bm25_filters_integrated(out_dir: Path | None = None) -> dict[str, Any
         if must:
             entry['must_include_ok'] = must in arquivos
             entry['ok'] = entry['ok'] and entry['must_include_ok']
+            exclude = case.get('must_exclude_norma_id_substring')
+            if exclude:
+                entry['must_exclude_ok'] = not any(exclude in rel for rel in arquivos)
+                entry['ok'] = entry['ok'] and entry['must_exclude_ok']
             if must in docs_by_arquivo:
                 doc = docs_by_arquivo[must]
                 meta, body, body_hash = markdown_body_hash(ROOT / must)
@@ -2094,6 +2155,21 @@ def build_bm25_demo() -> dict[str, Any]:
             'norma_id': {'type': 'keyword'},
             'edicao_id': {'type': 'keyword'},
             'especie': {'type': 'keyword'},
+            'orgao_emissor': {'type': 'keyword'},
+            'fonte_orgao': {'type': 'keyword'},
+            'serie_historica': {'type': 'keyword'},
+            'senado_id': {'type': 'keyword'},
+            'urn': {'type': 'keyword'},
+            'relacoes': {
+                'type': 'nested',
+                'properties': {
+                    'tipo': {'type': 'keyword'},
+                    'origem': {'type': 'keyword'},
+                    'destino': {'type': 'keyword'},
+                    'dispositivo': {'type': 'keyword'},
+                    'escopo_cobertura': {'type': 'keyword'},
+                },
+            },
             'numero': {'type': 'keyword'},
             'complemento': {'type': 'keyword'},
             'numero_estado': {'type': 'keyword'},
