@@ -12,7 +12,7 @@ edicao_integral: "desconhecido"
 fonte_orgao: "desconhecido"
 fonte_url: "desconhecido"
 fonte_formato: "desconhecido"
-fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc9.htm"]
+fonte_conferencia: ["https://www2.camara.leg.br/legin/fed/emecon/1995/emendaconstitucional-9-9-novembro-1995-354957-publicacaooriginal-1-pl.html"]
 capturado_em: "desconhecido"
 sha256_fonte: "desconhecido"
 situacao: "nao-informada"
