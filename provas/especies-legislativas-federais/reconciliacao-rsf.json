@@ -8,8 +8,8 @@
   "catalogo_registros": 6578,
   "chaves_unicas": 6578,
   "ambiguidade_ids": [],
-  "publicados": 335,
-  "identificados_nao_coletados": 6243,
+  "publicados": 432,
+  "identificados_nao_coletados": 6145,
   "intervalo_datas": {
     "inicio": "1937-02-22",
     "fim": "2026-09-04"
@@ -5723,8 +5723,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31624699",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-10-29;27",
       "slug": "br-federal-resolucao-senado-federal-2019-10-29-27",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-10-29-27.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5740,8 +5740,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31624625",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-10-29;26",
       "slug": "br-federal-resolucao-senado-federal-2019-10-29-26",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-10-29-26.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5757,8 +5757,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31531627",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-10-02;25",
       "slug": "br-federal-resolucao-senado-federal-2019-10-02-25",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-10-02-25.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5774,8 +5774,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31531537",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-10-02;22",
       "slug": "br-federal-resolucao-senado-federal-2019-10-02-22",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-10-02-22.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5791,8 +5791,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31531597",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-10-02;23",
       "slug": "br-federal-resolucao-senado-federal-2019-10-02-23",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-10-02-23.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5808,8 +5808,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31531507",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-10-02;21",
       "slug": "br-federal-resolucao-senado-federal-2019-10-02-21",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-10-02-21.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5825,8 +5825,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31531567",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-10-02;24",
       "slug": "br-federal-resolucao-senado-federal-2019-10-02-24",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-10-02-24.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5842,8 +5842,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31531459",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-10-02;20",
       "slug": "br-federal-resolucao-senado-federal-2019-10-02-20",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-10-02-20.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5859,8 +5859,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31441903",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-09-26;16",
       "slug": "br-federal-resolucao-senado-federal-2019-09-26-16",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-09-26-16.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5876,8 +5876,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31441933",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-09-26;17",
       "slug": "br-federal-resolucao-senado-federal-2019-09-26-17",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-09-26-17.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5910,8 +5910,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31441963",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-09-26;18",
       "slug": "br-federal-resolucao-senado-federal-2019-09-26-18",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-09-26-18.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5927,8 +5927,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31432559",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-09-23;14",
       "slug": "br-federal-resolucao-senado-federal-2019-09-23-14",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-09-23-14.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5944,8 +5944,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31432607",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-09-23;15",
       "slug": "br-federal-resolucao-senado-federal-2019-09-23-15",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-09-23-15.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5961,8 +5961,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31297826",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-09-04;12",
       "slug": "br-federal-resolucao-senado-federal-2019-09-04-12",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-09-04-12.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5978,8 +5978,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31297554",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-09-04;13",
       "slug": "br-federal-resolucao-senado-federal-2019-09-04-13",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-09-04-13.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -5995,8 +5995,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31249577",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-08-14;11",
       "slug": "br-federal-resolucao-senado-federal-2019-08-14-11",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-08-14-11.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6012,8 +6012,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31154679",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-06-26;10",
       "slug": "br-federal-resolucao-senado-federal-2019-06-26-10",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-06-26-10.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6029,8 +6029,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30968919",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-05-28;9",
       "slug": "br-federal-resolucao-senado-federal-2019-05-28-9",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-05-28-9.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6046,8 +6046,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30948429",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-05-15;6",
       "slug": "br-federal-resolucao-senado-federal-2019-05-15-6",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-05-15-6.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6063,8 +6063,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30948477",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-05-15;7",
       "slug": "br-federal-resolucao-senado-federal-2019-05-15-7",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-05-15-7.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6080,8 +6080,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30948507",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-05-15;8",
       "slug": "br-federal-resolucao-senado-federal-2019-05-15-8",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-05-15-8.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6097,8 +6097,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30913373",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-04-23;5",
       "slug": "br-federal-resolucao-senado-federal-2019-04-23-5",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-04-23-5.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6114,8 +6114,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30911209",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-04-22;4",
       "slug": "br-federal-resolucao-senado-federal-2019-04-22-4",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-04-22-4.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6131,8 +6131,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30899077",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-04-10;3",
       "slug": "br-federal-resolucao-senado-federal-2019-04-10-3",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-04-10-3.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6148,8 +6148,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30827255",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-02-26;1",
       "slug": "br-federal-resolucao-senado-federal-2019-02-26-1",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-02-26-1.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6165,8 +6165,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30827303",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-02-26;2",
       "slug": "br-federal-resolucao-senado-federal-2019-02-26-2",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-02-26-2.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6182,8 +6182,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30753720",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-12-19;37",
       "slug": "br-federal-resolucao-senado-federal-2018-12-19-37",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-12-19-37.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6199,8 +6199,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30753750",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-12-19;38",
       "slug": "br-federal-resolucao-senado-federal-2018-12-19-38",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-12-19-38.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6216,8 +6216,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30745288",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-12-14;36",
       "slug": "br-federal-resolucao-senado-federal-2018-12-14-36",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-12-14-36.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6250,8 +6250,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30730738",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-12-05;34",
       "slug": "br-federal-resolucao-senado-federal-2018-12-05-34",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-12-05-34.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6267,8 +6267,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30727412",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-12-05;33",
       "slug": "br-federal-resolucao-senado-federal-2018-12-05-33",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-12-05-33.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6284,8 +6284,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30727280",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-12-05;31",
       "slug": "br-federal-resolucao-senado-federal-2018-12-05-31",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-12-05-31.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6301,8 +6301,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30727573",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-12-05;32",
       "slug": "br-federal-resolucao-senado-federal-2018-12-05-32",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-12-05-32.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6318,8 +6318,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30717570",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-11-27;30",
       "slug": "br-federal-resolucao-senado-federal-2018-11-27-30",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-11-27-30.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6335,8 +6335,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30696029",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-11-07;29",
       "slug": "br-federal-resolucao-senado-federal-2018-11-07-29",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-11-07-29.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6352,8 +6352,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30695981",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-11-07;28",
       "slug": "br-federal-resolucao-senado-federal-2018-11-07-28",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-11-07-28.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6369,8 +6369,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30691094",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-10-31;26",
       "slug": "br-federal-resolucao-senado-federal-2018-10-31-26",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-10-31-26.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6386,8 +6386,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30691124",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-10-31;27",
       "slug": "br-federal-resolucao-senado-federal-2018-10-31-27",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-10-31-27.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6403,8 +6403,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30232916",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-10-10;25",
       "slug": "br-federal-resolucao-senado-federal-2018-10-10-25",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-10-10-25.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6420,8 +6420,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/27471586",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-09-05;24",
       "slug": "br-federal-resolucao-senado-federal-2018-09-05-24",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-09-05-24.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6437,8 +6437,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/27471526",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-09-05;20",
       "slug": "br-federal-resolucao-senado-federal-2018-09-05-20",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-09-05-20.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6454,8 +6454,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/27471556",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-09-05;23",
       "slug": "br-federal-resolucao-senado-federal-2018-09-05-23",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-09-05-23.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6471,8 +6471,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/27471718",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-09-05;22",
       "slug": "br-federal-resolucao-senado-federal-2018-09-05-22",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-09-05-22.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6488,8 +6488,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/27471688",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-09-05;21",
       "slug": "br-federal-resolucao-senado-federal-2018-09-05-21",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-09-05-21.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6505,8 +6505,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/27440315",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-07-12;19",
       "slug": "br-federal-resolucao-senado-federal-2018-07-12-19",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-07-12-19.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6522,8 +6522,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/27437915",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-07-11;16",
       "slug": "br-federal-resolucao-senado-federal-2018-07-11-16",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-07-11-16.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6539,8 +6539,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/27437993",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-07-11;18",
       "slug": "br-federal-resolucao-senado-federal-2018-07-11-18",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-07-11-18.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6556,8 +6556,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/27437963",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-07-11;17",
       "slug": "br-federal-resolucao-senado-federal-2018-07-11-17",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-07-11-17.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6573,8 +6573,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/27422992",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-07-04;15",
       "slug": "br-federal-resolucao-senado-federal-2018-07-04-15",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-07-04-15.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6590,8 +6590,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/27419843",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-07-03;14",
       "slug": "br-federal-resolucao-senado-federal-2018-07-03-14",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-07-03-14.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6607,7 +6607,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/27410175",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-06-25;13",
       "slug": "br-federal-resolucao-senado-federal-2018-06-25-13",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Senado Federal"
     },
@@ -6624,8 +6624,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26925348",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-06-06;12",
       "slug": "br-federal-resolucao-senado-federal-2018-06-06-12",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-06-06-12.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6641,8 +6641,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26917703",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-05-30;11",
       "slug": "br-federal-resolucao-senado-federal-2018-05-30-11",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-05-30-11.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6658,8 +6658,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26914749",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-05-28;7",
       "slug": "br-federal-resolucao-senado-federal-2018-05-28-7",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-05-28-7.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6675,8 +6675,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26914815",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-05-28;8",
       "slug": "br-federal-resolucao-senado-federal-2018-05-28-8",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-05-28-8.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6692,8 +6692,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26914785",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-05-28;10",
       "slug": "br-federal-resolucao-senado-federal-2018-05-28-10",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-05-28-10.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6709,8 +6709,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26914851",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-05-28;9",
       "slug": "br-federal-resolucao-senado-federal-2018-05-28-9",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-05-28-9.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6726,8 +6726,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26544243",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-04-19;6",
       "slug": "br-federal-resolucao-senado-federal-2018-04-19-6",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-04-19-6.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6743,8 +6743,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26540443",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-04-17;5",
       "slug": "br-federal-resolucao-senado-federal-2018-04-17-5",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-04-17-5.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6760,8 +6760,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26540413",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-04-17;4",
       "slug": "br-federal-resolucao-senado-federal-2018-04-17-4",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-04-17-4.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6777,8 +6777,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26540383",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-04-17;3",
       "slug": "br-federal-resolucao-senado-federal-2018-04-17-3",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-04-17-3.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6794,8 +6794,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26359172",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-02-21;1",
       "slug": "br-federal-resolucao-senado-federal-2018-02-21-1",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-02-21-1.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6811,8 +6811,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26359220",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-02-21;2",
       "slug": "br-federal-resolucao-senado-federal-2018-02-21-2",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-02-21-2.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6828,8 +6828,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26323058",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-12-15;28",
       "slug": "br-federal-resolucao-senado-federal-2017-12-15-28",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-12-15-28.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6845,8 +6845,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26317969",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-12-11;24",
       "slug": "br-federal-resolucao-senado-federal-2017-12-11-24",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-12-11-24.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6862,8 +6862,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26318029",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-12-11;26",
       "slug": "br-federal-resolucao-senado-federal-2017-12-11-26",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-12-11-26.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6879,8 +6879,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26317999",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-12-11;25",
       "slug": "br-federal-resolucao-senado-federal-2017-12-11-25",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-12-11-25.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6896,8 +6896,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26318059",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-12-11;27",
       "slug": "br-federal-resolucao-senado-federal-2017-12-11-27",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-12-11-27.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6913,8 +6913,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26314663",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-12-07;23",
       "slug": "br-federal-resolucao-senado-federal-2017-12-07-23",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-12-07-23.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6930,8 +6930,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26306312",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-11-29;22",
       "slug": "br-federal-resolucao-senado-federal-2017-11-29-22",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-11-29-22.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6947,8 +6947,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26269079",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-10-26;21",
       "slug": "br-federal-resolucao-senado-federal-2017-10-26-21",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-10-26-21.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6964,8 +6964,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26247464",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-10-04;20",
       "slug": "br-federal-resolucao-senado-federal-2017-10-04-20",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-10-04-20.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6981,8 +6981,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/26247429",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-10-04;19",
       "slug": "br-federal-resolucao-senado-federal-2017-10-04-19",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-10-04-19.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6998,8 +6998,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17764050",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-09-14;18",
       "slug": "br-federal-resolucao-senado-federal-2017-09-14-18",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-09-14-18.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7015,8 +7015,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17763129",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-09-12;15",
       "slug": "br-federal-resolucao-senado-federal-2017-09-12-15",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-09-12-15.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7032,8 +7032,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17763164",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-09-12;16",
       "slug": "br-federal-resolucao-senado-federal-2017-09-12-16",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-09-12-16.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7049,8 +7049,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17763224",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-09-12;17",
       "slug": "br-federal-resolucao-senado-federal-2017-09-12-17",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-09-12-17.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7066,8 +7066,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17747603",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-08-10;14",
       "slug": "br-federal-resolucao-senado-federal-2017-08-10-14",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-08-10-14.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7083,8 +7083,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17728714",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-07-13;13",
       "slug": "br-federal-resolucao-senado-federal-2017-07-13-13",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-07-13-13.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7100,8 +7100,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17728679",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-07-13;12",
       "slug": "br-federal-resolucao-senado-federal-2017-07-13-12",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-07-13-12.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7117,8 +7117,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17718355",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-07-06;11",
       "slug": "br-federal-resolucao-senado-federal-2017-07-06-11",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-07-06-11.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7134,8 +7134,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17709892",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-06-21;9",
       "slug": "br-federal-resolucao-senado-federal-2017-06-21-9",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-06-21-9.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7151,8 +7151,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17709927",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-06-21;10",
       "slug": "br-federal-resolucao-senado-federal-2017-06-21-10",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-06-21-10.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7168,8 +7168,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17699842",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-05-31;8",
       "slug": "br-federal-resolucao-senado-federal-2017-05-31-8",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-05-31-8.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7185,8 +7185,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17694903",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-05-18;7",
       "slug": "br-federal-resolucao-senado-federal-2017-05-18-7",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-05-18-7.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7202,8 +7202,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17694868",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-05-18;6",
       "slug": "br-federal-resolucao-senado-federal-2017-05-18-6",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-05-18-6.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7219,8 +7219,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17691308",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-05-15;5",
       "slug": "br-federal-resolucao-senado-federal-2017-05-15-5",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-05-15-5.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7236,8 +7236,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17677886",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-04-19;4",
       "slug": "br-federal-resolucao-senado-federal-2017-04-19-4",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-04-19-4.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7253,8 +7253,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17668577",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-03-30;3",
       "slug": "br-federal-resolucao-senado-federal-2017-03-30-3",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-03-30-3.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7270,8 +7270,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17664695",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-03-22;2",
       "slug": "br-federal-resolucao-senado-federal-2017-03-22-2",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-03-22-2.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7287,8 +7287,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/17652548",
       "urn": "urn:lex:br:senado.federal:resolucao:2017-03-08;1",
       "slug": "br-federal-resolucao-senado-federal-2017-03-08-1",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2017-03-08-1.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7304,8 +7304,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/582615",
       "urn": "urn:lex:br:senado.federal:resolucao:2016-12-20;43",
       "slug": "br-federal-resolucao-senado-federal-2016-12-20-43",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2016-12-20-43.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7321,8 +7321,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/582564",
       "urn": "urn:lex:br:senado.federal:resolucao:2016-11-01;42",
       "slug": "br-federal-resolucao-senado-federal-2016-11-01-42",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2016-11-01-42.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7338,8 +7338,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/574819",
       "urn": "urn:lex:br:senado.federal:resolucao:2016-09-14;37",
       "slug": "br-federal-resolucao-senado-federal-2016-09-14-37",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2016-09-14-37.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7355,8 +7355,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/562393",
       "urn": "urn:lex:br:senado.federal:resolucao:2016-09-14;36",
       "slug": "br-federal-resolucao-senado-federal-2016-09-14-36",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2016-09-14-36.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7372,8 +7372,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/574873",
       "urn": "urn:lex:br:senado.federal:resolucao:2016-09-14;38",
       "slug": "br-federal-resolucao-senado-federal-2016-09-14-38",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2016-09-14-38.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7389,8 +7389,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/562469",
       "urn": "urn:lex:br:senado.federal:resolucao:2016-09-14;40",
       "slug": "br-federal-resolucao-senado-federal-2016-09-14-40",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2016-09-14-40.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -7406,8 +7406,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/562416",
       "urn": "urn:lex:br:senado.federal:resolucao:2016-09-14;39",
       "slug": "br-federal-resolucao-senado-federal-2016-09-14-39",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2016-09-14-39.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -111842,6 +111842,6 @@
       "orgao_emissor": "Senado Federal"
     }
   ],
-  "anexos_pendentes": 0,
+  "anexos_pendentes": 1,
   "fonte_sem_html": 0
 }
