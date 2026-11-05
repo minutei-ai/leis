@@ -8,7 +8,7 @@
   "catalogo_registros": 6578,
   "chaves_unicas": 6578,
   "ambiguidade_ids": [],
-  "publicados": 434,
+  "publicados": 435,
   "identificados_nao_coletados": 6143,
   "intervalo_datas": {
     "inicio": "1937-02-22",
@@ -6607,8 +6607,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/27410175",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-06-25;13",
       "slug": "br-federal-resolucao-senado-federal-2018-06-25-13",
-      "estado_coleta": "anexos-pendentes",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-06-25-13.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -111842,6 +111842,6 @@
       "orgao_emissor": "Senado Federal"
     }
   ],
-  "anexos_pendentes": 1,
+  "anexos_pendentes": 0,
   "fonte_sem_html": 0
 }

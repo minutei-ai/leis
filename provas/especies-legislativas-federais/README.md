@@ -34,6 +34,9 @@ corrompida interrompe a recuperação, sem omitir silenciosamente seu resultado.
 `build --tipos` preserva textos, fontes e provas das demais espécies. Anexos RCN
 recuperados por fonte alternativa são verificados por seu gerador próprio e
 preservados também na reconstrução geral, em vez de substituídos pelo HTML do corpo.
+RSF 13/2018 combina os arts. 1º–3º da publicação HTML oficial com o anexo integral
+do Suplemento Único do DSF nº 86; o PDF e os 39 fac-símiles tabulares estão em
+`anexos-rsf/rsf-2018-13/` e são verificados por `scripts/rsf_anexo_13_2018.py`.
 
 ## Artefatos
 
@@ -46,6 +49,7 @@ preservados também na reconstrução geral, em vez de substituídos pelo HTML d
 | `descoberta-camara-rcd-pos-1991.json` | Catálogo complementar de RCD pós-1991 por citações do Regimento BD Câmara |
 | `urls-legin-camara-rcd-resolvidas.json` | URLs `publicacaooriginal` resolvidas para citações do Regimento |
 | `bloqueio-anexos-rcn-pdf-vazio.json` | Evidência: ANX Senado HTTP 200 com PDF de 0 bytes |
+| `anexos-rsf/rsf-2018-13/` | PDF oficial, fac-símiles tabulares, transcrição e prova do anexo da RSF 13/2018 |
 | `matriz-criterios-issues.md` | Matriz por critério de aceite (issues abertas) |
 | `fontes/camara-bd-regimento-30ed-2026.*` | Snapshots oficiais (PDF/EPUB/texto) do Regimento 30ª ed. |
 | `coleta.json` / `coletas/` | Coleta retomável de HTML (checkpoint por item) |
@@ -73,7 +77,7 @@ A coleta é retomável: `--no-resume` descarta o checkpoint; sem `--all-pending`
 - **RSF / RCD Senado / fallback:** HTML da publicação na página do Senado (`/norma/{id}/publicacao/{pubId}`).
 - **RCD pós-1991 (Câmara):** HTML `www2.camara.leg.br/legin/fed/rescad/.../publicacaooriginal-...-pl.html` via `collect-camara-rcd`.
 - HTML de erro/login/WAF e fragmentos sem corpo normativo são rejeitados antes da publicação.
-- Anexos Senado (`ANX` com `temTexto=S`) bloqueiam publicação como íntegra (`anexos-pendentes`).
+- Anexos Senado (`ANX` com `temTexto=S`) bloqueiam publicação como íntegra (`anexos-pendentes`) até a peça essencial ser recuperada e verificada em fonte oficial. A RSF 13/2018 foi liberada após essa conferência.
 
 ## Limites deste lote
 

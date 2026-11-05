@@ -6,7 +6,7 @@
     89,
     94
   ],
-  "gerado_em": "2026-11-05T13:43:06Z",
+  "gerado_em": "2026-11-05T15:44:55Z",
   "documentos": [
     {
       "id": "br-federal-decreto-legislativo-2026-09-16-433",
@@ -16569,7 +16569,7 @@
       },
       "fonte": "br-federal-resolucao-congresso-nacional-2013-11-22-3",
       "sha256_fonte": "f09c6981e7fabd5c8beb21af461f2373d3fc1d055cabac7dc141d9333192b1f6",
-      "sha256_markdown": "849bd22d6b14bf1145f2bb1106830edd66262efd63b6b237925f1b334cf6524e",
+      "sha256_markdown": "9f85b62e9c1bb9aa7304bd2f8a11cf9d1cb76247df5b151925770d2ab1e790a8",
       "anexo_fonte_alternativa": true
     },
     {
@@ -20863,6 +20863,21 @@
       "fonte": "br-federal-decreto-legislativo-2025-11-04-216",
       "sha256_fonte": "35291cc0dfdc31c67f8ddb03ce9452723460dac2af5471f46b58590fe3075131",
       "sha256_markdown": "0f877e9b74120b6eaf8920285ef3bd6fa2d9f127f2abe3cf1e71776fff55b06c"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-06-25-13",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-06-25-13.md",
+      "tipo": "RSF",
+      "senado_id": "27410175",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-06-25;13",
+      "norma": {
+        "numero": "13",
+        "data": "2018-06-25",
+        "titulo": "Resolução do Senado Federal nº 13 de 25/06/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-06-25-13",
+      "sha256_fonte": "a502a5462c709a50074b6ea78fa42d5a4b18829d35079575215df69488544295",
+      "sha256_markdown": "f070fefcda5cb94f72899454327bbdc498caa2e4f25065f8a0e5c11f120d42d4"
     }
   ]
 }
