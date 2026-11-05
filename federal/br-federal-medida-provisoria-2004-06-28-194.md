@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-06-28;194"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 194/2004 : Lei nº 10.967 de 09/11/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/68771)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-194-28-junho-2004-532812-anexoi-pe.doc` (SHA-256 `f86b28c85022a62dcea94be54890cb7b9ec54516a1b040fed50a0a8bfbd7c5dc`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-06-28-194.0.medidaprovisoria-194-28-junho-2004-532812-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-194-28-junho-2004-532812-anexoii-pe.doc` (SHA-256 `ce8694308fa86f7e6b8c717ba1ef1950a64bbd5615bdb93940d9bb07e36a07db`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-06-28-194.1.medidaprovisoria-194-28-junho-2004-532812-anexoii-pe.doc.xz`)
 >

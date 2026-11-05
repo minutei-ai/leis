@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-07-02;196"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 196/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/68972)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-196-2-julho-2004-532858-anexoi-pe.doc` (SHA-256 `6a142180747e60a5da474722ad5389953bfb19f25a59951b09c21b676501cadf`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-02-196.0.medidaprovisoria-196-2-julho-2004-532858-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-196-2-julho-2004-532858-anexoii-pe.doc` (SHA-256 `7b48f23450102399f96e3ebb0789f67ed1cf31acaa1c4c4ada4710e849636ecf`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-02-196.1.medidaprovisoria-196-2-julho-2004-532858-anexoii-pe.doc.xz`)
 >

@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2002-12-19;87"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 87/2002 : Lei nº 10.653 de 22/04/2003 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/53837)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-87-19-dezembro-2002-489030-anexo1-pe.doc` (SHA-256 `9c997f647f4153fa9dc228142ac411d7b4bde2532ac837fd98d6d37bfc7b90df`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-19-87.0.medidaprovisoria-87-19-dezembro-2002-489030-anexo1-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-87-19-dezembro-2002-489030-anexo2-pe.doc` (SHA-256 `d2c70b3fddfde659539af0dbc122cc82088b619aa6c5ec37865e463178555164`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-19-87.1.medidaprovisoria-87-19-dezembro-2002-489030-anexo2-pe.doc.xz`)
 >

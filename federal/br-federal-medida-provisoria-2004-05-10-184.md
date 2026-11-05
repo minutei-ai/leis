@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-05-10;184"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 184/2004 : Lei nº 10.935 de 12/08/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/67621)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-184-10-maio-2004-532209-anexoi-pe.doc` (SHA-256 `9458046b14d74a304e5c170759595b9a8faa718d430bd7093e6d5f766105e17e`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-10-184.0.medidaprovisoria-184-10-maio-2004-532209-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-184-10-maio-2004-532209-anexoii-pe.doc` (SHA-256 `3f0ed81077a2a86942b3267fe0b6b27051a63214779ed2ba12d02fc3b02038b5`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-10-184.1.medidaprovisoria-184-10-maio-2004-532209-anexoii-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-184-10-maio-2004-532209-anexoiii-pe.doc` (SHA-256 `043d87e013458944ffa4ff8b82bfee81f8129e97446b0ae35d39740c7ab0244e`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-10-184.2.medidaprovisoria-184-10-maio-2004-532209-anexoiii-pe.doc.xz`)

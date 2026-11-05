@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2002-12-30;99"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 99/2002 : Lei nº 10.663 de 22/04/2003 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/53887)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-99-30-dezembro-2002-493190-anexo1-pe.doc` (SHA-256 `639c992a229445f8c67ef4a4177be724c2c8a1da3b971c89dc76b54d3b3d5f64`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-30-99.0.medidaprovisoria-99-30-dezembro-2002-493190-anexo1-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-99-30-dezembro-2002-493190-anexo2-pe.doc` (SHA-256 `34bf08be3db02c29dabc0b6e72b154ad3b86d3dccca782be1ffe8004c781f512`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-30-99.1.medidaprovisoria-99-30-dezembro-2002-493190-anexo2-pe.doc.xz`)
 >

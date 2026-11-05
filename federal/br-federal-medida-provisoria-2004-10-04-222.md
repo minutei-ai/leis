@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-10-04;222"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 222/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/70583)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-222-4-outubro-2004-534252-anexo-pe.doc` (SHA-256 `06ee44511a02ec734d5c8b146d1ebf682a1a5a100d0f87b6650d9bc564a851ca`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-10-04-222.0.medidaprovisoria-222-4-outubro-2004-534252-anexo-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

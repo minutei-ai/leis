@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2002-12-12;84"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 84/2002 : Lei nº 10.645 de 18/03/2003 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/53769)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-84-12-dezembro-2002-489577-anexo1-pe.doc` (SHA-256 `0f4cb4b6fa3a337b98094df6b746ca4dbd6c51b996dac9c444c6d506dc898fb7`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-12-84.0.medidaprovisoria-84-12-dezembro-2002-489577-anexo1-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-84-12-dezembro-2002-489577-anexo2-pe.doc` (SHA-256 `cd495def5b55d1aac704870fdd6ef4f00556d9e97b8c372b918566a55daa543b`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-12-84.1.medidaprovisoria-84-12-dezembro-2002-489577-anexo2-pe.doc.xz`)
 >

@@ -431,7 +431,7 @@ def build_mp_markdown(key: str, rec: dict, anexo_groups: list[list[str]] | None 
         anexo_nota = (
             ">\n> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), "
             "convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o "
-            "placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:\n> - "
+            "placeholder oficial de anexo/tabela do HTML normas.leg.br:\n> - "
             + "\n> - ".join(linhas) + "\n"
         )
     note = (

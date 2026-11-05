@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-02-18;166"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 166/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/66288)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-166-18-fevereiro-2004-531035-anexoi-pe.doc` (SHA-256 `9f12646c44490f15b4a6b5cb176c214027c7940640659ef2357aae1b23f89dc6`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-02-18-166.0.medidaprovisoria-166-18-fevereiro-2004-531035-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-166-18-fevereiro-2004-531035-anexoii-pe.doc` (SHA-256 `d6f6f064cd68258e880a0c742f1d25df7492d334066970446ecc44276308722b`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-02-18-166.1.medidaprovisoria-166-18-fevereiro-2004-531035-anexoii-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-166-18-fevereiro-2004-531035-anexoiii-pe.doc` (SHA-256 `0e52da5181ec802f843c8ea38cb4097877cc9f54685b302b925abe15c4f694d1`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-02-18-166.2.medidaprovisoria-166-18-fevereiro-2004-531035-anexoiii-pe.doc.xz`)

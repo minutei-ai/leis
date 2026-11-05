@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2002-12-17;85"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 85/2002 : Lei nº 10.652 de 22/04/2003 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/53806)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-85-17-dezembro-2002-489387-anexo1-pe.doc` (SHA-256 `ff8600476f49807800a141cc5aa7ebda88fe1c6b79a6bb006728bff6b6865717`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-17-85.0.medidaprovisoria-85-17-dezembro-2002-489387-anexo1-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-85-17-dezembro-2002-489387-anexo2-pe.doc` (SHA-256 `d744e24fea412783f02d69619f3eaec8d11070e426a5a4a794b4aab1e0dbd9ff`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-17-85.1.medidaprovisoria-85-17-dezembro-2002-489387-anexo2-pe.doc.xz`)
 >

@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2005-10-20;263"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 263/2005 : Lei nº 11.268 de 19/01/2006 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/75575)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-263-20-outubro-2005-539011-anexo-pe.doc` (SHA-256 `2936866e01c7e0d697f7b074a8e1b843ac5b5ef25ae4c97f248a703e23a10868`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-10-20-263.0.medidaprovisoria-263-20-outubro-2005-539011-anexo-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

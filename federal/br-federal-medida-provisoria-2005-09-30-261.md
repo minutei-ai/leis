@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2005-09-30;261"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Projeto de Decreto Legislativo (CD) nº 38-A/1956 > Projeto de Decreto Legislativo (SF) nº 3/1956 : Decreto Legislativo nº 29 de 16/07/1956 (https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pdc-38-a-1956)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-261-30-setembro-2005-538687-anexoi-pe.doc` (SHA-256 `fd1449ad715d899ae4c568fcd119ab63da3840c00064ccdcc91b8a478acb28b7`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-09-30-261.0.medidaprovisoria-261-30-setembro-2005-538687-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-261-30-setembro-2005-538687-anexoii-pe.doc` (SHA-256 `e4ccd509863471cdefa8b142ea3c5f32bae847bbd65312eed3e413954081a810`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-09-30-261.1.medidaprovisoria-261-30-setembro-2005-538687-anexoii-pe.doc.xz`)
 >

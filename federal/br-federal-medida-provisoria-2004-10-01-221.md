@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-10-01;221"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 221/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/70556)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-221-1-outubro-2004-534238-anexoi-pe.doc` (SHA-256 `8dda2dcc8af0bc8fb815485494a68ae8bd9178180b5139ac6c7b806aac799b1d`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-10-01-221.0.medidaprovisoria-221-1-outubro-2004-534238-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-221-1-outubro-2004-534238-anexoii-pe.doc` (SHA-256 `8cf7aa6046aa1020511cdc7277732d22c3a9c7d4ed2e18eb3dd20ee0241aff6a`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-10-01-221.1.medidaprovisoria-221-1-outubro-2004-534238-anexoii-pe.doc.xz`)
 >

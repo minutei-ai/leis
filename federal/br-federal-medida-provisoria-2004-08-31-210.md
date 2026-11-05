@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-08-31;210"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 210/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/69854)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-210-31-agosto-2004-533941-anexoi-pe.doc` (SHA-256 `9923c4ef7a8ac597d8c283f0976f98d040918c1322e5ea65182a237cfcbfe840`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-08-31-210.0.medidaprovisoria-210-31-agosto-2004-533941-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-210-31-agosto-2004-533941-anexoii-pe.doc` (SHA-256 `eddae8a499586f845746ce51b09b06c8d924ef835940ce62ddd45a68dfea0185`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-08-31-210.1.medidaprovisoria-210-31-agosto-2004-533941-anexoii-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-210-31-agosto-2004-533941-anexoiii-pe.doc` (SHA-256 `13810b2aeb0d0f05a8f8dba3a482714b55df5aab28d58e4a55541ebc85c6f27c`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-08-31-210.2.medidaprovisoria-210-31-agosto-2004-533941-anexoiii-pe.doc.xz`)

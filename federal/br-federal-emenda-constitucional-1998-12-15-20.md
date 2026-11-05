@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-1998-12-15-20"
+norma_id: "br-federal-emenda-constitucional-1998-12-15-20"
+norma_tipo: "emenda-constitucional"
+norma_numero: "20"
+norma_data: "1998-12-15"
+titulo: "EMENDA CONSTITUCIONAL Nº 20, DE 1998"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1998-12-15-20@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/1998/emendaconstitucional-20-15-dezembro-1998-356870-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc20.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "8285869fc1f04c46a66953080a7b037c77966c73d7f2cdc6f2a12650f989166d"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "14e31241bc6f604ec317c1a02209e66b7daaaec569a375f778ed43710cd3042a"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 20, DE 1998
 
 Modifica o sistema de previdência social, estabelece normas de transição e dá outras providências.

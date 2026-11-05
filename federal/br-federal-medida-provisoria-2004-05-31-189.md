@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-05-31;189"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 189/2004 : Lei nº 10.939 de 26/08/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/68151)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-189-31-maio-2004-532507-anexoi-pe.doc` (SHA-256 `52db09182099cbc493a55ae82c8a59aa5e09c524cc6446c2effd3ed72f7a0150`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-31-189.0.medidaprovisoria-189-31-maio-2004-532507-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-189-31-maio-2004-532507-anexoii-pe.doc` (SHA-256 `a3ab2a9825d3e3f80a78c437da5ff7c1176c440f1e70d1743af2bcfe922c7381`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-31-189.1.medidaprovisoria-189-31-maio-2004-532507-anexoii-pe.doc.xz`)
 >

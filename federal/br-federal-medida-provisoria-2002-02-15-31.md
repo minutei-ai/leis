@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2002-02-15;31"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 31/2002 : Lei nº 10.462 de 23/05/2002 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/49450)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-31-15-fevereiro-2002-444698-anexo1-pe.doc` (SHA-256 `55afc1e674362154fc7608f1c602c6720a50120675ca0986b47bb16fd716189c`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-02-15-31.0.medidaprovisoria-31-15-fevereiro-2002-444698-anexo1-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-31-15-fevereiro-2002-444698-anexo2-pe.doc` (SHA-256 `7e7ec2456c8cff2b040d72127f2508d9f06c975c7f0810c164d939636dcff4c9`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-02-15-31.1.medidaprovisoria-31-15-fevereiro-2002-444698-anexo2-pe.doc.xz`)
 >

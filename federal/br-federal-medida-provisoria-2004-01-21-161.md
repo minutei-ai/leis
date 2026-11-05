@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-01-21;161"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 161/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/65488)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-161-21-janeiro-2004-498136-anexo1-pe.doc` (SHA-256 `846601c9ea05e29e4b7c0917d482e7577efcd9e9a57a59181da30a7fbb52147e`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-01-21-161.0.medidaprovisoria-161-21-janeiro-2004-498136-anexo1-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

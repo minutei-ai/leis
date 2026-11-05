@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-1998-06-04-19"
+norma_id: "br-federal-emenda-constitucional-1998-06-04-19"
+norma_tipo: "emenda-constitucional"
+norma_numero: "19"
+norma_data: "1998-06-04"
+titulo: "EMENDA CONSTITUCIONAL Nº 19, DE 1998"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1998-06-04-19@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/1998/emendaconstitucional-19-4-junho-1998-372816-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc19.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "e562554ccaae9c1739623ff37f33e891c760ce11630d8d7c66370bc3fd82135b"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "e8772b68cf75b8411423593e9ef39119649ed4205808b37f933133f8bb01308d"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 19, DE 1998
 
 Modifica o regime e dispõe sobre princípio e normas da Administração Pública, Servidores e Agentes políticos, controle de despesas e finanças públicas e custeio de atividades a cargo do Distrito Federal, e dá outras providências.

@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2002-08-15;60"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 60/2002 : Lei nº 10.557 de 13/11/2002 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/51433)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-60-15-agosto-2002-479596-anexo1-pe.doc` (SHA-256 `a6f95c740bd276552b1564cd09a47bc7ca5b79e31c3e6b9aac78aa16b8ee741e`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-08-15-60.0.medidaprovisoria-60-15-agosto-2002-479596-anexo1-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

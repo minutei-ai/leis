@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2005-10-27;265"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 265/2005 : Lei nº 11.270 de 19/01/2006 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/75726)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-265-27-outubro-2005-539060-anexo-pe.doc` (SHA-256 `ffd33f0835cd2701883ea56be71993bdf7d79951bea82f9ce8b9abf8df57f833`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-10-27-265.0.medidaprovisoria-265-27-outubro-2005-539060-anexo-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

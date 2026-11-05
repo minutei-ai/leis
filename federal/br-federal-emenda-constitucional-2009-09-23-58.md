@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2009-09-23-58"
+norma_id: "br-federal-emenda-constitucional-2009-09-23-58"
+norma_tipo: "emenda-constitucional"
+norma_numero: "58"
+norma_data: "2009-09-23"
+titulo: "EMENDA CONSTITUCIONAL Nº 58"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2009-09-23-58@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc58.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "9e2a1e9d2e2ca656215745f308d3413d6e8149936847cef6802044fc249bde88"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000058-0-000-23-09-2009@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 58</strong>

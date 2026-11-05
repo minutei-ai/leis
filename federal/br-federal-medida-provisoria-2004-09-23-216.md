@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-09-23;216"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 216/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/70374)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexoi-pe.doc` (SHA-256 `2d02b863641958634db15f4169ec7d6797f3ee0bd9c17c4ab02e3a50e0800dd7`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.0.medidaprovisoria-216-23-setembro-2004-534156-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexoii-pe.doc` (SHA-256 `47054062cedc6fb45821a4aefa5c85495152a28a0b5c909d87cfb0e3c18dad0b`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.1.medidaprovisoria-216-23-setembro-2004-534156-anexoii-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexoiii-pe.doc` (SHA-256 `67064b1977deb375fef16aae7494774c708129ff07ea495e09a376e04d58209b`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.2.medidaprovisoria-216-23-setembro-2004-534156-anexoiii-pe.doc.xz`)

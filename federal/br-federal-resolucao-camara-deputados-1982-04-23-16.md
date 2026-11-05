@@ -1,0 +1,59 @@
+---
+id: "br-federal-resolucao-camara-deputados-1982-04-23-16"
+norma_id: "br-federal-resolucao-camara-deputados-1982-04-23-16"
+norma_tipo: "resolucao-camara-deputados"
+norma_numero: "16"
+norma_data: "1982-04-23"
+titulo: "Resolução da Câmara dos Deputados nº 16 de 23/04/1982"
+esfera: "federal"
+orgao_emissor: "Câmara dos Deputados"
+especie_codigo_senado: "RCD"
+senado_id: "559534"
+urn: "urn:lex:br:camara.deputados:resolucao:1982-04-23;16"
+edicao_id: "br-federal-resolucao-camara-deputados-1982-04-23-16@original"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Senado Federal — publicação pagina"
+fonte_url: "https://legis.senado.leg.br/norma/559534/publicacao/15822047"
+fonte_formato: "html"
+fonte_conferencia: "nenhuma"
+capturado_em: "2026-11-04T20:36:08Z"
+sha256_fonte: "19b5f77b0047eb83f61e0809df1d5208d350b39c1cfaa45221b81306b1f4df7a"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "9ec2f26520a277f799ce0de46a8b25aa3b80131c26cb5452336128832cad9d14"
+manifesto: "provas/especies-legislativas-federais/manifesto.json"
+contrato_versao: 1
+---
+
+<!-- nota-edicao:inicio -->
+
+> **Edição oficial — Resolução da Câmara dos Deputados.** Órgão emissor: Câmara dos Deputados. Fonte: https://legis.senado.leg.br/norma/559534/publicacao/15822047 (capturada em 2026-11-04T20:36:08Z, SHA-256 da fonte `19b5f77b0047eb83f61e0809df1d5208d350b39c1cfaa45221b81306b1f4df7a`). Snapshot: `provas/especies-legislativas-federais/coletas/br-federal-resolucao-camara-deputados-1982-04-23-16.html.xz`. Registro Senado: https://legis.senado.leg.br/norma/559534. O acervo não certifica vigência.
+>
+> Ementa do catálogo do Senado: AUTORIZA O SENHOR DEPUTADO JOSE AMORIM A PARTICIPAR DE MISSÃO CULTURAL NO EXTERIOR.
+
+<!-- nota-edicao:fim -->
+
+[\[Detalhes da Norma\]](https://legis.senado.leg.br/norma/559534) Este texto não substitui o original publicado no Diário Oficial. ﻿
+
+# RESOLUÇÃO Nº 16, DE 1982
+
+Autoriza o Senhor Deputado José Amorim a participar de missão cultural no exterior.
+
+Faço saber que a Câmara dos Deputados aprovou e eu promulgo a seguinte Resolução:
+
+Art. 1º Fica o Senhor Deputado José Amorim autorizado a participar de missão cultural no Japão, a partir de 5 de novembro de 1981, considerando-se esse afastamento como de comparecimento efetivo.
+
+Art. 2º Esta Resolução entrará em vigor na data de sua publicação.
+
+Câmara dos Deputados, 23 de abril de 1982.
+
+Nelson Marchezan
+
+Presidente da Câmara dos Deputados.

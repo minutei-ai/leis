@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-04-07;180"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 180/2004 : Lei nº 10.879 de 09/06/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/67095)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-180-7-abril-2004-531663-anexo-pe.doc` (SHA-256 `7c8a9bb2c655b1b37c86c067ee36f1225bf8b27b2dd97e41b0d9172a0d2763ba`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-04-07-180.0.medidaprovisoria-180-7-abril-2004-531663-anexo-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

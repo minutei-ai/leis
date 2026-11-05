@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-01-22;162"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 162/2004 : Lei nº 10.857 de 07/04/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/65489)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-162-22-janeiro-2004-498169-anexo1-pe.doc` (SHA-256 `c189ba886b08e1fe492ab0f5dd137a15c488ea2748aae6f3d13044b51dc42a6a`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-01-22-162.0.medidaprovisoria-162-22-janeiro-2004-498169-anexo1-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-162-22-janeiro-2004-498169-anexo2-pe.doc` (SHA-256 `33f514c921157325a6d4370501a3c06d88431235dffa7d98b435111b752ab349`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-01-22-162.1.medidaprovisoria-162-22-janeiro-2004-498169-anexo2-pe.doc.xz`)
 >

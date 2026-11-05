@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2002-12-20;89"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 89/2002 : Lei nº 10.655 de 22/04/2003 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/53860)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-89-20-dezembro-2002-491635-anexo1-pe.doc` (SHA-256 `7c53da992261e4d6374af0e2b00f14042c3f6e0cc4b1e1fc4e73e6977eb4d76b`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-20-89.0.medidaprovisoria-89-20-dezembro-2002-491635-anexo1-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-89-20-dezembro-2002-491635-anexo2-pe.doc` (SHA-256 `49564c41ab9155e657dff7df6acb8b3d5ac1b6f75dc33ccfa9c3fe04396f037e`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-20-89.1.medidaprovisoria-89-20-dezembro-2002-491635-anexo2-pe.doc.xz`)
 >

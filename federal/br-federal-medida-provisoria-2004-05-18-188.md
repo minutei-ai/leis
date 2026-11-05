@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-05-18;188"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 188/2004 : Lei nº 10.938 de 12/08/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/67831)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-188-18-maio-2004-532316-anexo-pe.doc` (SHA-256 `a7095b322e5427756adf77c9659ecdb38441acd22261b4123b85428b44437264`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-18-188.0.medidaprovisoria-188-18-maio-2004-532316-anexo-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

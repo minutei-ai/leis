@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-08-20;208"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 208/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/69675)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-208-20-agosto-2004-533723-anexo-pe.doc` (SHA-256 `5a69df198459b7295a211e02895228a37232c58881aacb8a584283036e360bbf`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-08-20-208.0.medidaprovisoria-208-20-agosto-2004-533723-anexo-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

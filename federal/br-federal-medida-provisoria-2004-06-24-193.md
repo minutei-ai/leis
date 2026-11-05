@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-06-24;193"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 193/2004 : Lei nº 10.966 de 09/11/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/68712)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-193-24-junho-2004-532737-anexo-pe.doc` (SHA-256 `3654fc4b9086803aa2a1964b80fa5062913998195d4f77c7720df33ae77a6fc2`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-06-24-193.0.medidaprovisoria-193-24-junho-2004-532737-anexo-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

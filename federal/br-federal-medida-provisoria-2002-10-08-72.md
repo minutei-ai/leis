@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2002-10-08;72"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 72/2002 : Lei nº 10.580 de 03/12/2002 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/52521)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-72-8-outubro-2002-475060-anexo1-pe.doc` (SHA-256 `6c10aeb473b07cc7e89c303555063b0f804fbd85aa5f853b0087033ae0efcf5d`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-10-08-72.0.medidaprovisoria-72-8-outubro-2002-475060-anexo1-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-72-8-outubro-2002-475060-anexo2-pe.doc` (SHA-256 `154cf744ec2a2c942f2967da82307def254f25058cb31a9f981fef31b44940bb`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-10-08-72.1.medidaprovisoria-72-8-outubro-2002-475060-anexo2-pe.doc.xz`)
 >

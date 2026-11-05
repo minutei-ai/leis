@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2003-12-29;160"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 160/2003 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/65209)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-160-29-dezembro-2003-497047-anexo1-pe.doc` (SHA-256 `e7d11c9de1052bc41254f5f572a09a61a3356138caff9e8f869051cc9402d4a1`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-29-160.0.medidaprovisoria-160-29-dezembro-2003-497047-anexo1-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

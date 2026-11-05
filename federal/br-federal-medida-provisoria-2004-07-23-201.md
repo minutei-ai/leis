@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-07-23;201"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 201/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/69272)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-201-23-julho-2004-533118-anexoi-pe.doc` (SHA-256 `7012a73d599b91390718ad65de9e721e3f97a87f201601cc311793b9733b73d7`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-23-201.0.medidaprovisoria-201-23-julho-2004-533118-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-201-23-julho-2004-533118-anexoii-pe.doc` (SHA-256 `b0dae5cf48d1ace6364eb3065bc5bfee63e94e1aefe02e4e0f9402fafc9f6614`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-23-201.1.medidaprovisoria-201-23-julho-2004-533118-anexoii-pe.doc.xz`)
 >

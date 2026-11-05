@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2002-12-20;88"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 88/2002 : Lei nº 10.654 de 22/04/2003 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/53859)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-88-20-dezembro-2002-491634-anexo1-pe.doc` (SHA-256 `2cc392029ec5fb97700f58243cc9363d99995c3f1a47d5a1a8c7e954916e6be1`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-20-88.0.medidaprovisoria-88-20-dezembro-2002-491634-anexo1-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-88-20-dezembro-2002-491634-anexo2-pe.doc` (SHA-256 `86652a42fdfa78df065c8e1ee7ac37f6aaf0a049836e63f5421108e8b2edd35a`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-20-88.1.medidaprovisoria-88-20-dezembro-2002-491634-anexo2-pe.doc.xz`)
 >

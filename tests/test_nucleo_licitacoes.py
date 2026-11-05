@@ -1188,11 +1188,12 @@ class TestEscopoERelacoes(unittest.TestCase):
         self.assertEqual(rel['tipo'], 'revogacao')
         self.assertEqual(rel['alvo']['norma_id'], 'br-federal-lei-2011-08-04-12462')
         self.assertEqual(rel['alvo']['dispositivos'], ['arts. 1º a 47-A'])
-        self.assertEqual(rel['alvo']['status_edicao_arquivo'], 'desconhecido')
+        # Cabeçalho do lote #93 marca com-cabecalho; isso não inclui o RDC nos documentos do núcleo.
+        self.assertEqual(rel['alvo']['status_edicao_arquivo'], 'com-cabecalho')
+        self.assertEqual(rel['alvo']['edicao_integral'], 'desconhecido')
         self.assertEqual(rel['fonte']['chave'], 'planalto-lc198')
         self.assertRegex(rel['fonte']['sha256'], r'^[0-9a-f]{64}$')
         self.assertTrue((ROOT / 'federal/br-federal-lei-2011-08-04-12462.md').is_file())
-        # presença do arquivo RDC não vira certificação de edição no núcleo
         self.assertNotIn('br-federal-lei-2011-08-04-12462',
                          [d['id'] for d in self.manifest['documentos']])
 
@@ -1209,9 +1210,15 @@ class TestEscopoERelacoes(unittest.TestCase):
         regs = [r for r in self.relacoes if r['tipo'] == 'regulamento']
         self.assertGreaterEqual(len(regs), 6)
         for rel in regs:
-            self.assertEqual(rel['origem']['status_edicao_arquivo'], 'desconhecido')
-            self.assertTrue((ROOT / rel['origem']['arquivo']).is_file())
+            path = ROOT / rel['origem']['arquivo']
+            self.assertTrue(path.is_file())
+            expected = 'com-cabecalho' if path.read_text(encoding='utf-8', errors='replace').startswith('---\n') else 'desconhecido'
+            self.assertEqual(rel['origem']['status_edicao_arquivo'], expected, rel['id'])
+            self.assertEqual(rel['origem']['edicao_integral'], 'desconhecido')
             self.assertIn('captura_e_hash_proprios_no_nucleo', rel['desconhecidos'])
+            # D11878 ganhou cabeçalho no lote #93; os demais regulamentos essenciais seguem sem.
+            if rel['id'] == 'regulamento-14133-art79-d11878':
+                self.assertEqual(expected, 'com-cabecalho')
 
     def test_consolidada_declara_escopo_parcial_dos_efeitos(self):
         entry = next(d for d in self.manifest['documentos']

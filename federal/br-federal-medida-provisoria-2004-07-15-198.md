@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-07-15;198"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 198/2004 : Lei nº 10.971 de 25/11/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/69211)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-198-15-julho-2004-533058-anexoi-pe.doc` (SHA-256 `1e38ea49a68dcc5c283463acf0e1de767fdbabe82b872787a90e9ed3764490af`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-15-198.0.medidaprovisoria-198-15-julho-2004-533058-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-198-15-julho-2004-533058-anexoii-pe.doc` (SHA-256 `10cad20e1e3898cca21821292721c90ead6a1f023f236f413b92c56171dec685`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-15-198.1.medidaprovisoria-198-15-julho-2004-533058-anexoii-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-198-15-julho-2004-533058-anexoiii-pe.doc` (SHA-256 `3bcb1dda24b0a811fdefe2ce073765d8440d2e48877c4d2c782b5a2503cfd752`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-15-198.2.medidaprovisoria-198-15-julho-2004-533058-anexoiii-pe.doc.xz`)

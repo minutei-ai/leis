@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2003-12-23;158"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 158/2003 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/65211)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-158-23-dezembro-2003-497008-anexo1-pe.doc` (SHA-256 `f398dd545b035f98d837c3c64fe2f1dfb36686845e38e1c5e3c63077abc1fa85`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-23-158.0.medidaprovisoria-158-23-dezembro-2003-497008-anexo1-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-158-23-dezembro-2003-497008-anexo2-pe.doc` (SHA-256 `ad6846d8aae78741031c5d9dc738692dab863ec0f139ff647b74d57b3d1e805d`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-23-158.1.medidaprovisoria-158-23-dezembro-2003-497008-anexo2-pe.doc.xz`)
 >

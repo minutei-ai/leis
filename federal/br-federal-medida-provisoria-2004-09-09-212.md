@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-09-09;212"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 212/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/69982)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-212-9-setembro-2004-534028-anexoi-pe.doc` (SHA-256 `d2da7b38e42b68b6d9be5482cb940d86f320feb14e84e2c5e9f5d426d9f12465`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-09-212.0.medidaprovisoria-212-9-setembro-2004-534028-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-212-9-setembro-2004-534028-anexoii-pe.doc` (SHA-256 `a17cdc3cf758205a25a2a26ed98cca016de7019ef20d69fdbe732ebd45d6754f`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-09-212.1.medidaprovisoria-212-9-setembro-2004-534028-anexoii-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-212-9-setembro-2004-534028-anexoiii-pe.doc` (SHA-256 `1f032a3210da1382a96e343926a677208afe8725ca48084e0589576650955537`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-09-212.2.medidaprovisoria-212-9-setembro-2004-534028-anexoiii-pe.doc.xz`)

@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2006-02-14-51"
+norma_id: "br-federal-emenda-constitucional-2006-02-14-51"
+norma_tipo: "emenda-constitucional"
+norma_numero: "51"
+norma_data: "2006-02-14"
+titulo: "EMENDA CONSTITUCIONAL Nº 51, DE 14 DE FEVEREIRO DE 2006"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2006-02-14-51@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc51.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "3ac38acfeb9dd3d2520a93b9f809675d86c972c81704189adf5a797ad4960cb2"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000051-0-000-14-02-2006@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 51, DE 14 DE FEVEREIRO DE 2006</strong>

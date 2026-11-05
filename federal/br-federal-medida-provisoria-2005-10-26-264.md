@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2005-10-26;264"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 264/2005 : Lei nº 11.269 de 19/01/2006 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/75697)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-264-26-outubro-2005-539037-anexo-pe.doc` (SHA-256 `f228315ef9ccfbddaba5cba085c5c1d15137ea13000de8ac56ad1416205e0d7f`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-10-26-264.0.medidaprovisoria-264-26-outubro-2005-539037-anexo-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

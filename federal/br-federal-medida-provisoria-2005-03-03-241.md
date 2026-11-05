@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2005-03-03;241"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 241/2005 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/72625)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-241-3-marco-2005-536013-anexoi-pe.doc` (SHA-256 `f660e21e9270883218689d586889866cb26998f4196d22326c3f5e2ba288fb3a`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-03-03-241.0.medidaprovisoria-241-3-marco-2005-536013-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-241-3-marco-2005-536013-anexoii-pe.doc` (SHA-256 `bbf0263600d61a37763447c36232c6e7aa0573677d6e886a6d7b4f17008daddf`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-03-03-241.1.medidaprovisoria-241-3-marco-2005-536013-anexoii-pe.doc.xz`)
 >

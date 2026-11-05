@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2002-11-29;81"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 81/2002 : Lei nº 10.644 de 14/03/2003 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/53385)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-81-29-novembro-2002-487421-anexo1-pe.doc` (SHA-256 `9f09ca0a31566c3a1652d431022cf077f30d0d43fa3ddb4b4c46e96043a7ad9a`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-11-29-81.0.medidaprovisoria-81-29-novembro-2002-487421-anexo1-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

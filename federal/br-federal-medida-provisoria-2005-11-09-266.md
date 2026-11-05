@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2005-11-09;266"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 266/2005 : Lei nº 11.271 de 26/01/2006 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/75852)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-266-9-novembro-2005-539139-anexoi-pe.doc` (SHA-256 `e842d32c40de9e72944f3c825c15f1bda43b30b725828e4460e1f19898b7065f`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-11-09-266.0.medidaprovisoria-266-9-novembro-2005-539139-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-266-9-novembro-2005-539139-anexoii-pe.doc` (SHA-256 `c3aac2151800d7fc8e597254448564c4288a09c0fed588557d5e418ece63dd6b`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-11-09-266.1.medidaprovisoria-266-9-novembro-2005-539139-anexoii-pe.doc.xz`)
 >

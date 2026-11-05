@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2003-12-11;146"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 146/2003 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/64822)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-146-11-dezembro-2003-497435-anexo1-pe.doc` (SHA-256 `94ad3d47b10d1b28c7d32bd5d4fb6a257e404e62a33c0f76107342509d9b7c8a`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-11-146.0.medidaprovisoria-146-11-dezembro-2003-497435-anexo1-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-146-11-dezembro-2003-497435-anexo2-pe.doc` (SHA-256 `968004f5e902acf138c34a9d838028eb629b84cf4465a4f7ff263a8b0d0b8ff8`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-11-146.1.medidaprovisoria-146-11-dezembro-2003-497435-anexo2-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-146-11-dezembro-2003-497435-anexo3-pe.doc` (SHA-256 `6dd01758b3da655a6fd78e90fed182f60991e35d1cc7f1a0540c393762254a84`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-11-146.2.medidaprovisoria-146-11-dezembro-2003-497435-anexo3-pe.doc.xz`)

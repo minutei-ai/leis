@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-05-13;187"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 187/2004 : Lei nº 10.937 de 12/08/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/67746)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-187-13-maio-2004-532286-anexo-pe.doc` (SHA-256 `731feece6c8c49ba720f2c5d6be9d9f4e17d3e7c99a8facb55d90beaf70476bb`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-13-187.0.medidaprovisoria-187-13-maio-2004-532286-anexo-pe.doc.xz`)
 >
 > Situação parlamentar, conversão em lei, rejeição ou perda de eficácia exigem evidência própria; ausência de arquivo ou tipo de catálogo não as substitui.

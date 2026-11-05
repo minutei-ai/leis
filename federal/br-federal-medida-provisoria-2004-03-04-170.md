@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2004-03-04;170"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 170/2004 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/66439)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-170-4-marco-2004-531099-anexoi-pe.doc` (SHA-256 `96f3f621ec3dedd623a77ceca8ac205d21891ea71cf875be3007aca06eeb4e27`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-03-04-170.0.medidaprovisoria-170-4-marco-2004-531099-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-170-4-marco-2004-531099-anexoii-pe.doc` (SHA-256 `ea680b993aa953b4056a0b797fe84626436d914238964d00775154ff7156aa49`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-03-04-170.1.medidaprovisoria-170-4-marco-2004-531099-anexoii-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-170-4-marco-2004-531099-anexoiii-pe.doc` (SHA-256 `86ec3622610169def7897dddbb05c7e49bc2771032ecab4498d2b2edc4424796`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-03-04-170.2.medidaprovisoria-170-4-marco-2004-531099-anexoiii-pe.doc.xz`)

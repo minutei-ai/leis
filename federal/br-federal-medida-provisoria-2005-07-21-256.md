@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2005-07-21;256"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 256/2005 : Lei nº 11.188 de 31/10/2005 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/74773)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-256-21-julho-2005-537882-anexoi-pe.doc` (SHA-256 `dc7914035b1cc66b3a0e5ae67b0176ca1b1fb0b8a77d37350280c10437682850`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-07-21-256.0.medidaprovisoria-256-21-julho-2005-537882-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-256-21-julho-2005-537882-anexoii-pe.doc` (SHA-256 `759b706c5c4cf2850eb4f06340f2699209cef7cd74f7154eba2c3b17c0d19efc`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-07-21-256.1.medidaprovisoria-256-21-julho-2005-537882-anexoii-pe.doc.xz`)
 >

@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2000-09-13-29"
+norma_id: "br-federal-emenda-constitucional-2000-09-13-29"
+norma_tipo: "emenda-constitucional"
+norma_numero: "29"
+norma_data: "2000-09-13"
+titulo: "EMENDA CONSTITUCIONAL Nº 29, DE 2000"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2000-09-13-29@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/2000/emendaconstitucional-29-13-setembro-2000-354961-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc29.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "e1f9e46916598a6dfe5c0533c7f2729720ed3f73c71819cc5798a5431cf262f1"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "ba8f94699280c7d049afe24c0b99a832a5b3980c51e9eb1a8ece9693ef7fd445"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 29, DE 2000
 
 Altera os arts. 34, 35, 156, 160, 167 e 198 da Constituição Federal e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias, para assegurar os recursos mínimos para o financiamento das ações e serviços públicos de saúde.

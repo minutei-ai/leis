@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2005-07-21;257"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 257/2005 : Lei nº 11.189 de 31/10/2005 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/74774)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-257-21-julho-2005-537883-anexoi-pe.doc` (SHA-256 `5615a6ac58aea405c61047a14233cdfd21519c1828fefe5b5a51755bb94732a5`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-07-21-257.0.medidaprovisoria-257-21-julho-2005-537883-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-257-21-julho-2005-537883-anexoii-pe.doc` (SHA-256 `bfbf359fa185029a035d122b9c23054f8b3c2cf346b6f72a09181e19fd2eb79e`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-07-21-257.1.medidaprovisoria-257-21-julho-2005-537883-anexoii-pe.doc.xz`)
 >

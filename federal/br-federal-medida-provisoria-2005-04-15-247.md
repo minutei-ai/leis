@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2005-04-15;247"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 247/2005 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/73176)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-247-15-abril-2005-536573-anexoi-pe.doc` (SHA-256 `2c4eae9ed6fce08d9ba5050683b9404da486cc4a4af2eb07ab6bb971d9e0b52e`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-04-15-247.0.medidaprovisoria-247-15-abril-2005-536573-anexoi-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-247-15-abril-2005-536573-anexoii-pe.doc` (SHA-256 `d1c452e3de495bbb5caa7dffe26f2df0cf6188d57befd21e73c22fb5624e38c9`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-04-15-247.1.medidaprovisoria-247-15-abril-2005-536573-anexoii-pe.doc.xz`)
 >

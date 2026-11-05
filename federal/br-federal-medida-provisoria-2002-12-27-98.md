@@ -39,7 +39,7 @@ urn: "urn:lex:br:federal:medida.provisoria:2002-12-27;98"
 >
 > Vínculos declarados na fonte (sem inferência de vigência): Medida Provisória nº 98/2002 : Lei nº 10.662 de 22/04/2003 (https://www.congressonacional.leg.br/materias/pesquisa/-/materia/53885)
 >
-> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial `<<ANEXO>>`/`<<TABELA>>` do HTML normas.leg.br:
+> Anexos recuperados da Câmara dos Deputados (ficha LexML→norma-pe), convertidos de `.doc` via LibreOffice→HTML→Markdown, substituindo o placeholder oficial de anexo/tabela do HTML normas.leg.br:
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-98-27-dezembro-2002-493103-anexo1-pe.doc` (SHA-256 `cd7a17f9829b07e40bbc12e45d90b436b783005c3685004b3ef4365e4e94812f`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-27-98.0.medidaprovisoria-98-27-dezembro-2002-493103-anexo1-pe.doc.xz`)
 > - `https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-98-27-dezembro-2002-493103-anexo2-pe.doc` (SHA-256 `d017c71b1bef0a7fbe005ceae343d175b810da07fd1ebe81a59038c03eca1195`, snapshot `provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-27-98.1.medidaprovisoria-98-27-dezembro-2002-493103-anexo2-pe.doc.xz`)
 >

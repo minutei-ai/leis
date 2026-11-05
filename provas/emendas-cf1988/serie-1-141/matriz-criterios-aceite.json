@@ -1,0 +1,161 @@
+{
+  "issue": 63,
+  "gerado_em": "2026-11-04T21:15:01Z",
+  "aviso": "Contagem 141/141 de arquivos da série é necessária, mas insuficiente. Esta matriz avalia cada critério de aceite do issue.",
+  "itens": [
+    {
+      "id": "matriz-por-numero-data-fonte-situacao",
+      "criterio": "Criar matriz por número, data, fonte e situação da coleta, reconciliando a série com catálogo oficial.",
+      "estado": "satisfeito",
+      "evidencia": "provas/emendas-cf1988/serie-1-141/matriz-serie.json",
+      "notas": [
+        "publicados=141 lacunas=0",
+        "Reconciliação detalhada Câmara×Planalto permanece nas pastas de faixa."
+      ]
+    },
+    {
+      "id": "textos-integrais-com-dispositivos-autonomos",
+      "criterio": "Recuperar atos integrais ausentes, incluindo dispositivos autônomos, anexos, regras transitórias, revogações e produção de efeitos.",
+      "estado": "parcial",
+      "evidencia": {
+        "arquivos_serie": 141,
+        "com_marcadores_autonomos": 136,
+        "sem_marcadores_autonomos_heuristica": [
+          7,
+          8,
+          9,
+          12,
+          44
+        ],
+        "mapa_dispositivos": "provas/emendas-cf1988/serie-1-141/mapa-constituicao-adct-dispositivos.json"
+      },
+      "notas": [
+        "Cada arquivo é o ato autônomo publicado (não só a redação incorporada à CF).",
+        "Dispositivos autônomos/anexos/revogações/efeitos estão no mapa por emenda.",
+        "Lacunas de segmentação heurística permanecem explícitas no mapa."
+      ]
+    },
+    {
+      "id": "distinguir-series",
+      "criterio": "Distinguir claramente emendas da CF/1988, emendas de revisão e emendas de constituições históricas.",
+      "estado": "satisfeito",
+      "evidencia": {
+        "serie_cf1988": 141,
+        "historicas_listadas_fora": 38,
+        "revisao_no_acervo": []
+      }
+    },
+    {
+      "id": "vinculos-constituicao-adct",
+      "criterio": "Registrar vínculos da Constituição/ADCT com o ato modificador e seus dispositivos autônomos, mantendo lacunas explícitas.",
+      "estado": "satisfeito",
+      "evidencia": {
+        "citacoes_na_constituicao": 84,
+        "citacoes_no_adct": 78,
+        "citadas_sem_arquivo": [],
+        "publicadas_sem_citacao": 15,
+        "mapa": "provas/emendas-cf1988/serie-1-141/mapa-constituicao-adct-dispositivos.json"
+      },
+      "notas": [
+        "Mapa CF/ADCT → ato/dispositivos em mapa-constituicao-adct-dispositivos.json.",
+        "Escopo literal do issue: vínculo com o ato modificador e dispositivos autônomos; sem mapa CF inteira."
+      ]
+    },
+    {
+      "id": "metadados-edicao-fonte-hashes",
+      "criterio": "Preservar metadados de edição/fonte/captura, hashes e provas de conversão, sem presumir vigência imediata.",
+      "estado": "satisfeito",
+      "evidencia": {
+        "com_frontmatter": 141,
+        "sem_frontmatter": [],
+        "sem_contrato_versao_1": [],
+        "fonte_url_desconhecida": [
+          1,
+          2,
+          3,
+          4,
+          9,
+          10,
+          12,
+          14,
+          17,
+          18,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          28,
+          30,
+          31,
+          36,
+          38,
+          39,
+          40,
+          44,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          55,
+          58,
+          59,
+          60,
+          61,
+          62,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          74,
+          75,
+          78,
+          80,
+          81,
+          84,
+          100,
+          101,
+          103,
+          104,
+          105,
+          106,
+          108,
+          110,
+          119
+        ],
+        "manifesto_frontmatter": "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json",
+        "provas_faixa": [
+          "provas/emendas-cf1988/faixa-001-050/",
+          "provas/emendas-cf1988/faixa-051-100/",
+          "provas/emendas-cf1988/faixa-101-141/"
+        ]
+      },
+      "notas": [
+        "Frontmatter contrato_versao=1 nos Markdown da série; corpo jurídico preservado.",
+        "Captura original desconhecida permanece explícita (não inventada).",
+        "vigencia_certificada permanece false."
+      ]
+    },
+    {
+      "id": "nao-recontar-consolidada",
+      "criterio": "Não recontar Constituição consolidada ou edições alternativas como se fossem emendas coletadas.",
+      "estado": "satisfeito",
+      "evidencia": {
+        "constituicao_excluida_da_serie": true,
+        "ids_serie_somente_emenda_constitucional": true
+      }
+    }
+  ],
+  "resumo": {
+    "satisfeitos": 5,
+    "parciais": 1,
+    "pendentes": 0,
+    "issue_fechavel": false
+  }
+}
