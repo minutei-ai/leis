@@ -1,0 +1,20 @@
+{
+  "capturado_em": "2026-11-04T21:05:00Z",
+  "nota": "SAPL texto atual LO Boa Vista (dispositivos dptt). Não certifica vigência.",
+  "fontes": [
+    {
+      "chave": "sapl-lei-organica-1400100",
+      "url": "https://sapl.boavista.rr.leg.br/ta/641/text",
+      "arquivo": "provas/norte-co-14133/RR-boa-vista-lo/fontes/sapl-lei-organica-1400100.html.xz",
+      "sha256_conteudo": "3fddc45fe14bf1e2fa620647ba56bf6e3bdd7aa2284efd3c48ff80c6ccd35de3",
+      "sha256_arquivo_xz": "9a291477e84815393dc27862af65fd27f9048da03035f93d7305bfbf701e11e3",
+      "bytes_fonte": 1299227,
+      "capturado_em": "2026-11-04T21:05:00Z",
+      "sha256_corpo_markdown": "c32025e698d44a336541aa7cbddae098f98af269c8ac5c6fe9afe36a3fb70e2e",
+      "sha256_markdown": "a22c704a9f05dc8947414ada68333e7430876a9fcfbdb88624180da94e77a703",
+      "carater": "lei-organica-municipal",
+      "artigos_aproximados": 357,
+      "strip_fold_len": 187608
+    }
+  ]
+}

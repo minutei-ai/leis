@@ -81,6 +81,216 @@
       "sha256_arquivo_xz": "558aee68bff756b22b7fd46b8f15c53c7d4df9969f08c66d32faa41bc3491bd1",
       "sha256_conteudo": "7ea6b2e5ca702c38f8da56b2f93ebf3cbbf04ba170ec27ee1cd34425be6434c2",
       "capturado_em": "2026-11-04T11:47:38Z"
+    },
+    {
+      "chave": "dom-ato-7494-json",
+      "descricao": "Resposta JSON do ato 7494 (Decreto nº 17.813, de 21 de dezembro de 2021).",
+      "url": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/7494/publicado",
+      "url_visualizacao": "https://dom-web.pbh.gov.br/visualizacao/ato/7494",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/dom-ato-7494.json.xz",
+      "sha256_arquivo_xz": "23716a0f887e80547187a63429668f81883cb7ab7a8a790be6c25b45c22a517b",
+      "sha256_conteudo": "6c2b9662fda508142f2feba600140866a56ce841749c985ea4538042a40d89e6",
+      "capturado_em": "2026-11-04T19:10:00Z",
+      "metadados_ato": {
+        "id": 7494,
+        "titulo_ato": "DECRETO Nº 17.813, DE 21 DE DEZEMBRO DE 2021",
+        "edicao_id": 6469,
+        "orgao": {
+          "id": 2272,
+          "nivel_orgao_siom": 42,
+          "sigla_orgao": "GP",
+          "nome_orgao": "Gabinete do Prefeito",
+          "poder": "E",
+          "ind_ativo": true,
+          "ind_favorito_dom": true,
+          "orgao_id": 2268,
+          "dt_desativacao": null,
+          "dt_criacao": "2021-04-09 00:00:47",
+          "dt_atualizacao": "2021-05-29 00:00:29"
+        },
+        "documento_ato": {
+          "nome_original": "conteudoAto_id7494.html",
+          "nome_minio": "9fd3f966713123ec859864dfcea45921620519fdf2ddf650d3f3b3bf7625cb94",
+          "hash_arquivo": "44aa03afbc5881ab96f096c5e63a84bd72abe2417553fdc98c5002f71155bcaa"
+        }
+      }
+    },
+    {
+      "chave": "dom-ato-7494-html",
+      "descricao": "Documento HTML integral do ato 7494.",
+      "url": "https://api-dom.pbh.gov.br/api/v1/documentos/9fd3f966713123ec859864dfcea45921620519fdf2ddf650d3f3b3bf7625cb94/download",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/conteudoAto_id7494.html.xz",
+      "sha256_arquivo_xz": "d42484c11fc93bca0ba3a033f509b188a73c09118939bdf769b9355b8695cc5c",
+      "sha256_conteudo": "44aa03afbc5881ab96f096c5e63a84bd72abe2417553fdc98c5002f71155bcaa",
+      "capturado_em": "2026-11-04T19:10:00Z"
+    },
+    {
+      "chave": "dom-ato-23012-json",
+      "descricao": "Resposta JSON do ato 23012 (Decreto nº 18.096, de 20 de setembro de 2022).",
+      "url": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/23012/publicado",
+      "url_visualizacao": "https://dom-web.pbh.gov.br/visualizacao/ato/23012",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/dom-ato-23012.json.xz",
+      "sha256_arquivo_xz": "cce28f0ef5393d38286db9337d8aea345c58d643fb6c544a8de5ee5fa6fa006f",
+      "sha256_conteudo": "c89d17e33e522187008cb72b852eaccf1fa7637f35a16a2fdb8fee18c4203f88",
+      "capturado_em": "2026-11-04T19:10:00Z",
+      "metadados_ato": {
+        "id": 23012,
+        "titulo_ato": "DECRETO Nº 18.096, DE 20 DE SETEMBRO DE 2022.",
+        "edicao_id": 6662,
+        "orgao": {
+          "id": 2272,
+          "nivel_orgao_siom": 42,
+          "sigla_orgao": "GP",
+          "nome_orgao": "Gabinete do Prefeito",
+          "poder": "E",
+          "ind_ativo": true,
+          "ind_favorito_dom": true,
+          "orgao_id": 2268,
+          "dt_desativacao": null,
+          "dt_criacao": "2021-04-09 00:00:47",
+          "dt_atualizacao": "2021-05-29 00:00:29"
+        },
+        "documento_ato": {
+          "nome_original": "conteudoAto_id23012.html",
+          "nome_minio": "058e3af991a816f25824759927236293ad5070b82f3af98dfc165624ae749030",
+          "hash_arquivo": "0febc48d96ff5cf3c4c932853ec336eed3fa4516e13ec0b8be6abb3dd6a81d08"
+        }
+      }
+    },
+    {
+      "chave": "dom-ato-23012-html",
+      "descricao": "Documento HTML integral do ato 23012.",
+      "url": "https://api-dom.pbh.gov.br/api/v1/documentos/058e3af991a816f25824759927236293ad5070b82f3af98dfc165624ae749030/download",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/conteudoAto_id23012.html.xz",
+      "sha256_arquivo_xz": "4c778a168c3f6a749601bf3bd065188320b5ac4a5beb1d14d7d2266fe9c99f5c",
+      "sha256_conteudo": "0febc48d96ff5cf3c4c932853ec336eed3fa4516e13ec0b8be6abb3dd6a81d08",
+      "capturado_em": "2026-11-04T19:10:00Z"
+    },
+    {
+      "chave": "dom-ato-30089-json",
+      "descricao": "Resposta JSON do ato 30089 (Decreto nº 18.240, de 19 de janeiro de 2023).",
+      "url": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/30089/publicado",
+      "url_visualizacao": "https://dom-web.pbh.gov.br/visualizacao/ato/30089",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/dom-ato-30089.json.xz",
+      "sha256_arquivo_xz": "79b39ac14b912c7f4a65ee50e1f23f690844ecbda626e794f83a31c3a55be693",
+      "sha256_conteudo": "f3f58c3ffc10914d96e286a6146e7ee474c46f2ddc3eba9210c0b7ae61178f5a",
+      "capturado_em": "2026-11-04T19:10:00Z",
+      "metadados_ato": {
+        "id": 30089,
+        "titulo_ato": "DECRETO Nº 18.240, DE 19 DE JANEIRO DE 2023.",
+        "edicao_id": 6775,
+        "orgao": {
+          "id": 2272,
+          "nivel_orgao_siom": 42,
+          "sigla_orgao": "GP",
+          "nome_orgao": "Gabinete do Prefeito",
+          "poder": "E",
+          "ind_ativo": true,
+          "ind_favorito_dom": true,
+          "orgao_id": 2268,
+          "dt_desativacao": null,
+          "dt_criacao": "2021-04-09 00:00:47",
+          "dt_atualizacao": "2021-05-29 00:00:29"
+        },
+        "documento_ato": {
+          "nome_original": "conteudoAto_id30089.html",
+          "nome_minio": "166319e98911a2fd6bfd50bc24fbf477ecb24c98db23feb189aae0322506d058",
+          "hash_arquivo": "1976bc40a323695957b3bd9947533885aaec16b08b36b9b57102dcea6e0106b0"
+        }
+      }
+    },
+    {
+      "chave": "dom-ato-30089-html",
+      "descricao": "Documento HTML integral do ato 30089.",
+      "url": "https://api-dom.pbh.gov.br/api/v1/documentos/166319e98911a2fd6bfd50bc24fbf477ecb24c98db23feb189aae0322506d058/download",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/conteudoAto_id30089.html.xz",
+      "sha256_arquivo_xz": "aa044dc8195d840ea901e57d94e5e85c0a14377518a04166ecb33a49f4e4f587",
+      "sha256_conteudo": "1976bc40a323695957b3bd9947533885aaec16b08b36b9b57102dcea6e0106b0",
+      "capturado_em": "2026-11-04T19:10:00Z"
+    },
+    {
+      "chave": "dom-ato-30413-json",
+      "descricao": "Resposta JSON do ato 30413 (Decreto nº 18.242, de 25 de janeiro de 2023).",
+      "url": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/30413/publicado",
+      "url_visualizacao": "https://dom-web.pbh.gov.br/visualizacao/ato/30413",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/dom-ato-30413.json.xz",
+      "sha256_arquivo_xz": "29a87c323007f8442b34f572c3645008595b877003cbd5cf3e7c4a34e789745b",
+      "sha256_conteudo": "c0be5aa53d11a1b90ae44860c37363fd916d31a5d4c58854787af8fcaa1ff912",
+      "capturado_em": "2026-11-04T19:10:00Z",
+      "metadados_ato": {
+        "id": 30413,
+        "titulo_ato": "DECRETO Nº 18.242, DE 25 DE JANEIRO DE 2023.",
+        "edicao_id": 6779,
+        "orgao": {
+          "id": 2272,
+          "nivel_orgao_siom": 42,
+          "sigla_orgao": "GP",
+          "nome_orgao": "Gabinete do Prefeito",
+          "poder": "E",
+          "ind_ativo": true,
+          "ind_favorito_dom": true,
+          "orgao_id": 2268,
+          "dt_desativacao": null,
+          "dt_criacao": "2021-04-09 00:00:47",
+          "dt_atualizacao": "2021-05-29 00:00:29"
+        },
+        "documento_ato": {
+          "nome_original": "conteudoAto_id30413.html",
+          "nome_minio": "fefae16356375533357a6214da6e056fabc3b86e8c962541005e521449946ca2",
+          "hash_arquivo": "4f203e621c2ddb2a33d438a9399f331c4ceabd8529480aa4e06d9cca3ddb4e2a"
+        }
+      }
+    },
+    {
+      "chave": "dom-ato-30413-html",
+      "descricao": "Documento HTML integral do ato 30413.",
+      "url": "https://api-dom.pbh.gov.br/api/v1/documentos/fefae16356375533357a6214da6e056fabc3b86e8c962541005e521449946ca2/download",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/conteudoAto_id30413.html.xz",
+      "sha256_arquivo_xz": "5e15bd40387fe6e8ddeea7e2620d242a1e289cf5f99165762eeaf4b0c263b8d1",
+      "sha256_conteudo": "4f203e621c2ddb2a33d438a9399f331c4ceabd8529480aa4e06d9cca3ddb4e2a",
+      "capturado_em": "2026-11-04T19:10:00Z"
+    },
+    {
+      "chave": "dom-ato-434009-json",
+      "descricao": "Resposta JSON do ato 434009 (Decreto 18.621/2024).",
+      "url": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/434009/publicado",
+      "url_visualizacao": "https://dom-web.pbh.gov.br/visualizacao/ato/434009",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/dom-ato-434009.json.xz",
+      "sha256_arquivo_xz": "db1919171cb98130de1b0682001d3a3898ee69cb4bbbbfd2eab1b5bc8bbfe280",
+      "sha256_conteudo": "bc206ec831c2eb970d30b6bb9772dfae2786a4bf852375a4c9e909004df2ab28",
+      "capturado_em": "2026-11-04T20:15:00Z",
+      "metadados_ato": {
+        "id": 434009,
+        "titulo_ato": "DECRETO Nº 18.621, DE 5 DE FEVEREIRO DE 2024.",
+        "edicao_id": 7056,
+        "orgao": {
+          "id": 2272,
+          "nivel_orgao_siom": 42,
+          "sigla_orgao": "GP",
+          "nome_orgao": "Gabinete do Prefeito",
+          "poder": "E",
+          "ind_ativo": true,
+          "ind_favorito_dom": true,
+          "orgao_id": 2268,
+          "dt_desativacao": null,
+          "dt_criacao": "2021-04-09 00:00:47",
+          "dt_atualizacao": "2021-05-29 00:00:29"
+        },
+        "documento_ato": {
+          "nome_original": "conteudoAto_id434009.html",
+          "nome_minio": "5a992436af04c7444076bf35bdcd20d145e13e7e2c8f496cdeb1f1aac19f9e7c",
+          "hash_arquivo": "44df53a9de560a8cd335f5cdaa6939736602bfb5c492bdcab7467772c80676cf"
+        }
+      }
+    },
+    {
+      "chave": "dom-ato-434009-html",
+      "descricao": "Documento HTML integral do ato 434009.",
+      "url": "https://api-dom.pbh.gov.br/api/v1/documentos/5a992436af04c7444076bf35bdcd20d145e13e7e2c8f496cdeb1f1aac19f9e7c/download",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/conteudoAto_id434009.html.xz",
+      "sha256_arquivo_xz": "5778ea65c5f79b1980c723b98078bf4b5e7b725be834d8d718b376afbbea0468",
+      "sha256_conteudo": "44df53a9de560a8cd335f5cdaa6939736602bfb5c492bdcab7467772c80676cf",
+      "capturado_em": "2026-11-04T20:15:00Z"
     }
   ]
 }

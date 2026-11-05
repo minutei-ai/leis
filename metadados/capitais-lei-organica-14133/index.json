@@ -1,0 +1,316 @@
+{
+  "tema": "capitais-lei-organica-e-14133",
+  "cobertura": "parcial",
+  "contrato_versao": 1,
+  "issue": 101,
+  "nota": "Inventário das 26 capitais estaduais (DF fora: Lei Orgânica do DF está na #86). Só conta norma publicada no acervo; citação em outra norma não cobre. Decreto parcial-art60 (Goiânia 2.469) e decretos só de critério de julgamento (BH 18.289) não contam como regulamento geral. Erro HTTP/API indisponível ≠ ausência no ordenamento. Não certifica vigência.",
+  "capitais": [
+    {
+      "uf": "RO",
+      "capital": "Porto Velho",
+      "ibge": "1100205",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "AC",
+      "capital": "Rio Branco",
+      "ibge": "1200401",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "AM",
+      "capital": "Manaus",
+      "ibge": "1302603",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": [
+        "Estado AM tem Decreto 47.133/2023 geral publicado no acervo estadual; decreto municipal de Manaus e LO seguem ausentes."
+      ]
+    },
+    {
+      "uf": "RR",
+      "capital": "Boa Vista",
+      "ibge": "1400100",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "PA",
+      "capital": "Belém",
+      "ibge": "1501402",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "AP",
+      "capital": "Macapá",
+      "ibge": "1600303",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "TO",
+      "capital": "Palmas",
+      "ibge": "1721000",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "MA",
+      "capital": "São Luís",
+      "ibge": "2111300",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "PI",
+      "capital": "Teresina",
+      "ibge": "2211001",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "CE",
+      "capital": "Fortaleza",
+      "ibge": "2304400",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "RN",
+      "capital": "Natal",
+      "ibge": "2408102",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "PB",
+      "capital": "João Pessoa",
+      "ibge": "2507507",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "PE",
+      "capital": "Recife",
+      "ibge": "2611606",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "AL",
+      "capital": "Maceió",
+      "ibge": "2704302",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "SE",
+      "capital": "Aracaju",
+      "ibge": "2800308",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "BA",
+      "capital": "Salvador",
+      "ibge": "2927408",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "MG",
+      "capital": "Belo Horizonte",
+      "ibge": "3106200",
+      "pasta_existe": true,
+      "arquivos_md": 17,
+      "lei_organica": "pendente-acesso-sil-cmbh",
+      "decreto_14133": "municipais/3106200/br-municipal-3106200-decreto-2023-03-28-18289.md",
+      "decreto_14133_carater": "parcial-criterio-julgamento",
+      "notas": [
+        "Lei Orgânica: portal CMBH/SIL identificado, mas API SIL (cmbhsilint) inacessível neste ambiente na captura de 2026-11-04 — pendência de acesso, não ausência declarada.",
+        "Decretos 18.289/2023, 17.813/2021, 18.096/2022, 18.240/2023, 18.242/2023 e alterador 18.621/2024 publicados; nenhum é regulamento geral completo da 14.133."
+      ]
+    },
+    {
+      "uf": "ES",
+      "capital": "Vitória",
+      "ibge": "3205309",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "RJ",
+      "capital": "Rio de Janeiro",
+      "ibge": "3304557",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "SP",
+      "capital": "São Paulo",
+      "ibge": "3550308",
+      "pasta_existe": true,
+      "arquivos_md": 7474,
+      "lei_organica": "municipais/3550308/br-municipal-3550308-lei-1990-04-04-0.md",
+      "decreto_14133": "municipais/3550308/br-municipal-3550308-decreto-2022-12-27-62100.md",
+      "decreto_14133_carater": "geral",
+      "notas": []
+    },
+    {
+      "uf": "PR",
+      "capital": "Curitiba",
+      "ibge": "4106902",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "SC",
+      "capital": "Florianópolis",
+      "ibge": "4205407",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "RS",
+      "capital": "Porto Alegre",
+      "ibge": "4314902",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "MS",
+      "capital": "Campo Grande",
+      "ibge": "5002704",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "MT",
+      "capital": "Cuiabá",
+      "ibge": "5103403",
+      "pasta_existe": false,
+      "arquivos_md": 0,
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "notas": []
+    },
+    {
+      "uf": "GO",
+      "capital": "Goiânia",
+      "ibge": "5208707",
+      "pasta_existe": true,
+      "arquivos_md": 1,
+      "lei_organica": "ausente",
+      "decreto_14133": "municipais/5208707/br-municipal-5208707-decreto-2024-06-25-2469.md",
+      "decreto_14133_carater": "parcial-art60",
+      "notas": [
+        "Decreto 2.469/2024 é parcial-art60 (desempate) — NÃO conta como regulamento geral.",
+        "Lei Orgânica ausente no acervo."
+      ]
+    }
+  ],
+  "resumo": {
+    "com_lei_organica": 1,
+    "com_lei_organica_pendente_acesso": 1,
+    "com_decreto_14133_qualquer": 3,
+    "com_decreto_14133_geral": 1,
+    "pastas_existentes": 3
+  },
+  "pendencias": [
+    "Publicar Lei Orgânica das capitais ainda sem LO no acervo (BH: retomar SIL/CMBH quando API acessível).",
+    "Publicar decreto geral 14.133 das capitais sem cobertura; parcial de BH/Goiânia não conta como cobertura completa.",
+    "Criar pastas municipais ausentes no ato da primeira publicação de cada capital.",
+    "Manaus: aproveitar experiência do Decreto estadual AM 47.133 já publicado para localizar decreto municipal e LO."
+  ]
+}

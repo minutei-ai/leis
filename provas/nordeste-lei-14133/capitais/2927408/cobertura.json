@@ -1,0 +1,17 @@
+{
+  "norma_id": "br-municipal-2927408-lei-organica-consolidada-2024",
+  "metodo": "pdftotext -raw",
+  "sha256_corpo_markdown": "477041620f681a845c71b4c0ef4156d20d668cef7c4da389c04dff8772b1e287",
+  "sha256_fonte": "b98d10caff6d3f9ef053b101622f6d107b4ceda01c3a0cae9f187d3ca85f9598",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "artigos_contados": 254,
+  "fold_ok": false,
+  "nota_fold": "Fonte PDF; cobertura por hashes e contagem de artigos.",
+  "colacao_oficial_status": "desconhecido",
+  "auditoria_pdf": {
+    "adct_mentions": 2,
+    "pages": 89,
+    "artigos_raw_vs_layout": "254 vs 255; max marcador 286",
+    "nota": "Fold do texto extraído não prova fidelidade além de consistência. Colação visual: desconhecido."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "capturado_em": "2026-11-04T21:24:56Z",
+  "nota": "Captura oficial ALEPI — SAPL da Constituição/LO (PI).",
+  "fontes": [
+    {
+      "chave": "alepi-sapl-ta-42-constituicao-1989",
+      "url": "https://sapl.al.pi.leg.br/ta/42/text",
+      "url_final": "https://sapl.al.pi.leg.br/ta/42/text",
+      "arquivo": "provas/constituicoes-estaduais/PI/fontes/alepi-sapl-ta-42-constituicao-1989.html.xz",
+      "sha256_conteudo": "3546bb25dd6bd25fd0422381c98b505ca65fbbf2e15c6b6ebe78d69f91605d42",
+      "sha256_arquivo_xz": "472670866f0b33c43c695718643d13617b802e9503afceb3d585171c46c5ab5d",
+      "bytes_fonte": 1795560,
+      "capturado_em": "2026-11-04T21:24:56Z",
+      "sha256_markdown": "7960a5ffb11d6130429324ca9d850b0b378e7d1f92b33cb31f0a1b55f9742237",
+      "sha256_corpo_markdown": "d1bbd07576b30c6dec38ea3803bc887949bf9db15f3b7825c21d28e7f754706b",
+      "arquivo_plain": "provas/constituicoes-estaduais/PI/fontes/alepi-sapl-ta-42-constituicao-1989.plain.txt.xz",
+      "sha256_plain": "d1bbd07576b30c6dec38ea3803bc887949bf9db15f3b7825c21d28e7f754706b",
+      "formato": "html",
+      "estrategia": "body-html",
+      "ferramentas": {
+        "python": "3.14.9",
+        "beautifulsoup4": "4.15.0",
+        "lxml": "6.1.3.0",
+        "libxml2": "2.15.4",
+        "pdftotext": "pdftotext version 26.10.0"
+      }
+    }
+  ]
+}

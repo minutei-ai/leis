@@ -1,0 +1,18 @@
+{
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "nota": "Lei Orgânica de Vitória — HTML de impressão CMV/Câmara Sem Papel. Erro HTTP ≠ ausência.",
+  "fontes": [
+    {
+      "chave": "cmv-lei-organica-impressao",
+      "url": "https://camarasempapel.cmv.es.gov.br/Arquivo/Documents/legislacao/html_impressao/O11990.html",
+      "url_norma": "https://camarasempapel.cmv.es.gov.br/legislacao/norma.aspx?id=8313",
+      "arquivo": "provas/sul-sudeste-14133/capitais/vitoria/fontes/cmv-lei-organica-impressao.html.xz",
+      "sha256_conteudo": "b8779c0a681ae6ed3fd7eabf333c3f9d3a14f22f9b0c06db959efbe848a77a6c",
+      "sha256_arquivo_xz": "f33f8e94d41bf23434df9fd67e800e37f5bcf7e94062df78ca7fd6d8badcabe8",
+      "bytes_fonte": 1247848,
+      "capturado_em": "2026-11-04T21:30:00Z",
+      "sha256_markdown": "ca0e51e8d806b542c02cab40f7c275b1c7421eb81bc9c3f97df2e441dcd4cd4c",
+      "sha256_corpo_markdown": "279cc41070a1ef8ac07e19ff15f7810dfc7a8b0e73acdc200e299685f3fd57dd"
+    }
+  ]
+}
