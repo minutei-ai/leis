@@ -1,0 +1,26 @@
+{
+  "fonte_url": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios",
+  "capturado_em": "2026-11-04",
+  "referencia_classificacao": "https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas",
+  "localidades_api": 5571,
+  "municipios": 5569,
+  "entidades_especiais": [
+    {
+      "ibge": "2605459",
+      "nome": "Fernando de Noronha",
+      "uf": "PE",
+      "classificacao": "entidade-especial"
+    },
+    {
+      "ibge": "5300108",
+      "nome": "Brasília",
+      "uf": "DF",
+      "classificacao": "entidade-especial"
+    }
+  ],
+  "sha256_resposta_completa": "86ecdccdf97d72e7e5e46f0854cfcea8bacc28154cc1bc4ed0e6110e3a6c9c02",
+  "bytes_resposta_completa": 2470036,
+  "sha256_slim_json": "141701b3c83ee0bbcd1f30ab8abc51a8a8f822106c28916deb42be30c0246d46",
+  "arquivo_slim": "ibge-municipios-slim.json.gz",
+  "leitura": "A API retorna 5.571 localidades. Brasília/DF (5300108) e Fernando de Noronha (2605459) são entidades especiais, não municípios faltantes. O slim preserva id/nome/UF/classificação; a resposta completa permanece fora do repositório público com hash acima."
+}

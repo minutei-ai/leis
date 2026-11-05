@@ -1,0 +1,22 @@
+{
+  "snapshot": "d4e425a57f1c1e1ee9f770e7bc7e673264a2ed58",
+  "problema": "Comparador ignorava complemento do catálogo do Senado (distinto de reedicao).",
+  "exemplo": {
+    "numero": "1599",
+    "complemento": "A",
+    "identidade": "1599-A",
+    "nao_e": "1599"
+  },
+  "totais_corrigidos": {
+    "chaves_agrupadas": 61647,
+    "correspondencias_exatas_identidade": 20962,
+    "candidatos_sem_arquivo_canonico": 37347,
+    "coincidencias_numero_a_revisar": 3214,
+    "atos_sem_numero_em_revisao": 124,
+    "sem_numero_com_candidato_token_local": 90,
+    "leis_numeradas_com_correspondencia_inversa": 6333,
+    "decretos_leis_com_correspondencia_inversa": 9647
+  },
+  "evidencia_colisoes_evitadas": "complement-collision-evidence.json",
+  "leitura": "Totais substituem os anteriores que ignoravam complemento. Não certificam conteúdo nem autorizam apagar documentos ausentes de um catálogo isolado."
+}
