@@ -12637,6 +12637,34 @@
       "tabelas": 0,
       "imagens": 0,
       "title_injected": false
+    },
+    "br-federal-resolucao-senado-federal-2018-06-25-13": {
+      "slug": "br-federal-resolucao-senado-federal-2018-06-25-13",
+      "fonte_fold_chars": 836,
+      "markdown_fold_chars": 644170,
+      "blocos": 13,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false,
+      "anexo_pdf": {
+        "anexo_pdf_url": "https://legis.senado.leg.br/norma/27410175/publicacao/27411313",
+        "anexo_pdf_sha256": "9d71bc6e759d122452e4b9988cd889ff391e90ea5b682ff7acdd7a7716acdb7e",
+        "anexo_pdf_bytes": 33178282,
+        "anexo_pdf_capturado_em": "2026-11-05T12:51:16Z",
+        "anexo_pdf_snapshot": "provas/especies-legislativas-federais/anexos-rsf/rsf-2018-13/rsf13-dsf-suplemento-86.pdf",
+        "anexo_pdf_paginas": 261,
+        "anexo_pdf_paginas_transcritas": [
+          1,
+          261
+        ],
+        "anexo_pdf_publicacao_id": "27411313",
+        "anexo_transcricao_sha256": "761266aeccef1df34718a960df4057da4d280b9e79275e1090bb8f2dad5a2aa4",
+        "anexo_facsimiles_tabulares_pdf": [
+          176,
+          214
+        ]
+      },
+      "transcricao_prova": "provas/especies-legislativas-federais/anexos-rsf/rsf-2018-13/transcricao.json"
     }
   }
 }
