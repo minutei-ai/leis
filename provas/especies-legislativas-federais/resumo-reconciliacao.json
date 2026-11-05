@@ -48,7 +48,8 @@
         "inicio": "1951-04-20",
         "fim": "2025-06-23"
       },
-      "arquivo": "provas/especies-legislativas-federais/reconciliacao-rcn.json"
+      "arquivo": "provas/especies-legislativas-federais/reconciliacao-rcn.json",
+      "anexos_pendentes": 0
     }
   }
 }

@@ -16,12 +16,12 @@
       "conhecido": 232661
     },
     "especie": {
-      "conhecido": 173835,
-      "desconhecido": 58826
+      "conhecido": 173833,
+      "desconhecido": 58828
     },
     "numero": {
-      "conhecido": 173130,
-      "desconhecido": 59381,
+      "conhecido": 173128,
+      "desconhecido": 59383,
       "nao-aplicavel": 150
     },
     "complemento": {
@@ -29,12 +29,12 @@
       "conhecido": 437
     },
     "numero_estado": {
-      "conhecido": 173280,
-      "desconhecido": 59381
+      "conhecido": 173278,
+      "desconhecido": 59383
     },
     "provedor_id": {
-      "ausente": 178904,
-      "conhecido": 53757
+      "ausente": 178902,
+      "conhecido": 53759
     },
     "provedor_token": {
       "nao-aplicavel": 232511,
@@ -44,17 +44,17 @@
       "conhecido": 232661
     },
     "uf": {
-      "nao-aplicavel": 99848,
+      "nao-aplicavel": 99846,
       "conhecido": 119964,
-      "desconhecido": 12849
+      "desconhecido": 12851
     },
     "ibge": {
-      "nao-aplicavel": 219812,
-      "conhecido": 12849
+      "nao-aplicavel": 219810,
+      "conhecido": 12851
     },
     "orgao_emissor": {
-      "conhecido": 2639,
-      "desconhecido": 230022
+      "conhecido": 2637,
+      "desconhecido": 230024
     },
     "poder": {
       "desconhecido": 232661
@@ -70,12 +70,12 @@
       "desconhecido": 232661
     },
     "data_ato": {
-      "conhecido": 173302,
-      "desconhecido": 59359
+      "conhecido": 173300,
+      "desconhecido": 59361
     },
     "edicao_tipo": {
-      "conhecido": 2703,
-      "desconhecido": 229958
+      "conhecido": 2701,
+      "desconhecido": 229960
     },
     "situacao": {
       "desconhecido": 232659,
@@ -91,8 +91,8 @@
       "conhecido": 232661
     },
     "fonte_url": {
-      "conhecido": 2639,
-      "desconhecido": 230022
+      "conhecido": 2637,
+      "desconhecido": 230024
     },
     "sha256_markdown": {
       "conhecido": 232661
@@ -105,24 +105,24 @@
     }
   },
   "por_estado_identidade": {
-    "registrada-no-cabecalho": 2888,
+    "registrada-no-cabecalho": 2886,
     "derivada-do-caminho-candidata": 171128,
     "candidata-nao-conferida": 4888,
-    "provedor-id-nao-e-numero-legal": 53757
+    "provedor-id-nao-e-numero-legal": 53759
   },
   "por_armazenamento_metadados": {
-    "frontmatter": 2890,
-    "sidecar-export": 229771
+    "frontmatter": 2888,
+    "sidecar-export": 229773
   },
   "por_esfera": {
-    "federal": 99848,
+    "federal": 99846,
     "estadual": 119954,
     "distrital": 10,
-    "municipal": 12849
+    "municipal": 12851
   },
   "por_numero_estado": {
-    "informado": 173130,
-    "desconhecido": 59381,
+    "informado": 173128,
+    "desconhecido": 59383,
     "sem-numero": 150
   },
   "anomalias": {

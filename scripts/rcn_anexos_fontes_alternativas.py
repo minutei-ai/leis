@@ -88,6 +88,51 @@ ALTERNATIVAS: dict[str, dict] = {
             'norma_url': 'https://www2.camara.leg.br/legin/fed/rescon/2013/resolucao-3-22-novembro-2013-777453-norma-pl.html',
             'stage_pdf': 'rcn-2013-3-anx.pdf',
             'stage_facsimile': 'rcn-2013-3-anx-p1-1.png',
+            # p. 2 is visually/textually identical to p. 1; retain the original
+            # three-page PDF, but transcribe only p. 1 + continuation p. 3.
+            'pdf_pages': [1, 3],
+            'pdf_duplicate_pages': [{
+                'page': 2,
+                'same_as': 1,
+                'visual_sha256_identical_render': '4fdec9d8e4af918d43f81cba46b64377c2a79ba8aff3acf8f62b4cc8efec1432',
+                'visual_rasterization': 'pdftoppm -f 1 -l 2 -png -r 150',
+                'stage_representative_png': '/tmp/leis-rcn3-stage/rcn-2013-3-camara-page1-r150.png',
+            }],
+            'pdf_excerpt_start': 'Faço saber que o Congresso Nacional aprovou, e eu, Renan Calheiros, Presidente do Senado',
+            'pdf_excerpt_end': r'\bTOTAL\s+121\s+121\s+242\b',
+            'pdf_page_labels': ['DOU impresso p. 3', 'DOU impresso p. 4'],
+            'nota_transcricao': (
+                'O dump linear recuperado inclui o corpo porque as colunas do DOU '
+                'intercalam esse texto com células da tabela. A publicação em Markdown '
+                'transcreve visualmente somente a tabela, sem repetir o corpo. A página '
+                '2 do PDF da Câmara foi omitida somente após igualdade textual e visual '
+                'com a página 1. A extração textual termina antes da RCN 47/2013 e da '
+                'Portaria da AGU; o PDF DOU completo é preservado separadamente.'
+            ),
+            'visual_crosscheck': {
+                'url': 'https://www.gov.br/mme/pt-br/arquivos/do-25-11-2013-s1.pdf',
+                'stage_pdf': '/tmp/leis-rcn3-stage/rcn-2013-3-dou-section1.pdf',
+                'sha256': '36c70adb61c791ce3cba054bf6a91507d1f562ccf47d679ad92b6599b695b414',
+                'pages_pdf': [3, 4],
+                'pages_printed': [3, 4],
+                'stage_textdump': '/tmp/leis-rcn3-validated-dou-3-4.txt',
+                'textdump_sha256': '298c4d6bb705f54443fc3e30e612c61fc2dbc898d3ee5242ba741d18230b4af6',
+                'authentication_codes': ['00012013112500003', '00012013112500004'],
+                'facsimiles': [
+                    {
+                        'stage': '/tmp/leis-rcn3-validated-dou-003.png',
+                        'page_pdf': 3,
+                        'page_printed': 3,
+                        'sha256': 'be383697f3b92ec1ea3f8711ca4fff9dabd5b0b42a9cacb12053c4d06e373ef8',
+                    },
+                    {
+                        'stage': '/tmp/leis-rcn3-validated-dou-004.png',
+                        'page_pdf': 4,
+                        'page_printed': 4,
+                        'sha256': '81b241f6540b29bd1d3368ba4265cb9be87b055005dc574473a24b7a8623b102',
+                    },
+                ],
+            },
         },
     },
     'br-federal-resolucao-congresso-nacional-2006-12-26-2': {
@@ -140,16 +185,47 @@ def write_xz(path: Path, data: bytes) -> str:
     return sha256(path.read_bytes())
 
 
-def pdftotext(pdf: bytes) -> str:
-    proc = subprocess.run(
-        ['pdftotext', '-layout', '-', '-'],
-        input=pdf,
-        capture_output=True,
-        check=False,
-    )
-    if proc.returncode != 0:
-        raise RuntimeError(f'pdftotext falhou: {proc.stderr[:200]!r}')
-    return proc.stdout.decode('utf-8', 'replace')
+def pdftotext(pdf: bytes, pages: list[int] | None = None) -> str:
+    if pages is None:
+        proc = subprocess.run(
+            ['pdftotext', '-layout', '-', '-'],
+            input=pdf,
+            capture_output=True,
+            check=False,
+        )
+        if proc.returncode != 0:
+            raise RuntimeError(f'pdftotext falhou: {proc.stderr[:200]!r}')
+        return proc.stdout.decode('utf-8', 'replace')
+    rendered = []
+    for page in pages:
+        args = ['pdftotext', '-layout', '-f', str(page), '-l', str(page), '-', '-']
+        proc = subprocess.run(args, input=pdf, capture_output=True, check=False)
+        if proc.returncode != 0:
+            raise RuntimeError(f'pdftotext falhou: {proc.stderr[:200]!r}')
+        rendered.append(proc.stdout.decode('utf-8', 'replace').rstrip('\f'))
+    return '\f'.join(rendered)
+
+
+def extract_pdf_piece(text: str, start_marker: str, end_pattern: str) -> str:
+    """Keep a source-bounded act/table sequence; reject ambiguous boundaries."""
+    pages = text.split('\f')
+    if len(pages) != 2:
+        raise RuntimeError(f'intervalo PDF esperado em 2 páginas, recebido: {len(pages)}')
+    first, continuation = pages
+    if first.count(start_marker) != 1:
+        raise RuntimeError(f'limite inicial não é único: {start_marker!r}')
+    start = first.index(start_marker)
+    footer = first.find('Este documento pode ser verificado', start)
+    if footer < 0:
+        raise RuntimeError('rodapé da primeira página não encontrado')
+    matches = list(re.finditer(end_pattern, continuation, flags=re.I))
+    if len(matches) != 1:
+        raise RuntimeError(f'limite final não é único: {end_pattern!r}')
+    end = matches[0].end()
+    piece = first[start:footer].rstrip() + '\n\n' + continuation[:end].rstrip()
+    if 'Nº 47, DE 2013' in piece or 'PORTARIA N' in piece:
+        raise RuntimeError('recorte contém ato vizinho após o Anexo I')
+    return piece
 
 
 def html_to_plain(html: bytes | str) -> str:
@@ -189,7 +265,7 @@ def extract_anexo_from_html(text: str, marker: str) -> str:
     return chunk
 
 
-def annex_markdown(title: str, plain: str, fonte_url: str, sha: str) -> str:
+def annex_markdown(title: str, plain: str, fonte_url: str, sha: str, nota: str | None = None) -> str:
     body = plain.strip()
     # Normalize excessive spaces but keep paragraphs
     lines = [re.sub(r'[ \t]+', ' ', ln).rstrip() for ln in body.splitlines()]
@@ -198,11 +274,61 @@ def annex_markdown(title: str, plain: str, fonte_url: str, sha: str) -> str:
         f'\n\n<!-- anexo-fonte-alternativa:inicio -->\n'
         f'> Anexo recuperado de fonte oficial alternativa (não do PDF ANX vazio do Senado). '
         f'Fonte: {fonte_url} (SHA-256 `{sha}`). '
-        f'Transcrição/extração textual para colação; o fac-símile/PDF preservado nas provas prevalece em divergência visual.\n'
+        f'Transcrição/extração textual para colação; o fac-símile/PDF preservado nas provas prevalece em divergência visual.'
+        f'{(" " + nota) if nota else ""}\n'
         f'<!-- anexo-fonte-alternativa:fim -->\n\n'
         f'# ANEXO\n\n'
         f'{body}\n'
     )
+
+
+def rcn3_table_markdown() -> str:
+    """Transcrição visual das células do Anexo I, em quatro painéis do DOU."""
+    return '''\
+## ANEXO I
+
+**ANEXO À RESOLUÇÃO DO CONGRESSO NACIONAL Nº 1, DE 2006-CN**
+
+| Comissão permanente | Área temática → subáreas temáticas (agrupadas como no impresso) | Apropriação | Remanejamento | Total |
+|---|---|---:|---:|---:|
+| CÂMARA DOS DEPUTADOS | | 76 | 76 | 152 |
+| Mesa Diretora | Poderes do Estado e Representação → Câmara dos Deputados | 4 | 4 | 8 |
+| Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR | Agricultura e Desenvolvimento Agrário → Ministério da Agricultura, Pecuária e Abastecimento; Ministério da Pesca e Aquicultura; Ministério do Desenvolvimento Agrário<br>Integração Nacional e Meio Ambiente → Ministério da Integração Nacional; Ministério do Meio Ambiente | 4 | 4 | 8 |
+| Amazônia, Integração Nacional e Desenvolvimento Regional - CAINDR | Fazenda, Desenvolvimento e Turismo → Ministério do Turismo<br>Integração Nacional e Meio Ambiente → Ministério da Integração Nacional; Ministério do Meio Ambiente<br>Justiça e Defesa → Ministério da Justiça | 4 | 4 | 8 |
+| Ciência e Tecnologia, Comunicação e Informática - CCTCI | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Ciência, Tecnologia e Inovação<br>Infraestrutura → Ministério das Comunicações<br>Justiça e Defesa → Ministério da Defesa | 4 | 4 | 8 |
+| Constituição e Justiça e de Cidadania - CCJC | Justiça e Defesa → Ministério da Justiça<br>Poderes do Estado e Representação → Órgãos do Ministério Público; Órgãos do Poder Judiciário; Presidência da República | 4 | 4 | 8 |
+| Defesa do Consumidor - CDC | Fazenda, Desenvolvimento e Turismo → Ministério da Fazenda; Ministério do Desenvolvimento, Indústria e Comércio Exterior<br>Justiça e Defesa → Ministério da Justiça | 4 | 4 | 8 |
+| Desenvolvimento Econômico, Indústria e Comércio - CDEIC | Agricultura e Desenvolvimento Agrário → Ministério da Agricultura, Pecuária e Abastecimento<br>Fazenda, Desenvolvimento e Turismo → Ministério da Fazenda; Ministério do Desenvolvimento, Indústria e Comércio Exterior | 4 | 4 | 8 |
+| Desenvolvimento Urbano - CDU | Integração Nacional e Meio Ambiente → Ministério da Integração Nacional; Ministério do Meio Ambiente<br>Planejamento e Desenvolvimento Urbano → Ministério das Cidades | 4 | 4 | 8 |
+| Direitos Humanos e Minorias - CDHM | Justiça e Defesa → Ministério da Justiça<br>Poderes do Estado e Representação → Presidência da República<br>Trabalho, Previdência e Assistência Social → Ministério do Desenvolvimento Social e Combate à Fome | 4 | 4 | 8 |
+| Educação-CE | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Educação; Ministério da Cultura; Ministério da Ciência, Tecnologia e Inovação; Ministério do Esporte<br>Justiça e Defesa → Ministério da Defesa<br>Trabalho, Previdência e Assistência Social → Ministério do Trabalho e Emprego | 3 | 3 | 6 |
+| Cultura -CCULT | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Cultura; Ministério da Educação; Ministério da Ciência, Tecnologia e Inovação; Ministério do Esporte<br>Justiça e Defesa → Ministério da Justiça | 3 | 3 | 6 |
+| Finanças e Tributação- CFT | Fazenda, Desenvolvimento e Turismo → Ministério da Fazenda<br>Planejamento e Desenvolvimento Urbano → Ministério do Planejamento, Orçamento e Gestão | 3 | 3 | 6 |
+| Fiscalização Financeira e Controle - CFFC | Poderes do Estado e Representação → Ministério do Planejamento, Orçamento e Gestão; Presidência da República; Tribunal de Contas da União | 4 | 4 | 8 |
+| Legislação Participativa - CLP | *(células de área e subárea em branco no impresso)* | 0 | 0 | 0 |
+| Meio Ambiente e Desenvolvimento Sustentável - CMADS | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Ciência, Tecnologia e Inovação<br>Integração Nacional e Meio Ambiente → Ministério do Meio Ambiente | 3 | 3 | 6 |
+| Minas e Energia - CME | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Ciência, Tecnologia e Inovação<br>Infraestrutura → Ministério de Minas e Energia<br>Integração Nacional e Meio Ambiente → Ministério do Meio Ambiente | 4 | 4 | 8 |
+| Relações Exteriores e de Defesa Nacional - CREDN | Justiça e Defesa → Ministério da Defesa<br>Poderes do Estado e Representação → Ministério das Relações Exteriores | 3 | 3 | 6 |
+| Segurança Pública e Combate ao Crime Organizado - CSPCCO | Justiça e Defesa → Ministério da Justiça | 2 | 2 | 4 |
+| Seguridade Social e Família - CSSF | Saúde → Ministério da Saúde<br>Trabalho, Previdência e Assistência Social → Ministério da Previdência Social; Ministério do Desenvolvimento Social e Combate à Fome | 4 | 4 | 8 |
+| Trabalho, de Administração e Serviço Público - CTASP | Planejamento e Desenvolvimento Urbano → Ministério do Planejamento, Orçamento e Gestão<br>Trabalho, Previdência e Assistência Social → Ministério da Previdência Social; Ministério do Trabalho e Emprego | 4 | 4 | 8 |
+| Turismo e Desporto - CTD | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério do Esporte<br>Fazenda, Desenvolvimento e Turismo → Ministério do Turismo | 3 | 3 | 6 |
+| Viação e Transporte - CVT | Infraestrutura → Ministério dos Transportes<br>Justiça e Defesa → Ministério da Defesa<br>Poderes do Estado e Representação → Presidência da República | 4 | 4 | 8 |
+| SENADO FEDERAL | | 45 | 45 | 90 |
+| Mesa Diretora | Poderes do Estado e Representação → Senado Federal | 4 | 4 | 8 |
+| Agricultura e Reforma Agrária - CRA | Agricultura e Desenvolvimento Agrário → Ministério da Agricultura, Pecuária e Abastecimento; Ministério da Pesca e Aquicultura; Ministério do Desenvolvimento Agrário<br>Integração Nacional e Meio Ambiente → Ministério do Meio Ambiente | 4 | 4 | 8 |
+| Assuntos Econômicos - CAE | Fazenda, Desenvolvimento e Turismo → Ministério da Fazenda; Ministério do Desenvolvimento, Indústria e Comércio Exterior<br>Planejamento e Desenvolvimento Urbano → Ministério do Planejamento, Orçamento e Gestão | 4 | 4 | 8 |
+| Assuntos Sociais -CAS | Saúde → Ministério da Saúde<br>Trabalho, Previdência e Assistência Social → Ministério da Previdência Social; Ministério do Desenvolvimento Social e Combate à Fome | 4 | 4 | 8 |
+| Ciência, Tecnologia, Inovação, Comunicação e Informática - CCT | Agricultura e Desenvolvimento Agrário → Ministério da Agricultura, Pecuária e Abastecimento<br>Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Ciência, Tecnologia e Inovação; Ministério da Educação<br>Infraestrutura → Ministério das Comunicações<br>Justiça e Defesa → Ministério da Defesa<br>Saúde → Ministério da Saúde | 3 | 3 | 6 |
+| Constituição, Justiça e Cidadania - CCJ | Justiça e Defesa → Ministério da Justiça<br>Planejamento e Desenvolvimento Urbano → Ministério do Planejamento, Orçamento e Gestão<br>Poderes do Estado e Representação → Órgãos do Ministério Público; Órgãos do Poder Judiciário; Tribunal de Contas da União | 4 | 4 | 8 |
+| Desenvolvimento Regional e Turismo - CDR | Fazenda, Desenvolvimento e Turismo → Ministério do Turismo<br>Integração Nacional e Meio Ambiente → Ministério da Integração Nacional<br>Planejamento e Desenvolvimento Urbano → Ministério das Cidades | 4 | 4 | 8 |
+| Direitos Humanos e Legislação Participativa- CDH | Poderes do Estado e Representação → Órgãos do Ministério Público; Presidência da República | 3 | 3 | 6 |
+| Educação, Cultura e Esporte- CE | Educação, Cultura, Ciência e Tecnologia e Esporte → Ministério da Ciência, Tecnologia e Inovação; Ministério da Cultura; Ministério da Educação; Ministério do Esporte | 4 | 4 | 8 |
+| Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle - CMA | Integração Nacional e Meio Ambiente → Ministério do Meio Ambiente<br>Poderes do Estado e Representação → Órgãos do Ministério Público; Tribunal de Contas da União | 4 | 4 | 8 |
+| Relações Exteriores e Defesa Nacional - CRE | Justiça e Defesa → Ministério da Defesa<br>Poderes do Estado e Representação → Ministério das Relações Exteriores | 3 | 3 | 6 |
+| Serviços de Infraestrutura-CI | Infraestrutura → Ministério das Comunicações; Ministério de Minas e Energia; Ministério dos Transportes<br>Poderes do Estado e Representação → Presidência da República | 4 | 4 | 8 |
+| TOTAL | | 121 | 121 | 242 |
+'''
 
 
 def import_staged() -> dict:
@@ -242,7 +368,41 @@ def import_staged() -> dict:
                 'sha256_snapshot_armazenado': write_xz(snap, pdf),
                 'capturado_em': now_utc(),
             })
-            text = pdftotext(pdf)
+            duplicate_pages = []
+            for duplicate in alt.get('pdf_duplicate_pages', []):
+                reference = pdftotext(pdf, [duplicate['same_as']])
+                repeated = pdftotext(pdf, [duplicate['page']])
+                if reference != repeated:
+                    raise RuntimeError(
+                        f'{slug}: página {duplicate["page"]} não é idêntica '
+                        f'à página {duplicate["same_as"]}'
+                    )
+                representative_png = Path(duplicate['stage_representative_png']).read_bytes()
+                if sha256(representative_png) != duplicate['visual_sha256_identical_render']:
+                    raise RuntimeError(f'{slug}: hash do PNG representante divergente')
+                representative_snapshot = FACSIMILE_DIR / f'{slug}.p1-p2-identical.png.xz'
+                duplicate_pages.append({
+                    'page_omitted': duplicate['page'],
+                    'identical_to_page': duplicate['same_as'],
+                    'sha256_text_both_pages': sha256(reference.encode('utf-8')),
+                    'sha256_visual_identical_render': sha256(representative_png),
+                    'visual_rasterization': duplicate['visual_rasterization'],
+                    'representative_snapshot': str(representative_snapshot.relative_to(ROOT)),
+                    'sha256_representative_snapshot': write_xz(representative_snapshot, representative_png),
+                })
+            selected_pages = alt.get('pdf_pages')
+            text = pdftotext(pdf, selected_pages)
+            if alt.get('pdf_excerpt_start'):
+                text = extract_pdf_piece(
+                    text,
+                    alt['pdf_excerpt_start'],
+                    alt['pdf_excerpt_end'],
+                )
+            if selected_pages:
+                item['fonte_alternativa']['paginas_pdf_transcritas'] = selected_pages
+                item['fonte_alternativa']['rotulos_paginas'] = alt.get('pdf_page_labels', [])
+            if duplicate_pages:
+                item['fonte_alternativa']['paginas_duplicadas_omitidas'] = duplicate_pages
             txt_snap = FONTES_DIR / f'{slug}.anexo.txt.xz'
             item['transcricao'] = {
                 'metodo': 'pdftotext -layout',
@@ -251,6 +411,88 @@ def import_staged() -> dict:
                 'snapshot': str(txt_snap.relative_to(ROOT)),
                 'sha256_snapshot_armazenado': write_xz(txt_snap, text.encode('utf-8')),
             }
+            if selected_pages:
+                item['transcricao']['paginas_pdf'] = selected_pages
+                item['transcricao']['pagina_repetida_omitida'] = duplicate_pages
+            if alt.get('visual_crosscheck'):
+                visual = alt['visual_crosscheck']
+                visual_pdf = Path(visual['stage_pdf']).read_bytes()
+                if sha256(visual_pdf) != visual['sha256']:
+                    raise RuntimeError(f'{slug}: hash da fonte DOU visual divergente')
+                visual_snap = FONTES_DIR / f'{slug}.dou-section1.pdf.xz'
+                visual_item = {
+                    'url': visual['url'],
+                    'bytes': len(visual_pdf),
+                    'sha256_pdf': sha256(visual_pdf),
+                    'pages_pdf': visual['pages_pdf'],
+                    'pages_printed': visual['pages_printed'],
+                    'authentication_codes': visual['authentication_codes'],
+                    'snapshot_pdf': str(visual_snap.relative_to(ROOT)),
+                    'sha256_snapshot_armazenado': write_xz(visual_snap, visual_pdf),
+                    'facsimiles': [],
+                }
+                for proof_page in visual['facsimiles']:
+                    image_bytes = Path(proof_page['stage']).read_bytes()
+                    if sha256(image_bytes) != proof_page['sha256']:
+                        raise RuntimeError(f'{slug}: hash de fac-símile DOU divergente')
+                    image_name = f'{slug}.dou-p{proof_page["page_printed"]}.png.xz'
+                    image_out = FACSIMILE_DIR / image_name
+                    visual_item['facsimiles'].append({
+                        'page_pdf': proof_page['page_pdf'],
+                        'page_printed': proof_page['page_printed'],
+                        'bytes': len(image_bytes),
+                        'sha256': sha256(image_bytes),
+                        'snapshot': str(image_out.relative_to(ROOT)),
+                        'sha256_snapshot_armazenado': write_xz(image_out, image_bytes),
+                    })
+                if visual.get('stage_textdump'):
+                    textdump = Path(visual['stage_textdump']).read_bytes()
+                    if visual.get('textdump_sha256') and sha256(textdump) != visual['textdump_sha256']:
+                        raise RuntimeError(f'{slug}: hash do dump textual DOU divergente')
+                    textdump_snap = FONTES_DIR / f'{slug}.dou-p3-p4.txt.xz'
+                    visual_item['textdump_pages'] = visual['pages_pdf']
+                    visual_item['textdump_bytes'] = len(textdump)
+                    visual_item['textdump_sha256'] = sha256(textdump)
+                    visual_item['textdump_snapshot'] = str(textdump_snap.relative_to(ROOT))
+                    visual_item['textdump_sha256_snapshot_armazenado'] = write_xz(
+                        textdump_snap, textdump
+                    )
+                item['verificacao_visual_independente'] = visual_item
+                if slug == 'br-federal-resolucao-congresso-nacional-2013-11-22-3':
+                    table = rcn3_table_markdown().strip()
+                    table_snap = FONTES_DIR / f'{slug}.anexo-tabela-visual.md.xz'
+                    item['transcricao_tabela_visual'] = {
+                        'metodo': 'transcricao-manual-colacionada-nos-quatro-paineis-do-facsimile',
+                        'paginas_pdf': visual['pages_pdf'],
+                        'facsimiles': [
+                            {
+                                'pagina_impressa': page['page_printed'],
+                                'snapshot': str(
+                                    (FACSIMILE_DIR / f'{slug}.dou-p{page["page_printed"]}.png.xz')
+                                    .relative_to(ROOT)
+                                ),
+                                'sha256_png': page['sha256'],
+                            }
+                            for page in visual['facsimiles']
+                        ],
+                        'painéis_visuais': [
+                            {'pagina_impressa': 3, 'recorte_px': [90, 805, 820, 1810],
+                             'conteudo': 'cabeçalho, Mesa Diretora e CAPADR'},
+                            {'pagina_impressa': 3, 'recorte_px': [855, 680, 1660, 1810],
+                             'conteudo': 'CAINDR até CCULT'},
+                            {'pagina_impressa': 4, 'recorte_px': [80, 120, 820, 1310],
+                             'conteudo': 'continuação de CCULT, demais comissões da Câmara, Mesa Diretora e CRA do Senado'},
+                            {'pagina_impressa': 4, 'recorte_px': [855, 120, 1660, 1310],
+                             'conteudo': 'continuação do Senado, de CAE até CI, e total geral'},
+                        ],
+                        'chars': len(table),
+                        'sha256': sha256(table.encode('utf-8')),
+                        'snapshot': str(table_snap.relative_to(ROOT)),
+                        'sha256_snapshot_armazenado': write_xz(
+                            table_snap, table.encode('utf-8')
+                        ),
+                    }
+                    item['anexo_table_plain'] = table
             if alt.get('stage_facsimile'):
                 fac = STAGE / alt['stage_facsimile']
                 if fac.is_file():
@@ -299,7 +541,10 @@ def import_staged() -> dict:
             'não prova ausência da peça. Fontes alternativas oficiais abaixo.'
         ),
         'itens': {
-            slug: {k: v for k, v in item.items() if k != 'anexo_plain'}
+            slug: {
+                k: v for k, v in item.items()
+                if k not in {'anexo_plain', 'anexo_table_plain'}
+            }
             for slug, item in out['itens'].items()
         },
     }
@@ -326,12 +571,29 @@ def build_one(slug: str, recovered: dict) -> dict:
     md, proof = especies.build_markdown(item, html)
     meta, body = nl.parse_frontmatter(md)
     alt = recovered['fonte_alternativa']
+    published_annex = recovered.get('anexo_table_plain') or recovered['anexo_plain']
+    annex_note = alt.get('nota_transcricao')
+    if recovered.get('anexo_table_plain'):
+        annex_note = (
+            'Tabela transcrita visualmente nos quatro painéis impressos das páginas 3–4 do DOU; '
+            'o dump linear integral dessas páginas e o PDF original estão preservados nas provas. '
+            'A disposição explicita as células mescladas sem repetir o corpo operativo do ato.'
+        )
     anexo_md = annex_markdown(
         'ANEXO',
-        recovered['anexo_plain'],
+        published_annex,
         alt['url'],
         alt['sha256'],
+        annex_note,
     )
+    # A conversão do corpo original deixa um marcador para a tabela não
+    # reconhecida. Remova o marcador e o cabeçalho vazio antes de anexar a
+    # transcrição recuperada. A composição tipográfica em colunas da fonte
+    # alternativa ainda exige repetir o preâmbulo/corpo para preservar células
+    # que aparecem antes do título do anexo na ordem linear do PDF.
+    if slug == 'br-federal-resolucao-congresso-nacional-2013-11-22-3':
+        body = body.replace(r'\<\<TABELA\>\>', '').replace('<<TABELA>>', '')
+        meta['tabelas'] = 1
     # Evitar duplicar se já houver ANEXO no corpo convertido
     if re.search(r'(?im)^#\s*ANEXO\b', body) and len(re.findall(r'(?im)^#\s*ANEXO\b', body)) >= 1:
         # ainda assim anexamos a peça recuperada com cabeçalho distinto se o corpo não trouxe a íntegra
@@ -339,11 +601,43 @@ def build_one(slug: str, recovered: dict) -> dict:
             pass
     new_body = body.rstrip() + anexo_md
     meta['anexos_no_corpo'] = len(re.findall(r'(?im)^(?:#+\s*)?ANEXO\b', new_body))
+    if recovered.get('anexo_table_plain'):
+        # "ANEXO" e seu subtítulo "ANEXO I" formam uma única peça recuperada.
+        meta['anexos_no_corpo'] = 1
     meta['edicao_integral'] = True
     meta['fonte_conferencia'] = [alt['url']]
     meta['sha256_markdown'] = sha256(new_body.encode('utf-8'))
     meta['anexo_fonte_alternativa_url'] = alt['url']
     meta['anexo_fonte_alternativa_sha256'] = alt['sha256']
+    if alt.get('paginas_pdf_transcritas'):
+        meta['anexo_fonte_alternativa_paginas_pdf'] = alt['paginas_pdf_transcritas']
+        meta['anexo_paginas_duplicadas_omitidas'] = alt.get('paginas_duplicadas_omitidas', [])
+    if recovered.get('verificacao_visual_independente'):
+        visual = recovered['verificacao_visual_independente']
+        meta['anexo_colacao_visual_independente'] = {
+            'url': visual['url'],
+            'sha256_pdf': visual['sha256_pdf'],
+            'paginas_pdf': visual['pages_pdf'],
+            'paginas_impressas': visual['pages_printed'],
+            'codigos_autenticidade': visual['authentication_codes'],
+            'facsimiles': [
+                {
+                    'pagina_impressa': page['page_printed'],
+                    'sha256': page['sha256'],
+                    'snapshot': page['snapshot'],
+                }
+                for page in visual['facsimiles']
+            ],
+            **({
+                'dump_textual_integral': {
+                    'paginas_pdf': visual['textdump_pages'],
+                    'sha256': visual['textdump_sha256'],
+                    'snapshot': visual['textdump_snapshot'],
+                },
+            } if visual.get('textdump_snapshot') else {}),
+        }
+    if recovered.get('transcricao_tabela_visual'):
+        meta['anexo_transcricao_tabela_visual'] = recovered['transcricao_tabela_visual']
     meta['anexo_bloqueio_senado'] = (
         'PDF ANX Senado HTTP 200 com 0 bytes; peça recuperada em fonte oficial alternativa.'
     )
@@ -375,7 +669,8 @@ def update_lote_state(built: list[dict], recovered: dict) -> None:
     built_by = {b['slug']: b for b in built}
     for slug, b in built_by.items():
         col = coleta['itens'][slug]
-        alt = recovered['itens'][slug]['fonte_alternativa']
+        recovered_item = recovered['itens'][slug]
+        alt = recovered_item['fonte_alternativa']
         col['utilizavel'] = True
         col['estado_sugerido'] = 'publicado'
         col['motivo'] = 'anexos-recuperados-fonte-alternativa-oficial'
@@ -385,6 +680,14 @@ def update_lote_state(built: list[dict], recovered: dict) -> None:
             'orgao': alt['orgao'],
             'snapshot': alt['snapshot'],
         }
+        if alt.get('paginas_pdf_transcritas'):
+            col['anexo_fonte_alternativa']['paginas_pdf_transcritas'] = alt['paginas_pdf_transcritas']
+        if alt.get('paginas_duplicadas_omitidas'):
+            col['anexo_fonte_alternativa']['paginas_duplicadas_omitidas'] = alt['paginas_duplicadas_omitidas']
+        if recovered_item.get('verificacao_visual_independente'):
+            col['verificacao_visual_independente'] = recovered_item['verificacao_visual_independente']
+        if recovered_item.get('transcricao_tabela_visual'):
+            col['transcricao_tabela_visual'] = recovered_item['transcricao_tabela_visual']
         # fontes.json
         fontes[slug] = {
             'url': col.get('fonte_url'),
@@ -403,11 +706,14 @@ def update_lote_state(built: list[dict], recovered: dict) -> None:
             'data': col.get('data'),
             'urn': col.get('urn'),
             'anexo_fonte_alternativa': col['anexo_fonte_alternativa'],
+            **({'verificacao_visual_independente': col['verificacao_visual_independente']}
+               if col.get('verificacao_visual_independente') else {}),
+            **({'transcricao_tabela_visual': col['transcricao_tabela_visual']}
+               if col.get('transcricao_tabela_visual') else {}),
             'reconversao': 'corpo-html-mais-anexo-alternativo',
         }
         # manifesto
-        manifesto['documentos'] = [d for d in manifesto['documentos'] if d['id'] != slug]
-        manifesto['documentos'].append({
+        manifest_entry = {
             'id': slug,
             'arquivo': b['arquivo'],
             'tipo': 'RCN',
@@ -422,11 +728,25 @@ def update_lote_state(built: list[dict], recovered: dict) -> None:
             'sha256_fonte': col.get('sha256_fonte'),
             'sha256_markdown': b['sha256_markdown'],
             'anexo_fonte_alternativa': True,
-        })
+        }
+        existing_index = next(
+            (i for i, doc in enumerate(manifesto['documentos']) if doc['id'] == slug),
+            None,
+        )
+        if existing_index is None:
+            manifesto['documentos'].append(manifest_entry)
+        else:
+            manifesto['documentos'][existing_index] = manifest_entry
         cobertura['itens'][slug] = {
             **b.get('proof_convert', {}),
             'anexo_chars': b['chars_anexo'],
             'anexo_fonte_alternativa': alt['url'],
+            **({'anexo_paginas_pdf_transcritas': alt['paginas_pdf_transcritas']}
+               if alt.get('paginas_pdf_transcritas') else {}),
+            **({'verificacao_visual_independente': recovered_item['verificacao_visual_independente']}
+               if recovered_item.get('verificacao_visual_independente') else {}),
+            **({'transcricao_tabela_visual': recovered_item['transcricao_tabela_visual']}
+               if recovered_item.get('transcricao_tabela_visual') else {}),
         }
         # reconciliacao
         for item in rec['itens']:
