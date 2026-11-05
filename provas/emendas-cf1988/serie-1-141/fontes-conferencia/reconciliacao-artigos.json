@@ -1,0 +1,208 @@
+{
+  "issue": 63,
+  "papel": "comparacao-literal-artigos-operativos",
+  "metodo": "Texto HTML decodificado segundo charset da fonte, tags removidas preservando texto inline, entidades decodificadas, whitespace colapsado apenas. Pontuação, caixa, acentos e ordinal são comparados literalmente.",
+  "items": [
+    {
+      "emenda": 9,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1995-11-09-9.md",
+      "fonte_snapshot": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/fontes/camara-ec-009-publicacaooriginal-2026-11-05.html.xz",
+      "artigos_comparados": [
+        {
+          "dispositivo": "Art. 1º",
+          "igual_literal": false,
+          "diferencas": [
+            {
+              "operacao": "delete",
+              "fonte_literal": ".",
+              "markdown_literal": ""
+            },
+            {
+              "operacao": "insert",
+              "fonte_literal": "",
+              "markdown_literal": "..................................."
+            },
+            {
+              "operacao": "insert",
+              "fonte_literal": "",
+              "markdown_literal": ".................................."
+            }
+          ]
+        },
+        {
+          "dispositivo": "Art. 2º",
+          "igual_literal": false,
+          "diferencas": [
+            {
+              "operacao": "delete",
+              "fonte_literal": ".",
+              "markdown_literal": ""
+            },
+            {
+              "operacao": "insert",
+              "fonte_literal": "",
+              "markdown_literal": "........................................"
+            },
+            {
+              "operacao": "insert",
+              "fonte_literal": "",
+              "markdown_literal": "......................................."
+            },
+            {
+              "operacao": "insert",
+              "fonte_literal": "",
+              "markdown_literal": "\""
+            },
+            {
+              "operacao": "delete",
+              "fonte_literal": "\"",
+              "markdown_literal": ""
+            }
+          ]
+        },
+        {
+          "dispositivo": "Art. 3º",
+          "igual_literal": true,
+          "diferencas": []
+        }
+      ],
+      "textos_fonte": [
+        {
+          "dispositivo": "Art. 1º",
+          "texto_literal": "Art. 1º O § 1º do art. 177 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 177. ..................................................................................... ..................................................................................................... § 1º A União poderá contratar com empresas estatais ou privadas a realização das atividades previstas nos incisos I a IV deste artigo observadas as condições estabelecidas em lei.\"",
+          "sha256_texto_normalizado_whitespace": "3e0f70870a210f5f477be4869b16eef308e0ff9dc38cd4f0f8a3abf4c4312208"
+        },
+        {
+          "dispositivo": "Art. 2º",
+          "texto_literal": "Art. 2º Inclua-se um parágrafo, a ser enumerado como § 2º com a redação seguinte, passando o atual § 2º para § 3º, no art. 177 da Constituição Federal: \"Art. 177. .................................................................................. .................................................................................................. § 2º A lei a que se refere o § 1º disporá sobre: I - a garantia do fornecimento dos derivados de petróleo em todo o território nacional; II - as condições de contratação; III - a estrutura e atribuições do órgão regulador do monopólio da União.\"",
+          "sha256_texto_normalizado_whitespace": "fc3fb37f9df416067acd7c74b12dad0e3512aa75477361ca250d07dfb5a8e79f"
+        },
+        {
+          "dispositivo": "Art. 3º",
+          "texto_literal": "Art. 3º É vedada a edição de medida provisória para a regulamentação da matéria prevista nos incisos I a IV e dos §§ 1º e 2º do art. 177 da Constituição Federal.",
+          "sha256_texto_normalizado_whitespace": "21be7713795e60c4bbe862fd79a7fd10acd670a294fa9387905009675c3ffdac"
+        }
+      ],
+      "textos_markdown": [
+        {
+          "dispositivo": "Art. 1º",
+          "texto_literal": "Art. 1º O § 1º do art. 177 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 177 ........................................................................................................................ ....................................................................................................................................... § 1º A União poderá contratar com empresas estatais ou privadas a realização das atividades previstas nos incisos I a IV deste artigo observadas as condições estabelecidas em lei.\"",
+          "sha256_texto_normalizado_whitespace": "dd46be62a34544f6a46dca3a43e953532bac776cf51dad25a5307919e1da9c9a"
+        },
+        {
+          "dispositivo": "Art. 2º",
+          "texto_literal": "Art. 2º Inclua-se um parágrafo, a ser enumerado como § 2º com a redação seguinte, passando o atual § 2º para § 3º, no art. 177 da Constituição Federal: \"Art. 177 .......................................................................................................................... ......................................................................................................................................... § 2º A lei a que se refere o § 1º disporá sobre: I - a garantia do fornecimento dos derivados de petróleo em todo o território nacional; II - as condições de contratação; III - a estrutura e atribuições do órgão regulador do monopólio da União\".",
+          "sha256_texto_normalizado_whitespace": "26d4a596bba5cf5dba8ddf0570108f312da738515df2d123843f82d9f3fae2cd"
+        },
+        {
+          "dispositivo": "Art. 3º",
+          "texto_literal": "Art. 3º É vedada a edição de medida provisória para a regulamentação da matéria prevista nos incisos I a IV e dos §§ 1º e 2º do art. 177 da Constituição Federal.",
+          "sha256_texto_normalizado_whitespace": "21be7713795e60c4bbe862fd79a7fd10acd670a294fa9387905009675c3ffdac"
+        }
+      ]
+    },
+    {
+      "emenda": 12,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1996-08-15-12.md",
+      "fonte_snapshot": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/fontes/camara-ec-012-publicacaooriginal-2026-11-05.html.xz",
+      "artigos_comparados": [
+        {
+          "dispositivo": "Artigo único",
+          "igual_literal": false,
+          "diferencas": [
+            {
+              "operacao": "replace",
+              "fonte_literal": "ú",
+              "markdown_literal": "Ú"
+            },
+            {
+              "operacao": "replace",
+              "fonte_literal": "º",
+              "markdown_literal": "°"
+            },
+            {
+              "operacao": "replace",
+              "fonte_literal": "º",
+              "markdown_literal": "°"
+            },
+            {
+              "operacao": "replace",
+              "fonte_literal": "º",
+              "markdown_literal": "°"
+            },
+            {
+              "operacao": "replace",
+              "fonte_literal": "º",
+              "markdown_literal": "°"
+            },
+            {
+              "operacao": "replace",
+              "fonte_literal": "º",
+              "markdown_literal": "°"
+            },
+            {
+              "operacao": "replace",
+              "fonte_literal": "º",
+              "markdown_literal": "°"
+            }
+          ]
+        }
+      ],
+      "textos_fonte": [
+        {
+          "dispositivo": "Artigo único",
+          "texto_literal": "Artigo único. Fica incluído o art. 74 no Ato das Disposições Constitucionais Transitórias, com a seguinte redação: \"Art. 74. A União poderá instituir contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira. § 1º À alíquota da contribuição de que trata este artigo não excederá a vinte e cinco centésimos por cento, facultado ao Poder Executivo reduzi-la ou restabelecê-la, total ou parcialmente, nas condições e limites fixados em lei. § 2º À contribuição de que trata este artigo não se aplica o disposto nos arts. 153, § 5º, e 154, I, da Constituição. § 3º O produto da arrecadação da contribuição de que trata este artigo será destinado integralmente ao Fundo Nacional de Saúde, para financiamento das ações e serviços de saúde. § 4º À contribuição de que trata este artigo terá sua exigibilidade subordinada ao disposto no art. 195, § 6º, da Constituição, e não poderá ser cobrada por prazo superior a dois anos\".",
+          "sha256_texto_normalizado_whitespace": "2b21941e8eda63d5198c0078ed0d8129e5352469304f6300835849ea64d379c0"
+        }
+      ],
+      "textos_markdown": [
+        {
+          "dispositivo": "Artigo único",
+          "texto_literal": "Artigo Único. Fica incluído o art. 74 no Ato das Disposições Constitucionais Transitórias, com a seguinte redação: \"Art. 74. A União poderá instituir contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira. § 1° À alíquota da contribuição de que trata este artigo não excederá a vinte e cinco centésimos por cento, facultado ao Poder Executivo reduzi-la ou restabelecê-la, total ou parcialmente, nas condições e limites fixados em lei. § 2° À contribuição de que trata este artigo não se aplica o disposto nos arts. 153, § 5°, e 154, I, da Constituição. § 3° O produto da arrecadação da contribuição de que trata este artigo será destinado integralmente ao Fundo Nacional de Saúde, para financiamento das ações e serviços de saúde. § 4° À contribuição de que trata este artigo terá sua exigibilidade subordinada ao disposto no art. 195, § 6°, da Constituição, e não poderá ser cobrada por prazo superior a dois anos\".",
+          "sha256_texto_normalizado_whitespace": "47d0f2f063f0a9c41b7501d31b23ffcf113fc9b220c02dc54cefc1960822e940"
+        }
+      ]
+    },
+    {
+      "emenda": 44,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2004-06-30-44.md",
+      "fonte_snapshot": "provas/emendas-cf1988/serie-1-141/fontes-conferencia/fontes/planalto-emc044-2026-11-05.html.xz",
+      "artigos_comparados": [
+        {
+          "dispositivo": "Art. 1º",
+          "igual_literal": true,
+          "diferencas": []
+        },
+        {
+          "dispositivo": "Art. 2º",
+          "igual_literal": true,
+          "diferencas": []
+        }
+      ],
+      "textos_fonte": [
+        {
+          "dispositivo": "Art. 1º",
+          "texto_literal": "Art. 1º O inciso III do art. 159 da Constituição passa a vigorar com a seguinte redação: \"Art. 159. ................................................................. ................................................................. III - do produto da arrecadação da contribuição de intervenção no domínio econômico prevista no art. 177, § 4º, 29% (vinte e nove por cento) para os Estados e o Distrito Federal, distribuídos na forma da lei, observada a destinação a que se refere o inciso II, c, do referido parágrafo. ................................................................. (NR)",
+          "sha256_texto_normalizado_whitespace": "71c6432f4b87adf6bbc8e8a3894546ee56671afaa63b2a54dbc5c3967609ccf0"
+        },
+        {
+          "dispositivo": "Art. 2º",
+          "texto_literal": "Art. 2º Esta Emenda à Constituição entra em vigor na data de sua publicação.",
+          "sha256_texto_normalizado_whitespace": "dfbd7e89bece137257a6fd81793ff2b3117ea07a1e94d08b2e940b0deb922df2"
+        }
+      ],
+      "textos_markdown": [
+        {
+          "dispositivo": "Art. 1º",
+          "texto_literal": "Art. 1º O inciso III do art. 159 da Constituição passa a vigorar com a seguinte redação: \"Art. 159. ................................................................. ................................................................. III - do produto da arrecadação da contribuição de intervenção no domínio econômico prevista no art. 177, § 4º, 29% (vinte e nove por cento) para os Estados e o Distrito Federal, distribuídos na forma da lei, observada a destinação a que se refere o inciso II, c, do referido parágrafo. ................................................................. (NR)",
+          "sha256_texto_normalizado_whitespace": "71c6432f4b87adf6bbc8e8a3894546ee56671afaa63b2a54dbc5c3967609ccf0"
+        },
+        {
+          "dispositivo": "Art. 2º",
+          "texto_literal": "Art. 2º Esta Emenda à Constituição entra em vigor na data de sua publicação.",
+          "sha256_texto_normalizado_whitespace": "dfbd7e89bece137257a6fd81793ff2b3117ea07a1e94d08b2e940b0deb922df2"
+        }
+      ]
+    }
+  ]
+}

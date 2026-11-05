@@ -1,0 +1,2118 @@
+{
+  "metodo": "segmentação por títulos de artigos principais fora de aspas, separando um título após aspas/NR; comparação artigo por artigo após remover marcação HTML/Markdown e colapsar apenas espaços; pontuação, caixa e glifos mantidos como diferenças literais",
+  "limites": [
+    "comparação automatizada não certifica equivalência jurídica",
+    "divergências e dispositivos não pareados exigem revisão explícita",
+    "proveniência original dos Markdown antigos permanece desconhecida"
+  ],
+  "items": [
+    {
+      "emenda": 1,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1992-03-31-1.md",
+      "fonte_conferencia_url": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Afederal%3Aemenda.constitucional%3A1992-03-31%3B1&tipo_documento=maior-detalhe",
+      "tipo_conferencia": "versao-original-estruturada-senado-normas.leg.br",
+      "identidade_confirmada": {
+        "tipo": "EMC-n",
+        "numero": "1",
+        "data_assinatura": "31/03/1992",
+        "id_norma": "593578",
+        "urn": "EMC-1-1992-03-31",
+        "url_documento": "https://normas.leg.br/?urn=urn:lex:br:federal:emenda.constitucional:1992-03-31;1",
+        "publicacao_original": {
+          "id": "14225820",
+          "fonte": "Diário Oficial da União  de 06/04/1992",
+          "sigla_fonte": "DOU-1992-04-06",
+          "data": "06/04/1992",
+          "pagina": "4291",
+          "tem_texto": "S"
+        },
+        "versao_catalogo_senado": "05/11/2026 08:54:25"
+      },
+      "componentes_comparados": [
+        {
+          "componente": "epigrafe",
+          "markdown_disponivel": true,
+          "fonte_disponivel": true,
+          "markdown_chars": 35,
+          "fonte_chars": 50,
+          "sha256_markdown_normalizado": "c78e4f12f6d7c8d4acae7acfc405880112779d8bfe6cdca4e9a441d56320e542",
+          "sha256_fonte_normalizado": "e312c6df965cb4968bfce8582ab6a2960986bec77e31f4139985436748e34608",
+          "igual_apos_remover_marcacao_e_colapsar_espacos": false,
+          "divergencia_markdown": "EMENDA CONSTITUCIONAL Nº 1, DE 1992",
+          "divergencia_fonte": "Emenda Constitucional nº 1, de 31 de março de 1992"
+        },
+        {
+          "componente": "ementa",
+          "markdown_disponivel": true,
+          "fonte_disponivel": true,
+          "markdown_chars": 68,
+          "fonte_chars": 68,
+          "sha256_markdown_normalizado": "5363e84f94ea3c45cfa2683940b107f5268dd386b9300d97f8a0c72f906b37cc",
+          "sha256_fonte_normalizado": "5363e84f94ea3c45cfa2683940b107f5268dd386b9300d97f8a0c72f906b37cc",
+          "igual_apos_remover_marcacao_e_colapsar_espacos": true,
+          "divergencia_markdown": null,
+          "divergencia_fonte": null
+        },
+        {
+          "componente": "preambulo",
+          "markdown_disponivel": true,
+          "fonte_disponivel": true,
+          "markdown_chars": 161,
+          "fonte_chars": 161,
+          "sha256_markdown_normalizado": "8edb8d5d47ee015924246ac3f88ec790c327bce1022c171dcdc602eb1d2acf59",
+          "sha256_fonte_normalizado": "8edb8d5d47ee015924246ac3f88ec790c327bce1022c171dcdc602eb1d2acf59",
+          "igual_apos_remover_marcacao_e_colapsar_espacos": true,
+          "divergencia_markdown": null,
+          "divergencia_fonte": null
+        },
+        {
+          "componente": "Art. 1",
+          "markdown_disponivel": true,
+          "fonte_disponivel": true,
+          "markdown_chars": 766,
+          "fonte_chars": 539,
+          "sha256_markdown_normalizado": "7640b5e13d88c38a114f40f0a3b4d413b61cc1746d94afcf6f2703aa864336e6",
+          "sha256_fonte_normalizado": "272d648c760edc67255e88f5c4d80b450fdcecab7206e93ccb13ac3d514ac472",
+          "igual_apos_remover_marcacao_e_colapsar_espacos": false,
+          "divergencia_markdown": "Art. 1º O § 2º do art. 27 da Constituição passa a vigorar com a seguinte redação: “Art. 27 .................................................................................................................. ..............",
+          "divergencia_fonte": "Art. 1º O § 2º do art. 27 da Constituição passa a vigorar com a seguinte redação: Art. 27. ............................................... ............................................... § 2º A remuneração dos Deputados "
+        },
+        {
+          "componente": "Art. 2",
+          "markdown_disponivel": true,
+          "fonte_disponivel": true,
+          "markdown_chars": 689,
+          "fonte_chars": 541,
+          "sha256_markdown_normalizado": "54f12d7f383a58cf9bee4da5aa6092c18fe750ff8638243090c19896534c2479",
+          "sha256_fonte_normalizado": "e8037cb251aa0135a770e12c84fe34fcadd804837017039dadccf981957dfcec",
+          "igual_apos_remover_marcacao_e_colapsar_espacos": false,
+          "divergencia_markdown": "Art. 2º São acrescentados ao art. 29 da Constituição os seguintes incisos, VI e VII, renumerando-se os demais: “Art. 29 ....................................................................................................",
+          "divergencia_fonte": "Art. 2º São acrescentados ao art. 29 da Constituição os seguintes incisos, VI e VII, renumerando-se os demais: Art. 29. ............................................... VI – a remuneração dos Vereadores corresponderá a, n"
+        },
+        {
+          "componente": "Art. 3",
+          "markdown_disponivel": true,
+          "fonte_disponivel": true,
+          "markdown_chars": 542,
+          "fonte_chars": 76,
+          "sha256_markdown_normalizado": "dd7a31bea9af846217c0f42ab50b1c9b6641e4b4d0e52bf4aebe71bc66b56dc0",
+          "sha256_fonte_normalizado": "a7dcf287441044e6c52059ce52ca5d8dd87374e53f99613d12b9f55a4e261c5b",
+          "igual_apos_remover_marcacao_e_colapsar_espacos": false,
+          "divergencia_markdown": "Art. 3º Esta Emenda Constitucional entra em vigor na data de sua publicação. Brasília, 31 de março de 1992. A MESA DA CÂMARA DOS DEPUTADOS DEPUTADO IBSEN PINHEIRO Presidente Deputado WALDIR PIRES 2º Vice-Presidente Deput",
+          "divergencia_fonte": "Art. 3º Esta Emenda Constitucional entra em vigor na data de sua publicação."
+        },
+        {
+          "componente": "fecho",
+          "markdown_disponivel": true,
+          "fonte_disponivel": true,
+          "markdown_chars": 30,
+          "fonte_chars": 30,
+          "sha256_markdown_normalizado": "1f5d464284aa95c544fd7e12bb08bb9f39839d06369705343eb8deeb9e905505",
+          "sha256_fonte_normalizado": "1f5d464284aa95c544fd7e12bb08bb9f39839d06369705343eb8deeb9e905505",
+          "igual_apos_remover_marcacao_e_colapsar_espacos": true,
+          "divergencia_markdown": null,
+          "divergencia_fonte": null
+        },
+        {
+          "componente": "assinaturas",
+          "markdown_disponivel": true,
+          "fonte_disponivel": true,
+          "markdown_chars": 434,
+          "fonte_chars": 690,
+          "sha256_markdown_normalizado": "8cc1d804ffbf7766193f51f61a4074a76a656becbdeb74ceceabdbc830bdc9ee",
+          "sha256_fonte_normalizado": "29fe8222e528f65754c22cc012a847749b719141a46d3ec3a0b3fdaf27f69777",
+          "igual_apos_remover_marcacao_e_colapsar_espacos": false,
+          "divergencia_markdown": "A MESA DA CÂMARA DOS DEPUTADOS DEPUTADO IBSEN PINHEIRO Presidente Deputado WALDIR PIRES 2º Vice-Presidente Deputado CUNHA BUENO 3º Secretário Deputado MAX ROSENMANN 4º Secretário A MESA DO SENADO FEDERAL SENADOR MAURO BE",
+          "divergencia_fonte": "A MESA DA CÂMARA DOS DEPUTADOS DEPUTADO IBSEN PINHEIRO Presidente Deputado WALDIR PIRES 2º Vice-Presidente Deputado CUNHA BUENO 3º Secretário Deputado MAX ROSENMANN 4º Secretário A MESA DO SENADO FEDERAL SENADOR MAURO BE"
+        }
+      ],
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "resultado_literal": "divergencias-e-escopo-estruturado-registrados",
+      "limites": [
+        "Árvore de versão original não é reprodução binária/imagem da publicação do DOU.",
+        "Nomes de rótulos e segmentos são nós estruturais; serialização achatada é útil para confronto literal, mas não substitui inspeção hierárquica.",
+        "Nenhuma equivalência ou substituição do corpo legado é inferida."
+      ],
+      "campos_catalograficos_adicionais": {
+        "headline_markdown": "EMENDA CONSTITUCIONAL Nº 1, DE 1992",
+        "headline_senado": "Emenda Constitucional nº 1, de 31 de março de 1992",
+        "abstract_catalogo": "Dispõe sobre a remuneração dos Deputados Estaduais e do Vereadores.",
+        "ementa_componente_estruturado": "Dispõe sobre a remuneração dos Deputados Estaduais e dos Vereadores.",
+        "abstract_vs_ementa": "divergente: o campo abstract do catálogo tem “do Vereadores”; o componente Ementa usa “dos Vereadores” e coincide com o Markdown legado",
+        "decisao": "manter ambos os valores e os snapshots; nenhuma correção ou equivalência presumida"
+      }
+    },
+    {
+      "emenda": 2,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1992-08-25-2.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/1992/emendaconstitucional-2-25-agosto-1992-354965-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 1,
+      "artigos_fonte": 1,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "unico",
+          "sha256_markdown_colapsa_espacos": "12e20beddd9422f3c763416b7fa4f9ddfad9b2f0568f936dfe2896a93b83fae1",
+          "sha256_fonte_colapsa_espacos": "852d47d43ce63d092a965ba0c468a37a03ab42b1f328f1d49ca41f433305f53e",
+          "chars_markdown": 1386,
+          "chars_fonte": 1386,
+          "divergencia_markdown": "iço público, assegurada igualdade de tempo e paridade de horários. § 3.º A norma constante do parágrafo anterior não exclui a competência do Tribunal Superior Eleitoral para expedir instruções necessárias à realização da",
+          "divergencia_fonte": "iço público, assegurada igualdade de tempo e paridade de horários. § 3º A norma constante do parágrafo anterior não exclui a competência do Tribunal Superior Eleitoral para expedir instruções necessárias à realização da "
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 3,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1993-03-17-3.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/1993/emendaconstitucional-3-17-marco-1993-354966-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 6,
+      "artigos_fonte": 6,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "508f05c6bd408a5baa1536c9d73699f4c484cfcb44313483d81cd77784419045",
+          "sha256_fonte_colapsa_espacos": "97abf0e41788ac4d90626250c20955608a891c266ceb98bca6af0568204af77a",
+          "chars_markdown": 6534,
+          "chars_fonte": 5885,
+          "divergencia_markdown": "deral abaixo enumerados passam a vigorar com as seguintes alterações: “Art. 40............................................................................................................................ .................",
+          "divergencia_fonte": "deral abaixo enumerados passam a vigorar com as seguintes alterações: \"Art. 40. .................................................................................... ......................................................."
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "78e38f1b5af6c2ecfb8b93d7960e221f9edd59f898b5ceef780dd4318e5319bc",
+          "sha256_fonte_colapsa_espacos": "d6ef24d030d815f0a6c31cae3c55c756c160d489fb57e6e170cddb16568e14f9",
+          "chars_markdown": 284,
+          "chars_fonte": 285,
+          "divergencia_markdown": "e desta Emenda Constitucional, somente produzirá efeitos a partir de 1º de janeiro de 1996, reduzindo-se a correspondente alíquota, pelo menos, a dois e meio por cento no exercício financeiro de 1995.",
+          "divergencia_fonte": "e desta Emenda Constitucional, somente produzirá efeitos a partir de 1.º de janeiro de 1996, reduzindo-se a correspondente alíquota, pelo menos, a dois e meio por cento no exercício financeiro de 1995."
+        },
+        {
+          "artigo": "6",
+          "sha256_markdown_colapsa_espacos": "f02ead0eaf8e807b9919eac7fe824f9999bace074579bc76cf078c7d0f89ac86",
+          "sha256_fonte_colapsa_espacos": "19555b016928ce955a6cb5555ba6828fc7e3447a4e82e1268a1a20717c9912b6",
+          "chars_markdown": 640,
+          "chars_fonte": 639,
+          "divergencia_markdown": "o art. 156 da Constituição Federal. Brasília, 17 de março de 1993. A MESA DA CÂMARA DOS DEPUTADOS DEPUTADO INOCÊNCIO OLIVEIRA Presidente Deputado ADYLSON MOTTA 1º Vice-Presidente Deputado FERNANDO LYRA 2º Vice-Presidente",
+          "divergencia_fonte": "o art. 156 da Constituição Federal. Brasília, 17 de março de 1993. A Mesa da Câmara dos Deputados A Mesa do Senado Federal Deputado INOCÊNCIO OLIVEIRA Presidente Senador HUMBERTO LUCENA Presidente Deputado ADYLSON MOTTA "
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 4,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1993-09-14-4.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/1993/emendaconstitucional-4-14-setembro-1993-366933-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 1,
+      "artigos_fonte": 1,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "unico",
+          "sha256_markdown_colapsa_espacos": "abc91e20e97ae4189977830d3ed2c4a3af626882c16dc20f7669b206af362e8a",
+          "sha256_fonte_colapsa_espacos": "d00c20e28f2a18d88ef9a296a111d3e5c31259b70b0d48ca1231a8d9bb72e13a",
+          "chars_markdown": 659,
+          "chars_fonte": 659,
+          "divergencia_markdown": "t. 16 da Constituição Federal passa a vigorar com a seguinte redação: “Art. 16. A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data ",
+          "divergencia_fonte": "t. 16 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 16. A lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data "
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 10,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1996-03-04-10.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/1996/emendaconstitucional-10-4-marco-1996-354958-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "691e181310ee1e1c1119f38fa55d7df9e0ba6ff98a389a5fe3afe5f84170ebe3",
+          "sha256_fonte_colapsa_espacos": "9ec1508fee38e1f45f50296827abc3b30785ab125be0194e9e9c11a3625e20e6",
+          "chars_markdown": 1130,
+          "chars_fonte": 1130,
+          "divergencia_markdown": " Constitucionais Transitórias passa a vigorar com a seguinte redação: “Art. 71. Fica instituído, nos exercícios financeiros de 1994 e 1995, bem assim no período de 1º de janeiro de 1996 a 30 de junho de 1997, o Fundo Soc",
+          "divergencia_fonte": " Constitucionais Transitórias passa a vigorar com a seguinte redação: \"Art. 71. Fica instituído, nos exercícios financeiros de 1994 e 1995, bem assim no período de 1º de janeiro de 1996 a 30 de junho de 1997, o Fundo Soc"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "2b9fe198c877a337348107b73a982028f7ffe843dc4d345e4dbd3d29658cd85f",
+          "sha256_fonte_colapsa_espacos": "79e1d948c2e8e6aa84da28fb92c0e516705df82fffd68f36918f8c6bfc4744c1",
+          "chars_markdown": 3004,
+          "chars_fonte": 2982,
+          "divergencia_markdown": ".............................................................................; II - a parcela do produto da arrecadação do imposto sobre renda e proventos de qualquer natureza e do imposto sobre operações de crédito, câm",
+          "divergencia_fonte": "......................................................................; II - a parcela do produto da arrecadação do imposto sobre renda e proventos de qualquer natureza e do imposto sobre operações de crédito, câmbio e s"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "de3cb83f870e78c4679374bcbd772c14dae5e957cfd7f30ec31aaffdbba5f3f4",
+          "sha256_fonte_colapsa_espacos": "b2efe5c8c86cb027358e28944358fabe130e9ee32635846187b2685e78faa076",
+          "chars_markdown": 684,
+          "chars_fonte": 683,
+          "divergencia_markdown": "entra em vigor na data de sua publicação. Brasília, 4 de março de 1996. MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado LUÍS EDUARDO Senador JOSÉ SARNEY Presidente Presidente Deputado RONALDO PERIM Senador T",
+          "divergencia_fonte": "entra em vigor na data de sua publicação. Brasília, 4 de março de 1996 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado LUÍS EDUARDO Senador JOSÉ SARNEY Presidente Presidente Deputado RONALDO PERIM Senador TE"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 14,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1996-09-12-14.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/1996/emendaconstitucional-14-12-setembro-1996-372814-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 6,
+      "artigos_fonte": 6,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "c44ce284c0ca75e87717d194d659e41b8ed35fb0f5e6b429924678115ca579d2",
+          "sha256_fonte_colapsa_espacos": "0a6674f98fe7a1d866959ef15ec82f8756cd41a3479b05ab9e53ee241f95d806",
+          "chars_markdown": 268,
+          "chars_fonte": 268,
+          "divergencia_markdown": "art. 34, da Constituição Federal, a alínea e, com a seguinte redação: “e) aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvim",
+          "divergencia_fonte": "art. 34, da Constituição Federal, a alínea e, com a seguinte redação: \"e) aplicação do mínimo exigido da receita resultante de impostos estaduais, compreendida a proveniente de transferências, na manutenção e desenvolvim"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "c76778f8d23190f9070fc180c774945181c7577a75250bf8dd57db61f322c179",
+          "sha256_fonte_colapsa_espacos": "5e6318a637408378de5b5f6d22f505ca6a027024fd91a6d0f656716589cc9ed7",
+          "chars_markdown": 308,
+          "chars_fonte": 308,
+          "divergencia_markdown": "isos I e II do art. 208 da Constituição Federal nos seguintes termos: “I - ensino fundamental obrigatório e gratuito, assegurada, inclusive, sua oferta gratuita para todos os que a ele não tiveram acesso na idade própria",
+          "divergencia_fonte": "isos I e II do art. 208 da Constituição Federal nos seguintes termos: \"I - ensino fundamental obrigatório e gratuito, assegurada, inclusive, sua oferta gratuita para todos os que a ele não tiveram acesso na idade própria"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "a6891b2ba13dfcbc253d5982aa627bfa296a9d27fd4cfe3a6a96ae9db20c1ea6",
+          "sha256_fonte_colapsa_espacos": "b57ec9ae37705c2255abb258085e448cb542a0d2126b3ce98d1364e2bb97a2d2",
+          "chars_markdown": 1017,
+          "chars_fonte": 988,
+          "divergencia_markdown": "É dada nova redação aos §§ 1° e 2° do art. 211 da Constituição Federal e nele são inseridos mais dois parágrafos, passando a ter a seguinte redação: “Art. 211. ..................",
+          "divergencia_fonte": "É dada nova redação aos §§ 1º e 2º do art. 211 da Constituição Federal e nele são inseridos mais dois parágrafos, passando a ter a seguinte redação: \"Art. 211. .................."
+        },
+        {
+          "artigo": "4",
+          "sha256_markdown_colapsa_espacos": "16296b9a0e207f46f44ebfb70f4eacee9605ae9c197bfd353cfd71d18cbcfa3a",
+          "sha256_fonte_colapsa_espacos": "5f46d0e619e2d43a62d2273b0214c0fa329f14b0e1c8927600404921f4317acd",
+          "chars_markdown": 250,
+          "chars_fonte": 250,
+          "divergencia_markdown": "É dada nova redação ao § 5° do art. 212 da Constituição Federal nos seguintes termos: “§ 5º O ensino fundamental público terá como fonte adicional de financiamento a contribuiç",
+          "divergencia_fonte": "É dada nova redação ao § 5º do art. 212 da Constituição Federal nos seguintes termos: \"§ 5º O ensino fundamental público terá como fonte adicional de financiamento a contribuiç"
+        },
+        {
+          "artigo": "5",
+          "sha256_markdown_colapsa_espacos": "8e37b1eed05db4f0cec902ee04f9cc85bf2e8621bdf0c5a430c37a51386455a2",
+          "sha256_fonte_colapsa_espacos": "55262a3a970b30ae837721374cae274f465a094c52c5e4b35e500c6c23c93405",
+          "chars_markdown": 2471,
+          "chars_fonte": 2471,
+          "divergencia_markdown": "seridos novos parágrafos, passando o artigo a ter a seguinte redação: “Art. 60. Nos dez primeiros anos da promulgação desta Emenda, os Estados, o Distrito Federal e os Municípios destinarão não menos de sessenta por cent",
+          "divergencia_fonte": "seridos novos parágrafos, passando o artigo a ter a seguinte redação: \"Art. 60. Nos dez primeiros anos da promulgação desta Emenda, os Estados, o Distrito Federal e os Municípios destinarão não menos de sessenta por cent"
+        },
+        {
+          "artigo": "6",
+          "sha256_markdown_colapsa_espacos": "180af22bb71f79b6372c92f81eaed84c98c7a3e0b5c2ffbe89e32118825b8325",
+          "sha256_fonte_colapsa_espacos": "d2ce8120970f7dc45bbed14c8fd43e3c950f08390f227fc2cbf7036299dcc8c7",
+          "chars_markdown": 725,
+          "chars_fonte": 725,
+          "divergencia_markdown": "subseqüente ao de sua promulgação. Brasília, 12 de setembro de 1996. MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado LUIZ EDUARDO Senador JOSÉ SARNEY Presidente Presidente Deputado RONALDO PERIM Senador TEOT",
+          "divergencia_fonte": "subseqüente ao de sua promulgação. Brasília, 12 de setembro de 1996. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado LUIZ EDUARDO Presidente Senador JOSÉ SARNEY Presidente Deputado RONALDO PERIM 1º Vice-Pres"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 17,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1997-11-22-17.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/1997/emendaconstitucional-17-22-novembro-1997-366983-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 6,
+      "artigos_fonte": 6,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "b5bccce88060d15d8aeba61fe1abcf32de1f1a576876cdc33f0edd39e710ee5c",
+          "sha256_fonte_colapsa_espacos": "bededcddb0fbd74416c6c755ea0e97ff0f4545864b6e3aaca72889c50a289ad3",
+          "chars_markdown": 863,
+          "chars_fonte": 863,
+          "divergencia_markdown": " Constitucionais Transitórias passa a vigorar com a seguinte redação: “Art. 71. É Instituído, nos exercícios financeiros de 1994 e 1995, bem assim nos períodos de 1º de janeiro de 1996 a 30 de junho de 1997 e 1º de julho",
+          "divergencia_fonte": " Constitucionais Transitórias passa a vigorar com a seguinte redação: \"Art. 71. É Instituído, nos exercícios financeiros de 1994 e 1995, bem assim nos períodos de 1º de janeiro de 1996 a 30 de junho de 1997 e 1º de julho"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "d2a7f407030315596c64efe97046083607f7270393cc12e2de0f859b7968e813",
+          "sha256_fonte_colapsa_espacos": "7237791137c0ac8cbea96475e6736b6679e7a6795735d7aa2c44ca8286d6ece6",
+          "chars_markdown": 737,
+          "chars_fonte": 739,
+          "divergencia_markdown": "inciso V do art. 72 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação: “V - a parcela do produto da arrecadaç",
+          "divergencia_fonte": "O inciso V do art. 72 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação: \"V - a parcela do produto da arrecad"
+        },
+        {
+          "artigo": "6",
+          "sha256_markdown_colapsa_espacos": "844387b052d9257eec6782286e7a94e2bea8ae6e223d50474a9001560c58da8b",
+          "sha256_fonte_colapsa_espacos": "22214439c8a5d23eaeea130bf5a6216937e1175c669dddecec42fb924c554e47",
+          "chars_markdown": 666,
+          "chars_fonte": 706,
+          "divergencia_markdown": "ice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Presidente Senadora JÚNIA MARISE 2º Vice-Presidente Deputado UBIRATAN AGUIAR 1º Secretário Senador RONALDO CUNHA LIMA 1º Secretário Deputado NELSON TRAD 2º Secretário S",
+          "divergencia_fonte": "ice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Presidente Senador GERALDO MELO 1º Vice-Presidente Deputado UBIRATAN AGUIAR 1º Secretário Senadora JÚNIA MARISE 2º Vice-Presidente Deputado NELSON TRAD 2º Secretário Se"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 18,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1998-02-05-18.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/1998/emendaconstitucional-18-5-fevereiro-1998-366984-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 5,
+      "artigos_fonte": 5,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "57d307d6523c65b7ab4e1d6233be831b32e78c274e68bfb057f436e00c7c2534",
+          "sha256_fonte_colapsa_espacos": "044d05bff6de1ce8fd2c73c1f983be0e864b078b55f8e06b9b4379c5f6ca30ed",
+          "chars_markdown": 653,
+          "chars_fonte": 525,
+          "divergencia_markdown": "........................................................................................................... ................................................................................................................",
+          "divergencia_fonte": "...................................................................... .................................................................................................. XV - os vencimentos dos servidores públicos são ir"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "bb29fbfe612579c0acd31c681cd921cd1fab606678e8353e55a3ef1274c70f42",
+          "sha256_fonte_colapsa_espacos": "b6e0b5e8690090c11a559556c4194e89c9c53a1450216b67d11c420bc8bd296a",
+          "chars_markdown": 1084,
+          "chars_fonte": 1085,
+          "divergencia_markdown": "L E DOS TERRITÓRIOS\", dando-se ao art. 42 a seguinte redação: \"Art. 42 Os membros das Polícias Militares e Corpos de Bombeiros Militares, instituições organizadas com base na hierarquia e disciplina, são militares dos Es",
+          "divergencia_fonte": "L E DOS TERRITÓRIOS\", dando-se ao art. 42 a seguinte redação: \"Art. 42. Os membros das Polícias Militares e Corpos de Bombeiros Militares, instituições organizadas com base na hierarquia e disciplina, são militares dos E"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "41c9b9b4071e4f7e76a6e57bd1a9b1322a09529480cf2edefe96f8b467fe32cd",
+          "sha256_fonte_colapsa_espacos": "cf2d501900123465bfa7a90dad446b15ad97179b4ac229ccfce58a5b145182ab",
+          "chars_markdown": 1059,
+          "chars_fonte": 938,
+          "divergencia_markdown": " da Constituição passa a vigorar com as seguintes alterações: \"Art. 61 ........................................................................................................................... § 1º ....................",
+          "divergencia_fonte": " da Constituição passa a vigorar com as seguintes alterações: \"Art. 61. .................................................................................... § 1º .........................................................."
+        },
+        {
+          "artigo": "4",
+          "sha256_markdown_colapsa_espacos": "91f9e766cab10bdf824a89e58526d90f99a0428dd1181cfe888fdfd3bc8038ec",
+          "sha256_fonte_colapsa_espacos": "c1ac8483e70927bff7b5ca90583332f8191d54133e703cb57e3f756efa9a0d61",
+          "chars_markdown": 2476,
+          "chars_fonte": 2447,
+          "divergencia_markdown": "......................................................................................................... § 3º Os membros das Forças Armadas são denominados militares, aplicando-se-lhes, além das que vierem a ser fixadas",
+          "divergencia_fonte": "...................................................................... § 3º Os membros das Forças Armadas são denominados militares, aplicando-se-lhes, além das que vierem a ser fixadas em lei, as seguintes disposições: "
+        },
+        {
+          "artigo": "5",
+          "sha256_markdown_colapsa_espacos": "3d644be1bd52e1d969e738003d81004c1b000b72635fe587d24d9a524d91753b",
+          "sha256_fonte_colapsa_espacos": "ad97e652ef2bca85a61c229908d43f76c87aa2514c0e7005a3128f13fe3abf98",
+          "chars_markdown": 705,
+          "chars_fonte": 704,
+          "divergencia_markdown": "Esta Emenda Constitucional entra em vigor na data de sua publicação. Brasília, 5 de fevereiro de 1998 Mesa da Câmara dos Deputados Deputado MICHEL TEMER PRESIDENTE Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado",
+          "divergencia_fonte": "Esta Emenda Constitucional entra em vigor na data de sua publicação Brasília, 5 de fevereiro de 1998 Mesa da Câmara dos Deputados Deputado MICHEL TEMER PRESIDENTE Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado "
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 21,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1999-03-18-21.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/1999/emendaconstitucional-21-18-marco-1999-348645-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "32ae0ce3afeb6b300e54f0743a998261e1a848badb9d27a57dfdac747a337c46",
+          "sha256_fonte_colapsa_espacos": "9191612c7bf10cdb5e37d0b87d7102487fbf0f0fb112ad7cc3300ab88b43325d",
+          "chars_markdown": 1205,
+          "chars_fonte": 1205,
+          "divergencia_markdown": "das Disposições Constitucionais Transitórias, com a seguinte redação: “Art. 75. É prorrogada, por trinta e seis meses, a cobrança da contribuição provisória sobre movimentação ou transmissão de valores e de créditos e di",
+          "divergencia_fonte": "das Disposições Constitucionais Transitórias, com a seguinte redação: \"Art. 75. É prorrogada, por trinta e seis meses, a cobrança da contribuição provisória sobre movimentação ou transmissão de valores e de créditos e di"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "fb09fdb70c229677a996899e754639493bc54a9edc1f13712c6873add822ef2e",
+          "sha256_fonte_colapsa_espacos": "3fa0b372681f3685f005bd5b4db5d5690f90dd93c87c88ee78b6594aaf4edd9c",
+          "chars_markdown": 612,
+          "chars_fonte": 612,
+          "divergencia_markdown": "a em vigor na data de sua publicação. Brasília, 18 de março de 1999. MESA DA CÂMARA DOS DEPUTADOS DEPUTADO MICHEL TEMER Presidente Deputado Heráclito Fortes 1º Vice-Presidente Deputado Severino Cavalcanti 2º Vice-Preside",
+          "divergencia_fonte": "a em vigor na data de sua publicação. Brasília, 18 de março de 1999. Mesa da Câmara dos Deputados Deputado MICHEL TEMER Presidente Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Preside"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 22,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1999-03-18-22.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/1999/emendaconstitucional-22-18-marco-1999-371484-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 4,
+      "artigos_fonte": 4,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "ec71103410312133f5aa16136f75b9ce2573e85f04d996e562f79172b810eb1e",
+          "sha256_fonte_colapsa_espacos": "dc228a28227b829ff80550ac7d6c5a7c363ffa3dd0a27e0344ba719524671c09",
+          "chars_markdown": 291,
+          "chars_fonte": 305,
+          "divergencia_markdown": "entado ao art. 98 da Constituição Federal o seguinte parágrafo único: “Art.98..................................................................................................” “Parágrafo único. Lei federal disporá sobre",
+          "divergencia_fonte": "entado ao art. 98 da Constituição Federal o seguinte parágrafo único: \"Art. 98................................................................................................................. Parágrafo único. Lei federal"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "8c96b42915aaf8dbed7e0c31e436b0d602cfbe3164012b7bea89bc497cf6837c",
+          "sha256_fonte_colapsa_espacos": "5adf2edf06f0a3303649f8ddfcc2905114f135150f1c6bd88c84f81792c28c23",
+          "chars_markdown": 586,
+          "chars_fonte": 881,
+          "divergencia_markdown": "A alínea i do inciso I do art. 102 da Constituição Federal passa a vigorar com a seguinte redação: “Art.102............................................ I-.....",
+          "divergencia_fonte": "A alínea \"i\" do inciso I do art. 102 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 102. ..............................................."
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "eff57e102e060212299f0444d7a6430489f9cb1ac23b2244717a4ec1a91134b4",
+          "sha256_fonte_colapsa_espacos": "f0ed69a6ad50bc9a54e22a9f58ccdfd02f47ce0dbbe086c34e73792989b1614c",
+          "chars_markdown": 534,
+          "chars_fonte": 834,
+          "divergencia_markdown": "A alínea c do inciso I do art. 105 da Constituição Federal passa a vigorar com a seguinte redação: “Art.105............................................ I-.....",
+          "divergencia_fonte": "A alínea \"c\" do inciso I do art. 105 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 105. ..............................................."
+        },
+        {
+          "artigo": "4",
+          "sha256_markdown_colapsa_espacos": "65184f011ea9ab16f384e97ed89aa6e4f0f4579fd87429574237d91eb4fdaa01",
+          "sha256_fonte_colapsa_espacos": "39a791dbc8a883a46cf7cc5e88407dfae124a6776ff8e9b6c728291676a3422f",
+          "chars_markdown": 627,
+          "chars_fonte": 627,
+          "divergencia_markdown": "licação. Brasília, 18 de março de 1999. Mesa da Câmara dos Deputados DEPUTADO MICHEL TEMER Presidente Deputado Heráclito Fortes 1º Vice-Presidente Deputado Severino Cavalcanti 2º Vice-Presidente Deputado Ubiratan Aguiar ",
+          "divergencia_fonte": "licação. Brasília, 18 de março de 1999. Mesa da Câmara dos Deputados Deputado MICHEL TEMER Presidente Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Presidente Deputado UBIRATAN AGUIAR "
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 23,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1999-09-02-23.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/1999/emendaconstitucional-23-2-setembro-1999-344887-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "4e01948528646be82eee83ab71efdd3f80fe258bf79b18d131ec81be129d0be0",
+          "sha256_fonte_colapsa_espacos": "45d914d0b89808f9ce9a9eb165ec8e4233d8b998a36c73aa2bf2ec2d01c56fc6",
+          "chars_markdown": 4567,
+          "chars_fonte": 3680,
+          "divergencia_markdown": "a Constituição Federal, passam a vigorar com as seguintes alterações: “Art. 12. ................................................................................................................................... ........",
+          "divergencia_fonte": "a Constituição Federal, passam a vigorar com as seguintes alterações: \"Art. 12. ............................................................................................ ..............................................."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "5d7cd614e0af86bd79a8ddf2b6e7143249d66910cf93feb2615e83773870bd04",
+          "sha256_fonte_colapsa_espacos": "7fa298efcd8d0c5a25d9bc26fdd8ffabc1638ab675757cca7826d2cf11e5576f",
+          "chars_markdown": 705,
+          "chars_fonte": 705,
+          "divergencia_markdown": "em vigor na data de sua publicação. Brasília, 2 de setembro de 1999. MESA DA CÂMARA DOS DEPUTADOS DEPUTADO MICHEL TEMER PRESIDENTE Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Preside",
+          "divergencia_fonte": "em vigor na data de sua publicação. Brasília, 2 de setembro de 1999. Mesa da Câmara dos Deputados Deputado MICHEL TEMER Presidente Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Preside"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada",
+      "artigos_fonte_principais": [
+        "1",
+        "2"
+      ],
+      "redacoes_inseridas_citadas_repareadas": [
+        {
+          "rotulo_citado": "Art. 91",
+          "sob_dispositivo_principal": "Art. 1º",
+          "prova_estrutural": "No snapshot Câmara, o rótulo “Art. 91” inicia um elemento <dir> citado dentro de .textoNorma > div.texto; a sequência principal só recomeça no parágrafo “Art. 2º”. O mapa do Markdown contém apenas Art. 1º e Art. 2º como artigos principais."
+        }
+      ],
+      "metodo_pareamento": "Pareamento corrigido com os rótulos principais do Markdown e a hierarquia do HTML oficial; títulos Art. 91/78 são redações citadas introduzidas por Art. 1º/2º, não dispositivos principais da emenda.",
+      "diagnostico_de_tokens_lexicais": {
+        "metodo": "para diferenciar falta de palavra de diferença formal: caixa baixa, remoção de diacríticos, símbolos ordinais º/° tratados como o token “ord”, remoção de pontuação e espaçamento; mantém sequência e quantidade de tokens",
+        "comparacoes": [
+          {
+            "artigo_principal": "Art. 1",
+            "tokens_markdown": 265,
+            "tokens_fonte": 265,
+            "sha256_sequencia_tokens_markdown": "dbddacd1f03bd054b1f947caadc838c6adefe08edb4212e398f60028caa63e9f",
+            "sha256_sequencia_tokens_fonte": "dbddacd1f03bd054b1f947caadc838c6adefe08edb4212e398f60028caa63e9f",
+            "sequencia_coincide": true
+          },
+          {
+            "artigo_principal": "Art. 2",
+            "tokens_markdown": 114,
+            "tokens_fonte": 114,
+            "sha256_sequencia_tokens_markdown": "47dfa485d587116b24a4bf3ec1306dc537bfc854195e1ce1eb2c34c6cccaf1d8",
+            "sha256_sequencia_tokens_fonte": "47dfa485d587116b24a4bf3ec1306dc537bfc854195e1ce1eb2c34c6cccaf1d8",
+            "sequencia_coincide": true
+          }
+        ],
+        "resultado": "todas_as_sequencias_coincidem",
+        "limite": "Esse diagnóstico não afirma igualdade literal, edição equivalente, vigência ou efeito jurídico; as diferenças literais continuam nos hashes e snippets acima."
+      }
+    },
+    {
+      "emenda": 24,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-1999-12-09-24.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/1999/emendaconstitucional-24-9-dezembro-1999-372519-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 4,
+      "artigos_fonte": 4,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "b730974c87adba94351340373f11091d167c207cf3da653c76b7215b77d8c8c7",
+          "sha256_fonte_colapsa_espacos": "d32ea63313213518cd4cee3c0e947bd66905aee515cb1fbf9667bd5a3216f7a0",
+          "chars_markdown": 2464,
+          "chars_fonte": 2325,
+          "divergencia_markdown": "Os arts. 111. 112, 113, 115 e 116 da Constituição Federal passam a vigorar com a seguinte redação: “Art. 111. ....................................................",
+          "divergencia_fonte": "Os arts. 111, 112, 113, 115 e 116 da Constituição Federal passam a vigorar com a seguinte redação: \"Art. 111. ...................................................."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "e1637cd8689e8f3eeee04328fa7e193161a81a5d3c1454ef786aabffaf355a6b",
+          "sha256_fonte_colapsa_espacos": "373903dcdfaa386e10f8a872eaedafd7bcbd92043729f1fa054294544bc91b1b",
+          "chars_markdown": 222,
+          "chars_fonte": 237,
+          "divergencia_markdown": "ários do Tribunal Superior do Trabalho e dos atuais juízes classistas do Tribunal Regional do Trabalho e das Juntas de Conciliação e Julgamento.",
+          "divergencia_fonte": "ários do Tribunal Superior do Trabalho e dos atuais juízes classistas temporários dos Tribunais Regionais do Trabalho e das Juntas de Conciliação e Julgamento."
+        },
+        {
+          "artigo": "4",
+          "sha256_markdown_colapsa_espacos": "8ed901e51b8ddd4040f5d41b139be82f7ec29be2d10643a67edf8f64596ca122",
+          "sha256_fonte_colapsa_espacos": "2433b967641555f21e568e56ea7fd85092203fd7bd40e7dc9cdbce7415c0986c",
+          "chars_markdown": 642,
+          "chars_fonte": 685,
+          "divergencia_markdown": "e art. 117 da Constituição Federal. Brasília, em 9 de dezembro de 1999. MESA DA CÂMARA DOS DEPUTADOS DEPUTADO MICHEL TEMER PRESIDENTE Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Pres",
+          "divergencia_fonte": "e art. 117 da Constituição Federal. Brasília, em 9 de dezembro de 1999 MESA DA CÂMARA DOS DEPUTADOS Deputado MICHEL TEMER Presidente Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Presi"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 25,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2000-02-14-25.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2000/emendaconstitucional-25-14-fevereiro-2000-374042-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "3093f08a63170ca10703d93f55208e5e8dc0fc4faca22aa7fa664c3e03d4b875",
+          "sha256_fonte_colapsa_espacos": "a5156fa5a2b4a35b9acf4425deba5e3a1dcb4d175e55d6afc524089239eaeb8c",
+          "chars_markdown": 1813,
+          "chars_fonte": 1712,
+          "divergencia_markdown": "t. 29 da Constituição Federal passa a vigorar com a seguinte redação: “Art. 29 .............................................................................................................................. ..............",
+          "divergencia_fonte": "t. 29 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 29. ......................................................................................................... .................................."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "3c6f3e9bec4a912902d63b5b9ce2ef4df1040000ea80da7a0b548f0e0a955e52",
+          "sha256_fonte_colapsa_espacos": "3bca836cdffb9e19f5e155f228cafdc047326a8d875f277892d7a3825b2ca770",
+          "chars_markdown": 1389,
+          "chars_fonte": 1388,
+          "divergencia_markdown": "Constituição Federal passa a vigorar acrescida do seguinte art. 29-A: “Art. 29-A. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e excluídos os gastos com inativos, não poderá ul",
+          "divergencia_fonte": "Constituição Federal passa a vigorar acrescida do seguinte art. 29-A: \" Art 29-A. O total da despesa do Poder Legislativo Municipal, incluídos os subsídios dos Vereadores e excluídos os gastos com inativos, não poderá ul"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "aa8afef1baf11d5bb98977eea83e09abfe759c418e6a62e9207f3679e019e4a9",
+          "sha256_fonte_colapsa_espacos": "438b6616f19447033d268e449f5e6a15139d7bdecd54bf03fd6dd435455b87f2",
+          "chars_markdown": 707,
+          "chars_fonte": 708,
+          "divergencia_markdown": "e janeiro de 2001. Brasília, 14 de fevereiro de 2000 Mesa da Câmara do Deputados Deputado Michel Temer Presidente Deputado Heráclito Fortes 1° Vice-Presidente Deputado Severino Cavalcanti 2° Vice-Presidente Deputado Ubir",
+          "divergencia_fonte": "e janeiro de 2001. Brasília, 14 de fevereiro de 2000 Mesa da Câmara dos Deputados Deputado MICHEL TEMER Presidente Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Presidente Deputado UBI"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 26,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2000-02-14-26.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2000/emendaconstitucional-26-14-fevereiro-2000-374043-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "da1415ac1aa65fad0969ea8369c07352927166bae4ed6d8a9ba012f6695c4a70",
+          "sha256_fonte_colapsa_espacos": "a1023273ea487e970aa582cbd606e35e724322b4e1188022f1d4a7f70ef5230a",
+          "chars_markdown": 297,
+          "chars_fonte": 298,
+          "divergencia_markdown": "t. 6º da Constituição Federal passa a vigorar com a seguinte redação: “Art. 6º São direitos sociais a educação, a saúde, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à inf",
+          "divergencia_fonte": "t. 6º da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 6º São direitos sociais a educação, a saúde, o trabalho, a moradia, o lazer, a segurança, a previdência social, a proteção à maternidade e à inf"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "ce336642bfa84eb6d92abe5cf20e6f275c8a7fda979db0aecff6f37944353e26",
+          "sha256_fonte_colapsa_espacos": "a7ae855db8c29feac1529dc672b69ea3bcdf431b979c22ec5294629497133f3c",
+          "chars_markdown": 694,
+          "chars_fonte": 710,
+          "divergencia_markdown": "e sua publicação. Brasília, 14 de fevereiro de 2000. Mesa da Câmara do Deputados Deputado Michel Temer Presidente Deputado Heráclito Fortes 1° Vice-Presidente Deputado Severino Cavalcanti 2° Vice-Presidente Deputado Ubir",
+          "divergencia_fonte": "e sua publicação. Brasília, 14 de fevereiro de 2000. Mesa da Câmara dos Deputados Deputado MICHEL TEMER Presidente Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Presidente Deputado UBI"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 28,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2000-05-25-28.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2000/emendaconstitucional-28-25-maio-2000-367551-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "846677158e2ea3576dce10d52a8c47469e7f120575e724da9a63be01873507db",
+          "sha256_fonte_colapsa_espacos": "a8533092cee31b22695d463b1e9b9eb564d0b77fff8e8f0ec6ed3ceef7784102",
+          "chars_markdown": 345,
+          "chars_fonte": 345,
+          "divergencia_markdown": "t. 7º da Constituição Federal passa a vigorar com a seguinte redação: “XXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, ",
+          "divergencia_fonte": "t. 7º da Constituição Federal passa a vigorar com a seguinte redação: \" XXIX - ação, quando aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais,"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "5bd97123cbe9723695077bfdd73faab2883b6dbb116b39bda8c0cdfef049ad01",
+          "sha256_fonte_colapsa_espacos": "04ebc143af57bc9cb8eda06011ac06290a95ded1803c7ece209dfc89ff44d69b",
+          "chars_markdown": 662,
+          "chars_fonte": 673,
+          "divergencia_markdown": "em vigor na data de sua publicação. Brasília, em 25 de maio de 2000. MESA DA CAMARA DO DEPUTADOS DEPUTADO MICHEL TEMER PRESIDENTE Deputado Heráclito 1° Vice-Presidente Deputado Severino Cavalcante 2° Vide-Presidente Depu",
+          "divergencia_fonte": "em vigor na data de sua publicação. Brasília, em 25 de maio de 2000. Mesa da Câmara dos Deputados Deputado MICHEL TEMER Presidente Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Preside"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 30,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2000-09-13-30.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2000/emendaconstitucional-30-13-setembro-2000-354962-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "dee0b82b662ec48fcb14ecfffa399463728576c1fadfb0365e620b8692c687bb",
+          "sha256_fonte_colapsa_espacos": "0fb2b98261e2e7ddc65d58f39bf98ed124368623b4432bfd6762a4b62c1b9bdf",
+          "chars_markdown": 1849,
+          "chars_fonte": 1895,
+          "divergencia_markdown": ". 100 da Constituição Federal passa a vigorar com a seguinte redação: “Art.100. ..............................................” “§ 1º É obrigatória a inclusão, no orçamento das entidades de direito público, de verba nece",
+          "divergencia_fonte": ". 100 da Constituição Federal passa a vigorar com a seguinte redação: \" Art. 100. ..................................................................................... \" § 1º É obrigatória a inclusão, no orçamento das en"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "5f277dd3a2e1528fa32eb1e8cd6113ae8d18970905e0482ffae305ef4e2b92ee",
+          "sha256_fonte_colapsa_espacos": "e8c9ff9dab7d3a994f9024aaaf5742a4982fd72ae41a4694ed3179ec6f91d363",
+          "chars_markdown": 1542,
+          "chars_fonte": 1547,
+          "divergencia_markdown": "ções Constitucionais Transitórias, o art. 78, com a seguinte redação: “Art. 78. Ressalvados os créditos definidos em lei como de pequeno valor, os de natureza alimentícia, os de que trata o art. 33 deste Ato das Disposiç",
+          "divergencia_fonte": "ções Constitucionais Transitórias, o art. 78, com a seguinte redação: \" Art. 78. Ressalvados os créditos definidos em lei como de pequeno valor, os de natureza alimentícia, os de que trata o art. 33 deste Ato das Disposi"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "d7236affaafc4f8df782f76c8c4e4b7648cd1b395d2325988bd6497bbc644894",
+          "sha256_fonte_colapsa_espacos": "60e9653d2ec5b50f3ad0d4746eeccd021719feac26e1f3f09d0d9ad86fb74cf0",
+          "chars_markdown": 681,
+          "chars_fonte": 681,
+          "divergencia_markdown": "igor na data de sua publicação. Brasília, em 13 de setembro de 2000. MESA DA CÂMARA DOS DEPUTADOS DEPUTADO MICHEL TEMER PRESIDENTE Deputado Heráclito Fortes 1° Vice-Presidente Deputado Severino Cavalcanti 2° Vice-Preside",
+          "divergencia_fonte": "igor na data de sua publicação. Brasília, em 13 de setembro de 2000. Mesa da Câmara dos Deputados Deputado MICHEL TEMER Presidente Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Preside"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada",
+      "artigos_fonte_principais": [
+        "1",
+        "2",
+        "3"
+      ],
+      "redacoes_inseridas_citadas_repareadas": [
+        {
+          "rotulo_citado": "Art. 78",
+          "sob_dispositivo_principal": "Art. 2º",
+          "prova_estrutural": "No snapshot Câmara, o rótulo “Art. 78” aparece em parágrafo iniciado por aspas depois do parágrafo que contém a introdução do Art. 2º; o próximo parágrafo principal inicia Art. 3º. O mapa do Markdown contém Art. 1º, Art. 2º e Art. 3º como artigos principais."
+        }
+      ],
+      "metodo_pareamento": "Pareamento corrigido com os rótulos principais do Markdown e a hierarquia do HTML oficial; títulos Art. 91/78 são redações citadas introduzidas por Art. 1º/2º, não dispositivos principais da emenda.",
+      "diagnostico_de_tokens_lexicais": {
+        "metodo": "para diferenciar falta de palavra de diferença formal: caixa baixa, remoção de diacríticos, símbolos ordinais º/° tratados como o token “ord”, remoção de pontuação e espaçamento; mantém sequência e quantidade de tokens",
+        "comparacoes": [
+          {
+            "artigo_principal": "Art. 1",
+            "tokens_markdown": 273,
+            "tokens_fonte": 273,
+            "sha256_sequencia_tokens_markdown": "dfab6f3246fa6fdf3062d249b96db54b91b77d1b8a631041ebebdf7c3e1c21ea",
+            "sha256_sequencia_tokens_fonte": "dfab6f3246fa6fdf3062d249b96db54b91b77d1b8a631041ebebdf7c3e1c21ea",
+            "sequencia_coincide": true
+          },
+          {
+            "artigo_principal": "Art. 2",
+            "tokens_markdown": 250,
+            "tokens_fonte": 250,
+            "sha256_sequencia_tokens_markdown": "08dbbb3880f6f76d319836d261e9375984c45e7f99615eefc05abbc86742a983",
+            "sha256_sequencia_tokens_fonte": "08dbbb3880f6f76d319836d261e9375984c45e7f99615eefc05abbc86742a983",
+            "sequencia_coincide": true
+          },
+          {
+            "artigo_principal": "Art. 3",
+            "tokens_markdown": 110,
+            "tokens_fonte": 110,
+            "sha256_sequencia_tokens_markdown": "dc716c0259b3341134c1fd53769d311010993591ceb22916aca38616f93bfe1c",
+            "sha256_sequencia_tokens_fonte": "dc716c0259b3341134c1fd53769d311010993591ceb22916aca38616f93bfe1c",
+            "sequencia_coincide": true
+          }
+        ],
+        "resultado": "todas_as_sequencias_coincidem",
+        "limite": "Esse diagnóstico não afirma igualdade literal, edição equivalente, vigência ou efeito jurídico; as diferenças literais continuam nos hashes e snippets acima."
+      }
+    },
+    {
+      "emenda": 31,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2000-12-14-31.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2000/emendaconstitucional-31-14-dezembro-2000-351774-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "213d876a6bee2c26f12dcfdf0513367217dc814e21070af04bf637b36679b099",
+          "sha256_fonte_colapsa_espacos": "b7de5590b9884d7bd6c66506c7313e5e3beac3f84dc298414b37188816528008",
+          "chars_markdown": 4464,
+          "chars_fonte": 4465,
+          "divergencia_markdown": "ções Constitucionais Transitórias, é acrescida dos seguintes artigos: “Art. 79. É instituído, para vigorar até o ano de 2010, no âmbito do Poder Executivo Federal, o Fundo de Combate e Erradicação da Pobreza, a ser regul",
+          "divergencia_fonte": "ções Constitucionais Transitórias, é acrescida dos seguintes artigos: \"Art. 79. É instituído, para vigorar até o ano de 2010, no âmbito do Poder Executivo Federal, o Fundo de Combate a Erradicação da Pobreza, a ser regul"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "4f2b693f6997b6c258ebc3ece67f331271fb0956c7f03f5d5ce7962fa09735c6",
+          "sha256_fonte_colapsa_espacos": "97c432fd93dfa49901966ac3f692d9c030b0afc22d4fbbf19be8b50bcef1b6e9",
+          "chars_markdown": 670,
+          "chars_fonte": 670,
+          "divergencia_markdown": "a em vigor na data de sua publicação. Brasília, 14 de dezembro de 2000. MESA DA CÂMARA DOS DEPUTADOS DEPUTADO MICHEL TEMER Presidente Deputado Heráclito Fortes 1º Vice-Presidente Deputado Severino Cavalcanti 2º Vice-Pres",
+          "divergencia_fonte": "a em vigor na data de sua publicação. Brasília, 14 de dezembro de 2000 Mesa da Câmara dos Deputados Deputado MICHEL TEMER Presidente Deputado HERÁCLITO FORTES 1º Vice-Presidente Deputado SEVERINO CAVALCANTI 2º Vice-Presi"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 36,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2002-05-28-36.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2002/emendaconstitucional-36-28-maio-2002-458512-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "7d1949dd7840d6c0228b7eda164ebe8f0deb1414129837b68f85ec5016fb021f",
+          "sha256_fonte_colapsa_espacos": "0c419091400c9e4d9e40be48ccee5abb5de3017219a6a0f5db34040a2d574413",
+          "chars_markdown": 1414,
+          "chars_fonte": 1415,
+          "divergencia_markdown": ". 222 da Constituição Federal passa a vigorar com a seguinte redação: “Art. 222. A propriedade de empresa jornalística e de radiodifusão sonora e de sons e imagens é privativa de brasileiros natos ou naturalizados há mai",
+          "divergencia_fonte": ". 222 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 222. A propriedade de empresa jornalística e de radiodifusão sonora e de sons e imagens é privativa de brasileiros natos ou naturalizados há mai"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "152f4ef063925435a31463365958b8ecb377968cea149e51ae5436248444add1",
+          "sha256_fonte_colapsa_espacos": "2feeeb0c5267b4d3141b22fe1b6eb7639f4a3efc8f69f3bf9a7a59d134bf7741",
+          "chars_markdown": 543,
+          "chars_fonte": 585,
+          "divergencia_markdown": "Esta emenda Constitucional entra em vigor na data de sua publicação. Brasília, 28 de maio de 2002 Mesa da Câmara dos Deputados Deputado AECIO NEVES Preside",
+          "divergencia_fonte": "Esta Emenda Constitucional entra em vigor na data de sua publicação. Brasília, 28 de maio de 2002 Mesa da Câmara dos Deputados Deputado AÉCIO NEVES Preside"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 38,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2002-06-12-38.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2002/emendaconstitucional-38-12-junho-2002-395052-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "b206bf9be6aded31cde3cd15c7f5330f2c50b0aa0bfc1f134d91ef314e76aa54",
+          "sha256_fonte_colapsa_espacos": "6d04846760d76256d1e2b05f1a33f0d951a7a658c203ecc251205727eea7ca8f",
+          "chars_markdown": 570,
+          "chars_fonte": 572,
+          "divergencia_markdown": "em vigor na data de sua publicação. Brasília, em 12 de junho de 2002 MESA DA CÂMARA DOS DEPUTADOS Deputado AÉCIO NEVES Presidente Deputado BARBOSA NETO 2º Vice-Presidente Deputado NILTON CAPIXABA 2º Secretário Deputado P",
+          "divergencia_fonte": "em vigor na data de sua publicação. Brasília, em 12 de junho de 2002 Mesa da Câmara dos Deputados Deputado AÉCIO NEVES Presidente Deputado BARBOSA NETO 2º Vice-Presidente Deputado NILTON CAPIXABA 2º Secretário Deputado P"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 39,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2002-12-19-39.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2002/emendaconstitucional-39-19-dezembro-2002-473574-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "fe703d51b2325d5d45de5816c39bfca932c39e3a8c58705da83a6dcb15d5725f",
+          "sha256_fonte_colapsa_espacos": "8386da68934ba66ddf3c77d65ad3614bf07bd35c1dca6abab1a393fdf7cebc6e",
+          "chars_markdown": 588,
+          "chars_fonte": 587,
+          "divergencia_markdown": "m vigor na data de sua publicação. Brasília, em 19 de dezembro de 2002. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado EFRAIM MORAIS Senador RAMEZ TEBET Presidente Presidente Deputado BARBOSA NETO Senador E",
+          "divergencia_fonte": "m vigor na data de sua publicação. Brasília, em 19 de dezembro de 2002 Mesa da Câmara dos Deputados Deputado EFRAIM MORAIS Presidente Deputado BARBOSA NETO 2º Vice-Presidente Deputado SEVERINO CAVALCANTI 1º Secretário De"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 40,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2003-05-29-40.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2003/emendaconstitucional-40-29-maio-2003-496812-publicacaooriginal-1-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 4,
+      "artigos_fonte": 4,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "34995fdc758adafaffa073e3c5a6200efaf9960609bf4fcd24d3526211c2d496",
+          "sha256_fonte_colapsa_espacos": "55a05677fb178c4dc5ed0c33baa5a0d0c534cb1d5c02052d326812e8bf2bc3d3",
+          "chars_markdown": 323,
+          "chars_fonte": 507,
+          "divergencia_markdown": "- O inciso V do art. 163 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 163. ................................................ .",
+          "divergencia_fonte": "O inciso V do art. 163 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 163. ...................................................."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "27f3a332d25ca04957e07eaebd4baeed589abe178a715831d5cd19cac9836d0a",
+          "sha256_fonte_colapsa_espacos": "6820d61c78f7641fd0cc9356ae706ed3c02a3e9c4a7b6e6af7e7d33e553c0c71",
+          "chars_markdown": 660,
+          "chars_fonte": 651,
+          "divergencia_markdown": "- O art. 192 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 192. O sistema financeiro nacional, estruturado de forma a promover",
+          "divergencia_fonte": "O art. 192 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 192. O sistema financeiro nacional, estruturado de forma a promover o"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "cfd289cc1c4c6b19afff6a1a86739d1ec8fdacf2e36efb53e0f37c48fc3a14fe",
+          "sha256_fonte_colapsa_espacos": "cf6570926387df82c5a9325c3c0b2eb643fe6b52ff1474e73f8f7eae7082fb98",
+          "chars_markdown": 245,
+          "chars_fonte": 308,
+          "divergencia_markdown": "- O caput do art. 52 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação: \"Art. 52. Até que sejam fixadas as co",
+          "divergencia_fonte": "O caput do art. 52 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação: \"Art. 52. Até que sejam fixadas as cond"
+        },
+        {
+          "artigo": "4",
+          "sha256_markdown_colapsa_espacos": "793cbffd4046a4f1dfd7bc7d055b5ff7cbcc1387aabada4ed75d42983b6b7e20",
+          "sha256_fonte_colapsa_espacos": "39cde86d6c84db57d778bf647b9bf261d27f2d9bb28217464f03386c784bc33c",
+          "chars_markdown": 713,
+          "chars_fonte": 708,
+          "divergencia_markdown": "- Esta Emenda Constitucional entra em vigor na data de sua publicação. Brasília, em 29 de maio de 2003. Mesa da Câmara dos Deputados Mesa do Senado Fe",
+          "divergencia_fonte": "Esta Emenda Constitucional entra em vigor na data de sua publicação. Brasília, em 29 de maio de 2003. Mesa da Câmara dos Deputados Deputado JOÃO PAULO"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 46,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2005-05-05-46.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2005/emendaconstitucional-46-5-maio-2005-536797-publicacaooriginal-27931-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "081cbc46b24daea36d5a897c57dcd70b83f72460200a5c3a0105439e32212f9e",
+          "sha256_fonte_colapsa_espacos": "e9ff71e67f89d962fb4545c6fabb391b9e081285bdf31b0e9dd01a066ea19b6c",
+          "chars_markdown": 618,
+          "chars_fonte": 766,
+          "divergencia_markdown": ": \"Art. 20. .......................................................... ....................................................................... IV as ilhas fluviais e lacustres nas zonas limítrofes com outros países; as p",
+          "divergencia_fonte": ": \"Art. 20. ............................................................................................................... ................................................................................................"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "893d993a176bb3eba697786d03b8eb3d58a38da3e66175826ba1dd2f4bb009ee",
+          "sha256_fonte_colapsa_espacos": "1077dc9a40601ff41e2cef84e27390131ba5c9a13b9b49944bcd9c1bcd354eef",
+          "chars_markdown": 708,
+          "chars_fonte": 709,
+          "divergencia_markdown": "a em vigor na data de sua publicação. Brasília, em 5 de maio de 2005 MESA DA CÂMARA DOS DEPUTADOS DEPUTADO SEVERINO CAVALCANT Presidente DEPUTADO JOSÉ THOMAZ NONÔ 1º Vice-Presidente DEPUTADO CIRO NOGUEIRA 2º Vice-Preside",
+          "divergencia_fonte": "a em vigor na data de sua publicação. Brasília, em 5 de maio de 2005 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado Severino Cavalcanti Senador Renan Calheiros Presidente Presidente Deputado José Thomaz Non"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 47,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2005-07-05-47.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2005/emendaconstitucional-47-5-julho-2005-537717-publicacaooriginal-30462-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 6,
+      "artigos_fonte": 6,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "b351be9368f9eb5da240a5f25f82e8bb2140e80031a952a3eadde875f428d1a9",
+          "sha256_fonte_colapsa_espacos": "2e8d9445205898bc203fe4d1aab2eed5e663481ad2b45ed1e9cb6aa992cd0b1f",
+          "chars_markdown": 3885,
+          "chars_fonte": 4147,
+          "divergencia_markdown": "...................................................................... ........................................................................................................... § 11. Não serão computadas, para efeito d",
+          "divergencia_fonte": ".................................................................................................. ........................................................................................................................."
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "d855c71ddca6ad8fc20c3ef35faa81e61e5d36c82dd08b8f9641937fcd4285d7",
+          "sha256_fonte_colapsa_espacos": "9e668cd6b5657541abd69b2d9a96a77caa2248584e6c937fc42653bd287bdf0a",
+          "chars_markdown": 1285,
+          "chars_fonte": 1291,
+          "divergencia_markdown": "grais, desde que preencha, cumulativamente, as seguintes condições: I trinta e cinco anos de contribuição, se homem, e trinta anos de contribuição, se mulher; II vinte e cinco anos de efetivo exercício no serviço público",
+          "divergencia_fonte": "grais, desde que preencha, cumulativamente, as seguintes condições: I - trinta e cinco anos de contribuição, se homem, e trinta anos de contribuição, se mulher; II - vinte e cinco anos de efetivo exercício no serviço púb"
+        },
+        {
+          "artigo": "6",
+          "sha256_markdown_colapsa_espacos": "5a8aa18c56fe716c67948e18ba7c5779c7f3fd93a4f7169732ff40b82020b720",
+          "sha256_fonte_colapsa_espacos": "f4063506439109786e1a192420f36ebb0f06f88087d7f7891067fede97a9d64d",
+          "chars_markdown": 668,
+          "chars_fonte": 668,
+          "divergencia_markdown": "troativos à data de vigência da Emenda Constitucional nº 41, de 2003. MESA DA CÂMARA DOS DEPUTADOS DEPUTADO SEVERINO CAVALCANTI Presidente DEPUTADO JOSÉ THOMAZ NONÔ 1º Vice-Presidente DEPUTADO CIRO NOGUEIRA 2º Vice-Presi",
+          "divergencia_fonte": "troativos à data de vigência da Emenda Constitucional nº 41, de 2003. Brasília, em 5 de julho de 2005 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado Severino Cavalcanti Senador Renan Calheiros Presidente Pr"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 48,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2005-08-10-48.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2005/emendaconstitucional-48-10-agosto-2005-538120-publicacaooriginal-31885-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "39e142c023d4cd5178142f7e9bd14bd55839513b06aa7f7c43fe6e880cce25d9",
+          "sha256_fonte_colapsa_espacos": "6b7893865dfa06435f417b9aead6bb6bba6fbe361722f46e47f1cc62c55fb721",
+          "chars_markdown": 768,
+          "chars_fonte": 811,
+          "divergencia_markdown": "...................................................................... ........................................................................................................... § 3º A lei estabelecerá o Plano Nacional ",
+          "divergencia_fonte": "................................................................................................ ..........................................................................................................................."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "7046114edd1fe7021bfa093265e3e327ecc35fd08ee14e8cc0f6f05ae590dc85",
+          "sha256_fonte_colapsa_espacos": "33878f6cd471bb4a433b5229b9d389e24855d67e365e0056c2b6a6390796fb1e",
+          "chars_markdown": 681,
+          "chars_fonte": 625,
+          "divergencia_markdown": "cação. Brasília, em 10 de agosto de 2005 Mesa da Câmara dos Deputados DEPUTADO SEVERINO CAVALCANTI Presidente DEPUTADO JOSÉ THOMAZ NONÔ 1º Vice-Presidente DEPUTADO CIRO NOGUEIRA 2º Vice-Presidente DEPUTADO INOCÊNCIO OLIV",
+          "divergencia_fonte": "cação. Brasília, em 10 de agosto de 2005 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado Severino Cavalcanti Senador Renan Calheiros Presidente Presidente Deputado José Thomaz Nonô Senador Tião Viana 1º Vice"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 49,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2006-02-08-49.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2006/emendaconstitucional-49-8-fevereiro-2006-540999-publicacaooriginal-42678-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "ef21a7acb9da527581e161960e64d995f51e536f975c2ad55ed4657f7a101b9b",
+          "sha256_fonte_colapsa_espacos": "0e3cc00177abdc34321fc1ba2a8a2131426d203b2c31625e121fd394ff491824",
+          "chars_markdown": 823,
+          "chars_fonte": 1082,
+          "divergencia_markdown": " 21. ................................................................. ................................................................. XXIII - ................................................................. .........",
+          "divergencia_fonte": " 21. ............................................................................................................... ......................................................................................................."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "87200621dd88ccb990eaa28557885bbdda4060255e0a2bd8337dc1ec51bd02f5",
+          "sha256_fonte_colapsa_espacos": "e067a0d8497e41dbdb7127b68c4476ec8fe07d1d3df4c3e1253a821895d8b8b1",
+          "chars_markdown": 667,
+          "chars_fonte": 833,
+          "divergencia_markdown": "Constituição Federal passa a vigorar com a seguinte redação: \"Art. 177 ................................................................. ................................................................. V - a pesquisa, a",
+          "divergencia_fonte": "Constituição Federal passa a vigorar com a seguinte redação: \"Art. 177. ............................................................................................................. ......................................"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "8aa4bc1291255f0fdfad4cd80b96ae93af7bc30cb3d1c7079b1d54c1464f09be",
+          "sha256_fonte_colapsa_espacos": "aaa05900b828eb08989c56633798633a08c0c8f4f3613a9482b3307d22f92ba0",
+          "chars_markdown": 672,
+          "chars_fonte": 672,
+          "divergencia_markdown": "a da Câmara dos Deputados Mesa do Senado Federal Deputado Aldo Rebelo Presidente Senador Renan Calheiros Presidente Deputado José Thomaz Nonô 1º Vice-Presidente Senador Tião Viana 1º Vice-Presidente Deputado Ciro Nogueir",
+          "divergencia_fonte": "a da Câmara dos Deputados Mesa do Senado Federal Deputado Aldo Rebelo Senador Renan Calheiros Presidente Presidente Deputado José Thomaz Nonô Senador Tião Viana 1º Vice-Presidente 1º Vice-Presidente Deputado Ciro Nogueir"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 50,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2006-02-14-50.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2006/emendaconstitucional-50-14-fevereiro-2006-541079-publicacaooriginal-43124-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "0ac7bd9d30aa16d502a024763f11686fde808cb036d1af6a7a8b973fb2b3bede",
+          "sha256_fonte_colapsa_espacos": "a2de3ebaa7c1d7c42609d6e9f3a929fd00c1938284ec3985de0095db87676bc0",
+          "chars_markdown": 1565,
+          "chars_fonte": 1651,
+          "divergencia_markdown": "...................................................................... § 4º Cada uma das Casas reunir-se-á em sessões preparatórias, a partir de 1º de fevereiro, no primeiro ano da legislatura, para a posse de seus membr",
+          "divergencia_fonte": "........................................................................................ § 4º Cada uma das Casas reunir-se-á em sessões preparatórias, a partir de 1º de fevereiro, no primeiro ano da legislatura, para a p"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "5820b1822d07f3280f8530c29326ec3043c8f3836d26e74a9cc20f018423c880",
+          "sha256_fonte_colapsa_espacos": "8a866284e8a887102a7af4a06c3a5b0d3e5988d2cc2f7512e33529ba4231bd06",
+          "chars_markdown": 673,
+          "chars_fonte": 673,
+          "divergencia_markdown": "a da Câmara dos Deputados Mesa do Senado Federal Deputado ALDO REBELO Presidente Senador RENAN CALHEIROS Presidente Deputado JOSÉ THOMAZ NONÔ 1º Vice-Presidente Senador TIÃO VIANA 1º Vice-Presidente Deputado CIRO NOGUEIR",
+          "divergencia_fonte": "a da Câmara dos Deputados Mesa do Senado Federal Deputado ALDO REBELO Senador RENAN CALHEIROS Presidente Presidente Deputado JOSÉ THOMAZ NONÔ Senador TIÃO VIANA 1º Vice-Presidente 1º Vice-Presidente Deputado CIRO NOGUEIR"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 51,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2006-02-14-51.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2006/emendaconstitucional-51-14-fevereiro-2006-541080-publicacaooriginal-43126-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "124457732f9503641c14814d342ce2fe9e60b84b42014cd7a5bad1662c581d78",
+          "sha256_fonte_colapsa_espacos": "460df23243cb7ff73f032685b2dc4a66130232e201c99906695f8f297eb4d749",
+          "chars_markdown": 982,
+          "chars_fonte": 1092,
+          "divergencia_markdown": "º: \"Art. 198. ........................................................ ........................................................................ § 4º Os gestores locais do sistema único de saúde poderão admitir agentes co",
+          "divergencia_fonte": "º: \"Art. 198. ............................................................................................................... .............................................................................................."
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "d350105d93e194f47e58534a74889cf690f0307191b41055aa51cea30c58b599",
+          "sha256_fonte_colapsa_espacos": "6ea1cac897fce4db2e05fb0bfee155f0efd57461ff7cf72de42de989e496fe52",
+          "chars_markdown": 674,
+          "chars_fonte": 621,
+          "divergencia_markdown": " vigor na data da sua publicação. Brasília, em 14 de fevereiro de 2006. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado ALDO REBELO Presidente Senador RENAN CALHEIROS Presidente Deputado JOSÉ THOMAZ NONÔ 1º ",
+          "divergencia_fonte": " vigor na data da sua publicação. Brasília, em 14 de fevereiro de 2006 Deputado ALDO REBELO Senador RENAN CALHEIROS Presidente Presidente Deputado JOSÉ THOMAZ NONÔ Senador TIÃO VIANA 1º Vice-Presidente 1º Vice-Presidente"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 52,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2006-03-08-52.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2006/emendaconstitucional-52-8-marco-2006-541400-publicacaooriginal-45037-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "2b82314ab3874eae4945aff75782479aa6c8dd984aa207d15eaa3c3da5ca4e8c",
+          "sha256_fonte_colapsa_espacos": "e2f29a6e87926abe85e67c76ab3fee98067797104bcf4e93c3755b8d09e3c188",
+          "chars_markdown": 651,
+          "chars_fonte": 692,
+          "divergencia_markdown": "...................................................................... § 1º É assegurada aos partidos políticos autonomia para definir sua estrutura interna, organização e funcionamento e para adotar os critérios de esco",
+          "divergencia_fonte": ".................................................................................... § 1º É assegurada aos partidos políticos autonomia para definir sua estrutura interna, organização e funcionamento e para adotar os cri"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "90731ae63972dfc968e0fefe82a0e3c99e22692cf45cb0670727f0ba1fc113d8",
+          "sha256_fonte_colapsa_espacos": "6f32a1114ba5c18640d77428c4927eb6d6dda1b99735dc3a2986f7e6f14e960f",
+          "chars_markdown": 724,
+          "chars_fonte": 724,
+          "divergencia_markdown": "e 2006. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado ALDO REBELO Presidente Senador RENAN CALHEIROS Presidente Deputado JOSÉ THOMAZ NONÔ 1º Vice-Presidente Senador TIÃO VIANA 1º Vice-Presidente Deputado C",
+          "divergencia_fonte": "e 2006. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado Aldo Rebelo Senador Renan Calheiros Presidente Presidente Deputado José Thomaz Nonô Senador Tião Viana 1º Vice-Presidente 1º Vice-Presidente Deputado C"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 55,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2007-09-20-55.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2007/emendaconstitucional-55-20-setembro-2007-559897-publicacaooriginal-82343-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "0ee283487a24a71f6f636cf451745d54cbd12d065df7d65c91517b945a826b9c",
+          "sha256_fonte_colapsa_espacos": "89a5bd95886aac98ab71e6f4efe907f32b7bfeeb9f57284d0612e9f8ad3832fa",
+          "chars_markdown": 676,
+          "chars_fonte": 688,
+          "divergencia_markdown": "ituição Federal passa a vigorar com as seguintes alterações: \"Art. 159 .................................................................................. I - do produto da arrecadação dos impostos sobre renda e proventos",
+          "divergencia_fonte": "ituição Federal passa a vigorar com as seguintes alterações: \"Art. 159. .................................................................................. I - do produto da arrecadação dos impostos sobre renda e provento"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "3765730dfed97b2fddb2ea84f8d953139abd6bb6c1c105b0633510298ee9bf68",
+          "sha256_fonte_colapsa_espacos": "9143f38a5308075ab34e64a31764b2002fdfe140744e4724361462640564befe",
+          "chars_markdown": 715,
+          "chars_fonte": 659,
+          "divergencia_markdown": "ntra em vigor na data de sua publicação. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado Arlindo Chinaglia Senador Renan Calheiros Presidente Presidente Deputado Narcio Rodrigues Senador Tião Viana 1º Vice-P",
+          "divergencia_fonte": "ntra em vigor na data de sua publicação. Mesa da Câmara dos Deputados Deputado Arlindo Chinaglia Presidente Deputado Narcio Rodrigues 1º Vice-Presidente Deputado Inocêncio Oliveira 2º Vice-Presidente Deputado Osmar Serra"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 58,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2009-09-23-58.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2009/emendaconstitucional-58-23-setembro-2009-591351-publicacaooriginal-116418-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "f982de731210b65ec3d284789f135f48f466d76ee33c19c9ae266cc31c683ffe",
+          "sha256_fonte_colapsa_espacos": "d87692d1dca6534e7bf1c53c70e1e834b9830563f757d9fdcb73494e3ac0e7b1",
+          "chars_markdown": 4019,
+          "chars_fonte": 4020,
+          "divergencia_markdown": ".................................................................... \"(NR)",
+          "divergencia_fonte": ".................................................................... \" (NR)"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "917b3ec26304523c786a51eecc05d7c8f63b695b230a0cf2a17e763ee8dc1efd",
+          "sha256_fonte_colapsa_espacos": "29d6709dd5cca4455d6e8a3ccd9ae6e29ca0c89ec45bd5d3e5b2595ccd647d44",
+          "chars_markdown": 1035,
+          "chars_fonte": 1035,
+          "divergencia_markdown": "...................................................................... \"(NR)",
+          "divergencia_fonte": "......................................................................\" (NR)"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "0778258cb7fd0c4d1523351cd02518c808f6779a996d8e822310b4a3abb826be",
+          "sha256_fonte_colapsa_espacos": "b6e4ecb8811bb53dd85b8989dd21602b2ddc6ec1364f5fa634bfe2bc59b0dcb7",
+          "chars_markdown": 834,
+          "chars_fonte": 834,
+          "divergencia_markdown": "da. Brasília, em 23 de setembro de 2009. Mesa da Câmara dos Deputados Deputado MICHEL TEMER Presidente Deputado MARCO MAIA 1º Vice-Presidente Deputado ANTÔNIO CARLOS MAGALHÃES NETO 2º Vice-Presidente Deputado RAFAEL GUER",
+          "divergencia_fonte": "da. Brasília, em 23 de setembro de 2009. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado MICHEL TEMER Senador JOSÉ SARNEY Presidente Presidente Deputado MARCO MAIA Senador MARCONI PERILLO 1º Vice-Presidente "
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 59,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2009-11-11-59.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2009/emendaconstitucional-59-11-novembro-2009-592136-publicacaooriginal-117213-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 7,
+      "artigos_fonte": 7,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "6b959d1d7b3e441646df86c77f774889856db889a4ca166ce6ef329a995b6333",
+          "sha256_fonte_colapsa_espacos": "ec266c6dcffc7555f4c13078a7107c32b93fe27f2e3ad32db12764ce6f43728d",
+          "chars_markdown": 693,
+          "chars_fonte": 670,
+          "divergencia_markdown": "a Constituição Federal, passam a vigorar com as seguintes alterações: “Art. 208. ....................................................................................... I - educação básica obrigatória e gratuita dos 4 (q",
+          "divergencia_fonte": "a Constituição Federal, passam a vigorar com as seguintes alterações: \"Art. 208. ................................................................................. I - educação básica obrigatória e gratuita dos 4 (quatro)"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "88da6ce82d7d1bfa30987599f01b1e8576ca6535603b488cba86c18c442dfd38",
+          "sha256_fonte_colapsa_espacos": "c800fd94daa4a12549be2209c15fe3198be5a77e00e9aa893a289e2cdada7a84",
+          "chars_markdown": 497,
+          "chars_fonte": 473,
+          "divergencia_markdown": ". 211 da Constituição Federal passa a vigorar com a seguinte redação: “Art. 211. ....................................................................................... ...................................................",
+          "divergencia_fonte": ". 211 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 211. ................................................................................. ........................................................."
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "cdda12e08b879983c0944ab5f313ee35eab7a2645445d96d355d1c6d7b584ad7",
+          "sha256_fonte_colapsa_espacos": "82b5c38b7436963f701c953a4056b7dad2e036dd1eaac7a87f6680aa6d049eeb",
+          "chars_markdown": 540,
+          "chars_fonte": 513,
+          "divergencia_markdown": ". 212 da Constituição Federal passa a vigorar com a seguinte redação: “Art. 212. ....................................................................................... ...................................................",
+          "divergencia_fonte": ". 212 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 212. ................................................................................ .........................................................."
+        },
+        {
+          "artigo": "4",
+          "sha256_markdown_colapsa_espacos": "c12fb52a960bd54bd8abfb6c679733bf5ec40a0edd6f43293274dcf91726bc69",
+          "sha256_fonte_colapsa_espacos": "639fa122aae79b92b13b127aeb9257ebc2e7f0745c4dc4a2ad4e1db05fd5ca07",
+          "chars_markdown": 778,
+          "chars_fonte": 773,
+          "divergencia_markdown": "deral passa a vigorar com a seguinte redação, acrescido do inciso VI: “Art. 214. A lei estabelecerá o plano nacional de educação, de duração decenal, com o objetivo de articular o sistema nacional de educação em regime d",
+          "divergencia_fonte": "deral passa a vigorar com a seguinte redação, acrescido do inciso VI: \"Art. 214. A lei estabelecerá o plano nacional de educação, de duração decenal, com o objetivo de articular o sistema nacional de educação em regime d"
+        },
+        {
+          "artigo": "5",
+          "sha256_markdown_colapsa_espacos": "82ac7358e41b45ad903304e81672f979033c59e645876ab46253041d8483d0ae",
+          "sha256_fonte_colapsa_espacos": "d3469a1954260b0484b7f5c9b803643033608cf5f4b8373b79d038549c91db51",
+          "chars_markdown": 644,
+          "chars_fonte": 624,
+          "divergencia_markdown": "stitucionais Transitórias passa a vigorar acrescido do seguinte § 3º: “Art. 76. ......................................................................................... ..................................................",
+          "divergencia_fonte": "stitucionais Transitórias passa a vigorar acrescido do seguinte § 3º: \"Art. 76. .................................................................................. ........................................................."
+        },
+        {
+          "artigo": "7",
+          "sha256_markdown_colapsa_espacos": "b0f14f6d3d0c31aeb793e90f71b4e86e974395f76858302661d77b64f88fba39",
+          "sha256_fonte_colapsa_espacos": "7c66973f02be7e1f9d42a39ccaa1445c607e7f7ccc35f353d7de96d51fe2f9aa",
+          "chars_markdown": 730,
+          "chars_fonte": 730,
+          "divergencia_markdown": "igor na data da sua publicação. Brasília, em 11 de novembro de 2009. MESA DA CÂMARA DOS DEPUTADOS DEPUTADO MICHEL TEMER Presidente DEPUTADO MARCO MAIA 1º Vice-Presidente DEPUTADO ANTÔNIO CARLOS MAGALHÃES NETO 2º Vice-Pre",
+          "divergencia_fonte": "igor na data da sua publicação. Brasília, em 11 de novembro de 2009. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado MICHEL TEMER Senador JOSÉ SARNEY Presidente Presidente Deputado MARCO MAIA Senador Marconi"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 60,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2009-11-11-60.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2009/emendaconstitucional-60-11-novembro-2009-592145-publicacaooriginal-117219-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "e6654dd34b2362bc5493d60438a26b6d7eb54b4ab5b86e176874358bda398054",
+          "sha256_fonte_colapsa_espacos": "e065dcade13b41cf0f5fee7a81c8b25eae924da9d2a1db323505e149b35ac4cf",
+          "chars_markdown": 1523,
+          "chars_fonte": 1524,
+          "divergencia_markdown": "períodos anteriores à data de publicação desta Emenda Constitucional: “Art. 89. Os integrantes da carreira policial militar e os servidores municipais do ex-Território Federal de Rondônia que, comprovadamente, se encontr",
+          "divergencia_fonte": "períodos anteriores à data de publicação desta Emenda Constitucional: \"Art. 89. Os integrantes da carreira policial militar e os servidores municipais do ex-Território Federal de Rondônia que, comprovadamente, se encontr"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "524245fb3a0d537740ab2bf642baae9b23edfd6ce55674e74ea74a75b47c1b78",
+          "sha256_fonte_colapsa_espacos": "69845bff12a3983dbe44da2a1d90904c67b027117ac446dc71e4d9b06bfefda7",
+          "chars_markdown": 766,
+          "chars_fonte": 766,
+          "divergencia_markdown": "produzindo efeitos retroativos. Brasília, em 11 de novembro de 2009. MESA DA CÂMARA DOS DEPUTADOS DEPUTADO MICHEL TEMER Presidente DEPUTADO MARCO MAIA 1º Vice-Presidente DEPUTADO ANTÔNIO CARLOS MAGALHÃES NETO 2º Vice-Pre",
+          "divergencia_fonte": "produzindo efeitos retroativos. Brasília, em 11 de novembro de 2009. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado MICHEL TEMER Senador JOSÉ SARNEY Presidente Presidente Deputado MARCO MAIA Senador Marconi"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 61,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2009-11-11-61.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2009/emendaconstitucional-61-11-novembro-2009-592148-publicacaooriginal-117221-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "a88c307b3e147487a579c471793977378ee9a19e9140bbfa4c0510515ab0de47",
+          "sha256_fonte_colapsa_espacos": "6fc9c9615ae03d57a6f7e2616faceb77901823edb9ebd44e6f4281dd85e41ed6",
+          "chars_markdown": 775,
+          "chars_fonte": 787,
+          "divergencia_markdown": "103-B da Constituição Federal passa a vigorar com a seguinte redação: “Art. 103-B. O Conselho Nacional de Justiça compõe-se de 15 (quinze) membros com mandato de 2 (dois) anos, admitida 1 (uma) recondução, sendo: I - o P",
+          "divergencia_fonte": "103-B da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 103-B. O Conselho Nacional de Justiça compõe-se de 15 (quinze) membros com mandato de 2 (dois) anos, admitida 1 (uma) recondução, sendo: I - o P"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "93175ac99bc1e7f6ef2799cc5911763d229bb52c6ac80fc3e3d4e91f2cac241d",
+          "sha256_fonte_colapsa_espacos": "43aaf0527846cce12cf19c1134607c463ec04882adac0edf2fe1ae01400161b7",
+          "chars_markdown": 730,
+          "chars_fonte": 730,
+          "divergencia_markdown": "igor na data de sua publicação. Brasília, em 11 de novembro de 2009. MESA DA CÂMARA DOS DEPUTADOS DEPUTADO MICHEL TEMER Presidente DEPUTADO MARCO MAIA 1º Vice-Presidente DEPUTADO ANTÔNIO CARLOS MAGALHÃES NETO 2º Vice-Pre",
+          "divergencia_fonte": "igor na data de sua publicação. Brasília, em 11 de novembro de 2009. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado MICHEL TEMER Senador JOSÉ SARNEY Presidente Presidente Deputado MARCO MAIA Senador Marconi"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 62,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2009-12-09-62.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2009/emendaconstitucional-62-9-dezembro-2009-596950-publicacaooriginal-120069-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 7,
+      "artigos_fonte": 7,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "37d06746c663a1cef15a653b695bd8b211c012919eba7566f0ec653963e89f00",
+          "sha256_fonte_colapsa_espacos": "27ff05d9dcc465c22bee6f76cbe5ced52cd06888fc42119df5f8a9ade6137af1",
+          "chars_markdown": 5325,
+          "chars_fonte": 5321,
+          "divergencia_markdown": ". 100 da Constituição Federal passa a vigorar com a seguinte redação: “Art. 100. Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão excl",
+          "divergencia_fonte": ". 100 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 100. Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão excl"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "29a13bf72c41a7d5b4438ede7ba34c90ec254111b0169d7e8d7158d76b97ad5b",
+          "sha256_fonte_colapsa_espacos": "3b564cfaa81e29bf7f6fc1839bef56c3fce3bdf96c196b304e4c6b941be9d8c0",
+          "chars_markdown": 11397,
+          "chars_fonte": 11398,
+          "divergencia_markdown": "tucionais Transitórias passa a vigorar acrescido do seguinte art. 97: “Art. 97. Até que seja editada a lei complementar de que trata o § 15 do art. 100 da Constituição Federal, os Estados, o Distrito Federal e os Municíp",
+          "divergencia_fonte": "tucionais Transitórias passa a vigorar acrescido do seguinte art. 97: \"Art. 97. Até que seja editada a lei complementar de que trata o § 15 do art. 100 da Constituição Federal, os Estados, o Distrito Federal e os Municíp"
+        },
+        {
+          "artigo": "7",
+          "sha256_markdown_colapsa_espacos": "03c340bd634d0247b2e71d5f1870e3f4b6255acb0fdde634e8e562e3a3431170",
+          "sha256_fonte_colapsa_espacos": "411900ce013f75a3ba820a64f05bf19ee1614827f1b1b6718ef832763600fd50",
+          "chars_markdown": 715,
+          "chars_fonte": 715,
+          "divergencia_markdown": "vigor na data de sua publicação. Brasília, em 9 de dezembro de 2009. MESA DA CÂMARA DOS DEPUTADOS DEPUTADO MICHEL TEMER Presidente DEPUTADO MARCO MAIA 1º Vice-Presidente DEPUTADO ANTÔNIO CARLOS MAGALHÃES NETO 2º Vice-Pre",
+          "divergencia_fonte": "vigor na data de sua publicação. Brasília, em 9 de dezembro de 2009. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado MICHEL TEMER Senador MARCONI PERILLO Presidente 1º Vice-Presidente, no exercício da Presid"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 65,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2010-07-13-65.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2010/emendaconstitucional-65-13-julho-2010-607266-publicacaooriginal-128078-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "6540891666c3586bbf1f64621f280974d116787234c868e66c19870b7bd80cba",
+          "sha256_fonte_colapsa_espacos": "0bfb838776c5b14d0dd61b638f583091e68ef78ca15409b141df4b0ccd53d94c",
+          "chars_markdown": 137,
+          "chars_fonte": 137,
+          "divergencia_markdown": "ítulo VII do Título VIII da Constituição Federal passa a denominar-se “Da Família, da Criança, do Adolescente, do Jovem e do Idoso”.",
+          "divergencia_fonte": "ítulo VII do Título VIII da Constituição Federal passa a denominar-se \"Da Família, da Criança, do Adolescente, do Jovem e do Idoso\"."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "2261f7474348b1844b75502a6e9f12e906760a6e8909fe24f59b8c1acda72d72",
+          "sha256_fonte_colapsa_espacos": "922b04767870f16bda2ccb1b811782bd6215e0f27782b9a7afb310abd8f7bd6d",
+          "chars_markdown": 2128,
+          "chars_fonte": 2205,
+          "divergencia_markdown": ". 227 da Constituição Federal passa a vigorar com a seguinte redação: “Art. 227. É dever da família, da sociedade e do Estado assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade, o direito à vida, à s",
+          "divergencia_fonte": ". 227 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 227. É dever da família, da sociedade e do Estado assegurar à criança, ao adolescente e ao jovem, com absoluta prioridade, o direito à vida, à s"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "7cb5b57f543891c97a609d891cec16f4730c0afc0901f7102f6171c8f3c78105",
+          "sha256_fonte_colapsa_espacos": "63935ac1e6c651013a8fb3d6516e00908a6a0553185e4ee98caac33a2c25c615",
+          "chars_markdown": 586,
+          "chars_fonte": 589,
+          "divergencia_markdown": "Constitucional entra em vigor na data de sua publicação. Brasília, em de julho de 2010. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado Michel Temer Presidente Senador José Sarney Presidente Deputado Marco M",
+          "divergencia_fonte": "Constitucional entra em vigor na data de sua publicação. Brasília, em 13 de julho de 2010. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado MICHEL TEMER Senador JOSÉ SARNEY Presidente Presidente Deputado MARC"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 66,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2010-07-13-66.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2010/emendaconstitucional-66-13-julho-2010-607267-publicacaooriginal-128079-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "807caed139b25ea7032037be361c1ac350443f1358e806171125e6c353d27cba",
+          "sha256_fonte_colapsa_espacos": "8cdac93099d08581b18479357425a01cf2d05896669a5bcbe7a00c575f87d9f4",
+          "chars_markdown": 330,
+          "chars_fonte": 337,
+          "divergencia_markdown": ". 226 da Constituição Federal passa a vigorar com a seguinte redação: “Art. 226.......................................................................... ..................................................................",
+          "divergencia_fonte": ". 226 da Constituição Federal passa a vigorar com a seguinte redação: \"Art. 226. ................................................................................. ........................................................."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "c3665e47eb23d113317989d6d991cab873bacbb3b9f65e97402cd95ee40614a9",
+          "sha256_fonte_colapsa_espacos": "63935ac1e6c651013a8fb3d6516e00908a6a0553185e4ee98caac33a2c25c615",
+          "chars_markdown": 556,
+          "chars_fonte": 589,
+          "divergencia_markdown": "e 2010. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado Michel Temer Presidente Senador José Sarney Presidente Deputado Marco Maia 1º Vice-Presidente Senador Heráclito Fortes 1º Secretário Deputado Rafael Gu",
+          "divergencia_fonte": "e 2010. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado MICHEL TEMER Senador JOSÉ SARNEY Presidente Presidente Deputado MARCO MAIA Senador HERÁCLITO FORTES 1º Vice-Presidente 1º Secretário Deputado RAFAEL GU"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 67,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2010-12-22-67.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2010/emendaconstitucional-67-22-dezembro-2010-609828-publicacaooriginal-131132-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "a0d8b1db4d7dede9c1e2247c312d56f2e2e0177a34892a5805623c8d826c26af",
+          "sha256_fonte_colapsa_espacos": "d7cbad462be7175aee324bc823d66ab40a35ad3f0f18d7f77630a2cdd47867ec",
+          "chars_markdown": 458,
+          "chars_fonte": 472,
+          "divergencia_markdown": "igor na data de sua publicação. Brasília, em 22 de dezembro de 2010. MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado MARCO MAIA Presidente Senador JOSÉ SARNEY Presidente Deputado ANTONIO CARLOS MAGALHÃES NET",
+          "divergencia_fonte": "igor na data de sua publicação. Brasília, em 22 de dezembro de 2010. Mesa da Câmara dos Deputados Deputado MARCO MAIA Presidente Deputado ANTONIO CARLOS MAGALHÃES NETO 2ª Vice-Presidente Deputado ODAIR CUNHA 3º Secretári"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 68,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2011-12-21-68.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2011/emendaconstitucional-68-21-dezembro-2011-612061-publicacaooriginal-134728-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "1a9b2a8787d3a31e4450a9d5fcb7acf6592c6faa6d841372ba17e20756bbd019",
+          "sha256_fonte_colapsa_espacos": "dbaa322f6b910d943f421adb6e13edfd9c359627fb46146d5393bec27e8ec534",
+          "chars_markdown": 1174,
+          "chars_fonte": 1175,
+          "divergencia_markdown": "12 da Constituição Federal, o percentual referido no caput será nulo.\"(NR)",
+          "divergencia_fonte": "12 da Constituição Federal, o percentual referido no caput será nulo.\" (NR)"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "207d0876bb48d8ad82c4518985d36abc3416b5a59a15d94a0b9f1dcc980bfc6e",
+          "sha256_fonte_colapsa_espacos": "1340a83f4bca78dbf4bef1e8c1e273fc2c8d46bc0b9ff4c225c14bce866f531c",
+          "chars_markdown": 660,
+          "chars_fonte": 660,
+          "divergencia_markdown": "em vigor na data da sua publicação. Brasília, 21 de dezembro de 2011 MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado MARCO MAIA Senador JOSÉ SARNEY Presidente Presidente Deputada ROSE DE FREITAS Senadora MAR",
+          "divergencia_fonte": "em vigor na data da sua publicação. Brasília, 21 de dezembro de 2011 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado MARCO MAIA Senador JOSÉ SARNEY Presidente Presidente Deputada ROSE DE FREITAS Senadora MAR"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 69,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2012-03-29-69.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2012/emendaconstitucional-69-29-marco-2012-612629-publicacaooriginal-135665-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 4,
+      "artigos_fonte": 4,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "02cbe764dcce6c7ec50b4a27e1a5327e2d54a4014bcc8a758d278221469b5fa8",
+          "sha256_fonte_colapsa_espacos": "2ef60a6146edee8c7c0382d1c45781300dab9fe24d20ae4a70de4e4004da4bc2",
+          "chars_markdown": 1504,
+          "chars_fonte": 1480,
+          "divergencia_markdown": ".............................................................................. XIII - organizar e manter o Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territóri",
+          "divergencia_fonte": "...................................................................... XIII - organizar e manter o Poder Judiciário, o Ministério Público do Distrito Federal e dos Territórios e a Defensoria Pública dos Territórios; ...."
+        },
+        {
+          "artigo": "4",
+          "sha256_markdown_colapsa_espacos": "d054053eb52c238aa0d588bd005c6ded770c4a4aa8aeb05768760cde187a2846",
+          "sha256_fonte_colapsa_espacos": "b5e95b759610c9fa7b89f6f6ce0093c0709cca8c4e4b1d4cbedf807a1ef424b0",
+          "chars_markdown": 812,
+          "chars_fonte": 812,
+          "divergencia_markdown": "sa da Câmara dos Deputados Mesa do Senado Federal Deputado MARCO MAIA Senador JOSÉ SARNEY Presidente Presidente Deputada ROSE DE FREITAS Senadora MARTA SUPLICY 1ª Vice-Presidente 1ª Vice-Presidente Deputado EDUARDO DA FO",
+          "divergencia_fonte": "sa da Câmara dos Deputados Mesa do Senado Federal Deputado MARCO MAIA Presidente Senador JOSÉ SARNEY Presidente Deputada ROSE DE FREITAS 1ª Vice-Presidente Senadora MARTA SUPLICY 1ª Vice-Presidente Deputado EDUARDO DA FO"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 70,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2012-03-29-70.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2012/emendaconstitucional-70-29-marco-2012-612630-publicacaooriginal-135666-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "837a706ab6ec9e5b5a9d76490c044f7e46a64ec76f20c464028857e24c4b9eca",
+          "sha256_fonte_colapsa_espacos": "9f2f227bfb80c5f11cc41273be8316a76cf7ec2b99209fb44edbb9387540a375",
+          "chars_markdown": 696,
+          "chars_fonte": 695,
+          "divergencia_markdown": "Esta Emenda Constitucional entra e m vigor na data de sua publicação. Brasília, 29 de março de 2012. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado MARCO MAIA Senador JOS",
+          "divergencia_fonte": "Esta Emenda Constitucional entra em vigor na data de sua publicação. Brasília, 29 de março de 2012. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado MARCO MAIA Presidente S"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 74,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2013-08-06-74.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2013/emendaconstitucional-74-6-agosto-2013-776732-publicacaooriginal-140713-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "3140a9bf215bc2550d9b01d5143d513f0e50602c9ca26fd7a6c55d6e1b587cc6",
+          "sha256_fonte_colapsa_espacos": "ef4dd5c458f8b7ec3caa913bf32c94d4833230cc41c6a8fbf0cf8ccb6f06288b",
+          "chars_markdown": 295,
+          "chars_fonte": 368,
+          "divergencia_markdown": "................................................................................................... § 3º Aplica-se o disposto no § 2º às Defensorias Públicas da União e do Distrito Federal.\"(NR)",
+          "divergencia_fonte": "...................................................................... .................................................................................................... § 3º Aplica-se o disposto no § 2º às Defensorias"
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "aadd5784cf2deac9fedacba18b704a41e17b2eadbc96439d321225c07fecd698",
+          "sha256_fonte_colapsa_espacos": "ce7d2013519e2eb1d85a767d00b554dae0274e2f4c443685a6d78e015a38c0fc",
+          "chars_markdown": 710,
+          "chars_fonte": 710,
+          "divergencia_markdown": "cação. Brasília, em 6 de agosto de 2013. Mesa da Câmara dos Deputados DEPUTADO HENRIQUE EDUARDO ALVES Presidente DEPUTADO ANDRÉ VARGAS 1º Vice-Presidente DEPUTADO FÁBIO FARIA 2º Vice-Presidente DEPUTADO MÁRCIO BITTAR 1º ",
+          "divergencia_fonte": "cação. Brasília, em 6 de agosto de 2013. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado HENRIQUE EDUARDO ALVES Presidente Senador RENAN CALHEIROS Presidente Deputado ANDRÉ VARGAS 1º Vice-Presidente Senador "
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 75,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2013-10-15-75.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2013/emendaconstitucional-75-15-outubro-2013-777256-publicacaooriginal-141456-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "fdfd31c38fffcbd2f7f25da6e15876d476d2c92dd903a3463402e8dfaba00523",
+          "sha256_fonte_colapsa_espacos": "52da342fd28e9d43705ff17757ee0a554cfbc2dce366d09c243878929b94dca0",
+          "chars_markdown": 936,
+          "chars_fonte": 923,
+          "divergencia_markdown": "............................................................................ VI - ........................................................................................... ..............................................",
+          "divergencia_fonte": "...................................................................... VI - ........................................................................................... ...................................................."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "a67e4f2a37551ca6a08b72403456b15b38f60019dd214db92ef372daffd3a7e6",
+          "sha256_fonte_colapsa_espacos": "e78288b75c8aebfebb77119bf05c718cf1cca2503d85cb2c2f09849866d308df",
+          "chars_markdown": 668,
+          "chars_fonte": 668,
+          "divergencia_markdown": "ão. Brasília, em 15 de outubro de 2013. Mesa da Câmara dos Deputados DEPUTADO HENRIQUE EDUARDO ALVES Presidente DEPUTADO ANDRÉ VARGAS 1º Vice-Presidente DEPUTADO FÁBIO FARIA 2º Vice-Presidente DEPUTADO MARCIO BITTAR 1º S",
+          "divergencia_fonte": "ão. Brasília, em 15 de outubro de 2013. Mesa da Câmara dos Deputados Deputado HENRIQUE EDUARDO ALVES Presidente Deputado ANDRÉ VARGAS 1° Vice-Presidente Deputado FÁBIO FARIA 2º Vice-Presidente Deputado MARCIO BITTAR 1º S"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 78,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2014-05-14-78.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2014/emendaconstitucional-78-14-maio-2014-778726-publicacaooriginal-144114-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "d5deaed65c7484953cfed5b15001227c7582529c076866351fb64548a355a0ee",
+          "sha256_fonte_colapsa_espacos": "68628021c57705559e001f6aa266c69d66fdb7b081766e597f749dd6eb250dcc",
+          "chars_markdown": 769,
+          "chars_fonte": 741,
+          "divergencia_markdown": "ceiro seguinte ao de sua publicação. Brasília, em 14 de maio de 2014 MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado HENRIQUE EDUARDO ALVES – Presidente Senador RENAN CALHEIROS – Presidente Deputado ARLINDO ",
+          "divergencia_fonte": "ceiro seguinte ao de sua publicação. Brasília, em 14 de maio de 2014 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado HENRIQUE EDUARDO ALVES Presidente Senador RENAN CALHEIROS Presidente Deputado ARLINDO CHIN"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 80,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2014-06-04-80.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2014/emendaconstitucional-80-4-junho-2014-778857-publicacaooriginal-144316-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "c8a5d58a05b0b3ea8da1b0373514897ce740bd265333bc3e4f94e2903dfd1ba6",
+          "sha256_fonte_colapsa_espacos": "dda1da04f21d08f8c88dc161bb2be3a22c3479056f9c49dc637869cbe86f00d8",
+          "chars_markdown": 1492,
+          "chars_fonte": 1371,
+          "divergencia_markdown": "................................................................................................. CAPÍTULO IV DAS FUNÇÕES ESSENCIAIS À JUSTIÇA .............................................................................",
+          "divergencia_fonte": "...................................................................... CAPÍTULO IV DAS FUNÇÕES ESSENCIAIS À JUSTIÇA. ......................................................................................................."
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "59d74248ed83c6abea86dc8213725cb2eff80aa31227942811ff1dd02ee4a219",
+          "sha256_fonte_colapsa_espacos": "fa5456ae53e8ebe3a7295211f7723d57d4c76c17c76030766f3a3af8852f2f71",
+          "chars_markdown": 745,
+          "chars_fonte": 713,
+          "divergencia_markdown": " em vigor na data de sua publicação. Brasília, em 4 de junho de 2014 MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado HENRIQUE EDUARDO ALVES – Presidente Senador RENAN CALHEIROS – Presidente Deputado ARLINDO ",
+          "divergencia_fonte": " em vigor na data de sua publicação. Brasília, em 4 de junho de 2014 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado HENRIQUE EDUARDO ALVES Presidente Senador RENAN CALHEIROS Presidente Deputado ARLINDO CHIN"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 81,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2014-06-05-81.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2014/emendaconstitucional-81-5-junho-2014-778863-publicacaooriginal-144327-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "4e102a29881c872b11c0afe0af2cbdb53c5e46c3e7199cc7411030e92f505c78",
+          "sha256_fonte_colapsa_espacos": "fc585c8928c2d23391827c1a74bc3857bd8b7ba86530e720bbb916bec913493f",
+          "chars_markdown": 746,
+          "chars_fonte": 713,
+          "divergencia_markdown": " em vigor na data de sua publicação. Brasília, em 5 de junho de 2014 MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado HENRIQUE EDUARDO ALVES – Presidente Senador RENAN CALHEIROS – Presidente Deputado ARLINDO ",
+          "divergencia_fonte": " em vigor na data de sua publicação. Brasília, em 5 de junho de 2014 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado HENRIQUE EDUARDO ALVES Presidente Senador RENAN CALHEIROS Presidente Deputado ARLINDO CHIN"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 84,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2014-12-02-84.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2014/emendaconstitucional-84-2-dezembro-2014-779653-publicacaooriginal-145516-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "add413f671ec16b345b9baa2690587971ccb7dc41636f14ac7871bdc0fe681d8",
+          "sha256_fonte_colapsa_espacos": "d50be6585815ff359d35436988bc53d9cbe044285071b615a688b5a2bc4060fb",
+          "chars_markdown": 697,
+          "chars_fonte": 679,
+          "divergencia_markdown": "................................................................................. I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados, 49% (quarenta e",
+          "divergencia_fonte": "...................................................................... I - do produto da arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados, 49% (quarenta e nove por c"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "d716c0c9d1a72eb9f5724ebb116785157f53f732c02790b0b51365c1947ea364",
+          "sha256_fonte_colapsa_espacos": "7fd5695ffb732600cda33cb5ba0a39ff975fb436e4cf0065317e6b900676626d",
+          "chars_markdown": 821,
+          "chars_fonte": 793,
+          "divergencia_markdown": "aneiro do exercício subsequente. Brasília, em 2 de dezembro de 2014. MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado HENRIQUE EDUARDO ALVES – Presidente Senador RENAN CALHEIROS – Presidente Deputado ARLINDO ",
+          "divergencia_fonte": "aneiro do exercício subsequente. Brasília, em 2 de dezembro de 2014. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado HENRIQUE EDUARDO ALVES Presidente Senador RENAN CALHEIROS Presidente Deputado ARLINDO CHIN"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 100,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2019-06-26-100.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2019/emendaconstitucional-100-26-junho-2019-788600-publicacaooriginal-158484-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 4,
+      "artigos_fonte": 4,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "d6214549b52629634837df864136bea73c0eec77b2f3027f43cd93e6fe643a25",
+          "sha256_fonte_colapsa_espacos": "0e04545310b81bfca1a8e214547eec1ffc6b2ecc77dc0092333040e6e304cb00",
+          "chars_markdown": 3976,
+          "chars_fonte": 3986,
+          "divergencia_markdown": "uição Federal passam a vigorar com as seguintes alterações: \"Art. 165................................................................................................................. .....................................",
+          "divergencia_fonte": "uição Federal passam a vigorar com as seguintes alterações: \"Art. 165. ................................................................................................................ ...................................."
+        },
+        {
+          "artigo": "4",
+          "sha256_markdown_colapsa_espacos": "b09df35f44f7888a13c9bd2cc80c4c8491a8fb78a6e11dcf29df3c25ddb6d81a",
+          "sha256_fonte_colapsa_espacos": "da96f9490d7e05b96a2693f3b0b5f2a3031d32746d416a19ca8b474941f8c15d",
+          "chars_markdown": 783,
+          "chars_fonte": 782,
+          "divergencia_markdown": " do exercício financeiro subsequente. Brasília, em 26 de junho de 2019. MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado RODRIGO MAIA Senador DAVI ALCOLUMBRE Presidente Presidente Deputado MARCOS PEREIRA Sena",
+          "divergencia_fonte": " do exercício financeiro subsequente. Brasília, em 26 de junho de 2019 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado RODRIGO MAIA Presidente Senador DAVI ALCOLUMBRE Presidente Deputado MARCOS PEREIRA 1º Vi"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 101,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2019-07-03-101.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2019/emendaconstitucional-101-3-julho-2019-788699-publicacaooriginal-158597-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "96008752bc9624a9aa6c3a4f3f4894a63f5add268fad650c3e10406888788e81",
+          "sha256_fonte_colapsa_espacos": "6907e51b7149eaf210e0369b5506093ebf32369379c24df9d4741647996a49ca",
+          "chars_markdown": 488,
+          "chars_fonte": 496,
+          "divergencia_markdown": "tituição Federal passa a vigorar acrescido do seguinte § 3º: \"Art. 42................................................................................................................... ...................................",
+          "divergencia_fonte": "tituição Federal passa a vigorar acrescido do seguinte § 3º: \"Art. 42. ................................................................................................................... ................................."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "f191c84a1642bc3dd8abca35c57273c33e365ff0e01c5f07f9b2c5c676fec443",
+          "sha256_fonte_colapsa_espacos": "25d22ce8f8bf2253d5269c4825cdbae8699f23cd706d69ed346a7db00f51d4f6",
+          "chars_markdown": 692,
+          "chars_fonte": 692,
+          "divergencia_markdown": "em vigor na data de sua publicação. Brasília, em 3 de julho de 2019. MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado RODRIGO MAIA Senador DAVI ALCOLUMBRE Presidente Presidente Deputado MARCOS PEREIRA Senador",
+          "divergencia_fonte": "em vigor na data de sua publicação. Brasília, em 3 de julho de 2019. Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado RODRIGO MAIA Presidente Senador DAVI ALCOLUMBRE Presidente Deputado MARCOS PEREIRA 1º Vice"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 103,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2019-11-12-103.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2019/emendaconstitucional-103-12-novembro-2019-789412-publicacaooriginal-159409-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 36,
+      "artigos_fonte": 36,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "184ce94e1c73b004163c66f07a240380864d6d98e1510ce5470fc9d198564b1f",
+          "sha256_fonte_colapsa_espacos": "16e09d2a2e9f8d78306668e62b8bd346f8a490c5da980b7acad816a5daa9f1fd",
+          "chars_markdown": 25216,
+          "chars_fonte": 25475,
+          "divergencia_markdown": "ituição Federal passa a vigorar com as seguintes alterações: \"Art. 22................................................................................................................... ...................................",
+          "divergencia_fonte": "ituição Federal passa a vigorar com as seguintes alterações: \"Art. 22. .................................................................................................................. .................................."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "2895c8adb177cca401cafdf5db9de9e65e2100e1bb42471a3c88d1becc52fb17",
+          "sha256_fonte_colapsa_espacos": "886768d3e103b9276aa9b2afdccd01b13c44b9f373ed94f6d5f0f256b9e4c710",
+          "chars_markdown": 497,
+          "chars_fonte": 498,
+          "divergencia_markdown": "cionais Transitórias passa a vigorar com a seguinte redação: \"Art. 76................................................................................................................... ...................................",
+          "divergencia_fonte": "cionais Transitórias passa a vigorar com a seguinte redação: \"Art. 76. .................................................................................................................. .................................."
+        },
+        {
+          "artigo": "9",
+          "sha256_markdown_colapsa_espacos": "a856e467a542a739e78240b21d061f9bde0c1baf0a55f098f3c4cfdb88fcfdd9",
+          "sha256_fonte_colapsa_espacos": "bdc25c97df335a4de5db404304eff3785b503dcd2eef4317de8f3150ad35fa4f",
+          "chars_markdown": 2506,
+          "chars_fonte": 2506,
+          "divergencia_markdown": "ado que o respectivo regime próprio de previdência social não possui déficit atuarial a ser equacionado, hipótese em que a alíquota não poderá ser inferior às alíquotas aplicáveis ao Regime Geral de Previdência Social. §",
+          "divergencia_fonte": "ado que o respectivo regime próprio de previdência social não possui deficit atuarial a ser equacionado, hipótese em que a alíquota não poderá ser inferior às alíquotas aplicáveis ao Regime Geral de Previdência Social. §"
+        },
+        {
+          "artigo": "34",
+          "sha256_markdown_colapsa_espacos": "7e913df6e2a18bdfc4498ef0add5e22a2cb9c0a00d664a57690184ab6da43362",
+          "sha256_fonte_colapsa_espacos": "429f07901ccb9b36a4161bfd867e40f6a7109d9ebe951e8f50d255f08c0f91cb",
+          "chars_markdown": 1120,
+          "chars_fonte": 1120,
+          "divergencia_markdown": "me Geral de Previdência Social. Parágrafo único. A existência de superávit atuarial não constitui óbice à extinção de regime próprio de previdência social e à consequente migração para o Regime Geral de Previdência Socia",
+          "divergencia_fonte": "me Geral de Previdência Social. Parágrafo único. A existência de superavit atuarial não constitui óbice à extinção de regime próprio de previdência social e à consequente migração para o Regime Geral de Previdência Socia"
+        },
+        {
+          "artigo": "36",
+          "sha256_markdown_colapsa_espacos": "e200f5ed4eab26b152bb611cb7d2ecdf901de3652996fb80361080dd22c04bd7",
+          "sha256_fonte_colapsa_espacos": "613b97ead399d4fe40eb52490c76632d0d3b70167c9f6c6563e8e5a3ce43b036",
+          "chars_markdown": 1389,
+          "chars_fonte": 1389,
+          "divergencia_markdown": "riores à data de sua publicação. Brasília, em 12 de novembro de 2019 MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado RODRIGO MAIA Senador DAVI ALCOLUMBRE Presidente Presidente Deputado MARCOS PEREIRA Senador",
+          "divergencia_fonte": "riores à data de sua publicação. Brasília, em 12 de novembro de 2019 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado RODRIGO MAIA Presidente Senador DAVI ALCOLUMBRE Presidente Deputado MARCOS PEREIRA 1º Vice"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 104,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2019-12-04-104.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2019/emendaconstitucional-104-4-dezembro-2019-789512-publicacaooriginal-159550-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 5,
+      "artigos_fonte": 5,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "c4f4e3c22cd5178133d3128ebba19d237329d41ddcfac3d70ff0348be2011ee8",
+          "sha256_fonte_colapsa_espacos": "27fc65762527b2a7cbcdc5afb0efc96c6ada1f492195222f0aa8551f1264470a",
+          "chars_markdown": 726,
+          "chars_fonte": 737,
+          "divergencia_markdown": "Constituição Federal passa a vigorar com a seguinte redação: \"Art. 21................................................................................................................... ...................................",
+          "divergencia_fonte": "Constituição Federal passa a vigorar com a seguinte redação: \"Art. 21. .................................................................................................................. .................................."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "d8e8bdc5984af9431d38ea321de898614f446467082855864fb6afbed1f4d127",
+          "sha256_fonte_colapsa_espacos": "8c1c524821e41dbca486e82d9e22294d688586da289b712cc5d57469d47d0258",
+          "chars_markdown": 506,
+          "chars_fonte": 506,
+          "divergencia_markdown": "Constituição Federal passa a vigorar com a seguinte redação: \"Art. 32................................................................................................................... ...................................",
+          "divergencia_fonte": "Constituição Federal passa a vigorar com a seguinte redação: \"Art. 32. .................................................................................................................. .................................."
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "e143ef0827910fc1eac0667d00f30f15d91f7fbd3e288a281f38c5f493e90bb9",
+          "sha256_fonte_colapsa_espacos": "1c85742ea2863b2f0b9c27bd5dddf3b9ebf506fb3451f48057f66d065ad40e06",
+          "chars_markdown": 1063,
+          "chars_fonte": 1085,
+          "divergencia_markdown": "tuição Federal passa a vigorar com as seguintes alterações: \"Art. 144................................................................................................................. .....................................",
+          "divergencia_fonte": "tuição Federal passa a vigorar com as seguintes alterações: \"Art. 144. ................................................................................................................ ...................................."
+        },
+        {
+          "artigo": "5",
+          "sha256_markdown_colapsa_espacos": "a3a783aeafc9e5a29c8d9c12618cfb8f8b18a794b735579ea2aec85a2e874610",
+          "sha256_fonte_colapsa_espacos": "4941e6bb31b335e28d871e8394c9787a76112194eef9f273409c77053b0b102d",
+          "chars_markdown": 694,
+          "chars_fonte": 694,
+          "divergencia_markdown": " vigor na data de sua publicação. Brasília, em 4 de dezembro de 2019 MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado RODRIGO MAIA Senador DAVI ALCOLUMBRE Presidente Presidente Deputado MARCOS PEREIRA Senador",
+          "divergencia_fonte": " vigor na data de sua publicação. Brasília, em 4 de dezembro de 2019 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado RODRIGO MAIA Presidente Senador DAVI ALCOLUMBRE Presidente Deputado MARCOS PEREIRA 1º Vice"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 105,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2019-12-12-105.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2019/emendaconstitucional-105-12-dezembro-2019-789566-publicacaooriginal-159622-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "420530e35bd0d0b580142573402a7ee0898902f5cf19eab8b3fe9cf05fd34b64",
+          "sha256_fonte_colapsa_espacos": "aaf624bb999c4fe0137cdf8d8b23a75b464f7384497d760166f46a3895bb627c",
+          "chars_markdown": 727,
+          "chars_fonte": 730,
+          "divergencia_markdown": " subsequente ao de sua publicação. Brasília, em 12 de dezembro de 2019. MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado RODRIGO MAIA Senador DAVI ALCOLUMBRE Presidente Presidente Deputado MARCOS PEREIRA Sena",
+          "divergencia_fonte": " subsequente ao de sua publicação. Brasília, em 12 de dezembro de 2019 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado RODRIGO MAIA Presidente Senador DAVI ALCOLUMBRE Presidente Deputado MARCOS PEREIRA 1º Vi"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 106,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2020-05-07-106.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2020/emendaconstitucional-106-7-maio-2020-790165-publicacaooriginal-160592-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 11,
+      "artigos_fonte": 11,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "4",
+          "sha256_markdown_colapsa_espacos": "965c768da7863b5eff90e7c15b4e22a18eb65ea9ed8a4f908b7a88812c9c667a",
+          "sha256_fonte_colapsa_espacos": "3550942f758757d1abeef54d417dab41fe945a5dc5dabc2781f64ae47c900089",
+          "chars_markdown": 499,
+          "chars_fonte": 505,
+          "divergencia_markdown": "l, a observância do inciso III do caput do art. 167 da Constituição Federal. Parágrafo único. O Ministério da Economia publicará, a cada 30 (trinta) dias, relatório com os valores e o custo das operações de crédito reali",
+          "divergencia_fonte": "l, a observância do inciso III do caput do art. 167 da Constituição Fe d e r a l . Parágrafo único. O Ministério da Economia publicará, a cada 30 (trinta) dias, relatório com os valores e o custo das operações de crédito"
+        },
+        {
+          "artigo": "11",
+          "sha256_markdown_colapsa_espacos": "5f19ddc59284d4ec86bd593856633b2dc5ca01300dc8eb0d0d5eb03bdf59d53f",
+          "sha256_fonte_colapsa_espacos": "cc5a1b20a7095442a0e21e3733e46e523c3906c1e029286c784e7e2a56068f4b",
+          "chars_markdown": 817,
+          "chars_fonte": 816,
+          "divergencia_markdown": "ca reconhecido pelo Congresso Nacional. Brasília, em 7 de maio de 2020. MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado RODRIGO MAIA Senador DAVI ALCOLUMBRE Presidente Presidente Deputado MARCOS PEREIRA Sena",
+          "divergencia_fonte": "ca reconhecido pelo Congresso Nacional. Brasília, em 7 de maio de 2020 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado RODRIGO MAIA Presidente Senador DAVI ALCOLUMBRE Presidente Deputado MARCOS PEREIRA 1º Vi"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 108,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2020-08-26-108.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2020/emendaconstitucional-108-26-agosto-2020-790577-publicacaooriginal-161374-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 4,
+      "artigos_fonte": 4,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "76e81bbf37ccbf8cf9593d328e77eead190d3bc112424ea87ffe2b3e95697e47",
+          "sha256_fonte_colapsa_espacos": "63eee79092eedc90594add76a863039c7bb3bfa7ccdbd68219a03b0dcf711a40",
+          "chars_markdown": 11117,
+          "chars_fonte": 11077,
+          "divergencia_markdown": "............................................................................ .................................................................................................................................... Parágrafo ",
+          "divergencia_fonte": "...................................................................... ............................................................................................................................... Parágrafo único. ...."
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "3433eb4a0fda1c2143a5a0e0608b2c4380ec4936199fd03906500fc35ee72418",
+          "sha256_fonte_colapsa_espacos": "374efad6704a1efc8ea4b96feef0d93c22116b9b9696fbc9f6f236afd430557e",
+          "chars_markdown": 2820,
+          "chars_fonte": 2809,
+          "divergencia_markdown": "............................................................................ .................................................................................................................................... § 6º .....",
+          "divergencia_fonte": "...................................................................... ................................................................................................................................ § 6º ..............."
+        },
+        {
+          "artigo": "4",
+          "sha256_markdown_colapsa_espacos": "c873b776c45f110271ce63104c8ead6a03f23ad83703a4e0ab4e411bb1212fe3",
+          "sha256_fonte_colapsa_espacos": "b3f01dea67935b2be3ab4ef56e884140f7f9109b93d995a234fdc28a95e1acce",
+          "chars_markdown": 1018,
+          "chars_fonte": 1018,
+          "divergencia_markdown": "eiros desta Emenda Constitucional. Brasília, em 26 de agosto de 2020 MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado RODRIGO MAIA Senador DAVI ALCOLUMBRE Presidente Presidente Deputado MARCOS PEREIRA Senador",
+          "divergencia_fonte": "eiros desta Emenda Constitucional. Brasília, em 26 de agosto de 2020 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado RODRIGO MAIA Presidente Senador DAVI ALCOLUMBRE Presidente Deputado MARCOS PEREIRA 1º Vice"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 110,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2021-07-12-110.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2021/emendaconstitucional-110-12-julho-2021-791579-publicacaooriginal-163182-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 2,
+      "artigos_fonte": 2,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "fb4fa1d6ee824fda0b638ebc01c32f43ec2770eb1060f3768f76b5e4faa953b7",
+          "sha256_fonte_colapsa_espacos": "45928898ab2c65070199453be836e01f2bad16b2f328bd5184dd88d40e7792d3",
+          "chars_markdown": 459,
+          "chars_fonte": 459,
+          "divergencia_markdown": "cionais Transitórias passa a vigorar acrescido do seguinte art. 18-A: “Art. 18-A. Os atos administrativos praticados no Estado do Tocantins, decorrentes de sua instalação, entre 1º de janeiro de 1989 e 31 de dezembro de ",
+          "divergencia_fonte": "cionais Transitórias passa a vigorar acrescido do seguinte art. 18-A: \"Art. 18-A. Os atos administrativos praticados no Estado do Tocantins, decorrentes de sua instalação, entre 1º de janeiro de 1989 e 31 de dezembro de "
+        },
+        {
+          "artigo": "2",
+          "sha256_markdown_colapsa_espacos": "247cac5769569583d127d270a585c4525fa540f7e1867f755c43c37478720a30",
+          "sha256_fonte_colapsa_espacos": "ea3bc5923eaa67de6206a0e7588e9ecf808ad4ee198eb3dd6103e5a81c6dbbe6",
+          "chars_markdown": 675,
+          "chars_fonte": 674,
+          "divergencia_markdown": "a em vigor na data de sua publicação. Brasília, em 12 de julho de 2021. MESA DA CÂMARA DOS DEPUTADOS MESA DO SENADO FEDERAL Deputado ARTHUR LIRA Presidente Senador RODRIGO PACHECO Presidente Deputado MARCELO RAMOS 1º Vic",
+          "divergencia_fonte": "a em vigor na data de sua publicação. Brasília, em 12 de julho de 2021 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado ARTHUR LIRA Presidente Senador RODRIGO PACHECO Presidente Deputado MARCELO RAMOS 1º Vice"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    },
+    {
+      "emenda": 119,
+      "arquivo_markdown": "federal/br-federal-emenda-constitucional-2022-04-27-119.md",
+      "fonte_conferencia_url": "https://www2.camara.leg.br/legin/fed/emecon/2022/emendaconstitucional-119-27-abril-2022-792565-publicacaooriginal-165130-pl.html",
+      "tipo_conferencia": "publicacaooriginal",
+      "artigos_markdown": 3,
+      "artigos_fonte": 3,
+      "apenas_markdown": [],
+      "apenas_fonte": [],
+      "artigos_divergentes": [
+        {
+          "artigo": "1",
+          "sha256_markdown_colapsa_espacos": "7553d445dbf2ed62c4443b6c6e2593a583fa573493ad22924dded7d80c0952b9",
+          "sha256_fonte_colapsa_espacos": "f78c18aaa02d93ca298ecaa0a23066ca9d76eb66f2d7bfcb2ba278c7e5120fac",
+          "chars_markdown": 886,
+          "chars_fonte": 885,
+          "divergencia_markdown": "ucionais Transitórias passa a vigorar acrescido do seguinte art. 119: “Art. 119\\. Em decorrência do estado de calamidade pública provocado pela pandemia da Covid-19, os Estados, o Distrito Federal, os Municípios e os age",
+          "divergencia_fonte": "ucionais Transitórias passa a vigorar acrescido do seguinte art. 119: \"Art. 119. Em decorrência do estado de calamidade pública provocado pela pandemia da Covid-19, os Estados, o Distrito Federal, os Municípios e os agen"
+        },
+        {
+          "artigo": "3",
+          "sha256_markdown_colapsa_espacos": "b007c0a6d6fd792a41b0854dac869510befdf5c03ac533080afb4c56473740d6",
+          "sha256_fonte_colapsa_espacos": "c15ee21cfc768225460816f2d44acd43b5637f58603576bceeb4f71b43e596fd",
+          "chars_markdown": 676,
+          "chars_fonte": 675,
+          "divergencia_markdown": "a em vigor na data de sua publicação. Brasília, em 27 de abril de 2022. Mesa da Câmara dos Deputados Deputado ARTHUR LIRA Presidente Mesa do Senado Federal Senador RODRIGO PACHECO Presidente Deputado MARCELO RAMOS 1º Vic",
+          "divergencia_fonte": "a em vigor na data de sua publicação. Brasília, em 27 de abril de 2022 Mesa da Câmara dos Deputados Mesa do Senado Federal Deputado ARTHUR LIRA Presidente Senador RODRIGO PACHECO Presidente Deputado MARCELO RAMOS 1º Vice"
+        }
+      ],
+      "resultado_literal": "literalmente-divergente-registrada"
+    }
+  ],
+  "resumo": {
+    "emendas_conferidas": 55,
+    "emendas_sem_diferencas_literais": 0,
+    "emendas_com_diferencas_ou_pareamento_pendente": 55,
+    "diferencas_literais_ou_itens_nao_pareados": 137,
+    "diferencas_catalograficas_adicionais_ec1": 1,
+    "pareamentos_estruturais_corrigidos": 2,
+    "artigos_nao_pareados_apos_revisao_estrutural": 0
+  }
+}
