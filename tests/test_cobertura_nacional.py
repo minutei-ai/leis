@@ -8,6 +8,8 @@ from __future__ import annotations
 import json
 import sys
 import unittest
+import tempfile
+from unittest.mock import patch
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -259,6 +261,50 @@ class CoberturaNacionalTest(unittest.TestCase):
             self.assertNotIn('excluir_denominador_integra', recovered_doc)
             self.assertEqual(cn.apply_bm25_filters([recovered_doc], {}), [recovered_doc])
 
+    def test_partial_frontmatter_overrides_older_acervo_comment(self):
+        rel = 'federal/br-federal-lei-2020-01-01-1.md'
+        body = ('LEI Nº 1, DE 1 DE JANEIRO DE 2020\n\nArt. 1º Texto preservado.\n'
+                '<!-- metadados-acervo\n'
+                '{"tipo_conteudo":"texto_normativo", "edicao_integral":true, '
+                '"excluir_denominador_integra":false}\n-->\n')
+        with tempfile.TemporaryDirectory() as directory:
+            fixture_root = Path(directory)
+            path = fixture_root / rel
+            path.parent.mkdir()
+            path.write_text('---\nedicao_integral: false\n---\n' + body, encoding='utf-8')
+            with patch.object(cn, 'ROOT', fixture_root):
+                doc = cn.export_document(rel)
+        self.assertFalse(doc['edicao_integral'])
+        self.assertTrue(doc['corpo_legal_integral_pendente'])
+        self.assertTrue(doc['excluir_denominador_integra'])
+        self.assertFalse(doc['texto_integral_pesquisavel'])
+        self.assertEqual(doc['markdown_integral'], body)
+        self.assertEqual(cn.apply_bm25_filters([doc], {}), [])
+
+    def test_frontmatter_partial_retains_body_but_excludes_integral_search(self):
+        ledger = cn.load_json(
+            ROOT / 'provas/especies-legislativas-federais/textos-remetidos-pendentes.json'
+        )
+        item = next(x for x in ledger['itens']
+                    if x.get('estado') == 'publicado-corpo-parcial-remissao-explicita')
+        rel = item['arquivo_preexistente']
+        doc = cn.export_document(rel)
+        _meta, body = cn.parse_frontmatter((ROOT / rel).read_text(encoding='utf-8'))
+        self.assertFalse(doc['edicao_integral'])
+        self.assertTrue(doc['corpo_legal_integral_pendente'])
+        self.assertTrue(doc['excluir_denominador_integra'])
+        self.assertFalse(doc['texto_integral_pesquisavel'])
+        self.assertTrue(doc['fonte_integral_preservada'])
+        self.assertEqual(doc['cobertura_transcricao'], 'parcial')
+        self.assertEqual(doc['markdown_integral'], body)
+        self.assertEqual(doc['sha256_markdown'], cn.sha256_bytes(body.encode('utf-8')))
+        self.assertGreater(doc['markdown_integral_bytes'], 0)
+        self.assertEqual(cn.apply_bm25_filters([doc], {}), [])
+        # The same partial marker on an editorial note still excludes the note body.
+        mg = cn.export_document('estaduais/MG/br-mg-decreto-1945-06-26-2160.md')
+        self.assertEqual(mg['markdown_integral'], '')
+        self.assertEqual(mg['markdown_integral_bytes'], 0)
+
     def test_bm25_filter_and_negative_facsimile(self):
         demo = cn.load_json(PROVAS / 'bm25-demonstracao.json')
         self.assertTrue(demo['filtro_combinado_resultado'])
@@ -269,6 +315,10 @@ class CoberturaNacionalTest(unittest.TestCase):
         self.assertEqual(mapping['properties']['markdown_integral']['type'], 'text')
         self.assertEqual(mapping['properties']['norma_id']['type'], 'keyword')
         self.assertEqual(mapping['properties']['cobertura_transcricao']['type'], 'keyword')
+        self.assertEqual(mapping['properties']['corpo_legal_integral_pendente']['type'], 'boolean')
+        self.assertEqual(mapping['properties']['excluir_denominador_integra']['type'], 'boolean')
+        self.assertEqual(mapping['properties']['texto_integral_pesquisavel']['type'], 'boolean')
+        self.assertIn({'term': {'corpo_legal_integral_pendente': True}}, mapping['bool_query_exemplo']['must_not'])
         for field in ('orgao_emissor', 'fonte_orgao', 'serie_historica', 'senado_id', 'urn'):
             self.assertEqual(mapping['properties'][field]['type'], 'keyword')
         self.assertEqual(mapping['properties']['relacoes']['type'], 'nested')
@@ -328,7 +378,13 @@ class CoberturaNacionalTest(unittest.TestCase):
         leitura = next(x for x in recon['leituras'] if x['especie'] == 'decreto-lei')
         self.assertEqual(leitura['delta_arquivos_vs_errata'], leitura['publicados'] - 9647)
         ids = {b['id'] for b in recon['blockers_concretos']}
-        self.assertEqual(ids & {'#70', '#74', '#77', '#102', '#103'}, {'#70', '#74', '#77', '#102', '#103'})
+        self.assertTrue({'#70', '#74', '#77', '#96', '#99'} <= ids)
+        self.assertFalse(ids & {'#102', '#103'})
+        resolved = {b['id']: b for b in recon['casos_colacionados']}
+        self.assertEqual(set(resolved), {'#102', '#103'})
+        for case in resolved.values():
+            self.assertTrue(case['escopo'])
+            self.assertTrue(all((ROOT / p).is_file() for p in case['provas']))
 
     def test_verify_command(self):
         cn.cmd_verify()

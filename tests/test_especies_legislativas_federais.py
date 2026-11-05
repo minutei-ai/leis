@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / 'scripts'))
 sys.dont_write_bytecode = True
 import especies_legislativas_federais as lote  # noqa: E402
+import rcn_anexos_fontes_alternativas as rcn_alt  # noqa: E402
 import nucleo_licitacoes as nl  # noqa: E402
 
 PROVAS = ROOT / 'provas/especies-legislativas-federais'
@@ -252,16 +253,39 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                     'snapshot': self.fontes[slug]['snapshot'],
                     'senado_id': self.fontes[slug]['senado_id'],
                     'fonte_orgao': meta.get('fonte_orgao'),
+                    'corpo_legal_integral_pendente': meta.get('edicao_integral') is False,
+                    'remissoes_literais': meta.get('remissoes_literais'),
                 }
                 md2, _ = lote.build_markdown(item, html)
                 if self.fontes[slug].get('anexo_fonte_alternativa'):
                     _m2, body2 = nl.parse_frontmatter(md2)
                     _mp, body_pub = nl.parse_frontmatter(text)
+                    if (slug == 'br-federal-resolucao-congresso-nacional-2013-11-22-3'
+                            and meta.get('anexo_transcricao_tabela_visual')):
+                        self.assertIn(r'\<\<TABELA\>\>', body2)
+                        body2 = body2.replace(r'\<\<TABELA\>\>', '')
                     marker = '<!-- anexo-fonte-alternativa:inicio -->'
                     self.assertIn(marker, body_pub)
                     self.assertEqual(body2.rstrip(), body_pub.split(marker, 1)[0].rstrip())
                 else:
                     self.assertEqual(md2, text)
+
+    def test_remissoes_preexistentes_reclassificadas_sem_alterar_corpo_oficial(self):
+        ledger = json.loads((lote.PROVAS / 'textos-remetidos-pendentes.json').read_text(encoding='utf-8'))
+        partials = [x for x in ledger['itens']
+                    if x.get('estado') == 'publicado-corpo-parcial-remissao-explicita']
+        self.assertEqual(len(partials), 12)
+        for item in partials:
+            with self.subTest(slug=item['slug']):
+                text = (ROOT / item['arquivo_preexistente']).read_text(encoding='utf-8')
+                meta, body = nl.parse_frontmatter(text)
+                self.assertIs(meta['edicao_integral'], False)
+                self.assertTrue(meta['excluir_denominador_integra'])
+                self.assertTrue(meta['remissoes_literais'])
+                self.assertEqual(meta['sha256_markdown'], nl.sha256(body.encode('utf-8')))
+                self.assertEqual(item['sha256_markdown'], nl.sha256(body.encode('utf-8')))
+                self.assertEqual(item['bytes_markdown'], len(body.encode('utf-8')))
+                self.assertIn(item['remissoes_literais'][0], body)
 
     def test_limites_rcd_pos_1991_declarados(self):
         rcd = self.limites['RCD']
@@ -368,6 +392,193 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                 ))
 
 
+    def test_rcn_build_recarrega_tabela_visual_e_preserva_colunas(self):
+        import rcn_anexos_fontes_alternativas as rcn
+        slug = 'br-federal-resolucao-congresso-nacional-2013-11-22-3'
+        item = rcn.load_recovered_snapshots()['itens'][slug]
+        table = item['anexo_table_plain']
+        self.assertEqual(table, rcn.rcn3_table_markdown().strip())
+        self.assertNotEqual(table, item['anexo_plain'])
+        self.assertNotIn('→', table)
+        rows = [line for line in table.splitlines() if line.startswith('| ')]
+        self.assertTrue(all(len(line.split('|')[1:-1]) == 6 for line in rows))
+        capadr = next(line for line in rows if 'CAPADR' in line).split('|')
+        self.assertIn('Integração Nacional e Meio Ambiente', capadr[2])
+        self.assertNotIn('Ministério', capadr[2])
+        self.assertIn('Ministério do Desenvolvimento Agrário', capadr[3])
+        clp = next(line for line in rows if 'Legislação Participativa' in line).split('|')
+        self.assertEqual([x.strip() for x in clp[2:4]], ['', ''])
+        with patch.object(rcn, 'sha256', return_value='corrompido'):
+            with self.assertRaisesRegex(ValueError, 'hashes'):
+                rcn.load_recovered_snapshots()
+
+    def test_rcn_2013_anexo_usa_limites_e_colacao_visual_integral(self):
+        slug = 'br-federal-resolucao-congresso-nacional-2013-11-22-3'
+        evidencia = json.loads(
+            (PROVAS / 'anexos-rcn/recuperacao-fontes-alternativas.json').read_text(encoding='utf-8')
+        )['itens'][slug]
+        alt = evidencia['fonte_alternativa']
+        raw_pdf = lzma.decompress((ROOT / alt['snapshot']).read_bytes())
+        self.assertEqual(nl.sha256(raw_pdf), alt['sha256'])
+        self.assertEqual(alt['paginas_pdf_transcritas'], [1, 3])
+        self.assertEqual(len(alt['paginas_duplicadas_omitidas']), 1)
+        duplicate = alt['paginas_duplicadas_omitidas'][0]
+        self.assertEqual(duplicate['page_omitted'], 2)
+        self.assertEqual(duplicate['identical_to_page'], 1)
+        page1 = rcn_alt.pdftotext(raw_pdf, [1])
+        page2 = rcn_alt.pdftotext(raw_pdf, [2])
+        self.assertEqual(page1, page2, 'página omitida sem prova de repetição textual exata')
+        self.assertEqual(
+            duplicate['sha256_text_both_pages'],
+            nl.sha256(page1.encode('utf-8')),
+        )
+        representative = lzma.decompress(
+            (ROOT / duplicate['representative_snapshot']).read_bytes()
+        )
+        self.assertEqual(
+            nl.sha256(representative),
+            duplicate['sha256_visual_identical_render'],
+        )
+        self.assertEqual(
+            duplicate['sha256_visual_identical_render'],
+            '4fdec9d8e4af918d43f81cba46b64377c2a79ba8aff3acf8f62b4cc8efec1432',
+        )
+        selected = rcn_alt.pdftotext(raw_pdf, [1, 3])
+        extracted = rcn_alt.extract_pdf_piece(
+            selected,
+            'Faço saber que o Congresso Nacional aprovou, e eu, Renan Calheiros, Presidente do Senado',
+            r'\bTOTAL\s+121\s+121\s+242\b',
+        )
+        transcribed = lzma.decompress(
+            (ROOT / evidencia['transcricao']['snapshot']).read_bytes()
+        ).decode('utf-8')
+        self.assertEqual(transcribed, extracted)
+        self.assertEqual(nl.sha256(transcribed.encode('utf-8')), evidencia['transcricao']['sha256'])
+        for marker in (
+            'ANEXO I',
+            'ANEXO À RESOLUÇÃO DO CONGRESSO NACIONAL Nº 1, DE 2006-CN',
+            'Comissão', 'Área temática', 'Subárea Temática', 'Quantidade de emendas',
+            'CÂMARA DOS DEPUTADOS', 'SENADO FEDERAL',
+        ):
+            self.assertIn(marker, transcribed)
+        self.assertRegex(transcribed, r'CÂMARA DOS DEPUTADOS\s+76\s+76\s+152')
+        self.assertRegex(transcribed, r'SENADO FEDERAL\s+45\s+45\s+90')
+        self.assertRegex(transcribed, r'TOTAL\s+121\s+121\s+242')
+        for neighbor in ('Nº 47, DE 2013', 'PORTARIA N'):
+            self.assertNotIn(neighbor, transcribed)
+        self.assertEqual(transcribed.count('ANEXO I'), 1)
+        self.assertEqual(transcribed.count('TOTAL'), 1)
+
+        visual = evidencia['verificacao_visual_independente']
+        dou_pdf = lzma.decompress((ROOT / visual['snapshot_pdf']).read_bytes())
+        self.assertEqual(nl.sha256(dou_pdf), visual['sha256_pdf'])
+        self.assertEqual(visual['url'], 'https://www.gov.br/mme/pt-br/arquivos/do-25-11-2013-s1.pdf')
+        self.assertEqual(visual['pages_pdf'], [3, 4])
+        self.assertEqual(visual['pages_printed'], [3, 4])
+        self.assertEqual(
+            visual['authentication_codes'],
+            ['00012013112500003', '00012013112500004'],
+        )
+        self.assertEqual(len(visual['facsimiles']), 2)
+        for page in visual['facsimiles']:
+            image_bytes = lzma.decompress((ROOT / page['snapshot']).read_bytes())
+            self.assertEqual(nl.sha256(image_bytes), page['sha256'])
+        textdump = lzma.decompress((ROOT / visual['textdump_snapshot']).read_bytes())
+        self.assertEqual(nl.sha256(textdump), visual['textdump_sha256'])
+        self.assertIn(b'ANEXO I', textdump)
+        self.assertIn(b'TOTAL', textdump)
+
+        text = (ROOT / 'federal' / f'{slug}.md').read_text(encoding='utf-8')
+        meta, body = nl.parse_frontmatter(text)
+        self.assertEqual(meta['tabelas'], 1)
+        self.assertEqual(meta['anexos_no_corpo'], 1)
+        self.assertNotIn('<<TABELA>>', body)
+        annex_body = body.split('<!-- anexo-fonte-alternativa:fim -->', 1)[1]
+        table_proof = meta['anexo_transcricao_tabela_visual']
+        table_text = lzma.decompress((ROOT / table_proof['snapshot']).read_bytes()).decode('utf-8')
+        self.assertEqual(table_text, rcn_alt.rcn3_table_markdown().strip())
+        self.assertEqual(nl.sha256(table_text.encode('utf-8')), table_proof['sha256'])
+        self.assertEqual(
+            [(p['pagina_impressa'], p['snapshot'], p['sha256_png']) for p in table_proof['facsimiles']],
+            [(p['page_printed'], p['snapshot'], p['sha256']) for p in visual['facsimiles']],
+        )
+        self.assertEqual(len(table_proof['painéis_visuais']), 4)
+        self.assertIn('CAPADR', table_proof['painéis_visuais'][0]['conteudo'])
+        self.assertIn('CAINDR', table_proof['painéis_visuais'][1]['conteudo'])
+        self.assertIn('CCULT', table_proof['painéis_visuais'][2]['conteudo'])
+        self.assertIn('total geral', table_proof['painéis_visuais'][3]['conteudo'])
+        self.assertTrue(annex_body.rstrip().endswith(table_text))
+        self.assertNotIn('Faço saber que o Congresso Nacional aprovou', annex_body)
+        self.assertNotIn('Art. 1º O art. 26', annex_body)
+        self.assertNotIn('<<TABELA>>', annex_body)
+        commission_labels = [
+            line.split('|')[1].strip()
+            for line in table_text.splitlines()
+            if line.startswith('| ') and not line.startswith('| Comissão Permanente')
+            and not line.startswith('|---')
+        ]
+        self.assertEqual(commission_labels, [
+            'CÂMARA DOS DEPUTADOS',
+            'Mesa Diretora',
+            'Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR',
+            'Amazônia, Integração Nacional e Desenvolvimento Regional - CAINDR',
+            'Ciência e Tecnologia, Comunicação e Informática - CCTCI',
+            'Constituição e Justiça e de Cidadania - CCJC',
+            'Defesa do Consumidor - CDC',
+            'Desenvolvimento Econômico, Indústria e Comércio - CDEIC',
+            'Desenvolvimento Urbano - CDU',
+            'Direitos Humanos e Minorias - CDHM',
+            'Educação-CE',
+            'Cultura -CCULT',
+            'Finanças e Tributação- CFT',
+            'Fiscalização Financeira e Controle - CFFC',
+            'Legislação Participativa - CLP',
+            'Meio Ambiente e Desenvolvimento Sustentável - CMADS',
+            'Minas e Energia - CME',
+            'Relações Exteriores e de Defesa Nacional - CREDN',
+            'Segurança Pública e Combate ao Crime Organizado - CSPCCO',
+            'Seguridade Social e Família - CSSF',
+            'Trabalho, de Administração e Serviço Público - CTASP',
+            'Turismo e Desporto - CTD',
+            'Viação e Transporte - CVT',
+            'SENADO FEDERAL',
+            'Mesa Diretora',
+            'Agricultura e Reforma Agrária - CRA',
+            'Assuntos Econômicos - CAE',
+            'Assuntos Sociais -CAS',
+            'Ciência, Tecnologia, Inovação, Comunicação e Informática - CCT',
+            'Constituição, Justiça e Cidadania - CCJ',
+            'Desenvolvimento Regional e Turismo - CDR',
+            'Direitos Humanos e Legislação Participativa- CDH',
+            'Educação, Cultura e Esporte- CE',
+            'Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle - CMA',
+            'Relações Exteriores e Defesa Nacional - CRE',
+            'Serviços de Infraestrutura-CI',
+            'TOTAL',
+        ])
+        for exact in (
+            'Amazônia, Integração Nacional e Desenvolvimento Regional - CAINDR',
+            'Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural - CAPADR',
+            'Educação-CE',
+            'Cultura -CCULT',
+            'Trabalho, de Administração e Serviço Público - CTASP',
+            'Agricultura e Reforma Agrária - CRA',
+            'Serviços de Infraestrutura-CI',
+            '| CÂMARA DOS DEPUTADOS | | | 76 | 76 | 152 |',
+            '| SENADO FEDERAL | | | 45 | 45 | 90 |',
+            '| TOTAL | | | 121 | 121 | 242 |',
+        ):
+            self.assertIn(exact, table_text)
+        for invented in (
+            'Amazônia, Integração Nacional e de Desenvolvimento Regional',
+            'Educação e Cultura - CE',
+            'Serviços de Infraestrutura - CI',
+        ):
+            self.assertNotIn(invented, table_text)
+        self.assertNotIn('Nº 47, DE 2013', body)
+        self.assertNotIn('PORTARIA N', body)
+        self.assertEqual(meta['vigencia_certificada'], False)
+
     def test_rcn_anexos_recuperados_fontes_alternativas(self):
         """HTTP 200+PDF 0 bytes no Senado não prova peça inacessível em todas as fontes."""
         bloqueio = json.loads((PROVAS / 'bloqueio-anexos-rcn-pdf-vazio.json').read_text(encoding='utf-8'))
@@ -396,6 +607,31 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                 # Estado reconciliado
                 rec_item = next(i for i in rec['itens'] if i['slug'] == slug)
                 self.assertEqual(rec_item['estado_coleta'], 'publicado')
+
+
+class TestTextosAprovadosRemetidos(unittest.TestCase):
+    def test_remissao_explicita_bloqueia_integra_mesmo_sem_anx(self):
+        import especies_legislativas_federais as owner
+        html = ('<p>Art. 1º Fica aprovado o Acordo.</p><p>O texto do Acordo '
+                'acima citado está publicado no Diário do Senado Federal de '
+                '18 de março de 2025.</p>').encode()
+        item = {'utilizavel': True, 'anexos_senado': {'anexos': []}}
+        self.assertTrue(owner.block_external_normative_text(item, html))
+        self.assertFalse(item['utilizavel'])
+        self.assertEqual(item['estado_sugerido'], 'anexos-pendentes')
+        self.assertIn('18 de março de 2025', item['textos_remetidos'][0])
+
+    def test_aviso_de_publicacao_nao_e_texto_normativo_ausente(self):
+        import especies_legislativas_federais as owner
+        html = ('<p>Este texto não substitui o original publicado no Diário Oficial.</p>'
+                '<p>A aposentadoria foi publicada no Diário do Senado Federal.</p>').encode()
+        self.assertEqual(owner.external_normative_text_references(html), [])
+
+    def test_textos_multiplos_e_marcacao_inline(self):
+        import especies_legislativas_federais as owner
+        html = ('<p>Os textos do <b>Protocolo</b> e das Emendas estão publicados '
+                'no Diário do Senado Federal de 2 de dezembro de 2025.</p>').encode()
+        self.assertEqual(len(owner.external_normative_text_references(html)), 1)
 
 
 if __name__ == '__main__':
