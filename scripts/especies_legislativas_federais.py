@@ -816,8 +816,17 @@ def reusable_coleta(item: dict | None) -> bool:
         raw = lzma.decompress((ROOT / item['snapshot']).read_bytes())
     except (OSError, lzma.LZMAError, EOFError):
         return False
-    return (sha256(raw) == item['sha256_fonte']
-            and not external_normative_text_references(raw))
+    if sha256(raw) != item['sha256_fonte'] or external_normative_text_references(raw):
+        return False
+    annex_pdf = item.get('anexo_pdf_oficial')
+    if annex_pdf:
+        try:
+            annex_bytes = (ROOT / annex_pdf['arquivo']).read_bytes()
+        except OSError:
+            return False
+        if len(annex_bytes) != annex_pdf.get('bytes') or sha256(annex_bytes) != annex_pdf.get('sha256'):
+            return False
+    return True
 
 
 def save_coleta(resultados: dict) -> None:
@@ -1313,6 +1322,11 @@ def build_markdown(item: dict, html: bytes) -> tuple[str, dict]:
     corpo = (
         f"<!-- nota-edicao:inicio -->\n\n{nota}\n<!-- nota-edicao:fim -->\n\n{body.lstrip()}"
     )
+    # A Resolução Senado 13/2018 publica seu anexo essencial no Suplemento Único
+    # do DSF nº 86. O HTML Senado contém apenas os arts. 1º–3º; anexar a
+    # transcrição do PDF oficial preservado, com hash e fac-símiles conferidos.
+    import rsf_anexo_13_2018
+    corpo, anexo_pdf = rsf_anexo_13_2018.append_to_body(item['slug'], corpo)
     meta = {
         'id': item['slug'],
         'norma_id': item['slug'],
@@ -1346,6 +1360,9 @@ def build_markdown(item: dict, html: bytes) -> tuple[str, dict]:
         'manifesto': str(manifesto_path().relative_to(ROOT)),
         'contrato_versao': CONTRACT_VERSION,
     }
+    if anexo_pdf:
+        meta.update(anexo_pdf)
+        meta['fonte_conferencia'] = 'texto do ato e fac-símile oficial do anexo conferidos'
     if item.get('corpo_legal_integral_pendente'):
         meta.update({
             'edicao_integral': False,
@@ -1361,7 +1378,7 @@ def build_markdown(item: dict, html: bytes) -> tuple[str, dict]:
         re.match(spec['title_pattern'], re.sub(r'\s+', ' ', nl.md_plain(b, True)).strip(), re.I)
         for b in conv.blocks
     )
-    return fm + corpo, {
+    conversion_proof = {
         'slug': item['slug'],
         'fonte_fold_chars': len(src_fold),
         'markdown_fold_chars': len(nl.strip_fold(nl.md_text_all(corpo))),
@@ -1370,6 +1387,12 @@ def build_markdown(item: dict, html: bytes) -> tuple[str, dict]:
         'imagens': len(conv.images),
         'title_injected': not title_in_blocks,
     }
+    if anexo_pdf:
+        conversion_proof['anexo_pdf'] = anexo_pdf
+        conversion_proof['transcricao_prova'] = (
+            'provas/especies-legislativas-federais/anexos-rsf/rsf-2018-13/transcricao.json'
+        )
+    return fm + corpo, conversion_proof
 
 
 def build(tipos: list[str] | None = None) -> dict:
@@ -1451,6 +1474,15 @@ def build(tipos: list[str] | None = None) -> dict:
             'data': item['data'],
             'urn': item['urn'],
         }
+        if meta.get('anexo_pdf_sha256'):
+            fontes[slug]['anexo_pdf'] = {
+                key: meta[key] for key in (
+                    'anexo_pdf_url', 'anexo_pdf_sha256', 'anexo_pdf_bytes', 'anexo_pdf_capturado_em',
+                    'anexo_pdf_snapshot', 'anexo_pdf_paginas',
+                    'anexo_pdf_paginas_transcritas', 'anexo_pdf_publicacao_id',
+                    'anexo_transcricao_sha256', 'anexo_facsimiles_tabulares_pdf',
+                )
+            }
         manifesto['documentos'].append({
             'id': slug,
             'arquivo': str(path.relative_to(ROOT)),
@@ -1540,6 +1572,8 @@ def build(tipos: list[str] | None = None) -> dict:
 
 
 def verify() -> None:
+    import rsf_anexo_13_2018
+    rsf_proof = rsf_anexo_13_2018.verify()
     meta = json.loads(catalog_meta_path().read_text(encoding='utf-8'))
     for tipo, info in meta['especies'].items():
         raw = lzma.decompress((ROOT / info['snapshot']).read_bytes())
@@ -1567,6 +1601,13 @@ def verify() -> None:
         assert meta_fm['sha256_markdown'] == sha256(body.encode('utf-8')), slug
         assert meta_fm['vigencia_certificada'] is False
         assert meta_fm['especie_codigo_senado'] in SPECIES
+        if slug == rsf_anexo_13_2018.SLUG:
+            annex_source = fontes[slug]['anexo_pdf']
+            assert annex_source['anexo_pdf_sha256'] == rsf_proof['fonte_pdf']['sha256']
+            assert annex_source['anexo_transcricao_sha256'] == rsf_proof['transcricao']['sha256']
+            assert meta_fm['edicao_integral'] is True
+            assert meta_fm['anexo_pdf_url'] == rsf_anexo_13_2018.PDF_URL
+            assert meta_fm['anexo_pdf_snapshot'] == str(rsf_anexo_13_2018.PDF_PATH.relative_to(ROOT))
         html = lzma.decompress((ROOT / fontes[slug]['snapshot']).read_bytes())
         assert sha256(html) == fontes[slug]['sha256'], slug
         reject = html_rejection_reason(html)

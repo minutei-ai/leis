@@ -23796,5 +23796,40 @@
     "numero": "216",
     "data": "2025-11-04",
     "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;216"
+  },
+  "br-federal-resolucao-senado-federal-2018-06-25-13": {
+    "url": "https://legis.senado.leg.br/norma/27410175/publicacao/27410291",
+    "capturado_em": "2026-11-05T11:22:07Z",
+    "sha256": "a502a5462c709a50074b6ea78fa42d5a4b18829d35079575215df69488544295",
+    "sha256_snapshot_armazenado": "893006a4faf2f2164e72a287e4d1e1049130839a98642dfc7dab1ce8f761aded",
+    "bytes": 8177,
+    "snapshot": "provas/especies-legislativas-federais/coletas/br-federal-resolucao-senado-federal-2018-06-25-13.html.xz",
+    "origem": "senado-publicacao-html",
+    "senado_id": "27410175",
+    "tipo": "RSF",
+    "charset": "utf-8",
+    "ementa": "Consolida e ratifica as alterações promovidas na estrutura administrativa do Senado Federal.",
+    "normaNome": "Resolução do Senado Federal nº 13 de 25/06/2018",
+    "numero": "13",
+    "data": "2018-06-25",
+    "urn": "urn:lex:br:senado.federal:resolucao:2018-06-25;13",
+    "anexo_pdf": {
+      "anexo_pdf_url": "https://legis.senado.leg.br/norma/27410175/publicacao/27411313",
+      "anexo_pdf_sha256": "9d71bc6e759d122452e4b9988cd889ff391e90ea5b682ff7acdd7a7716acdb7e",
+      "anexo_pdf_bytes": 33178282,
+      "anexo_pdf_capturado_em": "2026-11-05T12:51:16Z",
+      "anexo_pdf_snapshot": "provas/especies-legislativas-federais/anexos-rsf/rsf-2018-13/rsf13-dsf-suplemento-86.pdf",
+      "anexo_pdf_paginas": 261,
+      "anexo_pdf_paginas_transcritas": [
+        1,
+        261
+      ],
+      "anexo_pdf_publicacao_id": "27411313",
+      "anexo_transcricao_sha256": "a3a3a77315d39b44a18b296bc25c34ed89684bad7423f25989f4a70e692af849",
+      "anexo_facsimiles_tabulares_pdf": [
+        176,
+        214
+      ]
+    }
   }
 }

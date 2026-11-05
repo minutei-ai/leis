@@ -6,7 +6,7 @@
     89,
     94
   ],
-  "gerado_em": "2026-11-05T13:43:06Z",
+  "gerado_em": "2026-11-05T15:44:55Z",
   "documentos": [
     {
       "id": "br-federal-decreto-legislativo-2026-09-16-433",
@@ -20863,6 +20863,21 @@
       "fonte": "br-federal-decreto-legislativo-2025-11-04-216",
       "sha256_fonte": "35291cc0dfdc31c67f8ddb03ce9452723460dac2af5471f46b58590fe3075131",
       "sha256_markdown": "0f877e9b74120b6eaf8920285ef3bd6fa2d9f127f2abe3cf1e71776fff55b06c"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-06-25-13",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-06-25-13.md",
+      "tipo": "RSF",
+      "senado_id": "27410175",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-06-25;13",
+      "norma": {
+        "numero": "13",
+        "data": "2018-06-25",
+        "titulo": "Resolução do Senado Federal nº 13 de 25/06/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-06-25-13",
+      "sha256_fonte": "a502a5462c709a50074b6ea78fa42d5a4b18829d35079575215df69488544295",
+      "sha256_markdown": "f070fefcda5cb94f72899454327bbdc498caa2e4f25065f8a0e5c11f120d42d4"
     }
   ]
 }

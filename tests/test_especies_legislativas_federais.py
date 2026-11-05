@@ -17,6 +17,7 @@ sys.dont_write_bytecode = True
 import especies_legislativas_federais as lote  # noqa: E402
 import rcn_anexos_fontes_alternativas as rcn_alt  # noqa: E402
 import nucleo_licitacoes as nl  # noqa: E402
+import rsf_anexo_13_2018 as rsf_13_2018  # noqa: E402
 
 PROVAS = ROOT / 'provas/especies-legislativas-federais'
 
@@ -78,6 +79,28 @@ class TestColetaRetomavel(unittest.TestCase):
         self.assertFalse(lote.reusable_coleta(item))
         snapshot.unlink()
         self.assertFalse(lote.reusable_coleta(item))
+
+    def test_resume_requires_matching_recovered_official_rsf_annex(self):
+        raw = b'<html>official source</html>'
+        html = self.root / 'source.html.xz'
+        html.write_bytes(lzma.compress(raw))
+        pdf = b'official attached annex'
+        annex_path = self.root / 'annex.pdf'
+        annex_path.write_bytes(pdf)
+        item = {
+            'utilizavel': True, 'snapshot': html.name,
+            'sha256_fonte': hashlib.sha256(raw).hexdigest(),
+            'anexo_pdf_oficial': {
+                'arquivo': annex_path.name, 'bytes': len(pdf),
+                'sha256': hashlib.sha256(pdf).hexdigest(),
+            },
+        }
+        with patch.object(lote, 'ROOT', self.root):
+            self.assertTrue(lote.reusable_coleta(item))
+            annex_path.write_bytes(b'changed annex')
+            self.assertFalse(lote.reusable_coleta(item))
+            annex_path.unlink()
+            self.assertFalse(lote.reusable_coleta(item))
 
     def test_failed_annex_inspection_cannot_publish_html_as_integral(self):
         with patch.object(lote, 'normas_payload', return_value=({}, 'https://example.test/dados', b'{}')), \
@@ -206,6 +229,78 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                         self.assertIsNone(item['caminho_publicado'])
                 self.assertEqual(len(slugs), rec['catalogo_registros'])
                 self.assertEqual(rec['publicados'], sum(1 for i in rec['itens'] if i['estado_coleta'] == 'publicado'))
+
+    def test_rsf_categorias_compartilhadas_preservam_especialidades(self):
+        import rsf_anexo_13_2018 as annex
+        text = annex.MARKDOWN_PATH.read_text(encoding='utf-8')
+        rows = annex.effective_posts_rows(text)
+        self.assertIn(('Nível III Analista Legislativo', 'Administração', '235'), rows)
+        self.assertIn(('Nível III Analista Legislativo', 'Registro e Redação Parlamentar', '90'), rows)
+        self.assertIn(('Nível III Analista Legislativo', 'Tradução e Interpretação', '6'), rows)
+        self.assertIn(('Nível II Técnico Legislativo', 'Administração', '360'), rows)
+        self.assertIn(('Nível II Técnico Legislativo', 'Policial Legislativo Federal', '360'), rows)
+        self.assertIn(('Nível I Auxiliar Legislativo (2)', 'Segurança', '1'), rows)
+        self.assertEqual(sum('Analista Legislativo' in row[0] for row in rows), 24)
+        self.assertEqual(sum('Técnico Legislativo' in row[0] for row in rows), 13)
+
+    def test_rsf_setor_continua_entre_paginas_sem_criar_cargo(self):
+        import rsf_anexo_13_2018 as annex
+        text = annex.MARKDOWN_PATH.read_text(encoding='utf-8')
+        self.assertIn('| CHEFE DE SERVIÇO | SERVIÇO DE AUDITORIA DE OPERAÇÕES DE<br>TECNOLOGIA DA INFORMAÇÃO | FC-2 | 1 |', text)
+        self.assertNotIn('|  | TECNOLOGIA DA INFORMAÇÃO |  |  |', text)
+        self.assertEqual(text.count('<!-- PDF p. 207;'), 1)
+        self.assertIn('| CHEFE DE GABINETE |  | FC-3 | 1 |', text)
+
+    def test_rsf_13_2018_publica_anexo_integral_com_tabelas_visualmente_conferidas(self):
+        slug = rsf_13_2018.SLUG
+        evidence = rsf_13_2018.verify()
+        self.assertEqual(evidence['fonte_pdf']['sha256'], rsf_13_2018.PDF_SHA256)
+        self.assertEqual(evidence['fonte_pdf']['paginas_pdf'], 261)
+        self.assertEqual(evidence['paginas_transcritas_pdf'], list(range(1, 262)))
+        self.assertEqual(evidence['facsimiles_tabelas_pdf'], list(range(176, 215)))
+        self.assertEqual(len(evidence['facsimiles']), 39)
+        self.assertEqual(evidence['contagem_extracao']['linhas_de_tabela_incluindo_cabecalhos'], 790)
+        self.assertEqual(evidence['contagem_extracao']['palavras_tabelares'], 6814)
+        self.assertEqual(evidence['contagem_extracao']['palavras_bbox_que_cruzam_limite_vertical'], 0)
+
+        path = ROOT / 'federal' / f'{slug}.md'
+        text = path.read_text(encoding='utf-8')
+        meta, body = nl.parse_frontmatter(text)
+        self.assertEqual(meta['senado_id'], '27410175')
+        self.assertTrue(meta['edicao_integral'])
+        self.assertIs(meta['vigencia_certificada'], False)
+        self.assertEqual(meta['anexo_pdf_sha256'], rsf_13_2018.PDF_SHA256)
+        self.assertEqual(meta['anexo_pdf_url'], rsf_13_2018.PDF_URL)
+        self.assertEqual(meta['anexo_pdf_publicacao_id'], '27411313')
+        self.assertEqual(meta['anexo_pdf_paginas'], 261)
+        self.assertEqual(self.fontes[slug]['anexo_pdf']['anexo_pdf_sha256'], rsf_13_2018.PDF_SHA256)
+        capture = lote.load_coleta()['itens'][slug]
+        self.assertTrue(capture['utilizavel'])
+        self.assertEqual(capture['anexo_pdf_oficial']['sha256'], rsf_13_2018.PDF_SHA256)
+        transcript = (ROOT / evidence['transcricao']['arquivo']).read_text(encoding='utf-8').strip()
+        self.assertIn(transcript, body)
+        self.assertEqual(meta['sha256_markdown'], nl.sha256(body.encode('utf-8')))
+
+        pages = [int(p) for p in re.findall(r'<!-- PDF p\. (\d+);', transcript)]
+        self.assertEqual(pages, list(range(1, 262)))
+        for annex in ('I', 'II', 'III', 'IV', 'V', 'VI'):
+            self.assertRegex(transcript, re.compile(rf'(?m)^### ANEXO {annex}$'))
+        self.assertIn('Art. 1º O Regulamento Administrativo do Senado Federal', body)
+        self.assertIn('Art. 3º Esta Resolução entra em vigor no primeiro dia útil', body)
+
+        # Literal cells and spans compared against the official PDF facsimiles.
+        self.assertIn('| CARGO EM COMISSÃO | SÍMBOLO | Nº |', transcript)
+        self.assertIn('| CHEFE DE GABINETE |  | FC-3 | 1 |', transcript)
+        self.assertIn('| CHEFE DE SERVIÇO | SERVIÇO DE CONTROLE DE QUALIDADE E<br>ESPECIFICAÇÕES DE MATERIAIS E BENS ESPECIAIS | FC-2 | 1 |', transcript)
+        self.assertIn('| APSF-8 | AP-12 | 75% do SF-02 |', transcript)
+        self.assertIn('<th colspan="2">Senado Federal</th>', transcript)
+        self.assertIn('<th colspan="4">CARGOS EM COMISSÃO</th><th>FUNÇÃO<br>COMISSIONADA</th>', transcript)
+        self.assertNotIn('| Célula 1 |', transcript)
+        self.assertNotIn('### 1 – Acidente pessoal', transcript)
+
+        record = next(item for item in self.recs['RSF']['itens'] if item['slug'] == slug)
+        self.assertEqual(record['estado_coleta'], 'publicado')
+        self.assertEqual(record['caminho_publicado'], f'federal/{slug}.md')
 
     def test_especies_nao_se_confundem(self):
         tipos = {doc['tipo'] for doc in self.manifesto['documentos']}
