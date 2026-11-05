@@ -26,4 +26,5 @@ jobs:
           "$RUNNER_TEMP/venv/bin/python" scripts/cobertura_nacional.py generate
           "$RUNNER_TEMP/venv/bin/python" scripts/cobertura_nacional.py verify
       - name: Todos os testes dos lotes integrados
-        run: "$RUNNER_TEMP/venv/bin/python" -m unittest discover -s tests -v
+        run: |
+          "$RUNNER_TEMP/venv/bin/python" -m unittest discover -s tests -v
